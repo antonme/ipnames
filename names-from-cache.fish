@@ -20,12 +20,17 @@ function resolve
   end| sort -u| sort -h 
 end
 
-echo "==extracting names"
+echo "==Saving current cache"
+sudo unbound-control dump_cache > cache-current.txt
+
+
+echo
+echo "==Extracting names"
 echo "===Google"
-#cat cache*.txt|filter_names 'google\.com|\.google\.$|googlesyndication|googleapis\.com|gstatic\.com|googleusercontent\.com'| egrep -v 'yt|you' >dns-google.txt
+cat cache*.txt|filter_names 'google\.com|\.google\.$|googlesyndication|googleapis\.com|gstatic\.com|googleusercontent\.com'| egrep -v 'yt|you' >dns-google.txt
 
 echo "===YouTube"
-#cat cache*.txt|filter_names 'google\.com|\.google\.$|googlesyndication|googleapis\.com|gstatic\.com|googleusercontent\.com'| egrep 'yt|you' >dns-youtube.txt
+cat cache*.txt|filter_names 'google\.com|\.google\.$|googlesyndication|googleapis\.com|gstatic\.com|googleusercontent\.com'| egrep 'yt|you' >dns-youtube.txt
 
 echo "===Facebook"
 cat cache*.txt|filter_names "fbcdn|instag|faceb|b00c" >dns-facebook.txt
@@ -46,4 +51,8 @@ for name in dns-*.txt
 	   set new_name "resolve-"$name_array[2]
        echo $name"  >"$new_name
 	   resolve $name >$new_name
-   end
+end
+
+echo "== Save names archive"
+cat dns-*.txt| sort -u| sort -h > cache-archive.txt
+
