@@ -3,7 +3,7 @@
 #set -g fish_trace 1
 
 function filter_names 
-  grep -E $argv | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|grep '\.'|grep -v '\.arpa'|sort -u
+  cat cache*.txt list-*.txt| grep -E $argv | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|grep '\.'|grep -v '\.arpa'|sort -u
 end
 
 function resolve
@@ -27,22 +27,22 @@ sudo unbound-control dump_cache > cache-current.txt
 echo
 echo "==Extracting names"
 echo "===Google"
-cat cache*.txt|filter_names 'google\.com|\.google\.$|googlesyndication|googleapis\.com|gstatic\.com|googleusercontent\.com'| egrep -v 'yt|you' >dns-google.txt
+filter_names 'google\.com|\.google\.$|googlesyndication|googleapis\.com|gstatic\.com|googleusercontent\.com'| egrep -v 'yt|you' >dns-google.txt
 
 echo "===YouTube"
-cat cache*.txt|filter_names 'google\.com|\.google\.$|googlesyndication|googleapis\.com|gstatic\.com|googleusercontent\.com'| egrep 'yt|you' >dns-youtube.txt
+filter_names 'google\.com|\.google\.$|googlesyndication|googleapis\.com|gstatic\.com|googleusercontent\.com'| egrep 'yt|you' >dns-youtube.txt
 
 echo "===Facebook"
-cat cache*.txt|filter_names "fbcdn|instag|faceb|b00c" >dns-facebook.txt
+filter_names "fbcdn|instag|faceb|b00c" >dns-facebook.txt
 
 echo "===Tiktok"
-cat cache*.txt|filter_names "tiktok|tiqcdn|bytesover|bytedance|byted\.org|bytegecko" >dns-tiktok.txt
+filter_names "tiktok|tiqcdn|bytesover|bytedance|byted\.org|bytegecko|hypstarcdn|pstatp" >dns-tiktok.txt
 
 echo "===OpenAI"
-cat cache*.txt|filter_names "openai" >dns-openai.txt
+filter_names "openai" >dns-openai.txt
 
 echo "===Bing"
-cat cache*.txt|filter_names "bing\.|bingapis|bingforbusiness|bi.ng|cortana|bing-int|microsoft|msft"|grep -E "bin|cortana" >dns-bing.txt
+filter_names "bing\.|bingapis|bingforbusiness|bi.ng|cortana|bing-int|microsoft|msft"|grep -E "bin|cortana" >dns-bing.txt
 
 echo
 echo "== Save names archive"
