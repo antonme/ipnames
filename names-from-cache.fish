@@ -45,6 +45,10 @@ echo "===Bing"
 cat cache*.txt|filter_names "bing\.|bingapis|bingforbusiness|bi.ng|cortana|bing-int|microsoft|msft"|grep -E "bin|cortana" >dns-bing.txt
 
 echo
+echo "== Save names archive"
+cat dns-*.txt| sort -u| sort -h > cache-archive.txt
+
+echo
 echo "== Resolving names"
 for name in dns-*.txt
        set name_array (string split '-' $name)
@@ -53,6 +57,4 @@ for name in dns-*.txt
 	   resolve $name >$new_name
 end
 
-echo "== Save names archive"
-cat dns-*.txt| sort -u| sort -h > cache-archive.txt
 
