@@ -40,9 +40,13 @@ else
   set concur 40
 end
 
+set names (ls "$prefixer"dns-*.txt)
 
+if test $argv[2]
+  set names "$prefixer"dns-$argv[2].txt
+end
 
-for name in "$prefixer"dns-*.txt
+for name in $names
 	set name_array (string split '-' $name)
 	if test -z $prefixer
   	  set new_name "resolve-"$name_array[2]
