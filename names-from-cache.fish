@@ -35,6 +35,8 @@ end
 echo "==Saving current cache"
 sudo unbound-control dump_cache > cache-current.txt
 
+echo "==Saving current cache from home.setia"
+ssh root@home unbound-control dump_cache > cache-current-setia.txt
 
 echo
 echo "==Extracting names"
