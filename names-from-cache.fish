@@ -48,7 +48,9 @@ filter_names "\.tiktok|tiktokv|(\.|-)tt|ttlive|bytefcdn|worldfcdn|bytetcdn|byte.
 filter_names "openai\." 'openai'
 filter_names "(^|\.)bing(\.)|bingads|bingapis|bingforbusiness|bi.ng|cortana|bing-int|microsoft|msft" 'bing' '' "bin|cortana"
 filter_names 'twitter|twtt|twimg|twtr|(\.|^)t\.co$|twitpic|(^|\.)x\.com|tweet|periscope|pscp\.tv' 'twitter'
-
+filter_names '(\.|-|^)ozon(\.|-)|ozonuser' 'ozon'
+filter_names 'githubuser|(^|\.|-)github(\.|-)(com|io)' 'github'
+filter_names '(\.|-)apple\.com|\.me\.com|\.mac\.com|(\.|-)aapl(\.|-)|\.icloud\.com|cdn-apple\.com|\.itunes\.com|appleschoolcontent|apple-mapkit\.com|axm-usercontent-apple.com|\.mzstatic.com|apple-cloudkit.com|icloud-content|\.apzones\.com|apple-livephotoskit|apple-cloudkit' 'apple'
 
 echo
 echo "== Save names archive"
