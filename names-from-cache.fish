@@ -36,7 +36,7 @@ echo "==Saving current cache"
 sudo unbound-control dump_cache > cache-current.txt
 
 echo "==Saving current cache from home.setia"
-ssh root@home unbound-control dump_cache > cache-current-setia.txt
+ssh root@192.168.1.20 unbound-control dump_cache > cache-current-setia.txt
 
 echo
 echo "==Extracting names"
@@ -47,6 +47,8 @@ filter_names "fbcdn|instag|\.facebook\.|b00c" 'facebook'
 filter_names "\.tiktok|tiktokv|(\.|-)tt|ttlive|bytefcdn|worldfcdn|bytetcdn|byte.cdn|ovscdns|pitaya|ttlive|bytefcdn|overseas|ovscdns|pitaya|worldfcdn|byte.cdn|bytedance|-webcast-|tiqcdn|ttcdn|ttwstatic|ttoversea|sgsnssdk|byteimg|ibyteimg|musical\.ly|isnssdk|ibyteimg|cdn\.concert\.io|anitm.xyz|2to2.top|bitssec|bytedapm|-oversea|goofy-cdn|byteglb|byteoversea|bytesover|ibytedtos|bytedance|byted\.org|bytegecko|hypstarcdn|pstatp" 'tiktok' 'ttddnnss'
 filter_names "openai\." 'openai'
 filter_names "(^|\.)bing(\.)|bingads|bingapis|bingforbusiness|bi.ng|cortana|bing-int|microsoft|msft" 'bing' '' "bin|cortana"
+filter_names 'twitter|twtt|twimg|twtr|(\.|^)t\.co$|twitpic|(^|\.)x\.com|tweet|periscope|pscp\.tv' 'twitter'
+
 
 echo
 echo "== Save names archive"
