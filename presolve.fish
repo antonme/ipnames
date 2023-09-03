@@ -27,7 +27,7 @@ end
 
 
 set prefixer ''
-set concur 8
+set concur 16
 echo
 
 if not contains -- '-ext' $argv
@@ -37,7 +37,7 @@ else
   echo "== Resolving external names"
   set prefixer 'ext-'
   set servers "servers-ext.txt"
-  set concur 40
+  set concur 80
 end
 
 set names (ls "$prefixer"dns-*.txt)

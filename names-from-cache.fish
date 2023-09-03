@@ -13,8 +13,8 @@ function filter_names -a filter name antifilter forcedfilter
 	#echo "name:"$name
 	#echo "antifilter:"$antifilter
 	#echo "forcedfilter:"$forcedfilter
-  cat cache*.txt| grep -E $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|grep '\.'|grep -v '\.arpa'|grep -v 'porn'| egrep -v $antifilter| egrep $forcedfilter| sort -u >dns-$name.txt
-  cat list-*.txt| grep -E $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|grep '\.'|grep -v '\.arpa'|grep -v 'porn'| egrep -v $antifilter| egrep $forcedfilter|sort -u >ext-dns-$name.txt
+  cat cache*.txt| grep -E $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|grep '\.'|grep -v '\.arpa'| egrep -v $antifilter| egrep $forcedfilter| sort -u >dns-$name.txt
+  cat list-*.txt| grep -E $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|grep '\.'|grep -v '\.arpa'| egrep -v $antifilter| egrep $forcedfilter|sort -u >ext-dns-$name.txt
   grep -Fvxf dns-$name.txt ext-dns-$name.txt > temp.txt && mv temp.txt ext-dns-$name.txt
 end
 
@@ -49,9 +49,10 @@ filter_names "openai\." 'openai'
 filter_names "(^|\.)bing(\.)|bingads|bingapis|bingforbusiness|bi.ng|cortana|bing-int|microsoft|msft" 'bing' '' "bin|cortana"
 filter_names 'twitter|twtt|twimg|twtr|(\.|^)t\.co$|twitpic|(^|\.)x\.com|tweet|periscope|pscp\.tv' 'twitter'
 filter_names '(\.|-|^)ozon(\.|-)|ozonuser' 'ozon'
-filter_names 'githubuser|(^|\.|-)github(\.|-)(com|io)' 'github'
+filter_names 'githubuser|(^|\.|-)github(\.|-)com|^github\.io' 'github'
 filter_names '(\.|-)apple\.com|\.me\.com|\.mac\.com|(\.|-)aapl(\.|-)|\.icloud\.com|cdn-apple\.com|\.itunes\.com|appleschoolcontent|apple-mapkit\.com|axm-usercontent-apple.com|\.mzstatic.com|apple-cloudkit.com|icloud-content|\.apzones\.com|apple-livephotoskit|apple-cloudkit' 'apple'
-
+filter_names '\.adobe|behance\.net|\.ftcdn\.|typekit\.com|typekit\.net|astockcdn|photoshop\.com|frame\.io|acrobat\.com|businesscatalyst.com|phonegap.com|prosite.com|myportfolio.com' 'adobe'
+filter_names '(\.)pornhub(\.)|phncdn\.com' 'pornhub'
 echo
 echo "== Save names archive"
 cat dns-*.txt| sort -u| sort -h > cache-archive.txt
