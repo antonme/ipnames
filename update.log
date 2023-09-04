@@ -1,0 +1,57 @@
+
+
+
+--------------------------------------------------------------------------------
+Tue Sep  5 01:08:01 MSK 2023
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+
+== Save names archive
+
+== Resolving names
+Tue Sep  5 01:08:03 MSK 2023                dns-adobe.txt  >resolve-adobe.txt
+Tue Sep  5 01:08:36 MSK 2023                dns-apple.txt  >resolve-apple.txt
+Tue Sep  5 01:11:48 MSK 2023                dns-bing.txt  >resolve-bing.txt
+Tue Sep  5 01:12:04 MSK 2023                dns-facebook.txt  >resolve-facebook.txt
+Tue Sep  5 01:12:58 MSK 2023                dns-github.txt  >resolve-github.txt
+Tue Sep  5 01:13:06 MSK 2023                dns-google.txt  >resolve-google.txt
+Tue Sep  5 01:14:21 MSK 2023                dns-openai.txt  >resolve-openai.txt
+Tue Sep  5 01:14:24 MSK 2023                dns-ozon.txt  >resolve-ozon.txt
+Tue Sep  5 01:14:30 MSK 2023                dns-pornhub.txt  >resolve-pornhub.txt
+Tue Sep  5 01:14:40 MSK 2023                dns-tiktok.txt  >resolve-tiktok.txt
+Tue Sep  5 01:16:00 MSK 2023                dns-twitter.txt  >resolve-twitter.txt
+Tue Sep  5 01:16:31 MSK 2023                dns-youtube.txt  >resolve-youtube.txt
+
+== Resolving external names
+Tue Sep  5 01:16:36 MSK 2023                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Tue Sep  5 01:17:48 MSK 2023                ext-dns-apple.txt  >ext-resolve-apple.txt
+Tue Sep  5 01:18:11 MSK 2023                ext-dns-bing.txt  >ext-resolve-bing.txt
+Tue Sep  5 01:18:15 MSK 2023                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Tue Sep  5 01:23:21 MSK 2023                ext-dns-github.txt  >ext-resolve-github.txt
+Tue Sep  5 01:23:23 MSK 2023                ext-dns-google.txt  >ext-resolve-google.txt
+Tue Sep  5 01:25:58 MSK 2023                ext-dns-openai.txt  >ext-resolve-openai.txt
+Tue Sep  5 01:26:00 MSK 2023                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Tue Sep  5 01:26:01 MSK 2023                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Tue Sep  5 01:26:02 MSK 2023                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Tue Sep  5 01:28:09 MSK 2023                ext-dns-twitter.txt  >ext-resolve-twitter.txt
+Tue Sep  5 01:29:21 MSK 2023                ext-dns-youtube.txt  >ext-resolve-youtube.txt
+[master 5a84818] auto-update
+ 43 files changed, 7786 insertions(+), 12792 deletions(-)
