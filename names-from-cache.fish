@@ -13,8 +13,8 @@ function filter_names -a filter name antifilter forcedfilter
 	#echo "name:"$name
 	#echo "antifilter:"$antifilter
 	#echo "forcedfilter:"$forcedfilter
-  cat cache*.txt| grep -E $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|grep '\.'|grep -v '\.arpa'| egrep -v $antifilter| egrep $forcedfilter| sort -u >dns-$name.txt
-  cat list-*.txt| grep -E $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|grep '\.'|grep -v '\.arpa'| egrep -v $antifilter| egrep $forcedfilter|sort -u >ext-dns-$name.txt
+  cat cache*.txt| grep -E $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|grep '\.'|grep -v '\.arpa'| grep -Ev $antifilter| grep -E $forcedfilter| sort -u >dns-$name.txt
+  cat list-*.txt| grep -E $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|grep '\.'|grep -v '\.arpa'| grep -Ev $antifilter| grep -E $forcedfilter|sort -u >ext-dns-$name.txt
   grep -Fvxf dns-$name.txt ext-dns-$name.txt > temp.txt && mv temp.txt ext-dns-$name.txt
 end
 
@@ -33,10 +33,10 @@ function resolve -a namesarg resolvers
 end
 
 echo "==Saving current cache"
-sudo unbound-control dump_cache > cache-current.txt
+unbound-control dump_cache > cache-current.txt
 
 echo "==Saving current cache from home.setia"
-ssh root@192.168.1.20 unbound-control dump_cache > cache-current-setia.txt
+unbound-control -s 192.168.88.88 -c dns/unbound.conf dump_cache > cache-current-setia.txt
 
 echo
 echo "==Extracting names"
