@@ -1,3 +1,6 @@
+echo Beginning ipnames update.
+date
+
 cd /home/anton/dev/ipnames
 
 fish names-from-cache.fish
