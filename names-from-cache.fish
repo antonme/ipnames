@@ -32,12 +32,11 @@ function resolve -a namesarg resolvers
   end| sort -u| sort -h 
 end
 
-echo "==Saving current cache"
+echo "==Saving current cache @dns"
 unbound-control dump_cache > cache-current.txt
 
-echo "==Saving current cache from home.setia"
-unbound-control -s 192.168.88.88 -c dns/unbound.conf dump_cache > cache-current-setia.txt
-
+echo "==Saving current cache @home.setia"
+unbound-control -s 192.168.1.20 -c keys/home/unbound.conf dump_cache > cache-current-setia.txt
 echo
 echo "==Extracting names"
 
