@@ -274,6 +274,7 @@ cc-cdn.adobe.com.edgekey.net
 ccext-static.adobecces.com
 cclibraries-defaults-cdn.adobe.com.edgekey.net
 cdn1d-static-shared.phncdn.com
+cdn1.ozonusercontent.com
 cdn1-smallimg.phncdn.com
 cdn.adobeaemcloud.com
 cdn.apple-cloudkit.com
@@ -298,6 +299,7 @@ cds-cdn.v.aaplimg.com
 ce.apple-dns.net
 certs.apple.com
 certs.apple.com.edgesuite.net
+certs.g.aaplimg.com
 certs-lb.apple.com.akadns.net
 certs-us-lb.apple.com.akadns.net
 cf.iadsdk.apple.com
@@ -475,7 +477,9 @@ fallback.c10r.instagram.com
 fbcdn.net
 fb.com
 fblite-p1.c10r.facebook.com
+fb.me
 fbsbx.com
+fbs.smoot.apple.com
 fe.apple-dns.net
 feedbackws.icloud.com
 feedburner.com
@@ -610,6 +614,7 @@ iadsdk.apple.com.edgekey.net
 ibook.info
 ibytedtos.com
 ibyteimg.com
+icloud.com
 icloud-content.com
 identity.ess.apple.com
 identity.ess-apple.com.akadns.net
@@ -755,7 +760,6 @@ mesu.apple.com
 mesu.apple.com.edgekey.net
 mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
-mesu.g.aaplimg.com
 metrics-config.icloud.com
 metrics.icloud.com
 m.facebook.com
@@ -769,7 +773,6 @@ mon.tiktokv.com
 mon.tiktokv.com.edgesuite.net
 mon.tiktokv.com.ttdns2.com
 mon.us.tiktokv.com
-mqtt.2030.ltsapis.goog
 mqtt.c10r.facebook.com
 mqtt-mini.c10r.facebook.com
 mqtt-mini.facebook.com
@@ -852,10 +855,13 @@ oauthaccountmanager.googleapis.com
 objects.githubusercontent.com
 ocsp2.apple.com
 ocsp2.apple.com.edgekey.net
+ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
+ocsp-us-lb.apple.com.akadns.net
 oculuscdn.com
 oculus.com
 odin.adobe.com
@@ -869,6 +875,7 @@ optimizationguide-pa.googleapis.com
 origin-apple.com.akadns.net
 osxapps.itunes.apple.com
 ovscdns.net
+OZONE.ru
 ozon.ru
 ozonusercontent.com
 p04-fmip.icloud.com
@@ -981,6 +988,7 @@ pagead2.googlesyndication.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 partiality.itunes.apple.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com.edgekey.net
@@ -1140,7 +1148,6 @@ sf16-va.tiktokcdn.com.edgesuite.net
 sf16-website-login.neutral.ttwstatic.com
 sf16-website-login.neutral.ttwstatic.com.edgesuite.net
 sf-api-token-service.itunes.apple.com.edgekey.net
-sf-bay.org
 sgali1.ws.byteoversea.net
 shazam-insights.cdn-apple.com
 shazam-insights-lb.apple.com.akadns.net
@@ -1149,7 +1156,6 @@ silverbullet-external-ats.itunes.apple.com
 silverbullet-external-ats.itunes-apple.com.akadns.net
 siri.apple.com
 smallimg.phncdn.com
-smartmailcloud.com
 smoot.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
@@ -1217,7 +1223,6 @@ swscan.apple.com
 swscan-cdn.apple.com.akadns.net
 sydney.bing.com
 sydney.bing.com.edgekey.net
-sydney-sydney-bing-com.trafficmanager.net
 sync-cdn.itunes-apple.com.akadns.net
 sync.itunes.apple.com
 t0.gstatic.com

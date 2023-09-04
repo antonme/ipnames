@@ -229,6 +229,7 @@ cds-cdn.v.aaplimg.com
 ce.apple-dns.net
 certs.apple.com
 certs.apple.com.edgesuite.net
+certs.g.aaplimg.com
 certs-lb.apple.com.akadns.net
 certs-us-lb.apple.com.akadns.net
 cf.iadsdk.apple.com
@@ -302,6 +303,7 @@ eu-nw-courier-4.push-apple.com.akadns.net
 euro.apple.com
 experiments.apple.com
 experiments.apple.com.edgekey.net
+fbs.smoot.apple.com
 fe.apple-dns.net
 feedbackws.icloud.com
 finance-app-cdn.itunes-apple.com.akadns.net
@@ -371,6 +373,7 @@ iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
 ibook.info
+icloud.com
 icloud-content.com
 identity.ess.apple.com
 identity.ess-apple.com.akadns.net
@@ -447,7 +450,6 @@ mesu.apple.com
 mesu.apple.com.edgekey.net
 mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
-mesu.g.aaplimg.com
 metrics-config.icloud.com
 metrics.icloud.com
 mobileapp.apple.com.edgekey.net
@@ -473,10 +475,13 @@ notes-analytics-events.apple.com
 np-edge.itunes.apple.com.edgesuite.net
 ocsp2.apple.com
 ocsp2.apple.com.edgekey.net
+ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
+ocsp-us-lb.apple.com.akadns.net
 ontology.health.apple.com
 origin-apple.com.akadns.net
 osxapps.itunes.apple.com
@@ -571,6 +576,7 @@ p6-buy-lb.itunes-apple.com.akadns.net
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 partiality.itunes.apple.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com.edgekey.net
