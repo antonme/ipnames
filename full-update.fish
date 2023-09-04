@@ -1,9 +1,10 @@
 echo
 echo
+echo
 echo --------------------------------------------------------------------------------
 date
 echo
-echo Beginning ipnames update.
+echo "==> Beginning ipnames update."
 echo
 echo --------------------------------------------------------------------------------
 

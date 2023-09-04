@@ -13,24 +13,11 @@ function filter_names -a filter name antifilter forcedfilter
 	#echo "name:"$name
 	#echo "antifilter:"$antifilter
 	#echo "forcedfilter:"$forcedfilter
-  cat cache*.txt| grep -E $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|grep '\.'|grep -v '\.arpa'| grep -Ev $antifilter| grep -E $forcedfilter| sort -u >dns-$name.txt
-  cat list-*.txt| grep -E $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|grep '\.'|grep -v '\.arpa'| grep -Ev $antifilter| grep -E $forcedfilter|sort -u >ext-dns-$name.txt
+  cat cache*.txt| rg $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|rg '\.'|rg -v '\.arpa'| rg -v $antifilter| rg $forcedfilter| rg -v "^-|^[0-9]"|sort -u >dns-$name.txt
+  cat list-*.txt| rg $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|rg '\.'|rg -v '\.arpa'| rg -v $antifilter| rg $forcedfilter| rg -v "^-|^[0-9]"|sort -u >ext-dns-$name.txt
   grep -Fvxf dns-$name.txt ext-dns-$name.txt > temp.txt && mv temp.txt ext-dns-$name.txt
 end
 
-function resolve -a namesarg resolvers
-  set names (cat $namesarg|grep '.')
-  set counter 1
-  for dns_name in $names
-	  echo -ne "\033[0K\r["$counter"/"(count $names)"] "$dns_name>&2
-	  set counter (math "$counter + 1")
-           for server_name in (cat $resolvers)
-               host -W 3 $dns_name $server_name| grep -v "IPv6"| grep address| awk '{print $4}'
-			   printf "." >&2
-       end
-	   echo -ne "\033[0K\r                                                                              \033[0K\r">&2
-  end| sort -u| sort -h 
-end
 
 echo "==Saving current cache @dns"
 unbound-control dump_cache > cache-current.txt
@@ -54,4 +41,4 @@ filter_names '\.adobe|behance\.net|\.ftcdn\.|typekit\.com|typekit\.net|astockcdn
 filter_names '(\.)pornhub(\.)|phncdn\.com' 'pornhub'
 echo
 echo "== Save names archive"
-cat dns-*.txt| sort -u| sort -h > cache-archive.txt
+cat dns-*.txt| grep -Ev '^-'|grep "\."|sort -u| sort -h > cache-archive.txt
