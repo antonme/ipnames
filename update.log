@@ -55,3 +55,98 @@ Tue Sep  5 01:28:09 MSK 2023                ext-dns-twitter.txt  >ext-resolve-tw
 Tue Sep  5 01:29:21 MSK 2023                ext-dns-youtube.txt  >ext-resolve-youtube.txt
 [master 5a84818] auto-update
  43 files changed, 7786 insertions(+), 12792 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Tue Sep  5 07:07:01 MSK 2023
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+
+== Save names archive
+
+== Resolving names
+Tue Sep  5 07:07:04 MSK 2023                dns-adobe.txt  >resolve-adobe.txt
+Tue Sep  5 07:07:40 MSK 2023                dns-apple.txt  >resolve-apple.txt
+Tue Sep  5 07:10:49 MSK 2023                dns-bing.txt  >resolve-bing.txt
+Tue Sep  5 07:11:02 MSK 2023                dns-facebook.txt  >resolve-facebook.txt
+Tue Sep  5 07:11:54 MSK 2023                dns-github.txt  >resolve-github.txt
+Tue Sep  5 07:12:02 MSK 2023                dns-google.txt  >resolve-google.txt
+Tue Sep  5 07:13:13 MSK 2023                dns-openai.txt  >resolve-openai.txt
+Tue Sep  5 07:13:17 MSK 2023                dns-ozon.txt  >resolve-ozon.txt
+Tue Sep  5 07:13:21 MSK 2023                dns-pornhub.txt  >resolve-pornhub.txt
+Tue Sep  5 07:13:27 MSK 2023                dns-tiktok.txt  >resolve-tiktok.txt
+Tue Sep  5 07:14:42 MSK 2023                dns-twitter.txt  >resolve-twitter.txt
+Tue Sep  5 07:15:11 MSK 2023                dns-youtube.txt  >resolve-youtube.txt
+
+== Resolving external names
+Tue Sep  5 07:15:15 MSK 2023                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Tue Sep  5 07:16:27 MSK 2023                ext-dns-apple.txt  >ext-resolve-apple.txt
+Tue Sep  5 07:16:49 MSK 2023                ext-dns-bing.txt  >ext-resolve-bing.txt
+Tue Sep  5 07:16:53 MSK 2023                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Tue Sep  5 07:21:56 MSK 2023                ext-dns-github.txt  >ext-resolve-github.txt
+Tue Sep  5 07:21:57 MSK 2023                ext-dns-google.txt  >ext-resolve-google.txt
+Tue Sep  5 07:24:31 MSK 2023                ext-dns-openai.txt  >ext-resolve-openai.txt
+Tue Sep  5 07:24:32 MSK 2023                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Tue Sep  5 07:24:34 MSK 2023                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Tue Sep  5 07:24:35 MSK 2023                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Tue Sep  5 07:26:41 MSK 2023                ext-dns-twitter.txt  >ext-resolve-twitter.txt
+Tue Sep  5 07:27:53 MSK 2023                ext-dns-youtube.txt  >ext-resolve-youtube.txt
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cache-archive.txt
+	modified:   dns-adobe.txt
+	modified:   dns-apple.txt
+	modified:   dns-bing.txt
+	modified:   dns-facebook.txt
+	modified:   dns-github.txt
+	modified:   dns-google.txt
+	modified:   dns-tiktok.txt
+	modified:   ext-dns-tiktok.txt
+	modified:   ext-resolve-adobe.txt
+	modified:   ext-resolve-apple.txt
+	modified:   ext-resolve-bing.txt
+	modified:   ext-resolve-facebook.txt
+	modified:   ext-resolve-github.txt
+	modified:   ext-resolve-google.txt
+	modified:   ext-resolve-openai.txt
+	modified:   ext-resolve-tiktok.txt
+	modified:   ext-resolve-twitter.txt
+	modified:   ext-resolve-youtube.txt
+	modified:   resolve-adobe.txt
+	modified:   resolve-apple.txt
+	modified:   resolve-bing.txt
+	modified:   resolve-facebook.txt
+	modified:   resolve-github.txt
+	modified:   resolve-google.txt
+	modified:   resolve-openai.txt
+	modified:   resolve-ozon.txt
+	modified:   resolve-pornhub.txt
+	modified:   resolve-tiktok.txt
+	modified:   resolve-twitter.txt
+	modified:   resolve-youtube.txt
+	modified:   update.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
