@@ -7,6 +7,8 @@ aidc.apple.com
 aidc.origin-apple.com.akadns.net
 albert.apple.com
 albert.v.aaplimg.com
+amd-infra.apps-apple.com.akadns.net
+amd-infra.itunes.apple.com
 amp-account.apps.apple.com
 amp-account.itunes-apple.com.akadns.net
 amp-account.itunes.apple.com
@@ -234,6 +236,7 @@ gspe1-ssl.ls.apple.com
 gspe1-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com.edgesuite.net
 gspe11-ssl.ls.apple.com.edgekey.net
+gspe12-ssl.ls.apple.com.edgekey.net
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe21-ssl.ls-apple.com.akadns.net
@@ -242,6 +245,8 @@ gspe21-ssl.ls.apple.com.edgekey.net
 gspe35-ssl.ls-apple.com.akadns.net
 gspe35-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com.edgekey.net
+gspe72-ssl.ls.apple.com.akamaized.net
+gspe76-ssl.ls.apple.com.akamaized.net
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -357,7 +362,6 @@ news-todayconfig-edge.apple.com
 notes-analytics-events.apple.com
 np-edge.itunes.apple.com.edgesuite.net
 nserver.apple.com
-ocsp-a.g.aaplimg.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
 ocsp.apple.com
@@ -460,6 +464,7 @@ p66-content.icloud.com
 p66-escrowproxy.icloud.com
 p66-fmip.icloud.com
 p68-imap.mail.me.com
+p68-imap.mail.me.com.akadns.net
 p68-mailws.icloud.com
 p68-mailws.icloud.com.akadns.net
 pancake.apple.com

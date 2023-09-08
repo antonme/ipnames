@@ -8,6 +8,7 @@ AFBF9A27-1662-4607-BDDA-16B57078FA52-netseer-ipaddr-assoc.xy.fbcdn.net
 AFBF9A27-1662-4607-BDDA-16B57078FA52-netseer-ipaddr-assoc.xz.fbcdn.net
 C0F02B9A-1C95-4630-8D10-9290758C0CF5-netseer-ipaddr-assoc.xy.fbcdn.net
 C0F02B9A-1C95-4630-8D10-9290758C0CF5-netseer-ipaddr-assoc.xz.fbcdn.net
+C5FAFD79-1E65-4310-8995-D2195CAC2E79-netseer-ipaddr-assoc.xz.fbcdn.net
 C5FB3C0A-D35B-497A-B451-4E2117B14BE6-netseer-ipaddr-assoc.xz.fbcdn.net
 D1EE3727-2535-4D2B-AC57-44FC6A5ADB78-netseer-ipaddr-assoc.xy.fbcdn.net
 D1EE3727-2535-4D2B-AC57-44FC6A5ADB78-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -79,6 +80,8 @@ ajax.googleapis.com
 albert.apple.com
 albert.v.aaplimg.com
 alive.github.com
+amd-infra.apps-apple.com.akadns.net
+amd-infra.itunes.apple.com
 amp-account.apps.apple.com
 amp-account.itunes-apple.com.akadns.net
 amp-account.itunes.apple.com
@@ -327,6 +330,7 @@ cdn.apple.com.c.footprint.net
 cdn.concert.io
 cdn.fbsbx.com
 cdn.icloud-content.com
+cdn.openai.com
 cdn.ozonusercontent.com.edgesuite.net
 cdn.syndication.twimg.com
 cdn.whatsapp.net
@@ -622,6 +626,7 @@ gspe1-ssl.ls.apple.com
 gspe1-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com.edgesuite.net
 gspe11-ssl.ls.apple.com.edgekey.net
+gspe12-ssl.ls.apple.com.edgekey.net
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe21-ssl.ls-apple.com.akadns.net
@@ -630,6 +635,8 @@ gspe21-ssl.ls.apple.com.edgekey.net
 gspe35-ssl.ls-apple.com.akadns.net
 gspe35-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com.edgekey.net
+gspe72-ssl.ls.apple.com.akamaized.net
+gspe76-ssl.ls.apple.com.akamaized.net
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -866,6 +873,7 @@ news-events.apple.com
 news-todayconfig-edge.apple.com
 ninstagram.com
 notes-analytics-events.apple.com
+notes-pa-alv.googleapis.com
 notes-pa.googleapis.com
 notifications-pa.googleapis.com
 notify.adobe.io
@@ -927,7 +935,6 @@ oauth2.googleapis.com
 oauthaccountmanager.googleapis.com
 objects.githubusercontent.com
 ocio30.adobeaemcloud.com
-ocsp-a.g.aaplimg.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
 ocsp.apple.com
@@ -1067,6 +1074,7 @@ p66-content.icloud.com
 p66-escrowproxy.icloud.com
 p66-fmip.icloud.com
 p68-imap.mail.me.com
+p68-imap.mail.me.com.akadns.net
 p68-mailws.icloud.com
 p68-mailws.icloud.com.akadns.net
 pagead2.googlesyndication.com
@@ -1266,6 +1274,7 @@ setup.icloud.com
 sf-api-token-service-lb.itunes-apple.com.akadns.net
 sf-api-token-service.itunes.apple.com
 sf-api-token-service.itunes.apple.com.edgekey.net
+sf-bay.org
 sf16-geckocdn.tiktokcdn.com
 sf16-geckocdn.tiktokcdn.com.edgesuite.net
 sf16-ies-music-sg.tiktokcdn.com.edgesuite.net
