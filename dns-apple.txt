@@ -169,6 +169,7 @@ doh.dns.apple.com.v.aaplimg.com
 downloaddispatch-cdn.itunes-apple.com.akadns.net
 downloaddispatch.itunes.apple.com
 downloaddispatch.itunes.apple.com.edgesuite.net
+edge-007.usdal2.icloud-content.com
 edge-027.nlhfd1.icloud-content.com
 edge-046.nlhfd1.icloud-content.com
 edge-054.nlhfd1.icloud-content.com
@@ -346,7 +347,6 @@ mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
 mesu.apple.com
 mesu.apple.com.edgekey.net
-mesu.g.aaplimg.com
 metrics-config.icloud.com
 metrics.icloud.com
 mobileapp.apple.com.edgekey.net
@@ -363,6 +363,8 @@ mzstatic.itunes-apple.com.akadns.net
 mzstorekit.itunes.apple.com
 mzstorekit.itunes.apple.com.edgesuite.net
 mzstorekit.lb-apple.com.akadns.net
+netcts.cdn-apple.com
+netcts.cdn-apple.com.edgesuite.net
 news-assets.apple.com
 news-assets.apple.com.edgekey.net
 news-edge.apple.com
@@ -371,7 +373,6 @@ news-todayconfig-edge.apple.com
 notes-analytics-events.apple.com
 np-edge.itunes.apple.com.edgesuite.net
 nserver.apple.com
-ocsp-a.g.aaplimg.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
 ocsp.apple.com
@@ -432,6 +433,7 @@ p27-content.icloud.com
 p28-calendars.icloud.com
 p29-content.icloud.com
 p29-imap.mail.me.com
+p29-smtp.mail.me.com
 p30-calendars.icloud.com
 p31-content.icloud.com
 p35-content.icloud.com
@@ -601,6 +603,7 @@ us-courier.push.apple.com
 us-ne-courier-4.push-apple.com.akadns.net
 us-sandbox-courier-4.push-apple.com.akadns.net
 usmia1.icloud-content.com
+ussjc1.icloud-content.com
 uts-api.itunes.apple.com.edgesuite.net
 v.aaplimg.com
 valid.apple.com

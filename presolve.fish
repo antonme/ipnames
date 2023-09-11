@@ -7,7 +7,7 @@ set -g total_tasks 0
 # Custom command to increment the counter and print progress
 
 function resolve -a name resolvers new_name concur
-	parallel -j $concur --bar host -t A -W 3 :::: $name :::: $resolvers| rg address | awk '{print $4}' | sort -u| sort -h > $new_name
+	parallel -j $concur --bar host -t A -W 3 :::: $name :::: $resolvers| rg address | awk '$4{print $4}' | sort -u| sort -h > $new_name
 end
 
 
@@ -16,10 +16,10 @@ set concur 16
 echo
 
 if not contains -- '-ext' $argv
-  echo "== Resolving names"
+  echo "== Resolving names to ipv4"
   set servers "servers.txt"
 else
-  echo "== Resolving external names"
+  echo "== Resolving external names to ipv4"
   set prefixer 'ext-'
   set servers "servers-ext.txt"
   set concur 80
