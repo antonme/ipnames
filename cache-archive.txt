@@ -482,6 +482,7 @@ edge-mqtt.facebook.com
 edge.apple
 edge.icloud-content.com
 edgeproxy-irl1.cloud.adobe.io
+edgeproxy-va6.cloud.adobe.io
 edgeservices.bing.com
 eduroam-160-217-136-209.eduroam.adobeaemcloud.com
 ei.phncdn.com
@@ -498,6 +499,7 @@ ess.apple.com
 ess.apple.com.edgesuite.net
 ethos.adobe.net
 ethos.ethos502-prod-irl1.ethos.adobe.net
+ethos.ethos502-prod-va6.ethos.adobe.net
 eu-central-courier-4.push-apple.com.akadns.net
 eu-north-courier-4.push-apple.com.akadns.net
 eu-nw-courier-4.push-apple.com.akadns.net
@@ -735,6 +737,8 @@ iphone-ld.apple.com
 iphone-ld.apple.com-v1.edgesuite.net
 iphone-ld.origin-apple.com.akadns.net
 iphonesubmissions.apple.com
+ipv4.test-ipv6.ttk.ru
+ipv6.test-ipv6.ttk.ru
 is-ssl.mzstatic.com.itunes-apple.com.akadns.net
 is1-ssl.mzstatic.com
 is2-ssl.mzstatic.com
@@ -839,6 +843,7 @@ mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
 mesu.apple.com
 mesu.apple.com.edgekey.net
+mesu.g.aaplimg.com
 metrics-config.icloud.com
 metrics.icloud.com
 misc-anycast.l.google.com
@@ -945,6 +950,7 @@ oauth2.googleapis.com
 oauthaccountmanager.googleapis.com
 objects.githubusercontent.com
 ocio30.adobeaemcloud.com
+ocsp-a.g.aaplimg.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
 ocsp.apple.com
@@ -1392,6 +1398,7 @@ tags.tiqcdn.com
 tcr9i.chat.openai.com
 telephonyspamprotect-pa.googleapis.com
 terrehaute.adobeaemcloud.com
+test-ipv6.ttk.ru
 testflight.apple.com
 testflight.apple.com.edgekey.net
 th.bing.com
@@ -1531,7 +1538,6 @@ www.apple.com.cn.edgekey.net
 www.apple.com.cn.edgekey.net.globalredir.akadns.net
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
-www.appleiphonecell.com
 www.bing.com
 www.bing.com.edgekey.net
 www.bingapis.com
