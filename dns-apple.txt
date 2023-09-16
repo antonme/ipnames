@@ -161,6 +161,7 @@ cstat.cdn-apple.com
 d.ns.apple.com
 devimages-cdn.apple.com
 devimages-cdn.origin-apple.com.akadns.net
+discussions.apple.com.edgekey.net
 dns.apple.com
 dns.apple.com.v.aaplimg.com
 docs-assets.developer.apple.com
@@ -169,9 +170,11 @@ doh.dns.apple.com.v.aaplimg.com
 downloaddispatch-cdn.itunes-apple.com.akadns.net
 downloaddispatch.itunes.apple.com
 downloaddispatch.itunes.apple.com.edgesuite.net
+edge-006.usdal2.icloud-content.com
 edge-007.usdal2.icloud-content.com
 edge-008.usdal2.icloud-content.com
 edge-027.nlhfd1.icloud-content.com
+edge-030.usdal2.icloud-content.com
 edge-046.nlhfd1.icloud-content.com
 edge-054.nlhfd1.icloud-content.com
 edge-064.nlhfd1.icloud-content.com
@@ -184,6 +187,7 @@ edge-129.usdal2.icloud-content.com
 edge-itunes-apple.com.akadns.net
 edge.apple
 edge.icloud-content.com
+entitlements-edge.itunes.apple.com
 entitlements.itunes.apple.com
 ess-apple.com.akadns.net
 ess.apple.com
@@ -213,6 +217,7 @@ gc.apple.com
 gc.apple.com.akadns.net
 gdmf.apple.com
 genius-3.itunes.apple.com.edgekey.net
+geo.itunes.apple.com
 graffiti-tags.apple.com.edgesuite.net
 gs-loc-new.ls-apple.com.akadns.net
 gs-loc.apple.com
@@ -333,6 +338,7 @@ lcdn-locator.apple.com.akadns.net
 librarydaap-cdn.lb-apple.com.akadns.net
 librarydaap.itunes.apple.com
 librarydaap.itunes.apple.com.edgekey.net
+linkmaker.itunes.apple.com.edgekey.net
 lookup-api.apple.com
 lookup-api.apple.com.edgekey.net
 ls-apple.com.akadns.net
@@ -353,6 +359,7 @@ mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
 mesu.apple.com
 mesu.apple.com.edgekey.net
+mesu.g.aaplimg.com
 metrics-config.icloud.com
 metrics.icloud.com
 mobileapp.apple.com.edgekey.net
@@ -379,7 +386,6 @@ news-todayconfig-edge.apple.com
 notes-analytics-events.apple.com
 np-edge.itunes.apple.com.edgesuite.net
 nserver.apple.com
-ocsp-a.g.aaplimg.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
 ocsp.apple.com
@@ -568,6 +574,7 @@ sps-media.apple.com
 sq-device.apple.com
 sq-device.v.aaplimg.com
 statici.icloud.com.edgekey.net
+stats.gc.apple.com
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
