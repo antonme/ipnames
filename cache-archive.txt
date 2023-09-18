@@ -8,7 +8,6 @@ AFBF9A27-1662-4607-BDDA-16B57078FA52-netseer-ipaddr-assoc.xy.fbcdn.net
 AFBF9A27-1662-4607-BDDA-16B57078FA52-netseer-ipaddr-assoc.xz.fbcdn.net
 AHCCFO3NVTIF3A2UKV3M7POTSBLV6HF1.tt
 B6A2P3FTA012IKGC5VHDN0EDN7929PI1.tt
-BLOGSPOT.RU
 C0F02B9A-1C95-4630-8D10-9290758C0CF5-netseer-ipaddr-assoc.xy.fbcdn.net
 C0F02B9A-1C95-4630-8D10-9290758C0CF5-netseer-ipaddr-assoc.xz.fbcdn.net
 C5FAFD79-1E65-4310-8995-D2195CAC2E79-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -30,6 +29,7 @@ EB5AB297-9069-4B2C-B9C3-E60F57458DD0-netseer-ipaddr-assoc.xy.fbcdn.net
 EB5AB297-9069-4B2C-B9C3-E60F57458DD0-netseer-ipaddr-assoc.xz.fbcdn.net
 F559B6CF-3CEB-45C9-BF8E-69BA259DCED3-netseer-ipaddr-assoc.xz.fbcdn.net
 GOOGLE.RU
+LVIJUP7A8U8IP12L7LVR4403K4MQMJ5L.tt
 M5VCKIF7I1VB5L84MSLHOTTTVACNE8L0.tt
 OE1AG37U8LNE8FRAG3H1FI5C2O3I01LU.tt
 PDC1QJ6ELVS4B5RUNITGV77TBJP26FBM.tt
@@ -429,6 +429,7 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration.ls.apple.com
 connect.facebook.net
+connectivitycheck.gstatic.com
 copilot-proxy.githubusercontent.com
 courier-ab-vs.push-apple.com.akadns.net
 courier-ab-vs.push.apple.com
@@ -505,6 +506,7 @@ earth.googleusercontent.com
 edge-006.usdal2.icloud-content.com
 edge-007.usdal2.icloud-content.com
 edge-008.usdal2.icloud-content.com
+edge-020.usdal2.icloud-content.com
 edge-027.nlhfd1.icloud-content.com
 edge-030.usdal2.icloud-content.com
 edge-046.nlhfd1.icloud-content.com
@@ -515,10 +517,13 @@ edge-080.sesto4.icloud-content.com
 edge-083.sesto4.icloud-content.com
 edge-088.sesto4.icloud-content.com
 edge-092.sesto4.icloud-content.com
+edge-094.sesto4.icloud-content.com
 edge-101.sesto4.icloud-content.com
 edge-114.sesto4.icloud-content.com
+edge-122.sesto4.icloud-content.com
 edge-126.sesto4.icloud-content.com
 edge-129.usdal2.icloud-content.com
+edge-138.sesto4.icloud-content.com
 edge-chat.facebook.com
 edge-itunes-apple.com.akadns.net
 edge-lb-g1.ozon.ru
@@ -637,6 +642,7 @@ ghs.google.com
 github.com
 github.io
 githubusercontent.com
+gmail.com
 goofy-cdn.com
 google.com
 google.com.br
@@ -687,6 +693,7 @@ gsp51-ssl-ds.ls-apple.com.akadns.net
 gsp51-ssl.ls.apple.com
 gsp57-ssl-background.ls-apple.com.akadns.net
 gsp57-ssl-background.ls.apple.com
+gsp57-ssl-locus.ls.apple.com
 gsp57-ssl-revgeo.ls.apple.com
 gsp64-ssl.ls-apple.com.akadns.net
 gsp64-ssl.ls.apple.com
@@ -941,6 +948,7 @@ mqtt.2030.ltsapis.goog
 mqtt.c10r.facebook.com
 mr-mailws.icloud.com.akadns.net
 mssdk-sg.tiktok.com.edgekey.net
+mssdk-va.byteoversea.com.edgekey.net
 mssdk-va.tiktok.com.edgekey.net
 mssdk16-normal-alisg.tiktokv.com.edgekey.net
 mssdk16-platform-useast5.us.tiktokv.com.edgesuite.net
@@ -969,6 +977,7 @@ news-assets.apple.com.edgekey.net
 news-edge.apple.com
 news-events.apple.com
 news-todayconfig-edge.apple.com
+newsletter-edge.apple.com
 ninstagram.com
 nontreaties.adobeaemcloud.com
 notes-analytics-events.apple.com
@@ -1559,6 +1568,7 @@ tr.iadsdk.apple.com
 translate.googleapis.com
 trc9i.chat.openai.com
 tstt.net.tt
+ttfcdns.com
 ttlivecdn.com
 ttoverseaus.net
 ttwid-va.byteoversea.com.edgekey.net
@@ -1590,14 +1600,17 @@ us-ne-courier-4.push-apple.com.akadns.net
 us-sandbox-courier-4.push-apple.com.akadns.net
 us.bytedance.map.fastly.net
 us.tiktok.com.edgesuite.net
+usdal2.icloud-content.com
 use-stls.adobe.com.edgesuite.net
 user-images.githubusercontent.com
 usmia1.icloud-content.com
+ussea3.icloud-content.com
 ussjc1.icloud-content.com
 uts-api.itunes.apple.com.edgesuite.net
 utut-service-api.adobe.com.edgekey.net
 v.aaplimg.com
 v16-cla.tiktokcdn.com.edgesuite.net
+v16-web-newkey.tiktokcdn.com.edgesuite.net
 v16-webapp-prime.tiktok.com.edgesuite.net
 v16-webapp-prime.us.tiktok.com.edgesuite.net
 v16.tiktokcdn.com
@@ -1633,6 +1646,7 @@ vod-ap-aoc.tv.apple.com.akadns.net
 vpp-app.itunes.apple.com.edgekey.net
 vwwm.adobeaemcloud.com
 waldmeister.adobeaemcloud.com
+wallet.cdn-apple.com
 weather-analytics-events.apple.com
 weather-data.apple.com
 weather-data.apple.com.akadns.net
