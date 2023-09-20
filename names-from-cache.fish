@@ -39,6 +39,7 @@ filter_names 'githubuser|(^|\.|-)github(\.|-)com|^github\.io' 'github'
 filter_names '(\.|-)apple\.com|\.me\.com|\.mac\.com|(\.|-)aapl(\.|-)|\.icloud\.com|cdn-apple\.com|\.itunes\.com|appleschoolcontent|apple-mapkit\.com|axm-usercontent-apple.com|\.mzstatic.com|apple-cloudkit.com|icloud-content|\.apzones\.com|apple-livephotoskit|apple-cloudkit' 'apple'
 filter_names '\.adobe|behance\.net|\.ftcdn\.|typekit\.com|typekit\.net|astockcdn|photoshop\.com|frame\.io|acrobat\.com|businesscatalyst.com|phonegap.com|prosite.com|myportfolio.com' 'adobe'
 filter_names '(\.)pornhub(\.)|phncdn\.com' 'pornhub'
+filter_names 'backblaze' 'backblaze'
 echo
 echo "== Save names archive"
 cat dns-*.txt| grep -Ev '^-'|grep "\."|sort -u| sort -h > cache-archive.txt
