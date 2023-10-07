@@ -329,6 +329,7 @@ init.gc.apple.com.edgekey.net
 init.itunes.apple.com
 init.push-apple.com.akadns.net
 init.push.apple.com
+internalcheck.apple.com
 iosapps.itunes.apple.com
 ipcdn-lb.apple.com.akadns.net
 ipcdn.apple.com
@@ -475,6 +476,7 @@ p27-content.icloud.com
 p28-calendars.icloud.com
 p29-content.icloud.com
 p29-imap.mail.me.com
+p29-imap.mail.me.com.akadns.net
 p29-smtp.mail.me.com
 p30-calendars.icloud.com
 p31-content.icloud.com
@@ -521,6 +523,8 @@ p68-imap.mail.me.com
 p68-imap.mail.me.com.akadns.net
 p68-mailws.icloud.com
 p68-mailws.icloud.com.akadns.net
+p68-smtp.mail.me.com
+p68-smtp.mail.me.com.akadns.net
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
@@ -596,6 +600,8 @@ smp-device-content-us.lb-apple.com.akadns.net
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
 smp-device-content.lb-apple.com.akadns.net
+smtp.mail.me.com
+smtp.mail.me.com.akadns.net
 sp.itunes.apple.com.edgekey.net
 speedybuy.itunes.apple.com
 speedysub-eu.edge-itunes-apple.com.akadns.net
