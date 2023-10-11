@@ -25,6 +25,10 @@ unbound-control dump_cache > cache-current.txt
 echo "==Saving current cache @home.setia"
 unbound-control -s 192.168.1.20 -c keys/home/unbound.conf dump_cache > cache-current-setia.txt
 echo
+echo "==Preparing surfshark names"
+curl https://api.surfshark.com/v4/server/clusters| jq .[].connectionName | tr -d '"'|sort|uniq > dns-surfshark.txt
+
+echo
 echo "==Extracting names"
 
 filter_names 'google\.com|\.google\.$|googlesyndication|googleapis\.com|gstatic\.com|googleusercontent\.com' 'google' 'yt|you|googlevideo|video'
