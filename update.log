@@ -3151,3 +3151,99 @@ Wed Oct 11 08:17:14 MSK 2023                ext-dns-youtube.txt  >ipv6-ext-resol
  52 files changed, 19671 insertions(+), 12432 deletions(-)
  create mode 100644 ext-dns-nordvpn.txt
  create mode 100644 ipv6-ext-resolve-nordvpn.txt
+
+
+
+--------------------------------------------------------------------------------
+Thu Oct 12 07:07:01 MSK 2023
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+
+==Preparing surfshark names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+
+== Save names archive
+
+== Resolving names to ipv4
+Thu Oct 12 07:07:10 MSK 2023                dns-adobe.txt  >resolve-adobe.txt
+Thu Oct 12 07:09:19 MSK 2023                dns-apple.txt  >resolve-apple.txt
+Thu Oct 12 07:13:03 MSK 2023                dns-backblaze.txt  >resolve-backblaze.txt
+Thu Oct 12 07:15:17 MSK 2023                dns-bing.txt  >resolve-bing.txt
+Thu Oct 12 07:15:33 MSK 2023                dns-expressvpn.txt  >resolve-expressvpn.txt
+Thu Oct 12 07:16:19 MSK 2023                dns-facebook.txt  >resolve-facebook.txt
+Thu Oct 12 07:18:54 MSK 2023                dns-github.txt  >resolve-github.txt
+Thu Oct 12 07:19:07 MSK 2023                dns-google.txt  >resolve-google.txt
+Thu Oct 12 07:21:12 MSK 2023                dns-openai.txt  >resolve-openai.txt
+Thu Oct 12 07:21:24 MSK 2023                dns-ozon.txt  >resolve-ozon.txt
+Thu Oct 12 07:21:29 MSK 2023                dns-pornhub.txt  >resolve-pornhub.txt
+Thu Oct 12 07:21:37 MSK 2023                dns-surfshark.txt  >resolve-surfshark.txt
+Thu Oct 12 07:22:21 MSK 2023                dns-tiktok.txt  >resolve-tiktok.txt
+Thu Oct 12 07:25:59 MSK 2023                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Thu Oct 12 07:27:13 MSK 2023                dns-twitter.txt  >resolve-twitter.txt
+Thu Oct 12 07:27:54 MSK 2023                dns-youtube.txt  >resolve-youtube.txt
+
+== Resolving external names to ipv4
+Thu Oct 12 07:28:07 MSK 2023                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Thu Oct 12 07:29:19 MSK 2023                ext-dns-apple.txt  >ext-resolve-apple.txt
+Thu Oct 12 07:29:42 MSK 2023                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Thu Oct 12 07:29:43 MSK 2023                ext-dns-bing.txt  >ext-resolve-bing.txt
+Thu Oct 12 07:29:47 MSK 2023                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Thu Oct 12 07:34:51 MSK 2023                ext-dns-github.txt  >ext-resolve-github.txt
+Thu Oct 12 07:34:52 MSK 2023                ext-dns-google.txt  >ext-resolve-google.txt
+Thu Oct 12 07:37:28 MSK 2023                ext-dns-openai.txt  >ext-resolve-openai.txt
+Thu Oct 12 07:37:29 MSK 2023                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Thu Oct 12 07:37:30 MSK 2023                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Thu Oct 12 07:37:31 MSK 2023                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Thu Oct 12 07:39:37 MSK 2023                ext-dns-twitter.txt  >ext-resolve-twitter.txt
+Thu Oct 12 07:40:51 MSK 2023                ext-dns-youtube.txt  >ext-resolve-youtube.txt
+
+== Resolving names to ipv6
+Thu Oct 12 07:40:58 MSK 2023                dns-adobe.txt  >ipv6-resolve-adobe.txt
+Thu Oct 12 07:43:10 MSK 2023                dns-apple.txt  >ipv6-resolve-apple.txt
+Thu Oct 12 07:46:55 MSK 2023                dns-backblaze.txt  >ipv6-resolve-backblaze.txt
+Thu Oct 12 07:49:11 MSK 2023                dns-bing.txt  >ipv6-resolve-bing.txt
+Thu Oct 12 07:49:27 MSK 2023                dns-expressvpn.txt  >ipv6-resolve-expressvpn.txt
+Thu Oct 12 07:50:14 MSK 2023                dns-facebook.txt  >ipv6-resolve-facebook.txt
+Thu Oct 12 07:52:49 MSK 2023                dns-github.txt  >ipv6-resolve-github.txt
+Thu Oct 12 07:53:03 MSK 2023                dns-google.txt  >ipv6-resolve-google.txt
+Thu Oct 12 07:55:06 MSK 2023                dns-openai.txt  >ipv6-resolve-openai.txt
+Thu Oct 12 07:55:19 MSK 2023                dns-ozon.txt  >ipv6-resolve-ozon.txt
+Thu Oct 12 07:55:23 MSK 2023                dns-pornhub.txt  >ipv6-resolve-pornhub.txt
+Thu Oct 12 07:55:30 MSK 2023                dns-surfshark.txt  >ipv6-resolve-surfshark.txt
+Thu Oct 12 07:56:14 MSK 2023                dns-tiktok.txt  >ipv6-resolve-tiktok.txt
+Thu Oct 12 08:00:05 MSK 2023                dns-tunnelbear.txt  >ipv6-resolve-tunnelbear.txt
+Thu Oct 12 08:01:21 MSK 2023                dns-twitter.txt  >ipv6-resolve-twitter.txt
+Thu Oct 12 08:01:59 MSK 2023                dns-youtube.txt  >ipv6-resolve-youtube.txt
+
+== Resolving external names to ipv6
+Thu Oct 12 08:02:12 MSK 2023                ext-dns-adobe.txt  >ipv6-ext-resolve-adobe.txt
+Thu Oct 12 08:03:24 MSK 2023                ext-dns-apple.txt  >ipv6-ext-resolve-apple.txt
+Thu Oct 12 08:03:47 MSK 2023                ext-dns-backblaze.txt  >ipv6-ext-resolve-backblaze.txt
+Thu Oct 12 08:03:48 MSK 2023                ext-dns-bing.txt  >ipv6-ext-resolve-bing.txt
+Thu Oct 12 08:03:52 MSK 2023                ext-dns-facebook.txt  >ipv6-ext-resolve-facebook.txt
+Thu Oct 12 08:08:56 MSK 2023                ext-dns-github.txt  >ipv6-ext-resolve-github.txt
+Thu Oct 12 08:08:57 MSK 2023                ext-dns-google.txt  >ipv6-ext-resolve-google.txt
+Thu Oct 12 08:11:31 MSK 2023                ext-dns-openai.txt  >ipv6-ext-resolve-openai.txt
+Thu Oct 12 08:11:32 MSK 2023                ext-dns-ozon.txt  >ipv6-ext-resolve-ozon.txt
+Thu Oct 12 08:11:34 MSK 2023                ext-dns-pornhub.txt  >ipv6-ext-resolve-pornhub.txt
+Thu Oct 12 08:11:34 MSK 2023                ext-dns-tiktok.txt  >ipv6-ext-resolve-tiktok.txt
+Thu Oct 12 08:13:40 MSK 2023                ext-dns-twitter.txt  >ipv6-ext-resolve-twitter.txt
+Thu Oct 12 08:14:53 MSK 2023                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
