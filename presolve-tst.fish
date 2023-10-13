@@ -25,7 +25,7 @@ else
   set concur 80
 end
 
-set names (ls "$prefixer"dns-exp*.txt)
+set names (ls "$prefixer"ext-dns-vpnh*.txt)
 
 if test $argv[2]
   set names "$prefixer"dns-$argv[2].txt
