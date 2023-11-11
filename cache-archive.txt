@@ -223,6 +223,7 @@ amp-api.podcasts-lb.itunes-apple.com.akadns.net
 amp-api.podcasts.apple.com
 amp-api.podcasts.apple.com.edgekey.net
 amp-api.sandbox.apple.com
+amp-api.shazam.apple.com.edgekey.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
 ampaeservices.com
@@ -342,7 +343,6 @@ apps.itunes.apple.com.edgekey.net
 apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
 appspot.com
-apptocloud.net
 apptrailers-ssl.itunes-apple.com.akadns.net
 apptrailers-ssl.itunes.apple.com
 apptrailers.itunes.apple.com
@@ -914,6 +914,7 @@ edge-088.sesto4.icloud-content.com
 edge-090.sesto4.icloud-content.com
 edge-092.sesto4.icloud-content.com
 edge-094.sesto4.icloud-content.com
+edge-095.sesto4.icloud-content.com
 edge-099.sesto4.icloud-content.com
 edge-101.sesto4.icloud-content.com
 edge-104.usdal2.icloud-content.com
@@ -1687,7 +1688,6 @@ mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
 mesu.apple.com
 mesu.apple.com.edgekey.net
-mesu.g.aaplimg.com
 meta.com
 metaevents.com
 metaqueststorystudios.com
@@ -1961,7 +1961,6 @@ oauthaccountmanager.googleapis.com
 objects.githubusercontent.com
 observation.adobeaemcloud.com
 ocio30.adobeaemcloud.com
-ocsp-a.g.aaplimg.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
 ocsp.apple.com
@@ -1989,6 +1988,7 @@ olwc.adobeaemcloud.com
 om.lazerpenguin.com
 omtrdc.net
 omvi.adobeaemcloud.com
+ondevicesafety-pa.googleapis.com
 ontinena.es
 ontology.health.apple.com
 oobesaas.adobe.com
@@ -2164,6 +2164,7 @@ panama-ca-version-2.expressnetw.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 parcel-guilty.adobeaemcloud.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com
@@ -2716,7 +2717,6 @@ ppzhenrenyulecheng.adobeaemcloud.com
 pr-sju.prod.surfshark.com
 pr.lazerpenguin.com
 prd-usw2-requestattribution-iad.apple.com
-priceline.com
 primegoogle.com
 probe-t.twitter.com
 probe.icloud.com
@@ -3022,12 +3022,12 @@ smtp.mail.me.com.akadns.net
 sn.lazerpenguin.com
 snnq.int.tt
 so.lazerpenguin.com
-socalsidewalk.com
 sonar-ham.xx.fbcdn.net
 south-green.adobeaemcloud.com
 southafrica-ca-version-2.expressnetw.com
 southendonsea.adobeaemcloud.com
 southkorea2-ca-version-2.expressnetw.com
+sp.itunes.apple.com
 sp.itunes.apple.com.edgekey.net
 sp001.githubusercontent.com
 spain-barcelona-ca-version-2.expressnetw.com
@@ -3041,6 +3041,7 @@ speedysub.edge-itunes-apple.com.akadns.net
 speedysub.itunes.apple.com
 spinningup.openai.com
 spinosaurus.adobeaemcloud.com
+spotify.com
 sps-media.apple.com
 sq-device.apple.com
 sq-device.v.aaplimg.com
@@ -3363,7 +3364,6 @@ usmia1.icloud-content.com
 ussea3.icloud-content.com
 ussjc1.icloud-content.com
 usu0.adobeaemcloud.com
-utah.gov
 utilitaires-tta-lubrifiants.com
 uts-api.itunes.apple.com.edgesuite.net
 utut-service-api.adobe.com.edgekey.net

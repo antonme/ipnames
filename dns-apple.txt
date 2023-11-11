@@ -35,6 +35,7 @@ amp-api.podcasts-lb.itunes-apple.com.akadns.net
 amp-api.podcasts.apple.com
 amp-api.podcasts.apple.com.edgekey.net
 amp-api.sandbox.apple.com
+amp-api.shazam.apple.com.edgekey.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
 ampaeservices.com
@@ -206,6 +207,7 @@ edge-088.sesto4.icloud-content.com
 edge-090.sesto4.icloud-content.com
 edge-092.sesto4.icloud-content.com
 edge-094.sesto4.icloud-content.com
+edge-095.sesto4.icloud-content.com
 edge-099.sesto4.icloud-content.com
 edge-101.sesto4.icloud-content.com
 edge-104.usdal2.icloud-content.com
@@ -403,7 +405,6 @@ mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
 mesu.apple.com
 mesu.apple.com.edgekey.net
-mesu.g.aaplimg.com
 metrics-config.icloud.com
 metrics.icloud.com
 ml.cdn-apple.com.akamaized.net
@@ -437,7 +438,6 @@ northamerica-1.object-storage.apple.com
 notes-analytics-events.apple.com
 np-edge.itunes.apple.com.edgesuite.net
 nserver.apple.com
-ocsp-a.g.aaplimg.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
 ocsp.apple.com
@@ -563,6 +563,7 @@ p72-content.icloud.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com
 partiality.itunes.apple.com.edgekey.net
@@ -639,6 +640,7 @@ smp-device-content.apple.com.edgekey.net
 smp-device-content.lb-apple.com.akadns.net
 smtp.mail.me.com
 smtp.mail.me.com.akadns.net
+sp.itunes.apple.com
 sp.itunes.apple.com.edgekey.net
 speedybuy.itunes.apple.com
 speedysub-eu.edge-itunes-apple.com.akadns.net
