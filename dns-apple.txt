@@ -97,6 +97,7 @@ buy.itunes.apple.com
 buylite.itunes.apple.com
 c.apple.news
 c.ns.apple.com
+c33f3251-cba4-4c18-bf7d-1acf250a6c65.apple.com
 ca.iadsdk.apple.com
 cabana-server.cdn-apple.com
 cabana-server.lb-apple.com.akadns.net
@@ -173,7 +174,11 @@ courier-push-apple.com.akadns.net
 cstat-lb.apple.com.akadns.net
 cstat.apple.com.edgesuite.net
 cstat.cdn-apple.com
+cvws-001.icloud-content.com
+cvws-002.icloud-content.com
+cvws-003.icloud-content.com
 d.ns.apple.com
+ddeead2e-210c-4b2d-b7db-27fce9278350.apple.com
 defra2.icloud-content.com
 dejavu.apple.com
 developer-api.icloud.com
@@ -186,6 +191,7 @@ dns.apple.com.v.aaplimg.com
 docs-assets.developer.apple.com
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
+domainserver.icloud.com
 downloaddispatch-cdn.itunes-apple.com.akadns.net
 downloaddispatch.itunes.apple.com
 downloaddispatch.itunes.apple.com.edgesuite.net
@@ -223,7 +229,6 @@ edge-138.sesto4.icloud-content.com
 edge-itunes-apple.com.akadns.net
 edge.apple
 edge.icloud-content.com
-ensoptical.co.uk
 entitlements-edge.itunes.apple.com
 entitlements.edge-itunes-apple.com.akadns.net
 entitlements.itunes.apple.com
@@ -359,6 +364,7 @@ ipcdn.apple.com
 iphone-ld.apple.com
 iphone-ld.apple.com-v1.edgesuite.net
 iphone-ld.origin-apple.com.akadns.net
+iphone10.uk
 iphonesubmissions.apple.com
 is-ssl.mzstatic.com.itunes-apple.com.akadns.net
 is1-ssl.mzstatic.com
@@ -408,7 +414,6 @@ mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
 mesu.apple.com
 mesu.apple.com.edgekey.net
-mesu.g.aaplimg.com
 metrics-config.icloud.com
 metrics.icloud.com
 ml.cdn-apple.com.akamaized.net
@@ -484,21 +489,29 @@ p129-keyvalueservice.icloud.com
 p129-quota.icloud.com
 p130-contacts.icloud.com
 p139-acsegateway.icloud.com
+p139-archivews.icloud.com
 p139-caldav.icloud.com
+p139-calendarws.icloud.com
+p139-ckdatabasews.icloud.com
 p139-ckdevice.icloud.com
+p139-ckshare.icloud.com
 p139-contacts.icloud.com
 p139-contactsws.icloud.com
+p139-docws.icloud.com
+p139-drivews.icloud.com
 p139-escrowproxy.icloud.com
 p139-fmf.icloud.com
 p139-fmfmobile.icloud.com
 p139-fmip.icloud.com
 p139-fmipmobile.icloud.com
+p139-geows.icloud.com
 p139-keyvalueservice.icloud.com
 p139-mcc.icloud.com
 p139-mccgateway.icloud.com
 p139-quota.icloud.com
 p139-remindersws.icloud.com
 p139-setup.icloud.com
+p140-ckdatabasews.icloud.com
 p2-buy-lb.itunes-apple.com.akadns.net
 p2-buy.itunes-apple.com.akadns.net
 p2-buy.itunes.apple.com
@@ -522,6 +535,7 @@ p37-content.icloud.com
 p39-content.icloud.com
 p40-availability.icloud.com
 p40-content.icloud.com
+p40-drivews.icloud.com
 p40-escrowproxy.icloud.com
 p40-fmip.icloud.com
 p40-keyvalueservice.icloud.com
@@ -602,7 +616,6 @@ radarsubmissions.apple.com.akadns.net
 radio-services.itunes.apple.com
 radio.itunes.apple.com
 radio.itunes.apple.com.edgekey.net
-researchkit.eu
 rn-albert-prod.apple.com
 s-mzstatic-applak.itunes-apple.com.akadns.net
 s.mzstatic.com
@@ -632,6 +645,7 @@ sf-api-token-service-lb.itunes-apple.com.akadns.net
 sf-api-token-service.itunes.apple.com
 sf-api-token-service.itunes.apple.com.edgekey.net
 sgp-albert-prod.apple.com
+share.icloud.com
 shazam-insights-lb.apple.com.akadns.net
 shazam-insights.cdn-apple.com
 shop-apple.com
@@ -744,7 +758,6 @@ www.apple.com.cn.edgekey.net
 www.apple.com.cn.edgekey.net.globalredir.akadns.net
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
-www.appleiphonecell.com
 www.ibook.info
 www.icloud.com
 www.icloud.com-v1.edgekey.net
