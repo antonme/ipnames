@@ -325,6 +325,7 @@ api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
 api-h2.tiktokv.com.edgekey.net
+api-inference.huggingface.co
 api-pns-sg.tiktok.com.edgekey.net
 api-stream.twitter.com
 api.apple-cloudkit.com
@@ -334,6 +335,7 @@ api.apps.apple.com.edgekey.net
 api.bing.com
 api.bing.microsoft.com
 api.bing.net
+api.bytegeo-v.akadns.net
 api.facebook.com
 api.github.com
 api.openai.com
@@ -380,6 +382,7 @@ apps.itunes.apple.com.edgekey.net
 apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
 appspot.com
+apptocloud.net
 apptrailers-ssl.itunes-apple.com.akadns.net
 apptrailers-ssl.itunes.apple.com
 apptrailers.itunes.apple.com
@@ -423,6 +426,7 @@ australia-perth-ca-version-2.expressnetw.com
 australia-sydney-2-ca-version-2.expressnetw.com
 australia-sydney-ca-version-2.expressnetw.com
 austria-ca-version-2.expressnetw.com
+auth.com
 auth.itunes.apple.com
 auth0.openai.com
 auth0.openai.com.cdn.cloudflare.net
@@ -649,12 +653,16 @@ ccext-static.adobecces.com
 cclibraries-defaults-cdn.adobe.com.edgekey.net
 ccmdls-stls-cn.adobe.com-v2.edgesuite.net.globalredir.akadns88.net
 ccmdls-stls-cn.adobe.com-v2.edgesuite88.net
+ccmdls.adobe.com
 ccpd.adobe.com
 cd.lazerpenguin.com
 cdn-apple.com
 cdn-apple.com.akadns.net
 cdn-ar.apple-mapkit.com.edgekey.net
 cdn-icloud-content.g.aaplimg.com
+cdn-lfs-us-1.huggingface.co
+cdn-lfs.huggingface.co
+cdn-thumbnails.huggingface.co
 cdn.adobeaemcloud.com
 cdn.apple-cloudkit.com
 cdn.apple-cloudkit.com.edgekey.net
@@ -854,7 +862,9 @@ d8oiks9g453d31llrjcr7i0t9650mmad.tt
 dahengyulechengzongbu.googleapis.com
 danfei.adobeaemcloud.com
 danggei.adobeaemcloud.com
+data-status.stage.adobe.com.edgesuite.net
 data.adobedc.net
+data.status.adobe.com.edgesuite.net
 dattihp.adobeaemcloud.com
 daviston.adobeaemcloud.com
 dc-api.twitter.com
@@ -936,7 +946,6 @@ drivefrontend-pa.googleapis.com
 ds.phncdn.com
 ds.phncdn.com.sds.rncdn7.com
 dss51ddihnku9m4qk2p1vpai6j36v3uu.tt
-dual-gslb.spotify.com
 dualstack.twimg.twitter.map.fastly.net
 dualstack.video.twitter.map.fastly.net
 duplessismornay.adobeaemcloud.com
@@ -1068,6 +1077,8 @@ ewpc-236-58.adobeaemcloud.com
 execrating.adobeaemcloud.com
 experiments.apple.com
 experiments.apple.com.edgekey.net
+express-prod.adobeprojectm.com
+express.adobe.com
 external-ams4-1.xx.fbcdn.net
 external-arn2-1.xx.fbcdn.net
 external-cph2-1.xx.fbcdn.net
@@ -1327,6 +1338,7 @@ hangers-on.adobeaemcloud.com
 hao4ugb3hfq676a4375joddd1pnqhgb6.tt
 hariri.adobeaemcloud.com
 hbo4fpic9ja0t98h79mjcu30hhlm3633.tt
+hbrcv.adobe.com
 hbrt-or1-ext-vip.adobe.com
 hbrt.adobe.com
 health.gov.tt
@@ -1380,6 +1392,8 @@ hu-bud.prod.surfshark.com
 hu.lazerpenguin.com
 hu12ka317ijma88at55a4n5a6gb3kn7e.tt
 hubt.pornhub.com
+huggingface.co
+huggingfaceh4-open-llm-leaderboard.hf.space
 hungary-ca-version-2.expressnetw.com
 hyunyx2.adobeaemcloud.com
 hzgu.adobeaemcloud.com
@@ -2055,7 +2069,6 @@ objects.githubusercontent.com
 observation.adobeaemcloud.com
 ocgz.adobeaemcloud.com
 ocio30.adobeaemcloud.com
-ocsp-a.g.aaplimg.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
 ocsp.apple.com
@@ -2839,6 +2852,7 @@ pr-sju.prod.surfshark.com
 pr.lazerpenguin.com
 prd-usw2-requestattribution-iad.apple.com
 primegoogle.com
+private-user-images.githubusercontent.com
 probe-t.twitter.com
 probe.icloud.com
 probe.twitter.com
@@ -2979,6 +2993,7 @@ rr4---sn-jvhnu5g-n8vy.googlevideo.com
 rr4---sn-vgqsknz6.googlevideo.com
 rr4.sn-jvhnu5g-n8vy.googlevideo.com
 rr4.sn-vgqsknz6.googlevideo.com
+rr5---sn-ixh7rn76.googlevideo.com
 rr5---sn-jvhnu5g-c35s.googlevideo.com
 rr5---sn-vgqsknlr.googlevideo.com
 rr5---sn-vgqsknz6.googlevideo.com
@@ -3196,6 +3211,7 @@ ssl.gstatic.com
 st.lazerpenguin.com
 st7l8vcm5a9n6ebgm35g456s5a1fnt22.tt
 stage.cloud.adobe.io
+stage.ims.adobejanus.com
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
 star.facebook.com
@@ -3216,6 +3232,7 @@ staticxx.facebook.com
 stats.adobe.com
 stats.gc-apple.com.akadns.net
 stats.gc.apple.com
+status.adobe.com.edgesuite.net
 stls-wwwimages.adobe.com-cn.edgesuite.net
 stls.adobe.com-cn.edgesuite.net
 stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
@@ -3277,6 +3294,7 @@ t-info.mail.adobe.com
 t-trg.email.adobe.com
 t.co
 t.info.netatmo.com.cname.campaign.adobe.com
+t.messages.adobe.com
 t.tiktok.com.edgesuite.net
 t0.gstatic.com
 t1.gstatic.com
@@ -3553,6 +3571,7 @@ vetz.adobeaemcloud.com
 vg.lazerpenguin.com
 vhh.adobeaemcloud.com
 vi.lazerpenguin.com
+video.tv.adobe.com
 video.twimg.com
 video.xx.fbcdn.net
 videos.apple.com.edgekey.net
@@ -3637,6 +3656,7 @@ www-live-redirect.adobeaemcloud.com
 www-oma1.adobeaemcloud.com
 www-useast1a.tiktok.com.edgekey.net
 www-www.bing.com.trafficmanager.net
+www.accounts.google.com.home.setia.ru
 www.adobe.com
 www.airport.us
 www.apple.com
@@ -3645,14 +3665,17 @@ www.apple.com.cn.edgekey.net
 www.apple.com.cn.edgekey.net.globalredir.akadns.net
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
-www.appleiphonecell.com
 www.as.adobeaemcloud.com
 www.backblaze.com
+www.bat.bing.com
+www.bat.bing.com.home.setia.ru
 www.bing.com
 www.bing.com.edgekey.net
 www.bingapis.com
 www.blogger.com
+www.connect.facebook.net.home.setia.ru
 www.facebook.com
+www.fonts.gstatic.com.home.setia.ru
 www.ghs.google.com
 www.google.com
 www.google.com.br

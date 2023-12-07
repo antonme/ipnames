@@ -44,6 +44,7 @@ filter_names '(\.|-)apple\.com|\.me\.com|\.mac\.com|(\.|-)aapl(\.|-)|\.icloud\.c
 filter_names '\.adobe|behance\.net|\.ftcdn\.|typekit\.com|typekit\.net|astockcdn|photoshop\.com|frame\.io|acrobat\.com|businesscatalyst.com|phonegap.com|prosite.com|myportfolio.com' 'adobe'
 filter_names '(\.)pornhub(\.)|phncdn\.com' 'pornhub'
 filter_names 'backblaze' 'backblaze'
+filter_names 'huggingface|cdn-lfs' 'huggingface'
 echo
 echo "== Save names archive"
 cat dns-*.txt| grep -Ev '^-'|grep "\."|sort -u| sort -h > cache-archive.txt
