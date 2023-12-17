@@ -45,6 +45,7 @@ api-apps-lb.itunes-apple.com.akadns.net
 api-edge.apps-lb.itunes-apple.com.akadns.net
 api-edge.apps.apple.com
 api-edge.apps.apple.com.edgekey.net
+api-glb-aapne1a.smoot.apple.com
 api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
@@ -349,7 +350,9 @@ inappcheck-lb.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com
 init-cdn-lb.ess-apple.com.akadns.net
 init-cdn.itunes-apple.com.akadns.net
+init-kt.apple.com
 init-kt.apple.com.edgekey.net
+init-kt.lb-apple.com.akadns.net
 init-p01md-lb.push-apple.com.akadns.net
 init-p01md.apple.com
 init-p01md.apple.com.edgesuite.net
@@ -469,6 +472,7 @@ ontology.health.apple.com
 origin-apple.com.akadns.net
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
+osxapps.itunes.g.aaplimg.com
 p04-fmip.icloud.com
 p06-fmip.icloud.com
 p10-calendars.icloud.com
@@ -554,6 +558,7 @@ p40-keyvalueservice.icloud.com
 p40-mcc.icloud.com
 p40-pushws.icloud.com
 p40-sharedstreams.icloud.com
+p44-content.icloud.com
 p45-availability.icloud.com
 p45-content.icloud.com
 p45-fmip.icloud.com

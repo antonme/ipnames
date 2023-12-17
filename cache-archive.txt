@@ -18,6 +18,7 @@ AFBF9A27-1662-4607-BDDA-16B57078FA52-netseer-ipaddr-assoc.xz.fbcdn.net
 AHCCFO3NVTIF3A2UKV3M7POTSBLV6HF1.tt
 AVF5OTR927J30A4H7CEGL0CLFGVR8PJJ.tt
 B37E6EAC-70C3-4C41-B407-034434E9533C-netseer-ipaddr-assoc.xz.fbcdn.net
+B676667B-F2B6-4B21-9881-500D1E030E34-netseer-ipaddr-assoc.xz.fbcdn.net
 B6A2P3FTA012IKGC5VHDN0EDN7929PI1.tt
 BGMIBRC6I4VL9K6US3MPAOGP5D32TOPC.tt
 BHAVKTEV36MKSKMALRSTCDIKM7SVFBF6.tt
@@ -101,6 +102,7 @@ LQA7H5UEGC3PRF847GHKO0IJ5LR8ISS4.tt
 LVIJUP7A8U8IP12L7LVR4403K4MQMJ5L.tt
 M518LL9RDS6EC62Q4V8MLPL6TTOJ2NQT.tt
 M5VCKIF7I1VB5L84MSLHOTTTVACNE8L0.tt
+MAGADAN.SU
 MTVPGIEFPMQH8TOEB0QU519EAR91UOOM.tt
 MUM6TTOVE7DVLLP0KO1RVN3K4P916FTT.tt
 N1GORH4AM8TVAU0LNULVNQLGMCU0A44H.tt
@@ -211,7 +213,9 @@ adobe.com
 adobe.net
 adobedc.net
 adobedtm.com
+adobeid-na1.services.adobe.com
 adobelogin-prod07.prod.ims.adobejanus.com
+adobelogin-static.prod.ims.adobejanus.com
 adobelogin.com
 adobelogin.prod.ims.adobejanus.com
 ads-twitter.com
@@ -339,6 +343,7 @@ api-apps-lb.itunes-apple.com.akadns.net
 api-edge.apps-lb.itunes-apple.com.akadns.net
 api-edge.apps.apple.com
 api-edge.apps.apple.com.edgekey.net
+api-glb-aapne1a.smoot.apple.com
 api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
@@ -415,6 +420,8 @@ armc212-xerox5135.adobeaemcloud.com
 armenia-ca-version-2.expressnetw.com
 arn03.hls.ttvnw.net
 arn04.hls.ttvnw.net
+ars.adobe.io
+ars.oobesaas.adobe.com
 arsh-02961.adobeaemcloud.com
 artemis.ttd.net
 arubavpnd22032.adobeaemcloud.com
@@ -443,6 +450,9 @@ australia-sydney-2-ca-version-2.expressnetw.com
 australia-sydney-ca-version-2.expressnetw.com
 austria-ca-version-2.expressnetw.com
 auth.itunes.apple.com
+auth.prod.ims.adobejanus.com
+auth.services.adobe.com
+auth.services.adobe.com.cdn.cloudflare.net
 auth0.openai.com
 auth0.openai.com.cdn.cloudflare.net
 authorize.music.apple.com.edgekey.net
@@ -564,6 +574,7 @@ books.apple.com.edgekey.net
 boread.adobeaemcloud.com
 bosniaandherzegovina-ca-version-2.expressnetw.com
 bpapi.apple.com
+bps-il.adobe.io
 bqltl9v5t41lh0pmt2gsekt1ctp8k0d0.tt
 br-apple.com
 br-sao.prod.surfshark.com
@@ -667,6 +678,7 @@ cc-api-behance.adobe.io
 cc-api-data.adobe.io
 cc-cdn.adobe.com
 cc-cdn.adobe.com.edgekey.net
+cc-collab.adobe.io
 cc-embed.adobe.com
 cc.lazerpenguin.com
 ccext-static.adobecces.com
@@ -679,6 +691,8 @@ cd.lazerpenguin.com
 cdn-apple.com
 cdn-apple.com.akadns.net
 cdn-ar.apple-mapkit.com.edgekey.net
+cdn-ffc.oobesaas.adobe.com
+cdn-geo-ffc.oobesaas.adobe.com
 cdn-icloud-content.g.aaplimg.com
 cdn-lfs-us-1.huggingface.co
 cdn-lfs.huggingface.co
@@ -763,6 +777,7 @@ cli.github.com
 client-api-cdn.itunes-apple.com.akadns.net
 client-api.itunes.apple.com
 client-api.itunes.apple.com.edgesuite.net
+client.messaging.adobe.com
 clientflow.apple.com
 clientflow.apple.com.akadns.net
 clients.l.google.com
@@ -1133,6 +1148,8 @@ feelinsonice.l.google.com
 fenghuangdaili.adobeaemcloud.com
 fenghuangyulechenghuiyuanzhuce.adobeaemcloud.com
 fengtianhuangguandaohangguangpananzhuang.adobeaemcloud.com
+ffc-static-cdn.oobesaas.adobe.com
+ffc.adobe.io
 ffc.adobeoobe.com
 fgde.adobeaemcloud.com
 fgih.adobeaemcloud.com
@@ -1260,7 +1277,6 @@ google.com.br
 google.com.ru
 google.com.ua
 google.de
-google.fi
 google.ru
 googleadservices.com
 googleapis.cn
@@ -1491,7 +1507,9 @@ infra.adobesensei.io
 ingress.ethos13-prod-va7.ethos.adobe.net
 init-cdn-lb.ess-apple.com.akadns.net
 init-cdn.itunes-apple.com.akadns.net
+init-kt.apple.com
 init-kt.apple.com.edgekey.net
+init-kt.lb-apple.com.akadns.net
 init-p01md-lb.push-apple.com.akadns.net
 init-p01md.apple.com
 init-p01md.apple.com.edgesuite.net
@@ -1691,6 +1709,7 @@ lc.lazerpenguin.com
 lcdn-locator-usuqo.apple.com.akadns.net
 lcdn-locator.apple.com
 lcdn-locator.apple.com.akadns.net
+lcs-cops.adobe.io
 lejanoverseas.com
 lesechos-mkt-prod2-cus.campaign.adobe.com
 lesechos-mkt-prod2-t.adobe-campaign.com
@@ -1919,6 +1938,7 @@ n5pt.adobeaemcloud.com
 n8ujl03bq3o4n60r3ue7cttcuobv08hg.tt
 nNWKnloRiQTZ.adobe.com
 na.lazerpenguin.com
+na1e-acc.services.adobe.com
 na1e-uw.services.adobe.com
 nanguoqixingcaifushifangan.adobeaemcloud.com
 naqing.adobeaemcloud.com
@@ -2148,6 +2168,7 @@ oreades.adobeaemcloud.com
 origin-apple.com.akadns.net
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
+osxapps.itunes.g.aaplimg.com
 ourse.adobeaemcloud.com
 overseas-united.com
 overseascompanyshop.com
@@ -2166,6 +2187,7 @@ p-00.adobeaemcloud.net
 p-static.bing.trafficmanager.net
 p-th.bing.com.trafficmanager.net
 p.ozon.ru
+p.typekit.net
 p.typekit.net-stls-v3.edgesuite.net
 p04-fmip.icloud.com
 p06-fmip.icloud.com
@@ -2220,6 +2242,7 @@ p139-mccgateway.icloud.com
 p139-quota.icloud.com
 p139-remindersws.icloud.com
 p139-setup.icloud.com
+p13n-mr.adobe.io
 p13n.adobe.io
 p140-ckdatabasews.icloud.com
 p16-amd-va.tiktokcdn.com.akamaized.net
@@ -2271,6 +2294,7 @@ p40-keyvalueservice.icloud.com
 p40-mcc.icloud.com
 p40-pushws.icloud.com
 p40-sharedstreams.icloud.com
+p44-content.icloud.com
 p45-availability.icloud.com
 p45-content.icloud.com
 p45-fmip.icloud.com
@@ -2903,6 +2927,8 @@ private-user-images.githubusercontent.com
 probe-t.twitter.com
 probe.icloud.com
 probe.twitter.com
+prod-rel-ffc-ccm.oobesaas.adobe.com
+prod.adobeccstatic.com
 prod.cloud.adobe.io
 prod.ims.adobejanus.com
 profile.ess-apple.com.akadns.net
@@ -3165,6 +3191,7 @@ serv-1.ttcldata.net
 server.messaging.adobe.com
 services-bingapis-com.e-0001.e-msedge.net
 services.bingapis.com
+services.prod.ims.adobejanus.com
 sesto4.icloud-content.com
 setup.icloud.com
 sf-api-token-service-lb.itunes-apple.com.akadns.net
@@ -3259,6 +3286,7 @@ ssl-delivery.adobe.com.edgekey.net
 ssl.adobe.com.edgekey.net
 ssl.bing.com
 ssl.gstatic.com
+sstats.adobe.com
 st.lazerpenguin.com
 st7l8vcm5a9n6ebgm35g456s5a1fnt22.tt
 stage.cloud.adobe.io
@@ -3274,6 +3302,8 @@ starling.us.tiktokv.com.edgesuite.net
 state.typekit.net
 static-ams4-1.xx.fbcdn.net
 static-arn2-1.xx.fbcdn.net
+static-cdn-geo-ffc.oobesaas.adobe.com
+static.adobelogin.com
 static.cdn-apple.com.edgekey.net
 static.cdninstagram.com
 static.frix8-1.fna.fbcdn.net
@@ -3425,9 +3455,22 @@ translate.googleapis.com
 trc9i.chat.openai.com
 tsdp.adobeaemcloud.com
 tstt.net.tt
+tt.co.kr
 tt.lazerpenguin.com
+ttasia.com
+ttawor.com
+ttc.kz
+ttcldata.net
+ttfcdns.com
+ttinovations.com
 ttlivecdn.com
+ttlserver.ro
+ttmhosting.com
+ttn.ne.jp
 ttoverseaus.net
+ttrbilisim.com
+ttu.edu
+ttuhosting.ca
 ttv-ns3t.ttv.ne.jp
 ttv-ns4t.ttv.ne.jp
 ttwid-va.byteoversea.com.edgekey.net
@@ -3435,6 +3478,7 @@ ttwstatic.com
 tuesdayoverseas.com
 tunken.adobeaemcloud.com
 turkey-ca-version-2.expressnetw.com
+turkticaretrehberi.com
 tv.lazerpenguin.com
 tw-tai.prod.surfshark.com
 tw.lazerpenguin.com
@@ -3558,6 +3602,7 @@ usa-tampa-1-ca-version-2.expressnetw.com
 usa-washingtondc-ca-version-2.expressnetw.com
 usdal2.icloud-content.com
 use-stls.adobe.com.edgesuite.net
+use.typekit.net
 use1-tdm-prod.apple.com
 user-images.githubusercontent.com
 usher.ttvnw.net
@@ -3637,6 +3682,7 @@ vod-ap-aoc.tv.apple.com.akadns.net
 voxu.adobeaemcloud.com
 vp9o.adobeaemcloud.com
 vpp-app.itunes.apple.com.edgekey.net
+vtt.net
 vu.lazerpenguin.com
 vujhbcgm13u1ov5ipa68kkqmjcm6v1ol.tt
 vvv.facebook.com
