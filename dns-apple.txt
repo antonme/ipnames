@@ -53,6 +53,7 @@ api-glb-aeuc1b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
 api.apple-cloudkit.com
 api.apple-cloudkit.fe.apple-dns.net
+api.apple-cloudkit.fe2.apple-dns.net
 api.apps.apple.com
 api.apps.apple.com.edgekey.net
 api.smoot.apple.com
@@ -441,6 +442,7 @@ mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
 mesu.apple.com
 mesu.apple.com.edgekey.net
+mesu.g.aaplimg.com
 metrics-config.icloud.com
 metrics.icloud.com
 ml.cdn-apple.com
@@ -476,7 +478,6 @@ northamerica-1.object-storage.apple.com
 notes-analytics-events.apple.com
 np-edge.itunes.apple.com.edgesuite.net
 nserver.apple.com
-ocsp-a.g.aaplimg.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
 ocsp.apple.com
@@ -751,7 +752,6 @@ sync.itunes.apple.com
 tdms.apple.com
 testflight.apple.com
 testflight.apple.com.edgekey.net
-thinkdifferent.us
 time-ios.apple.com
 time.apple.com
 time.euro.apple.com
