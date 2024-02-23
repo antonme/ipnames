@@ -20,6 +20,8 @@ amp-api-edge.apps.apple.com.edgekey.net
 amp-api-music-lb.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
+amp-api-updates.apps.apple.com
+amp-api-updates.apps.apple.com.edgekey.net
 amp-api.apps-lb.itunes-apple.com.akadns.net
 amp-api.apps.apple.com
 amp-api.apps.apple.com.edgekey.net
@@ -254,6 +256,7 @@ edge-129.usdal2.icloud-content.com
 edge-135.sesto4.icloud-content.com
 edge-137.sesto4.icloud-content.com
 edge-138.sesto4.icloud-content.com
+edge-160.usdal2.icloud-content.com
 edge-175.usdal2.icloud-content.com
 edge-itunes-apple.com.akadns.net
 edge.apple
@@ -487,7 +490,6 @@ northamerica-1.object-storage.apple.com
 notes-analytics-events.apple.com
 np-edge.itunes.apple.com.edgesuite.net
 nserver.apple.com
-ocsp-a.g.aaplimg.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
 ocsp.apple.com
