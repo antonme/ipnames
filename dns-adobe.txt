@@ -19,6 +19,7 @@ a.ns.campaign.adobe.com
 a449podzemska.rek.adobeaemcloud.com
 aaqv.adobeaemcloud.com
 abZZZkUYlUhU.adobe.com
+account-va6-prod-k8s.cloud.adobe.io
 account.adobe.com
 accounts.adobe.com
 acierate.adobeaemcloud.com
@@ -37,6 +38,7 @@ adobe.net
 adobedc.net
 adobedtm.com
 adobeid-na1.services.adobe.com
+adobeid-na1.services.adobe.com.cdn.cloudflare.net
 adobelogin-prod07.prod.ims.adobejanus.com
 adobelogin-static.prod.ims.adobejanus.com
 adobelogin.com
@@ -64,6 +66,7 @@ assets.adobedtm.com
 astockcdn.net
 aug-student-141-224-206-156.adobeaemcloud.com
 aug-student-141-224-206-87.adobeaemcloud.com
+aus5.dcs.adobedc.net
 auth.prod.ims.adobejanus.com
 auth.services.adobe.com
 auth.services.adobe.com.cdn.cloudflare.net
@@ -169,6 +172,7 @@ data.adobedc.net
 data.status.adobe.com.edgesuite.net
 dattihp.adobeaemcloud.com
 daviston.adobeaemcloud.com
+dcs.adobedc.net
 ddlc.adobeaemcloud.com
 demdex.net
 design-assets.adobeprojectm.com
@@ -211,6 +215,7 @@ esgaroth.adobeaemcloud.com
 ethos.adobe.net
 ethos.ethos502-prod-irl1.ethos.adobe.net
 ethos.ethos502-prod-va6.ethos.adobe.net
+ethos.ethos551-prod-va6.ethos.adobe.net
 ewpc-236-58.adobeaemcloud.com
 execrating.adobeaemcloud.com
 express-prod.adobeprojectm.com
@@ -227,6 +232,7 @@ fgde.adobeaemcloud.com
 fgih.adobeaemcloud.com
 fiaocong.adobeaemcloud.com
 filmable.adobeaemcloud.com
+firefly-ps.adobe.io
 firefly.adobe.com
 fonts.adobe.com
 four-rowed.adobeaemcloud.com
@@ -355,6 +361,7 @@ messaging.adobe.com
 mhbb.adobeaemcloud.com
 milg.adobeaemcloud.com
 milo.adobe.com.edgesuite.net
+milo.adobe.com.edgesuite.net.globalredir.akadns.net
 mir-s3-cdn-cf.behance.net
 mk7r.adobeaemcloud.com
 mscom-mkt-prod79-lb.campaign.adobe.com
@@ -369,6 +376,7 @@ nbrady.adobeaemcloud.com
 netatmo-mkt-prod1-res.adobe-campaign.com
 new.express.adobe.com
 nil9.adobeaemcloud.com
+nld2.dcs.adobedc.net
 nna.adobeaemcloud.com
 nontreaties.adobeaemcloud.com
 notify.adobe.io
@@ -502,8 +510,10 @@ sculker.adobeaemcloud.com
 secureuk.adobeaemcloud.com
 self-ignite.adobeaemcloud.com
 server.messaging.adobe.com
+services-weighted.prod.ims.adobejanus.com
 services.prod.ims.adobejanus.com
 shishicaizhuanqianjihuaqun.adobeaemcloud.com
+short-url.postoffice.adobe.com
 sk7i.adobeaemcloud.com
 sl0z.adobeaemcloud.com
 smartmov.adobeaemcloud.com
@@ -512,6 +522,7 @@ south-green.adobeaemcloud.com
 southendonsea.adobeaemcloud.com
 spinosaurus.adobeaemcloud.com
 ss-prod-an1-ns.aws.adobess.com
+ssl-delivery.adobe.com-stls-dd-cn-v2.edgesuite.net.globalredir.akadns88.net
 ssl-delivery.adobe.com-stls-dd-cn-v2.edgesuite88.net
 ssl-delivery.adobe.com.edgekey.net
 ssl.adobe.com.edgekey.net
@@ -525,13 +536,16 @@ static.adobelogin.com-v1.edgekey.net
 stats.adobe.com
 status.adobe.com.edgesuite.net
 stls-wwwimages.adobe.com-cn.edgesuite.net
+stls-wwwimages.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 stls-wwwimages2.adobe.com-cn.edgesuite.net
+stls-wwwimages2.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 stls.adobe.com-cn.edgesuite.net
 stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 stls.helpx.adobe.com-cn.edgesuite.net
 stls.helpx.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 stnm.adobeaemcloud.com
 stock.adobe.io
+streaming-ingest-prod.ethos11-prod-aus5.ethos.adobe.net
 sub-166-152-29.adobeaemcloud.com
 sub-97-134-241.adobeaemcloud.com
 sub-97-142-45.adobeaemcloud.com
@@ -603,6 +617,7 @@ woodmere.adobeaemcloud.com
 wslh.adobeaemcloud.com
 www-live-redirect.adobeaemcloud.com
 www-oma1.adobeaemcloud.com
+www-prod.adobesunbreak.com
 www.adobe.com
 www.as.adobeaemcloud.com
 wxf.adobeaemcloud.com

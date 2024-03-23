@@ -86,6 +86,7 @@ apptrailers-ssl.itunes.apple.com
 apptrailers.itunes.apple.com
 asa.commerce.apple.com.edgesuite.net
 attester.gateway.icloud.com
+auth.com
 auth.itunes.apple.com
 authorize.music.apple.com.edgekey.net
 ax.itunes.apple.com.edgesuite.net
@@ -422,11 +423,13 @@ ipv6.mzstatic.com.edgesuite.net
 is-ssl.mzstatic.com.itunes-apple.com.akadns.net
 is1-ssl.mzstatic.com
 is1.mzstatic.com
+is1.mzstatic.com.itunes-apple.com.akadns.net
 is2-ssl.mzstatic.com
 is3-ssl.mzstatic.com
 is4-ssl.mzstatic.com
 is5-ssl.mzstatic.com
 is5.mzstatic.com
+is5.mzstatic.com.itunes-apple.com.akadns.net
 itools.info
 itunes-apple.com.akadns.net
 itunes-cdn.itunes-apple.com.akadns.net
@@ -764,6 +767,7 @@ stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-edge.apple.com
 stocks-sparkline.apple.com
+stocks-sparkline.apple.com.edgekey.net
 store-030.blobstore.apple.com
 store-031.blobstore.apple.com
 store.storeimages.cdn-apple.com-v2.edgekey.net
@@ -849,7 +853,6 @@ www.apple.com.cn.edgekey.net
 www.apple.com.cn.edgekey.net.globalredir.akadns.net
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
-www.appleiphonecell.com
 www.ibook.info
 www.icloud.com
 www.icloud.com-v1.edgekey.net

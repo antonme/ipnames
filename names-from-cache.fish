@@ -28,6 +28,9 @@ echo
 echo "==Preparing surfshark names"
 curl https://api.surfshark.com/v4/server/clusters| jq .[].connectionName | tr -d '"'|sort|uniq > dns-surfshark.txt
 
+echo "==Antifilter.Download names"
+curl https://community.antifilter.download/list/domains.lst >> cache-antifilter.txt
+
 echo
 echo "==Extracting names"
 
@@ -35,7 +38,7 @@ filter_names 'google\.com|\.google\.$|googlesyndication|googleapis\.com|gstatic\
 filter_names 'google\.com|\.google\.$|googlesyndication|googleapis\.com|gstatic\.com|googleusercontent\.com|googlevideo|(-|\.)youtube\.|\.ytimg' 'youtube' 'lytics' 'yt|you|googlevideo|video'
 filter_names "fbcdn|instag|\.facebook\.|b00c" 'facebook'
 filter_names "\.tiktok|tiktokv|(\.|-)tt|ttlive|bytefcdn|worldfcdn|bytetcdn|byte.cdn|ovscdns|pitaya|ttlive|bytefcdn|overseas|ovscdns|pitaya|worldfcdn|byte.cdn|bytedance|-webcast-|tiqcdn|ttcdn|ttwstatic|ttoversea|sgsnssdk|byteimg|ibyteimg|musical\.ly|isnssdk|ibyteimg|cdn\.concert\.io|anitm.xyz|2to2.top|bitssec|bytedapm|-oversea|goofy-cdn|byteglb|byteoversea|bytesover|ibytedtos|bytedance|byted\.org|bytegecko|hypstarcdn|pstatp" 'tiktok' 'ttddnnss'
-filter_names "openai\.|[\. ]oai" 'openai'
+filter_names "openai\.|[\. ]oai|chatgpt" 'openai'
 filter_names "(^|\.)bing(\.)|bingads|bingapis|bingforbusiness|bi.ng|cortana|bing-int|microsoft|msft" 'bing' '' "bin|cortana"
 filter_names 'twitter|twtt|twimg|twtr|(\.|^)t\.co$|twitpic|(^|\.)x\.com|tweet|periscope|pscp\.tv' 'twitter'
 filter_names '(\.|-|^)ozon(\.|-)|ozonuser' 'ozon'
