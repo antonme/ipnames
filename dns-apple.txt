@@ -74,6 +74,7 @@ appleid.cdn-apple.com.edgekey.net
 appleid.idms-apple.com.akadns.net
 appleiphonecell.com
 appleseedcdn.apple.com
+apps-mzstatic-aaplcdn.itunes-apple.com.akadns.net
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 apps.apple.com
 apps.apple.com.edgekey.net
@@ -392,6 +393,7 @@ inappcheck-ak.itunes-apple.com.akadns.net
 inappcheck-lb.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com
 init-cdn-lb.ess-apple.com.akadns.net
+init-cdn-world.ess-apple.com.akadns.net
 init-cdn.itunes-apple.com.akadns.net
 init-kt.apple.com
 init-kt.apple.com.edgekey.net
@@ -474,7 +476,6 @@ mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
 mesu.apple.com
 mesu.apple.com.edgekey.net
-mesu.g.aaplimg.com
 metrics-config.icloud.com
 metrics.icloud.com
 ml.cdn-apple.com
@@ -664,6 +665,7 @@ p72-content.icloud.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com
 partiality.itunes.apple.com.edgekey.net
@@ -810,6 +812,7 @@ updates-http.cdn-apple.com.edgesuite.net
 updates.cdn-apple.com
 updates.cdn-apple.com.akadns.net
 updates.cdn-apple.com.edgesuite.net
+updates.g.aaplimg.com
 upp-cdn.itunes-apple.com.akadns.net
 upp.itunes.apple.com
 us-courier-vs.push-apple.com.akadns.net
