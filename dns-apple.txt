@@ -5,7 +5,6 @@ aaplimg.com
 ab.apple.com.akadns.net
 aidc.apple.com
 aidc.origin-apple.com.akadns.net
-airport.us
 albert.apple.com
 albert.v.aaplimg.com
 amd-infra.apps-apple.com.akadns.net
@@ -14,9 +13,11 @@ amp-account.apps.apple.com
 amp-account.itunes-apple.com.akadns.net
 amp-account.itunes.apple.com
 amp-account.music.apple.com
+amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
+amp-api-edge.apps.apple.com.edgesuite.net
 amp-api-music-lb.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
@@ -87,7 +88,6 @@ apptrailers-ssl.itunes.apple.com
 apptrailers.itunes.apple.com
 asa.commerce.apple.com.edgesuite.net
 attester.gateway.icloud.com
-auth.com
 auth.itunes.apple.com
 authorize.music.apple.com.edgekey.net
 ax.itunes.apple.com.edgesuite.net
@@ -381,7 +381,6 @@ iadcontent.apple.com.edgekey.net
 iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
-ibook.info
 icloud-content.com
 icloud.com
 identity.apple.com
@@ -389,6 +388,7 @@ identity.ess-apple.com.akadns.net
 identity.ess.apple.com
 idiagnostics.apple.com
 idms-apple.com.akadns.net
+images-mercury.mzstatic.com
 imap.mail.me.com.akadns.net
 inappcheck-ak.itunes-apple.com.akadns.net
 inappcheck-lb.itunes-apple.com.akadns.net
@@ -403,11 +403,13 @@ init-p01md-lb.push-apple.com.akadns.net
 init-p01md.apple.com
 init-p01md.apple.com.edgesuite.net
 init-p01st-lb.push-apple.com.akadns.net
+init-p01st-v6.push.apple.com.edgesuite.net
 init-p01st.push.apple.com
 init-p01st.push.apple.com.edgesuite.net
 init-s01st.push.apple.com.edgesuite.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc-lb.apple.com.akadns.net
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
@@ -435,7 +437,6 @@ is4-ssl.mzstatic.com
 is5-ssl.mzstatic.com
 is5.mzstatic.com
 is5.mzstatic.com.itunes-apple.com.akadns.net
-itools.info
 itunes-apple.com.akadns.net
 itunes-cdn.itunes-apple.com.akadns.net
 itunes-nocookie.com
@@ -512,7 +513,6 @@ northamerica-1.object-storage.apple.com
 notes-analytics-events.apple.com
 np-edge.itunes.apple.com.edgesuite.net
 nserver.apple.com
-ocsp-a.g.aaplimg.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
 ocsp.apple.com
@@ -802,7 +802,6 @@ sync.itunes.apple.com
 tdms.apple.com
 testflight.apple.com
 testflight.apple.com.edgekey.net
-thinkdifferent.us
 time-ios.apple.com
 time.apple.com
 time.euro.apple.com
