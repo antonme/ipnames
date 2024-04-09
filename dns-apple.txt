@@ -209,6 +209,7 @@ device-config.pcms.apple.com
 devimages-cdn.apple.com
 devimages-cdn.origin-apple.com.akadns.net
 discussions.apple.com.edgekey.net
+dkvib11.icloud-content.com
 dns.apple.com
 dns.apple.com.v.aaplimg.com
 docs-assets.developer.apple.com
@@ -477,7 +478,6 @@ mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
 mesu.apple.com
 mesu.apple.com.edgekey.net
-mesu.g.aaplimg.com
 metrics-config.icloud.com
 metrics.icloud.com
 ml.cdn-apple.com
@@ -763,6 +763,8 @@ sps-media.apple.com
 sq-device.apple.com
 sq-device.v.aaplimg.com
 static.cdn-apple.com.edgekey.net
+static.gc-lb.apple.com.akadns.net
+static.gc.apple.com
 static2.ips.apple.com.edgekey.net
 statici.icloud.com
 statici.icloud.com.edgekey.net
@@ -807,6 +809,9 @@ time-ios.apple.com
 time.apple.com
 time.euro.apple.com
 tr.iadsdk.apple.com
+transfer-ext-a-v4.dns.apple.com
+transfer-ext-b-v4.dns.apple.com
+transfer-ext-c-v4.dns.apple.com
 turn.gc.apple.com
 unlinkability.apple.com
 updates-http.cdn-apple.com
