@@ -23561,3 +23561,42 @@ Thu May  2 07:30:17 MSK 2024                ext-dns-tiktok.txt  >ext-resolve-tik
 Thu May  2 07:32:44 MSK 2024                ext-dns-twitter.txt  >ext-resolve-twitter.txt
 Thu May  2 07:34:07 MSK 2024                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
 Thu May  2 07:38:01 MSK 2024                ext-dns-youtube.txt  >ext-resolve-youtube.txt
+[master 5b19cda] auto-update ipv4
+ 31 files changed, 7431 insertions(+), 6792 deletions(-)
+
+== Resolving names to ipv6
+Thu May  2 07:38:12 MSK 2024                dns-adobe.txt  >ipv6-resolve-adobe.txt
+Thu May  2 07:45:01 MSK 2024                dns-apple.txt  >ipv6-resolve-apple.txt
+Thu May  2 07:55:03 MSK 2024                dns-backblaze.txt  >ipv6-resolve-backblaze.txt
+Thu May  2 08:00:31 MSK 2024                dns-bing.txt  >ipv6-resolve-bing.txt
+Thu May  2 08:01:07 MSK 2024                dns-expressvpn.txt  >ipv6-resolve-expressvpn.txt
+Thu May  2 08:02:40 MSK 2024                dns-facebook.txt  >ipv6-resolve-facebook.txt
+Thu May  2 08:06:22 MSK 2024                dns-github.txt  >ipv6-resolve-github.txt
+Thu May  2 08:06:57 MSK 2024                dns-google.txt  >ipv6-resolve-google.txt
+Thu May  2 08:09:37 MSK 2024                dns-huggingface.txt  >ipv6-resolve-huggingface.txt
+Thu May  2 08:09:45 MSK 2024                dns-openai.txt  >ipv6-resolve-openai.txt
+Thu May  2 08:10:18 MSK 2024                dns-ozon.txt  >ipv6-resolve-ozon.txt
+Thu May  2 08:10:36 MSK 2024                dns-pornhub.txt  >ipv6-resolve-pornhub.txt
+Thu May  2 08:11:08 MSK 2024                dns-surfshark.txt  >ipv6-resolve-surfshark.txt
+Thu May  2 08:12:31 MSK 2024                dns-tiktok.txt  >ipv6-resolve-tiktok.txt
+Thu May  2 08:26:57 MSK 2024                dns-tunnelbear.txt  >ipv6-resolve-tunnelbear.txt
+Thu May  2 08:29:27 MSK 2024                dns-twitter.txt  >ipv6-resolve-twitter.txt
+Thu May  2 08:31:14 MSK 2024                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
+Thu May  2 08:31:20 MSK 2024                dns-youtube.txt  >ipv6-resolve-youtube.txt
+
+== Resolving external names to ipv6
+Thu May  2 08:32:20 MSK 2024                ext-dns-adobe.txt  >ipv6-ext-resolve-adobe.txt
+Thu May  2 08:33:19 MSK 2024                ext-dns-apple.txt  >ipv6-ext-resolve-apple.txt
+Thu May  2 08:33:37 MSK 2024                ext-dns-backblaze.txt  >ipv6-ext-resolve-backblaze.txt
+Thu May  2 08:33:38 MSK 2024                ext-dns-bing.txt  >ipv6-ext-resolve-bing.txt
+Thu May  2 08:33:44 MSK 2024                ext-dns-facebook.txt  >ipv6-ext-resolve-facebook.txt
+Thu May  2 08:37:53 MSK 2024                ext-dns-github.txt  >ipv6-ext-resolve-github.txt
+Thu May  2 08:37:55 MSK 2024                ext-dns-google.txt  >ipv6-ext-resolve-google.txt
+Thu May  2 08:39:59 MSK 2024                ext-dns-huggingface.txt  >ipv6-ext-resolve-huggingface.txt
+Thu May  2 08:40:00 MSK 2024                ext-dns-openai.txt  >ipv6-ext-resolve-openai.txt
+Thu May  2 08:40:04 MSK 2024                ext-dns-ozon.txt  >ipv6-ext-resolve-ozon.txt
+Thu May  2 08:40:06 MSK 2024                ext-dns-pornhub.txt  >ipv6-ext-resolve-pornhub.txt
+Thu May  2 08:40:07 MSK 2024                ext-dns-tiktok.txt  >ipv6-ext-resolve-tiktok.txt
+Thu May  2 08:41:48 MSK 2024                ext-dns-twitter.txt  >ipv6-ext-resolve-twitter.txt
+Thu May  2 08:42:48 MSK 2024                ext-dns-vpnhosts.txt  >ipv6-ext-resolve-vpnhosts.txt
+Thu May  2 08:45:30 MSK 2024                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
