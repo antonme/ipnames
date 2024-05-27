@@ -26322,3 +26322,42 @@ Mon May 27 06:27:01 MSK 2024
 ===huggingface
 
 == Save names archive
+[master 00286d0] auto-update names
+ 8 files changed, 56 insertions(+), 4 deletions(-)
+
+== Resolving names to ipv4
+Mon May 27 06:27:07 MSK 2024                dns-adobe.txt  >resolve-adobe.txt
+Mon May 27 06:30:24 MSK 2024                dns-apple.txt  >resolve-apple.txt
+Mon May 27 06:34:44 MSK 2024                dns-backblaze.txt  >resolve-backblaze.txt
+Mon May 27 06:37:17 MSK 2024                dns-bing.txt  >resolve-bing.txt
+Mon May 27 06:37:32 MSK 2024                dns-expressvpn.txt  >resolve-expressvpn.txt
+Mon May 27 06:38:15 MSK 2024                dns-facebook.txt  >resolve-facebook.txt
+Mon May 27 06:40:13 MSK 2024                dns-github.txt  >resolve-github.txt
+Mon May 27 06:40:28 MSK 2024                dns-google.txt  >resolve-google.txt
+Mon May 27 06:41:52 MSK 2024                dns-huggingface.txt  >resolve-huggingface.txt
+Mon May 27 06:41:54 MSK 2024                dns-openai.txt  >resolve-openai.txt
+Mon May 27 06:42:09 MSK 2024                dns-ozon.txt  >resolve-ozon.txt
+Mon May 27 06:42:19 MSK 2024                dns-pornhub.txt  >resolve-pornhub.txt
+Mon May 27 06:42:33 MSK 2024                dns-surfshark.txt  >resolve-surfshark.txt
+Mon May 27 06:43:13 MSK 2024                dns-tiktok.txt  >resolve-tiktok.txt
+Mon May 27 06:49:24 MSK 2024                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Mon May 27 06:50:31 MSK 2024                dns-twitter.txt  >resolve-twitter.txt
+Mon May 27 06:51:29 MSK 2024                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Mon May 27 06:51:30 MSK 2024                dns-youtube.txt  >resolve-youtube.txt
+
+== Resolving external names to ipv4
+Mon May 27 06:51:58 MSK 2024                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Mon May 27 06:53:01 MSK 2024                ext-dns-apple.txt  >ext-resolve-apple.txt
+Mon May 27 06:53:20 MSK 2024                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Mon May 27 06:53:21 MSK 2024                ext-dns-bing.txt  >ext-resolve-bing.txt
+Mon May 27 06:53:25 MSK 2024                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Mon May 27 06:57:53 MSK 2024                ext-dns-github.txt  >ext-resolve-github.txt
+Mon May 27 06:57:55 MSK 2024                ext-dns-google.txt  >ext-resolve-google.txt
+Mon May 27 07:00:17 MSK 2024                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Mon May 27 07:00:18 MSK 2024                ext-dns-openai.txt  >ext-resolve-openai.txt
+Mon May 27 07:00:25 MSK 2024                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Mon May 27 07:00:28 MSK 2024                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Mon May 27 07:00:29 MSK 2024                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Mon May 27 07:02:54 MSK 2024                ext-dns-twitter.txt  >ext-resolve-twitter.txt
+Mon May 27 07:04:27 MSK 2024                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
+Mon May 27 07:09:01 MSK 2024                ext-dns-youtube.txt  >ext-resolve-youtube.txt
