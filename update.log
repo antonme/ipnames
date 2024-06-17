@@ -28640,3 +28640,37 @@ Sun Jun 16 07:50:30 MSK 2024                ext-dns-tiktok.txt  >ipv6-ext-resolv
 Sun Jun 16 07:52:27 MSK 2024                ext-dns-twitter.txt  >ipv6-ext-resolve-twitter.txt
 Sun Jun 16 07:53:30 MSK 2024                ext-dns-vpnhosts.txt  >ipv6-ext-resolve-vpnhosts.txt
 Sun Jun 16 07:56:35 MSK 2024                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
+[master 46a73ec] auto-update ipv6
+ 23 files changed, 3859 insertions(+), 3765 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Mon Jun 17 06:27:01 MSK 2024
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+
+== Save names archive
