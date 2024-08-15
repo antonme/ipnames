@@ -35,3 +35,8 @@ Sites/platforms included: Adobe, Apple, Backblaze, Bing, Facebook, GitHub, Googl
 - [Cisco Umbrella](https://umbrella-static.s3-us-west-1.amazonaws.com/index.html)
 - [DomCop's Top 10 Million Domains](https://www.domcop.com/top-10-million-websites)
 - [The Majestic Million](https://majestic.com/reports/majestic-million)
+
+## Sister projects
+Here's list of another data I use for my router configs:
+  * [ipranges](https://github.com/antonme/ipranges): list IP ranges of: Google, Bing, Amazon, Microsoft, Azure, Oracle, DigitalOcean, GitHub, Facebook, Twitter, Linode, Yandex, Vkontakte with regular auto-updates
+  * [geoip](https://github.com/antonme/geoip): lists of CIDR's by regions for routing VPNs in my router
