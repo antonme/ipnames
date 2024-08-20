@@ -12,7 +12,7 @@ Sites/platforms included: Adobe, Apple, Backblaze, Bing, Facebook, GitHub, Googl
 | `dns-*.txt` | FQDNs filtered from smaller, current DNS logs |
 | `ext-dns-*.txt` | FQDNs filtered from larger external sources |
 | `resolve-*.txt` | Resolved IPv4 addresses from `dns-*.txt` |
-| `ipv6-*.txt` | Resolved IPv6 addresses from `ext-dns-*.txt` |
+| `ipv6-*.txt` | Resolved IPv6 addresses from `dns-*.txt` |
 
 ### Configuration Files
 
