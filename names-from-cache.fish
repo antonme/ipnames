@@ -52,7 +52,7 @@ filter_names '\.adobe|behance\.net|\.ftcdn\.|typekit\.com|typekit\.net|astockcdn
 filter_names '(\.)pornhub(\.)|phncdn\.com' 'pornhub'
 filter_names 'backblaze' 'backblaze'
 filter_names 'huggingface|cdn-lfs' 'huggingface'
-filter_names 'anthropic|claude' 'anthropic'
+filter_names 'anthropic|claude\.ai' 'anthropic'
 echo
 echo "== Save names archive"
 cat dns-*.txt| grep -Ev '^-'|grep "\."|sort -u| sort -h > cache-archive.txt
