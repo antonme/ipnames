@@ -35,6 +35,7 @@ Sites/platforms included: Adobe, Apple, Backblaze, Bing, Facebook, GitHub, Googl
 - [Cisco Umbrella](https://umbrella-static.s3-us-west-1.amazonaws.com/index.html)
 - [DomCop's Top 10 Million Domains](https://www.domcop.com/top-10-million-websites)
 - [The Majestic Million](https://majestic.com/reports/majestic-million)
+- [OpenINTEL](https://www.openintel.nl/)
 
 ## Sister repos
 Here's list of another data I use for my router configs:
