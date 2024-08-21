@@ -36040,3 +36040,12 @@ Wed Aug 21 12:14:35 PM MSK 2024                ext-dns-tiktok.txt  >ipv6-ext-res
 Wed Aug 21 12:17:41 PM MSK 2024                ext-dns-twitter.txt  >ipv6-ext-resolve-twitter.txt
 Wed Aug 21 12:19:25 PM MSK 2024                ext-dns-vpnhosts.txt  >ipv6-ext-resolve-vpnhosts.txt
 Wed Aug 21 12:24:23 PM MSK 2024                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
+[master ac77fc9] auto-update ipv6
+ 30 files changed, 10006 insertions(+), 4693 deletions(-)
+ create mode 100644 ipv6-ext-resolve-anthropic.txt
+ create mode 100644 ipv6-ext-resolve-pornhub.txt
+ create mode 100644 ipv6-resolve-anthropic.txt
+ create mode 100644 ipv6-resolve-expressvpn.txt
+ create mode 100644 ipv6-resolve-surfshark.txt
+ create mode 100644 ipv6-resolve-tunnelbear.txt
+ create mode 100644 ipv6-resolve-vpnhosts.txt
