@@ -28,6 +28,7 @@ adobelogin-weighted-prod07.prod.ims.adobejanus.com
 adobelogin-weighted.prod.ims.adobejanus.com
 adobe.net
 adobesearch.adobe.io
+adobetarget.data.adobedc.net
 ak5q.adobeaemcloud.com
 akhoond.adobeaemcloud.com
 alpha-cobalt.adobeaemcloud.com
@@ -79,6 +80,7 @@ brenard.adobeaemcloud.com
 burlymethodical.adobeaemcloud.com
 businesscatalyst.com
 bwl-vc.adobeaemcloud.com
+byof.adobe.io
 c2ih.adobeaemcloud.com
 c3m-4-77.adobeaemcloud.com
 c5xv.adobeaemcloud.com
@@ -89,11 +91,17 @@ cba-digital.adobecqms.net
 cc-api-behance.adobe.io
 cc-api-data.adobe.io
 cc-api-data-stage.adobe.io
+cc-api-storage.adobe.io
 cc-cdn.adobe.com
 cc-cdn.adobe.com.edgekey.net
 cc-collab.adobe.io
 cc-embed.adobe.com
+ccext.adobecces.com
+ccext-cdn.adobecces.com
+ccext-public.adobe.io
 ccext-static.adobecces.com
+cchome.adobe.io
+cclibraries-defaults-cdn.adobe.com
 cclibraries-defaults-cdn.adobe.com.edgekey.net
 ccmdls.adobe.com
 ccmdls-stls-cn.adobe.com-v2.edgesuite88.net
@@ -131,7 +139,9 @@ commerce.adobe.com
 commerce.adobe.com.edgekey.net
 committeeadmin.adobeaemcloud.com
 community.adobe.com
+connect.ffc.adobeoobe.com
 conquering.adobeaemcloud.com
+core-prod-lvs-ue.adobe-identity.com
 counseling-center.printers.adobeaemcloud.com
 cp.adobe.io
 createprosite.com
@@ -209,6 +219,7 @@ express.adobe.com
 express-prod.adobeprojectm.com
 faclib-27.adobeaemcloud.com
 faster.typekit.net-stls-v3.edgesuite.net
+feature-config.fonts.adobe.com
 fenghuangdaili.adobeaemcloud.com
 fenghuangyulechenghuiyuanzhuce.adobeaemcloud.com
 fengtianhuangguandaohangguangpananzhuang.adobeaemcloud.com
@@ -321,16 +332,19 @@ l8w3.adobeaemcloud.com
 l986.adobeaemcloud.com
 l-9g.adobeaemcloud.com
 laminated.adobeaemcloud.com
+landing.adobe.com
 landing.adobe.com.edgekey.net
 langgan.adobeaemcloud.com
 laoqianzhuangyulechengbaijiale.adobeaemcloud.com
 lcs-cops.adobe.io
+lcs-ulecs.adobe.io
 learnplaylistservice.adobe.com
 learnplaylistservice.adobe.com.edgekey.net
 lesechos-mkt-prod2-cus.campaign.adobe.com
 lesechos-mkt-prod2-t.adobe-campaign.com
 lfms.adobeaemcloud.com
 liadeng.adobeaemcloud.com
+libraries.adobe.io
 lightroom.adobe.com
 lixx.adobeaemcloud.com
 LMXVkeUKiWdL.adobe.com
@@ -366,6 +380,7 @@ na1e-uw.services.adobe.com
 nanguoqixingcaifushifangan.adobeaemcloud.com
 naqing.adobeaemcloud.com
 nbrady.adobeaemcloud.com
+neolane._domainkey.email.adobe.com
 netatmo-mkt-prod1-res.adobe-campaign.com
 new.express.adobe.com
 NfQPhfoQKgPS.adobe.com
@@ -509,6 +524,7 @@ scene7.com
 scienceblog.adobeaemcloud.com
 scss.adobesc.com
 sculker.adobeaemcloud.com
+sdk-1p.cc-embed.adobe.com
 secureuk.adobeaemcloud.com
 self-ignite.adobeaemcloud.com
 server.messaging.adobe.com
@@ -547,6 +563,7 @@ stls-wwwimages.adobe.com-cn.edgesuite.net
 stls-wwwimages.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 stnm.adobeaemcloud.com
 stock.adobe.io
+stock-notifications.astockcdn.net
 storage.adbephotos.com
 streaming-ingest-prod.ethos11-prod-aus5.ethos.adobe.net
 sub-166-152-29.adobeaemcloud.com
@@ -558,6 +575,7 @@ sun-tight.adobeaemcloud.com
 survey.adobe.com
 survey.adobe.com.edgekey.net
 sw80.adobeaemcloud.com
+swupmf.adobe.com
 sxtm.adobeaemcloud.com
 szs0.adobeaemcloud.com
 t19d.adobeaemcloud.com
@@ -586,8 +604,10 @@ u7h2.adobeaemcloud.com
 u8im.adobeaemcloud.com
 ub4s.adobeaemcloud.com
 ubsv.adobeaemcloud.com
+uds.adobe-identity.com
 u-ez.adobeaemcloud.com
 uhrt.adobeaemcloud.com
+ui.messaging.adobe.com
 ujge.adobeaemcloud.com
 uksi.adobeaemcloud.com
 ukwb.adobeaemcloud.com

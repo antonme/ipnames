@@ -13,7 +13,7 @@ function filter_names -a filter name antifilter forcedfilter
 	#echo "name:"$name
 	#echo "antifilter:"$antifilter
 	#echo "forcedfilter:"$forcedfilter
-  cat cache*.txt| rg $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|rg '\.'|rg -v '\.arpa'| rg -v $antifilter| rg $forcedfilter| rg -v "^-|^[0-9]"|sort -u >dns-$name.txt
+  cat cache*.txt ~/logs/*.txt| rg $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|rg '\.'|rg -v '\.arpa'| rg -v $antifilter| rg $forcedfilter| rg -v "^-|^[0-9]"|sort -u >dns-$name.txt
   cat list-*.txt| rg $filter | awk '{if($1!="msg")print $1;else print $2;}'|sed 's/\.$//'|rg '\.'|rg -v '\.arpa'| rg -v $antifilter| rg $forcedfilter| rg -v "^-|^[0-9]"|sort -u >ext-dns-$name.txt
   grep -Fvxf dns-$name.txt ext-dns-$name.txt > temp.txt && mv temp.txt ext-dns-$name.txt
 end
@@ -24,6 +24,10 @@ unbound-control dump_cache > cache-current.txt
 
 echo "==Saving current cache @home.setia"
 unbound-control -s 192.168.1.20 -c keys/home/unbound.conf dump_cache > cache-current-setia.txt
+
+echo "==Preparing logs data"
+cat /var/log/unbound/unbound.log| awk '{print $7}'|sort -u > ~/logs/logcache.txt
+
 echo
 echo "==Preparing surfshark names"
 curl https://api.surfshark.com/v4/server/clusters| jq .[].connectionName | tr -d '"'|sort|uniq > dns-surfshark.txt
@@ -48,6 +52,7 @@ filter_names '\.adobe|behance\.net|\.ftcdn\.|typekit\.com|typekit\.net|astockcdn
 filter_names '(\.)pornhub(\.)|phncdn\.com' 'pornhub'
 filter_names 'backblaze' 'backblaze'
 filter_names 'huggingface|cdn-lfs' 'huggingface'
+filter_names 'anthropic|claude' 'anthropic'
 echo
 echo "== Save names archive"
 cat dns-*.txt| grep -Ev '^-'|grep "\."|sort -u| sort -h > cache-archive.txt
