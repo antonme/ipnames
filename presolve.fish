@@ -7,7 +7,7 @@ set -g total_tasks 0
 # Custom command to increment the counter and print progress
 
 function resolve -a name resolvers new_name concur
-	parallel -j $concur --bar host -t A -W 3 :::: $name :::: $resolvers| rg address | awk '$4{print $4}' | sort -u| sort -h > $new_name
+	parallel -j $concur --bar host -t A -W 3 :::: $name :::: $resolvers| rg address | awk '$4{print $4}' | sort -u| sort -h | rg -v '0\\.0\\.0\\.0'> $new_name
 end
 
 
