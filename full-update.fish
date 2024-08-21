@@ -11,6 +11,7 @@ echo
 echo --------------------------------------------------------------------------------
 
 cd /home/anton/ipnames
+export GCM_CREDENTIAL_STORE=gpg
 
 fish names-from-cache.fish
 
