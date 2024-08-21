@@ -35956,3 +35956,44 @@ Wed Aug 21 06:27:01 AM MSK 2024
 ===anthropic
 
 == Save names archive
+[master c4c0c05] auto-update names
+ 9 files changed, 50 insertions(+), 3 deletions(-)
+
+== Resolving names to ipv4
+Wed Aug 21 06:27:11 AM MSK 2024                dns-adobe.txt  >resolve-adobe.txt
+Wed Aug 21 06:44:17 AM MSK 2024                dns-anthropic.txt  >resolve-anthropic.txt
+Wed Aug 21 06:44:41 AM MSK 2024                dns-apple.txt  >resolve-apple.txt
+Wed Aug 21 07:11:27 AM MSK 2024                dns-backblaze.txt  >resolve-backblaze.txt
+Wed Aug 21 07:26:09 AM MSK 2024                dns-bing.txt  >resolve-bing.txt
+Wed Aug 21 07:27:31 AM MSK 2024                dns-expressvpn.txt  >resolve-expressvpn.txt
+Wed Aug 21 07:31:12 AM MSK 2024                dns-facebook.txt  >resolve-facebook.txt
+Wed Aug 21 07:42:50 AM MSK 2024                dns-github.txt  >resolve-github.txt
+Wed Aug 21 07:44:21 AM MSK 2024                dns-google.txt  >resolve-google.txt
+Wed Aug 21 07:53:05 AM MSK 2024                dns-huggingface.txt  >resolve-huggingface.txt
+Wed Aug 21 07:53:24 AM MSK 2024                dns-openai.txt  >resolve-openai.txt
+Wed Aug 21 07:55:33 AM MSK 2024                dns-ozon.txt  >resolve-ozon.txt
+Wed Aug 21 07:56:09 AM MSK 2024                dns-pornhub.txt  >resolve-pornhub.txt
+Wed Aug 21 07:57:22 AM MSK 2024                dns-surfshark.txt  >resolve-surfshark.txt
+Wed Aug 21 08:00:49 AM MSK 2024                dns-tiktok.txt  >resolve-tiktok.txt
+Wed Aug 21 08:36:01 AM MSK 2024                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Wed Aug 21 08:41:52 AM MSK 2024                dns-twitter.txt  >resolve-twitter.txt
+Wed Aug 21 08:45:46 AM MSK 2024                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Wed Aug 21 08:45:53 AM MSK 2024                dns-youtube.txt  >resolve-youtube.txt
+
+== Resolving external names to ipv4
+Wed Aug 21 09:00:35 AM MSK 2024                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Wed Aug 21 09:02:12 AM MSK 2024                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Wed Aug 21 09:02:14 AM MSK 2024                ext-dns-apple.txt  >ext-resolve-apple.txt
+Wed Aug 21 09:02:45 AM MSK 2024                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Wed Aug 21 09:02:46 AM MSK 2024                ext-dns-bing.txt  >ext-resolve-bing.txt
+Wed Aug 21 09:02:52 AM MSK 2024                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Wed Aug 21 09:10:02 AM MSK 2024                ext-dns-github.txt  >ext-resolve-github.txt
+Wed Aug 21 09:10:03 AM MSK 2024                ext-dns-google.txt  >ext-resolve-google.txt
+Wed Aug 21 09:13:47 AM MSK 2024                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Wed Aug 21 09:13:48 AM MSK 2024                ext-dns-openai.txt  >ext-resolve-openai.txt
+Wed Aug 21 09:13:51 AM MSK 2024                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Wed Aug 21 09:13:53 AM MSK 2024                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Wed Aug 21 09:13:54 AM MSK 2024                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Wed Aug 21 09:17:51 AM MSK 2024                ext-dns-twitter.txt  >ext-resolve-twitter.txt
+Wed Aug 21 09:19:40 AM MSK 2024                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
+Wed Aug 21 09:24:37 AM MSK 2024                ext-dns-youtube.txt  >ext-resolve-youtube.txt
