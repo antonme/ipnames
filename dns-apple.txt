@@ -24,6 +24,7 @@ amp-api-edge.apps.apple.com.edgekey.net
 amp-api-edge.apps.apple.com.edgesuite.net
 amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
+amp-api-edge.music.apple.com
 amp-api-fitness-akam.itunes-apple.com.akadns.net
 amp-api.fitness.apple.com
 amp-api.fitness.apple.com.edgekey.net
@@ -50,6 +51,7 @@ amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api.shazam.apple.com.edgekey.net
 amp-api-updates.apps.apple.com
 amp-api-updates.apps.apple.com.edgekey.net
+amp-api-updates.apps.apple.com.edgesuite.net
 amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
@@ -325,6 +327,7 @@ edge-117.sesto4.icloud-content.com
 edge-119.sesto4.icloud-content.com
 edge-120.dkvib11.icloud-content.com
 edge-121.deber3.icloud-content.com
+edge-121.dkvib11.icloud-content.com
 edge-122.sesto4.icloud-content.com
 edge-126.sesto4.icloud-content.com
 edge-128.sesto4.icloud-content.com
@@ -339,6 +342,7 @@ edge-150.usdal2.icloud-content.com
 edge-157.sesto4.icloud-content.com
 edge-158.sesto4.icloud-content.com
 edge-160.usdal2.icloud-content.com
+edge-161.sesto4.icloud-content.com
 edge-164.sesto4.icloud-content.com
 edge-166.usdal2.icloud-content.com
 edge-172.sesto4.icloud-content.com
@@ -349,10 +353,13 @@ edge-178.sesto4.icloud-content.com
 edge-179.sesto4.icloud-content.com
 edge-179.usdal2.icloud-content.com
 edge-180.sesto4.icloud-content.com
+edge-182.sesto4.icloud-content.com
 edge-183.nlhfd1.icloud-content.com
 edge-183.sesto4.icloud-content.com
 edge-184.sesto4.icloud-content.com
 edge-185.sesto4.icloud-content.com
+edge-186.sesto4.icloud-content.com
+edge-187.sesto4.icloud-content.com
 edge-188.sesto4.icloud-content.com
 edge-190.sesto4.icloud-content.com
 edge-193.sesto4.icloud-content.com
@@ -367,6 +374,8 @@ edge-207.sesto4.icloud-content.com
 edge-212.nlhfd1.icloud-content.com
 edge-214.sesto4.icloud-content.com
 edge-216.sesto4.icloud-content.com
+edge-218.sesto4.icloud-content.com
+edge-221.sesto4.icloud-content.com
 edge-224.sesto4.icloud-content.com
 edge-225.sesto4.icloud-content.com
 edge-226.sesto4.icloud-content.com
@@ -377,6 +386,8 @@ edge-236.sesto4.icloud-content.com
 edge-237.sesto4.icloud-content.com
 edge-239.sesto4.icloud-content.com
 edge-242.sesto4.icloud-content.com
+edge-243.sesto4.icloud-content.com
+edge-250.sesto4.icloud-content.com
 edge-251.sesto4.icloud-content.com
 edge-252.sesto4.icloud-content.com
 edge-254.sesto4.icloud-content.com
@@ -385,6 +396,7 @@ edge-261.sesto4.icloud-content.com
 edge-262.sesto4.icloud-content.com
 edge-264.sesto4.icloud-content.com
 edge-265.sesto4.icloud-content.com
+edge-267.sesto4.icloud-content.com
 edge-268.sesto4.icloud-content.com
 edge-269.sesto4.icloud-content.com
 edge-270.sesto4.icloud-content.com
@@ -531,6 +543,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -652,7 +665,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -740,6 +752,7 @@ p29-buy-lb.itunes-apple.com.akadns.net
 p29-content.icloud.com
 p29-imap.mail.me.com
 p29-imap.mail.me.com.akadns.net
+p29-mailws.icloud.com
 p29-smtp.mail.me.com
 p2-buy.itunes.apple.com
 p2-buy.itunes-apple.com.akadns.net
@@ -879,7 +892,9 @@ se2-cdn.itunes-apple.com.akadns.net
 se2.itunes.apple.com
 se2.itunes.apple.com.edgesuite.net
 search-cdn.itunes-apple.com.akadns.net
+search.itunes.apple.com
 securemetrics.apple.com
+securemvt.apple.com
 se-edge.itunes.apple.com
 se-edge.itunes-apple.com.akadns.net
 se-edge.itunes.apple.com.edgekey.net
@@ -934,6 +949,7 @@ statici.icloud.com
 statici.icloud.com.edgekey.net
 stats.gc.apple.com
 stats.gc-apple.com.akadns.net
+st-mailws.icloud.com.akadns.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
@@ -1039,6 +1055,7 @@ www.apple.com.cn.edgekey.net
 www.apple.com.cn.edgekey.net.globalredir.akadns.net
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
+www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.ibook.info
 www.icloud.com
