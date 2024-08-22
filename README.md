@@ -36,6 +36,7 @@ Sites/platforms included: Adobe, Apple, Backblaze, Bing, Facebook, GitHub, Googl
 - [DomCop's Top 10 Million Domains](https://www.domcop.com/top-10-million-websites)
 - [The Majestic Million](https://majestic.com/reports/majestic-million)
 - [OpenINTEL](https://www.openintel.nl/)
+- [WhoisXMLAPI Subdomains Lookup](https://subdomains.whoisxmlapi.com/api)
 
 ## Sister repos
 Here's list of another data I use for my router configs:
