@@ -1,6 +1,7 @@
 #!/usr/bin/env fish
 
 cd ~/ipnames
+export GCM_CREDENTIAL_STORE=gpg
 
 rm merged/*
 ls dns-*.txt| awk '{$nm=substr($0,5,length($0)-8);print "cat dns-"$nm".txt ext-dns-"$nm".txt| sort -u > merged/dns-"$name".txt"}'|bash
@@ -16,3 +17,8 @@ find merged/ -type f -empty -delete
 ls merged/ipv4* > merged-ipv4.txt
 ls merged/ipv6* > merged-ipv6.txt
 ls merged/dns* > merged-dns.txt
+
+
+git add full-update.fish update.log names-from-cache.fish presolve.fish dns-*.txt ipv6*.txt resolve-*.txt ext-resolve-*.txt cache-ar*.txt ext-dns-*.txt servers*.txt
+git commit -m 'auto-update merged'
+git push https://{$GITHUB_TOKEN}@github.com/antonme/ipnames.git
