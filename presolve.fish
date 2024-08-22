@@ -1,3 +1,5 @@
+#!/usr/bin/env fish
+#
 # Initialize a counter variable
 set -g counter 0
 
@@ -14,6 +16,7 @@ end
 set prefixer ''
 set concur 16
 echo
+
 
 if not contains -- '-ext' $argv
   echo "== Resolving names to ipv4"
