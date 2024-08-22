@@ -20,5 +20,6 @@ ls merged/dns* > merged-dns.txt
 
 
 git add full-update.fish update.log names-from-cache.fish presolve.fish dns-*.txt ipv6*.txt resolve-*.txt ext-resolve-*.txt cache-ar*.txt ext-dns-*.txt servers*.txt
+git add merged/
 git commit -m 'auto-update merged'
 git push https://{$GITHUB_TOKEN}@github.com/antonme/ipnames.git
