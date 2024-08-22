@@ -146,6 +146,7 @@ amp-api-edge.apps.apple.com.edgesuite.net
 amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-edge.music.apple.com
+amp-api-edge.music.apple.com.edgesuite.net
 amp-api-fitness-akam.itunes-apple.com.akadns.net
 amp-api.fitness.apple.com
 amp-api.fitness.apple.com.edgekey.net
@@ -177,6 +178,7 @@ amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
 ampcid.google.com
+amp-endpoint3.com
 ampproject.net
 ampproject.org
 analytics.tiktok.com
@@ -265,6 +267,7 @@ api-44-0-0.twitter.com
 api-45-0-0.twitter.com
 api-46-0-0.twitter.com
 api-adservices.apple.com
+api.anthropic.com
 api.apple-cloudkit.com
 api.apple-cloudkit.fe2.apple-dns.net
 api.apple-cloudkit.fe.apple-dns.net
@@ -322,6 +325,7 @@ app-measurement.com
 apps.apple.com
 apps.apple.com.edgekey.net
 apps-cdn.itunes-apple.com.akadns.net
+apps.google.com
 app-site-association.cdn-apple.com
 app-site-association.cdn-apple.com.akadns.net
 app-site-association.g.aaplimg.com
@@ -807,6 +811,7 @@ claude.ai
 client-api-cdn.itunes-apple.com.akadns.net
 client-api.itunes.apple.com
 client-api.itunes.apple.com.edgesuite.net
+clientauthconfig.clients6.google.com
 clientflow.apple.com
 clientflow.apple.com.akadns.net
 client.messaging.adobe.com
@@ -824,9 +829,11 @@ clio-assets.adobe.com
 cl.lazerpenguin.com
 clmx.adobeaemcloud.com
 cloud.adobe.io
+cloudconsole-pa.clients6.google.com
 cloudfunctions.net
 cloud.google.com
 cloud-iot-mqtt.l.google.com
+cloudusersettings-pa.clients6.google.com
 cl-san.prod.surfshark.com
 cma2.itunes.apple.com.edgesuite.net
 cma-china.itunes-apple.com.akadns.net
@@ -890,6 +897,7 @@ conquering.adobeaemcloud.com
 consent.google.com
 consent.youtube.com
 console.anthropic.com
+console.cloud.google.com
 contactsui-pa.googleapis.com
 content-autofill.googleapis.com
 contest.openai.com
@@ -1232,6 +1240,7 @@ edge-157.sesto4.icloud-content.com
 edge-158.sesto4.icloud-content.com
 edge-160.usdal2.icloud-content.com
 edge-161.sesto4.icloud-content.com
+edge-162.sesto4.icloud-content.com
 edge-164.sesto4.icloud-content.com
 edge-166.usdal2.icloud-content.com
 edge-172.sesto4.icloud-content.com
@@ -1260,6 +1269,7 @@ edge-201.sesto4.icloud-content.com
 edge-202.sesto4.icloud-content.com
 edge-204.sesto4.icloud-content.com
 edge-207.sesto4.icloud-content.com
+edge-210.sesto4.icloud-content.com
 edge-212.nlhfd1.icloud-content.com
 edge-214.sesto4.icloud-content.com
 edge-216.sesto4.icloud-content.com
@@ -1283,6 +1293,7 @@ edge-254.sesto4.icloud-content.com
 edge-258.sesto4.icloud-content.com
 edge-261.sesto4.icloud-content.com
 edge-262.sesto4.icloud-content.com
+edge-263.sesto4.icloud-content.com
 edge-264.sesto4.icloud-content.com
 edge-265.sesto4.icloud-content.com
 edge-267.sesto4.icloud-content.com
@@ -1805,6 +1816,7 @@ iadcontent.apple.com.edgekey.net
 iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
+iam.clients6.google.com
 ibrq.adobeaemcloud.com
 ibytedtos.com
 ibyteimg.com
@@ -1872,7 +1884,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -3505,6 +3516,7 @@ profile.ess-apple.com.akadns.net
 profile.gc.apple.com
 profile.gc-apple.com.akadns.net
 programattik.rtb.ak-tt.net
+programmablesearchengine.google.com
 proxsee.pscp.tv
 pr-pod10-smp-device.apple.com
 pr-pod1-smp-device.apple.com
@@ -3699,6 +3711,7 @@ rr1.sn-a5msenle.googlevideo.com
 rr1---sn-a5msenle.googlevideo.com
 rr1.sn-ab5l6ndr.googlevideo.com
 rr1---sn-ab5l6ndr.googlevideo.com
+rr1.sn-ab5l6ndy.googlevideo.com
 rr1---sn-ab5l6ndy.googlevideo.com
 rr1.sn-ab5l6nk6.googlevideo.com
 rr1---sn-ab5l6nk6.googlevideo.com
@@ -3708,6 +3721,10 @@ rr1.sn-ab5l6nr6.googlevideo.com
 rr1---sn-ab5l6nr6.googlevideo.com
 rr1.sn-ab5l6nrd.googlevideo.com
 rr1---sn-ab5l6nrd.googlevideo.com
+rr1.sn-ab5l6nrk.googlevideo.com
+rr1---sn-ab5l6nrk.googlevideo.com
+rr1.sn-ab5l6nrl.googlevideo.com
+rr1---sn-ab5l6nrl.googlevideo.com
 rr1.sn-ab5l6nrr.googlevideo.com
 rr1---sn-ab5l6nrr.googlevideo.com
 rr1.sn-ab5l6nrs.googlevideo.com
@@ -3716,8 +3733,11 @@ rr1.sn-ab5l6nrz.googlevideo.com
 rr1---sn-ab5l6nrz.googlevideo.com
 rr1.sn-ab5sznld.googlevideo.com
 rr1---sn-ab5sznld.googlevideo.com
+rr1.sn-ab5sznly.googlevideo.com
+rr1---sn-ab5sznly.googlevideo.com
 rr1.sn-ab5sznz6.googlevideo.com
 rr1---sn-ab5sznz6.googlevideo.com
+rr1.sn-ab5sznzd.googlevideo.com
 rr1---sn-ab5sznzd.googlevideo.com
 rr1.sn-ab5sznze.googlevideo.com
 rr1---sn-ab5sznze.googlevideo.com
@@ -3839,8 +3859,12 @@ rr2.sn-ab5l6nrz.googlevideo.com
 rr2---sn-ab5l6nrz.googlevideo.com
 rr2.sn-ab5sznld.googlevideo.com
 rr2---sn-ab5sznld.googlevideo.com
+rr2.sn-ab5sznly.googlevideo.com
+rr2---sn-ab5sznly.googlevideo.com
 rr2.sn-ab5sznz6.googlevideo.com
 rr2---sn-ab5sznz6.googlevideo.com
+rr2.sn-ab5sznzd.googlevideo.com
+rr2---sn-ab5sznzd.googlevideo.com
 rr2.sn-ab5sznze.googlevideo.com
 rr2---sn-ab5sznze.googlevideo.com
 rr2.sn-ab5sznzk.googlevideo.com
@@ -3851,8 +3875,11 @@ rr2.sn-ab5sznzr.googlevideo.com
 rr2---sn-ab5sznzr.googlevideo.com
 rr2.sn-ab5sznzs.googlevideo.com
 rr2---sn-ab5sznzs.googlevideo.com
+rr2.sn-ab5sznzy.googlevideo.com
+rr2---sn-ab5sznzy.googlevideo.com
 rr2.sn-ab5sznzz.googlevideo.com
 rr2---sn-ab5sznzz.googlevideo.com
+rr2.sn-ajab55-55.googlevideo.com
 rr2---sn-ajab55-55.googlevideo.com
 rr2---sn-gvnuxaxjvh-c356.googlevideo.com
 rr2---sn-gvnuxaxjvh-c35d.googlevideo.com
@@ -3929,6 +3956,7 @@ rr3.sn-5uaezne6.googlevideo.com
 rr3---sn-5uaezne6.googlevideo.com
 rr3.sn-5uaeznez.googlevideo.com
 rr3---sn-5uaeznez.googlevideo.com
+rr3.sn-ab5l6ndr.googlevideo.com
 rr3---sn-ab5l6ndr.googlevideo.com
 rr3---sn-ab5l6ndy.googlevideo.com
 rr3.sn-ab5l6nk6.googlevideo.com
@@ -3941,10 +3969,13 @@ rr3.sn-ab5l6nrd.googlevideo.com
 rr3---sn-ab5l6nrd.googlevideo.com
 rr3.sn-ab5l6nrk.googlevideo.com
 rr3---sn-ab5l6nrk.googlevideo.com
+rr3.sn-ab5l6nrl.googlevideo.com
 rr3---sn-ab5l6nrl.googlevideo.com
 rr3.sn-ab5l6nrr.googlevideo.com
 rr3---sn-ab5l6nrr.googlevideo.com
+rr3.sn-ab5l6nrs.googlevideo.com
 rr3---sn-ab5l6nrs.googlevideo.com
+rr3.sn-ab5l6nrz.googlevideo.com
 rr3---sn-ab5l6nrz.googlevideo.com
 rr3.sn-ab5sznly.googlevideo.com
 rr3---sn-ab5sznly.googlevideo.com
@@ -3952,6 +3983,7 @@ rr3.sn-ab5sznz6.googlevideo.com
 rr3---sn-ab5sznz6.googlevideo.com
 rr3---sn-ab5sznzd.googlevideo.com
 rr3---sn-ab5sznzk.googlevideo.com
+rr3.sn-ab5sznzl.googlevideo.com
 rr3---sn-ab5sznzl.googlevideo.com
 rr3.sn-ab5sznzr.googlevideo.com
 rr3---sn-ab5sznzr.googlevideo.com
@@ -3959,6 +3991,7 @@ rr3.sn-ab5sznzs.googlevideo.com
 rr3---sn-ab5sznzs.googlevideo.com
 rr3.sn-ab5sznzy.googlevideo.com
 rr3---sn-ab5sznzy.googlevideo.com
+rr3.sn-ab5sznzz.googlevideo.com
 rr3---sn-ab5sznzz.googlevideo.com
 rr3---sn-gvnuxaxjvh-c35d.googlevideo.com
 rr3---sn-gvnuxaxjvh-c35s.googlevideo.com
@@ -4067,10 +4100,15 @@ rr4.sn-ab5l6ndr.googlevideo.com
 rr4---sn-ab5l6ndr.googlevideo.com
 rr4.sn-ab5l6ndy.googlevideo.com
 rr4---sn-ab5l6ndy.googlevideo.com
+rr4.sn-ab5l6nk6.googlevideo.com
+rr4---sn-ab5l6nk6.googlevideo.com
 rr4.sn-ab5l6nkd.googlevideo.com
 rr4---sn-ab5l6nkd.googlevideo.com
+rr4.sn-ab5l6nr6.googlevideo.com
 rr4---sn-ab5l6nr6.googlevideo.com
+rr4.sn-ab5l6nrd.googlevideo.com
 rr4---sn-ab5l6nrd.googlevideo.com
+rr4.sn-ab5l6nrk.googlevideo.com
 rr4---sn-ab5l6nrk.googlevideo.com
 rr4.sn-ab5l6nrl.googlevideo.com
 rr4---sn-ab5l6nrl.googlevideo.com
@@ -4083,11 +4121,13 @@ rr4.sn-ab5sznld.googlevideo.com
 rr4---sn-ab5sznld.googlevideo.com
 rr4.sn-ab5sznly.googlevideo.com
 rr4---sn-ab5sznly.googlevideo.com
+rr4.sn-ab5sznz6.googlevideo.com
 rr4---sn-ab5sznz6.googlevideo.com
 rr4.sn-ab5sznzd.googlevideo.com
 rr4---sn-ab5sznzd.googlevideo.com
 rr4.sn-ab5sznze.googlevideo.com
 rr4---sn-ab5sznze.googlevideo.com
+rr4.sn-ab5sznzk.googlevideo.com
 rr4---sn-ab5sznzk.googlevideo.com
 rr4---sn-ab5sznzl.googlevideo.com
 rr4---sn-ab5sznzs.googlevideo.com
@@ -4124,6 +4164,8 @@ rr4.sn-p5qs7nzy.googlevideo.com
 rr4---sn-p5qs7nzy.googlevideo.com
 rr4.sn-q4fzen7l.googlevideo.com
 rr4.sn-vgqskn6z.googlevideo.com
+rr4.sn-vgqsknes.googlevideo.com
+rr4---sn-vgqsknes.googlevideo.com
 rr4.sn-vgqsknlk.googlevideo.com
 rr4---sn-vgqsknlk.googlevideo.com
 rr4.sn-vgqsknlr.googlevideo.com
@@ -4162,6 +4204,7 @@ rr5.sn-a5msen7l.googlevideo.com
 rr5---sn-a5msen7l.googlevideo.com
 rr5.sn-ab5l6ndy.googlevideo.com
 rr5---sn-ab5l6ndy.googlevideo.com
+rr5.sn-ab5l6nk6.googlevideo.com
 rr5---sn-ab5l6nk6.googlevideo.com
 rr5.sn-ab5l6nkd.googlevideo.com
 rr5---sn-ab5l6nkd.googlevideo.com
@@ -4179,16 +4222,21 @@ rr5.sn-ab5l6nrs.googlevideo.com
 rr5---sn-ab5l6nrs.googlevideo.com
 rr5---sn-ab5l6nrz.googlevideo.com
 rr5---sn-ab5sznld.googlevideo.com
+rr5.sn-ab5sznly.googlevideo.com
+rr5---sn-ab5sznly.googlevideo.com
 rr5.sn-ab5sznz6.googlevideo.com
 rr5---sn-ab5sznz6.googlevideo.com
 rr5.sn-ab5sznzd.googlevideo.com
 rr5---sn-ab5sznzd.googlevideo.com
 rr5.sn-ab5sznze.googlevideo.com
 rr5---sn-ab5sznze.googlevideo.com
+rr5.sn-ab5sznzk.googlevideo.com
 rr5---sn-ab5sznzk.googlevideo.com
+rr5.sn-ab5sznzl.googlevideo.com
 rr5---sn-ab5sznzl.googlevideo.com
 rr5.sn-ab5sznzr.googlevideo.com
 rr5---sn-ab5sznzr.googlevideo.com
+rr5.sn-ab5sznzs.googlevideo.com
 rr5---sn-ab5sznzs.googlevideo.com
 rr5.sn-ab5sznzy.googlevideo.com
 rr5---sn-ab5sznzy.googlevideo.com
@@ -4524,6 +4572,7 @@ sm.lazerpenguin.com
 smoot.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
+smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-new.apple.com.edgekey.net
 smp-device-content-us.lb-apple.com.akadns.net
