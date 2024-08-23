@@ -342,7 +342,6 @@ appleid.cdn-apple.com
 appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.edgekey.net
 appleid.idms-apple.com.akadns.net
-appleiphonecell.com
 apple-mapkit.com
 appleseedcdn.apple.com
 app-measurement.com
@@ -364,7 +363,6 @@ apps.mzstatic.com-v1.edgesuite.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
 appspot.com
 appstoreconnect.apple.com.edgekey.net
-apptocloud.net
 apptrailers.itunes.apple.com
 apptrailers-ssl.itunes.apple.com
 apptrailers-ssl.itunes-apple.com.akadns.net
@@ -531,6 +529,7 @@ bj-o.adobeaemcloud.com
 bjoy.adobeaemcloud.com
 blog.adobe.com.edgesuite.net
 blogblog.com
+blog-cloudflare-com-assets.storage.googleapis.com
 blogger.com
 blogger.googleusercontent.com
 blogger.l.google.com
@@ -585,6 +584,8 @@ br-sao.prod.surfshark.com
 brunei-ca-version-2.expressnetw.com
 bs.lazerpenguin.com
 bs-nas.prod.surfshark.com
+bsync16-normal-useast8.tiktokv.us
+bsync16-normal-ycru.tiktokv.com
 bsync-sg.tiktokv.com.edgekey.net
 bt.lazerpenguin.com
 bt-pbh.prod.surfshark.com
@@ -678,6 +679,7 @@ canada-toronto-2-ca-version-2.expressnetw.com
 canada-toronto-ca-version-2.expressnetw.com
 canada-vancouver-ca-version-2.expressnetw.com
 c.apple.news
+caps.x.com
 captive.apple.com
 captive.apple.com.edgekey.net
 captive-cdn.origin-apple.com.akadns.net
@@ -1081,6 +1083,7 @@ direct.tiktok-lb-texas.useast5.byteoversea.net.byteigtm.com
 direct.tiktok-platform-lb-texas.useast5.byteoversea.net.byteigtm.com
 dirgoogle.com
 discover-pa.googleapis.com
+discussions.apple.com
 discussions.apple.com.edgekey.net
 discuss.openai.com
 dj.lazerpenguin.com
@@ -1147,6 +1150,7 @@ d.u07.twtrdns.net
 d.u08.twtrdns.net
 d.u09.twtrdns.net
 d.u10.twtrdns.net
+dual-gslb.spotify.com
 dualstack.twimg.twitter.map.fastly.net
 dualstack.video.twitter.map.fastly.net
 duplessismornay.adobeaemcloud.com
@@ -1196,6 +1200,7 @@ edge-014.dkvib11.icloud-content.com
 edge-014.ussjc1.icloud-content.com
 edge-020.usdal2.icloud-content.com
 edge-020.ussjc1.icloud-content.com
+edge-023.ussjc1.icloud-content.com
 edge-025.dedus1.icloud-content.com
 edge-025.uslax2.icloud-content.com
 edge-026.dkvib11.icloud-content.com
@@ -1206,6 +1211,7 @@ edge-030.dedus1.icloud-content.com
 edge-030.defra2.icloud-content.com
 edge-030.usdal2.icloud-content.com
 edge-031.dkvib11.icloud-content.com
+edge-033.ussjc1.icloud-content.com
 edge-034.usuyk1.icloud-content.com
 edge-035.ussjc1.icloud-content.com
 edge-036.ussjc1.icloud-content.com
@@ -1222,6 +1228,7 @@ edge-053.dkvib11.icloud-content.com
 edge-054.nlhfd1.icloud-content.com
 edge-056.usdal2.icloud-content.com
 edge-057.defra2.icloud-content.com
+edge-059.ussjc1.icloud-content.com
 edge-064.nlhfd1.icloud-content.com
 edge-067.defra2.icloud-content.com
 edge-067.uslax2.icloud-content.com
@@ -1273,6 +1280,7 @@ edge-161.sesto4.icloud-content.com
 edge-162.sesto4.icloud-content.com
 edge-164.sesto4.icloud-content.com
 edge-166.usdal2.icloud-content.com
+edge-169.sesto4.icloud-content.com
 edge-172.sesto4.icloud-content.com
 edge-175.sesto4.icloud-content.com
 edge-175.usdal2.icloud-content.com
@@ -1327,6 +1335,7 @@ edge-262.sesto4.icloud-content.com
 edge-263.sesto4.icloud-content.com
 edge-264.sesto4.icloud-content.com
 edge-265.sesto4.icloud-content.com
+edge-266.sesto4.icloud-content.com
 edge-267.sesto4.icloud-content.com
 edge-268.sesto4.icloud-content.com
 edge-269.sesto4.icloud-content.com
@@ -1349,6 +1358,7 @@ edgecmaf.gls.byteoversea.net
 edge.icloud-content.com
 edge-itunes-apple.com.akadns.net
 edge-lb-g1.ozon.ru
+edge-lb-g5.ozon.ru
 <edge-mqtt.facebook.com
 ?edge-mqtt.facebook.com
 edge-mqtt.facebook.com
@@ -1456,10 +1466,14 @@ F34629CF-26C7-4976-9F26-5CDE03DB72D6-netseer-ipaddr-assoc.xz.fbcdn.net
 F3576B05-4943-45F2-BDC8-76100BD10AD1-netseer-ipaddr-assoc.xy.fbcdn.net
 F3576B05-4943-45F2-BDC8-76100BD10AD1-netseer-ipaddr-assoc.xz.fbcdn.net
 F559B6CF-3CEB-45C9-BF8E-69BA259DCED3-netseer-ipaddr-assoc.xz.fbcdn.net
+F843845E-8C4C-4ABC-969B-C7180F17A6DC-netseer-ipaddr-assoc.xy.fbcdn.net
+F843845E-8C4C-4ABC-969B-C7180F17A6DC-netseer-ipaddr-assoc.xz.fbcdn.net
 F8FF7ABA-E2D0-4758-9EB1-FF0F744F4C25-netseer-ipaddr-assoc.xy.fbcdn.net
 F8FF7ABA-E2D0-4758-9EB1-FF0F744F4C25-netseer-ipaddr-assoc.xz.fbcdn.net
 F9574225-3E78-4CEE-96D2-13DF97164554-netseer-ipaddr-assoc.xz.fbcdn.net
 FA450485-4266-4792-AF23-7F29A4BF5EE5-netseer-ipaddr-assoc.xz.fbcdn.net
+FA7EFF3A-79BE-4CC2-812D-2EFC99E8CAAE-netseer-ipaddr-assoc.xy.fbcdn.net
+FA7EFF3A-79BE-4CC2-812D-2EFC99E8CAAE-netseer-ipaddr-assoc.xz.fbcdn.net
 facebook.com
 facebook.net
 faclib-27.adobeaemcloud.com
@@ -1906,6 +1920,7 @@ images-mercury.mzstatic.com
 images.openai.com
 imapgoogle.com
 im-api-sg.tiktok.com.edgekey.net
+im-api.tiktok.com
 imap.mail.me.com.akadns.net
 imasdk.googleapis.com
 img.youtube.com
@@ -1916,6 +1931,7 @@ ims-na1.adobelogin.com.cdn.cloudflare.net
 ims-prod06.adobelogin.com
 ims-prod07.adobelogin.com
 im-ws-sg.tiktok.com
+im-ws.tiktok.com
 inappcheck-ak.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com
 inappcheck-lb.itunes-apple.com.akadns.net
@@ -2280,7 +2296,6 @@ macau-ca-version-2.expressnetw.com
 macedonia-ca-version-2.expressnetw.com
 macrodactylic.githubusercontent.com
 macromedia.com
-MAGADAN.SU
 magento-recs-sdk.adobe.net.edgekey.net
 magicofphotoshop.com
 mail.google.com
@@ -2420,6 +2435,7 @@ mssdk-ru.tiktokv.com.edgekey.net
 mssdk-sg.tiktok.com.edgekey.net
 mssdk.tiktokw.us
 mssdk.tiktokw.us.edgesuite.net
+mssdk-ttp2.tiktokw.us
 mssdk.us.tiktok.com
 mssdk-va.byteoversea.com.edgekey.net
 mssdk-va.tiktok.com
@@ -2666,6 +2682,7 @@ o1ga.adobeaemcloud.com
 o3cw.adobeaemcloud.com
 o5vj.adobeaemcloud.com
 o8pd.adobeaemcloud.com
+oaistatic.com
 oauth2.googleapis.com
 oauthaccountmanager.googleapis.com
 objects.githubusercontent.com
@@ -2746,6 +2763,7 @@ ozone.ru
 ozon-hotels.ru
 ozon.ru
 ozon.RU
+OZON.RU
 ozonusercontent.com
 ozv9.adobeaemcloud.com
 p-00.adobeaemcloud.net
@@ -2818,6 +2836,7 @@ p16-pu-sign-useast8.tiktokcdn-us.com.edgesuite.net
 p16-rc-captcha.tiktokcdn-us.com
 p16-rc-captcha.tiktokcdn-us.com.edgesuite.net
 p16-rc-captcha-useast2a.ibyteimg.com.edgesuite.net
+p16-rc-captcha-va.ibyteimg.com
 p16-sg.tiktokcdn.com
 p16-sg.tiktokcdn.com.akamaized.net
 p16-sign-sg.tiktokcdn.com
@@ -2842,6 +2861,7 @@ p16-va.tiktokcdn.com
 p18-buy.itunes.apple.com
 p18-buy-lb.itunes-apple.com.akadns.net
 p19-pu-sign-useast8.tiktokcdn-us.com
+p19-rc-captcha-va.ibyteimg.com
 p19-sign.tiktokcdn-us.com
 p1hk.adobeaemcloud.com
 p22-calendars.icloud.com
@@ -2984,6 +3004,7 @@ peoplestackwebexperiments-pa.clients6.google.com
 periscope.tv
 persistent.oaistatic.com
 peru-ca-version-2.expressnetw.com
+pf2023._domainkey.github.com
 pf.lazerpenguin.com
 pfr-.adobeaemcloud.com
 pg.lazerpenguin.com
@@ -3746,6 +3767,7 @@ pull-fcdn-base6.s.bytefcdn-oversea.com
 pull-fcdn-base7.s.bytefcdn-oversea.com
 pull-fcdn-base8.s.bytefcdn-oversea.com
 pull-fcdn-va-global2.s.bytetcdn.com
+pull-fcdn-va-global4.s.bytetcdn.com
 pull-flv-f10-sg01.tiktokcdn.com
 pull-flv-f10-va01.tiktokcdn.com
 pull-flv-f64-sg01.tiktokcdn.com
@@ -3833,6 +3855,7 @@ push.apple.com
 push-apple.com.akadns.net
 push.apple.com.edgesuite.net
 push-base2.s.bytefcdn-ttpeu.com
+push-fcdn-base1.s.bytefcdn-oversea.com
 push-fcdn-base2.s.bytefcdn-oversea.com
 push-rtmp-f5-sg01.tiktokcdn.com
 push-rtmp-f5-sg01.ttlivecdn.com
@@ -4034,6 +4057,7 @@ rr1.sn-p5qddn76.googlevideo.com
 rr1---sn-p5qddn76.googlevideo.com
 rr1.sn-p5qddn7k.googlevideo.com
 rr1.sn-p5qlsn6l.googlevideo.com
+rr1---sn-p5qlsn7d.googlevideo.com
 rr1.sn-p5qlsn7l.googlevideo.com
 rr1---sn-p5qlsn7l.googlevideo.com
 rr1.sn-p5qlsn7s.googlevideo.com
@@ -4628,6 +4652,7 @@ rr8---sn-n8v7kn7l.googlevideo.com
 rr8---sn-n8v7znly.googlevideo.com
 rs-beg.prod.surfshark.com
 rs.lazerpenguin.com
+rtlog16-normal-useast8.tiktokv.us
 rt.pornhub.com
 rtwg.githubusercontent.com
 ruanxing.adobeaemcloud.com
@@ -4799,7 +4824,10 @@ se-sto.prod.surfshark.com
 setup.icloud.com
 sf16-geckocdn.tiktokcdn.com
 sf16-geckocdn.tiktokcdn.com.edgesuite.net
+sf16-ies-music-sg.tiktokcdn.com
 sf16-ies-music-sg.tiktokcdn.com.edgesuite.net
+sf16-ies-music.tiktokcdn.com
+sf16-ies-music-va.tiktokcdn.com
 sf16-ies-music-va.tiktokcdn.com.edgesuite.net
 sf16m-geckocdn.tiktokcdn.com
 sf16m-geckocdn.tiktokcdn.com.akamaized.net
@@ -4818,6 +4846,7 @@ sf16-va.tiktokcdn.com
 sf16-va.tiktokcdn.com.edgesuite.net
 sf16-website-login.neutral.ttwstatic.com
 sf16-website-login.neutral.ttwstatic.com.edgesuite.net
+sf19.tiktokcdn-us.com
 sf-api-token-service.itunes.apple.com
 sf-api-token-service.itunes.apple.com.edgekey.net
 sf-api-token-service-lb.itunes-apple.com.akadns.net
@@ -4921,10 +4950,12 @@ star.facebook.com
 ?star.fallback.c10r.facebook.com
 star.fallback.c10r.facebook.com
 star.fallback.c10r.instagram.com
+starling-oversea.byteoversea.com
 starling-oversea.byteoversea.com.edgekey.net
 starling.tiktokv.eu.edgesuite.net
 starling.tiktokv.us
 starling.tiktokv.us.edgesuite.net
+starling-ttp2.tiktokv.us
 starling.us.tiktokv.com
 starling.us.tiktokv.com.edgesuite.net
 starling-va.tiktokv.com
@@ -4952,6 +4983,7 @@ static.gc-lb.apple.com.akadns.net
 statici.icloud.com
 statici.icloud.com.edgekey.net
 static-lga3-2.xx.fbcdn.net
+static-ord5-2.xx.fbcdn.net
 staticxx.facebook.com
 <static.xx.fbcdn.net
 ?static.xx.fbcdn.net
@@ -4980,7 +5012,6 @@ stocks-data-service.lb-apple.com.akadns.net
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline.apple.com.edgekey.net
-storage.adbephotos.com
 storage.cloud.google.com
 storage.googleapis.com
 store-030.blobstore.apple.com
@@ -5124,6 +5155,7 @@ tk.lazerpenguin.com
 tlo-.withgoogle.com
 t.messages.adobe.com
 tm.lazerpenguin.com
+tnc0-normal-my.tiktokv.com
 tnc16-alisg.isnssdk.com
 tnc16-alisg.isnssdk.com.edgesuite.net
 tnc16-normal-ycru.tiktokv.com
@@ -5152,30 +5184,11 @@ tr-ist.prod.surfshark.com
 tr.lazerpenguin.com
 tsdp.adobeaemcloud.com
 tse1.explicit.bing.net
-ttasia.com
-ttawor.com
-ttc.kz
-ttcldata.net
-tt.co.kr
-ttd.net
-ttecfed.com
-ttfcdns.com
-ttidc.com.tr
 t.tiktok.com.edgesuite.net
-ttinovations.com
 tt.lazerpenguin.com
 ttlivecdn.com
-ttlserver.ro
-ttmhosting.com
-ttn.ne.jp
 ttoverseaus.net
-ttrbilisim.com
-ttr.biz.tr
 t-trg.email.adobe.com
-tts.magadan.su
-ttu.edu
-ttuhosting.ca
-ttvm.com.tr
 ttv-ns3t.ttv.ne.jp
 ttv-ns4t.ttv.ne.jp
 ttwid-va.byteoversea.com.edgekey.net
@@ -5353,12 +5366,14 @@ v16-webapp.tiktok.com.edgesuite.net
 v16-web-newkey.tiktokcdn.com.edgesuite.net
 v19.tiktokcdn.com
 v19.tiktokcdn-us.com
+v19-webapp-prime.us.tiktok.com
 v2ngdarbywgxan2sgbl3u2lkvowpb4kg-c2r.metric.gstatic.com
 v39.tiktokcdn-us.com
 v39-us.gts.byteoversea.net
 v39-us.gts.ttoverseaus.net
 v39-us.tiktokcdn.com
 v45.tiktokcdn-us.com
+v45-ttp.gpm.ttoverseaus.net
 v.aaplimg.com
 va.lazerpenguin.com
 valid.apple.com
@@ -5377,6 +5392,8 @@ ve-car.prod.surfshark.com
 ve.lazerpenguin.com
 venezuela-ca-version-2.expressnetw.com
 verification-i18n.tiktok.com.edgesuite.net
+verification.tiktokw.us
+verification-va.tiktok.com
 verify-sg.byteoversea.com.edgesuite.net
 vetz.adobeaemcloud.com
 vg.lazerpenguin.com
@@ -5387,6 +5404,8 @@ video-cf.twimg.com
 video-ft.twimg.com
 video-lga3-1.xx.fbcdn.net
 video-lga3-2.xx.fbcdn.net
+video-ord5-1.xx.fbcdn.net
+video-ord5-2.xx.fbcdn.net
 videos.apple.com.edgekey.net
 video.tv.adobe.com
 video.twimg.com
@@ -5419,7 +5438,6 @@ voxu.adobeaemcloud.com
 vp9o.adobeaemcloud.com
 vpp-app.itunes.apple.com.edgekey.net
 v.service.arn2a.g.tiktokcdn-eu.net
-vtt.net
 vu.lazerpenguin.com
 vvv.facebook.com
 vwwm.adobeaemcloud.com
@@ -5569,6 +5587,7 @@ www.ttcards.com
 www.ttc-buechelberg.de
 www.ttdental.co.za
 www.ttt.0x00.eu.org
+www-useast1a.tiktok.com
 www-useast1a.tiktok.com.edgekey.net
 www-www.bing.com.trafficmanager.net
 www.youtube.com
