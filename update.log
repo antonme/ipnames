@@ -36273,3 +36273,23 @@ Fri Aug 23 06:27:01 AM MSK 2024
 ===anthropic
 
 == Save names archive
+[master ed24994] auto-update names
+ 4 files changed, 36 insertions(+), 10 deletions(-)
+
+== Resolving external names to ipv4
+Fri Aug 23 06:27:16 AM MSK 2024                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Fri Aug 23 06:38:32 AM MSK 2024                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Fri Aug 23 06:38:37 AM MSK 2024                ext-dns-apple.txt  >ext-resolve-apple.txt
+Fri Aug 23 07:07:23 AM MSK 2024                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Fri Aug 23 07:25:13 AM MSK 2024                ext-dns-bing.txt  >ext-resolve-bing.txt
+Fri Aug 23 07:26:01 AM MSK 2024                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Fri Aug 23 08:03:02 AM MSK 2024                ext-dns-github.txt  >ext-resolve-github.txt
+Fri Aug 23 08:12:52 AM MSK 2024                ext-dns-google.txt  >ext-resolve-google.txt
+Fri Aug 23 08:40:40 AM MSK 2024                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Fri Aug 23 08:40:46 AM MSK 2024                ext-dns-openai.txt  >ext-resolve-openai.txt
+Fri Aug 23 08:42:08 AM MSK 2024                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Fri Aug 23 08:42:50 AM MSK 2024                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Fri Aug 23 08:53:27 AM MSK 2024                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Fri Aug 23 09:04:42 AM MSK 2024                ext-dns-twitter.txt  >ext-resolve-twitter.txt
+Fri Aug 23 09:09:19 AM MSK 2024                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
+Fri Aug 23 09:14:16 AM MSK 2024                ext-dns-youtube.txt  >ext-resolve-youtube.txt
