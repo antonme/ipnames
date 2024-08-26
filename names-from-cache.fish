@@ -23,13 +23,13 @@ echo "==Saving current cache @dns"
 unbound-control dump_cache > cache-current.txt
 
 echo "==Saving current cache @home.setia"
-unbound-control -s 192.168.1.20 -c keys/home/unbound.conf dump_cache > cache-current-setia.txt
+unbound-control -s 192.168.11.11 -c /etc/unbound/keys/home/unbound.conf dump_cache > cache-current-setia.txt
 
 echo "==Preparing logs data"
 echo "k"
 cat /var/log/unbound/unbound.log| awk '{print $7}'|sort -u > ~/logs/logcache.txt
 echo "s"
-ssh 192.168.1.20 "tail -2000000 /var/log/unbound/unbound.log | rg IN | awk '{print \$7}'|sort -u" > ~/logs/setiacache.small.txt
+ssh 192.168.11.11 "tail -2000000 /var/log/unbound/unbound.log | rg IN | awk '{print \$7}'|sort -u" > ~/logs/setiacache.small.txt
 
 echo
 echo "==Preparing surfshark names"
