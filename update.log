@@ -37201,3 +37201,41 @@ Sun Sep  1 09:57:43 AM MSK 2024                dns-youtube.txt  >resolve-youtube
  delete mode 100644 merged/ipv6-expressvpn.cidr
  delete mode 100644 merged/ipv6-surfshark.cidr
  delete mode 100644 merged/ipv6-tunnelbear.cidr
+[master 08cec4a] auto-update ipv4
+ 2 files changed, 2460 insertions(+)
+
+
+
+--------------------------------------------------------------------------------
+Mon Sep  2 06:00:01 AM MSK 2024
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
