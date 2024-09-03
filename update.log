@@ -37398,3 +37398,8 @@ Tue Sep  3 09:45:19 AM MSK 2024                dns-tunnelbear.txt  >ipv6-resolve
 Tue Sep  3 09:51:53 AM MSK 2024                dns-twitter.txt  >ipv6-resolve-twitter.txt
 Tue Sep  3 09:58:56 AM MSK 2024                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
 Tue Sep  3 09:59:04 AM MSK 2024                dns-youtube.txt  >ipv6-resolve-youtube.txt
+[master 49b6818] auto-update merged
+ 44 files changed, 22555 insertions(+), 12584 deletions(-)
+ create mode 100644 merged/ipv6-expressvpn.cidr
+ create mode 100644 merged/ipv6-surfshark.cidr
+ create mode 100644 merged/ipv6-tunnelbear.cidr
