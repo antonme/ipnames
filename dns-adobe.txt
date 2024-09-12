@@ -18,6 +18,7 @@ acwm.adobeaemcloud.com
 adm-1063.adm.adobeaemcloud.net
 admed123.adobeaemcloud.net
 adobe.com
+adobecorp.data.adobedc.net
 adobedc.net
 adobe-dns-01.adobe.com
 adobe-dns-03.adobe.com
@@ -35,6 +36,7 @@ adobelogin-weighted.prod.ims.adobejanus.com
 adobe.net
 adobesearch.adobe.io
 adobetarget.data.adobedc.net
+ais.adobe.io
 ak5q.adobeaemcloud.com
 akhoond.adobeaemcloud.com
 akno.adobeaemcloud.net
@@ -73,6 +75,7 @@ atii.adobeaemcloud.net
 aug-student-141-224-206-156.adobeaemcloud.com
 aug-student-141-224-206-87.adobeaemcloud.com
 aus5.dcs.adobedc.net
+auth-light.identity.adobe.com
 auth.prod.ims.adobejanus.com
 auth.services.adobe.com
 auth.services.adobe.com.cdn.cloudflare.net
@@ -112,6 +115,7 @@ businesscatalyst.com
 bwl-vc.adobeaemcloud.com
 byof.adobe.io
 bzt061.tierphys.adobeaemcloud.net
+c00.adobe.com
 c1oa.adobeaemcloud.net
 c2ih.adobeaemcloud.com
 c2ok.adobeaemcloud.net
@@ -152,10 +156,13 @@ ccprojects.adobe.io
 cctypekit.adobe.io
 cdn1.adoberesources.net.edgekey.net
 cdn.adobeaemcloud.com
+cdn.cp.adobe.io
 cdn.experienceleague.adobe.com
 cdn-ffc.oobesaas.adobe.com
 cdn-geo-ffc.oobesaas.adobe.com
 cdn-prod-ccv.adobe.com.edgesuite.net
+cdn-sharing.adobecc.com
+cdn-sharing.adobecc.map.fastly.net
 cemprende.adobeaemcloud.com
 cengmie.adobeaemcloud.net
 cengya.adobeaemcloud.com
@@ -311,6 +318,7 @@ express-prod.adobeprojectm.com
 ey8u.adobeaemcloud.net
 faclib-27.adobeaemcloud.com
 faculty-105-94.adobeaemcloud.net
+faster.typekit.net
 faster.typekit.net-stls-v3.edgesuite.net
 feature-config.fonts.adobe.com
 fencevrepc-84-161.adobeaemcloud.net
@@ -318,6 +326,7 @@ fencevrepc-84-214.adobeaemcloud.net
 fenghuangdaili.adobeaemcloud.com
 fenghuangyulechenghuiyuanzhuce.adobeaemcloud.com
 fengtianhuangguandaohangguangpananzhuang.adobeaemcloud.com
+ffc-addon.adobe.io
 ffc.adobe.io
 ffc.adobeoobe.com
 ffc-static-cdn.oobesaas.adobe.com
@@ -454,6 +463,7 @@ jgg3.adobeaemcloud.net
 jhxx.adobeaemcloud.com
 ji2b.adobeaemcloud.com
 jiangxishishicaikaijiangtaiman.adobeaemcloud.com
+jil.adobe.com
 jinbaoboabcbocaizixunwang.adobeaemcloud.net
 jinshapingtaichuzu.adobeaemcloud.com
 juimaucdpsfuhsguqb.adobeaemcloud.net
@@ -485,6 +495,7 @@ landing.adobe.com.edgekey.net
 langgan.adobeaemcloud.com
 laoqianzhuangyulechengbaijiale.adobeaemcloud.com
 lcs-cops.adobe.io
+lcs-mobile-cops.adobe.io
 lcsr.adobeaemcloud.net
 lcs-ulecs.adobe.io
 learnplaylistservice.adobe.com
@@ -520,6 +531,7 @@ magicofphotoshop.com
 marketing.philips-hue.com.data.adobedc.net
 maslab.adobeaemcloud.com
 mbi3.adobeaemcloud.com
+mboxedge47.ethos102-prod-irl1.ethos.adobe.net
 mbu-.adobeaemcloud.com
 mcs.odin.adobe.com
 mds-cdn.infra.adobesensei.io
@@ -737,11 +749,13 @@ savingyourgreen.adobeaemcloud.com
 sbtf.adobeaemcloud.com
 scarletberry.adobeaemcloud.com
 scene7.com
+schedule.adobe.io
 scienceblog.adobeaemcloud.com
 scss.adobesc.com
 sculker.adobeaemcloud.com
 sdk-1p.cc-embed.adobe.com
 sea-kale.adobeaemcloud.net
+search.adobe.io
 secureuk.adobeaemcloud.com
 self-ignite.adobeaemcloud.com
 senniu.adobeaemcloud.net
@@ -749,6 +763,7 @@ server.messaging.adobe.com
 services.account.adobe.com
 services.prod.ims.adobejanus.com
 services-weighted.prod.ims.adobejanus.com
+shared-components.adobe.com
 shenqingsongcaijinwangzhi.adobeaemcloud.net
 shijieshidabocaigongsipaiming.adobeaemcloud.net
 shishicaizhuanqianjihuaqun.adobeaemcloud.com
@@ -768,11 +783,14 @@ smyj.*.dev.adobeaemcloud.com
 songcaijindewangzhan.adobeaemcloud.net
 southendonsea.adobeaemcloud.com
 south-green.adobeaemcloud.com
+spark-babel.adobe.io
+spark-search.adobe.io
 spinosaurus.adobeaemcloud.com
 ssl.adobe.com.edgekey.net
 ssl-delivery.adobe.com.edgekey.net
 ssl-delivery.adobe.com-stls-dd-cn-v2.edgesuite88.net
 ssl-delivery.adobe.com-stls-dd-cn-v2.edgesuite.net.globalredir.akadns88.net
+sso.behance.net
 ss-prod-an1-ns.aws.adobess.com
 sstats.adobe.com
 stage.cloud.adobe.io
