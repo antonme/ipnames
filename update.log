@@ -38278,3 +38278,23 @@ s
 ===anthropic
 
 == Save names archive
+[master 2046016] auto-update names
+ 4 files changed, 42 insertions(+), 2 deletions(-)
+
+== Resolving external names to ipv6
+Thu Sep 12 06:27:21 AM MSK 2024                ext-dns-adobe.txt  >ipv6-ext-resolve-adobe.txt
+Thu Sep 12 06:40:23 AM MSK 2024                ext-dns-anthropic.txt  >ipv6-ext-resolve-anthropic.txt
+Thu Sep 12 06:40:30 AM MSK 2024                ext-dns-apple.txt  >ipv6-ext-resolve-apple.txt
+Thu Sep 12 07:10:21 AM MSK 2024                ext-dns-backblaze.txt  >ipv6-ext-resolve-backblaze.txt
+Thu Sep 12 07:23:37 AM MSK 2024                ext-dns-bing.txt  >ipv6-ext-resolve-bing.txt
+Thu Sep 12 07:24:31 AM MSK 2024                ext-dns-facebook.txt  >ipv6-ext-resolve-facebook.txt
+Thu Sep 12 08:05:59 AM MSK 2024                ext-dns-github.txt  >ipv6-ext-resolve-github.txt
+Thu Sep 12 08:16:57 AM MSK 2024                ext-dns-google.txt  >ipv6-ext-resolve-google.txt
+Thu Sep 12 08:47:44 AM MSK 2024                ext-dns-huggingface.txt  >ipv6-ext-resolve-huggingface.txt
+Thu Sep 12 08:47:51 AM MSK 2024                ext-dns-openai.txt  >ipv6-ext-resolve-openai.txt
+Thu Sep 12 08:49:25 AM MSK 2024                ext-dns-ozon.txt  >ipv6-ext-resolve-ozon.txt
+Thu Sep 12 08:50:13 AM MSK 2024                ext-dns-pornhub.txt  >ipv6-ext-resolve-pornhub.txt
+Thu Sep 12 09:02:10 AM MSK 2024                ext-dns-tiktok.txt  >ipv6-ext-resolve-tiktok.txt
+Thu Sep 12 09:14:41 AM MSK 2024                ext-dns-twitter.txt  >ipv6-ext-resolve-twitter.txt
+Thu Sep 12 09:20:33 AM MSK 2024                ext-dns-vpnhosts.txt  >ipv6-ext-resolve-vpnhosts.txt
+Thu Sep 12 09:26:03 AM MSK 2024                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
