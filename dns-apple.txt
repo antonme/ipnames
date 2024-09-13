@@ -344,6 +344,7 @@ edge-075.deber3.icloud-content.com
 edge-077.sesto4.icloud-content.com
 edge-080.sesto4.icloud-content.com
 edge-081.ussjc1.icloud-content.com
+edge-082.usdal2.icloud-content.com
 edge-083.nlhfd1.icloud-content.com
 edge-083.sesto4.icloud-content.com
 edge-086.nlhfd1.icloud-content.com
@@ -490,6 +491,7 @@ edge-255.sesto4.icloud-content.com
 edge-256.sesto4.icloud-content.com
 edge-257.sesto4.icloud-content.com
 edge-258.sesto4.icloud-content.com
+edge-259.sesto4.icloud-content.com
 edge-260.sesto4.icloud-content.com
 edge-261.sesto4.icloud-content.com
 edge-262.sesto4.icloud-content.com
@@ -665,6 +667,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -687,6 +690,7 @@ internalcheck.apple.com
 ios-apple.com
 iosapps.itunes.apple.com
 iosapps.itunes.apple.com.edgesuite.net
+iosapps.itunes.g.aaplimg.com
 ipcdn.apple.com
 ipcdn-lb.apple.com.akadns.net
 iphone-ld.apple.com
@@ -794,6 +798,7 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -842,6 +847,7 @@ p129-quota.icloud.com
 p130-acsegateway.icloud.com
 p130-caldav.icloud.com
 p130-contacts.icloud.com
+p130-escrowproxy.icloud.com
 p130-fmf.icloud.com
 p130-fmfmobile.icloud.com
 p130-fmip.icloud.com
@@ -987,6 +993,7 @@ p68-imap.mail.me.com
 p68-imap.mail.me.com.akadns.net
 p68-mailws.icloud.com
 p68-mailws.icloud.com.akadns.net
+p68-mcc.icloud.com
 p68-smtp.mail.me.com
 p68-smtp.mail.me.com.akadns.net
 p69-content.icloud.com
@@ -1092,7 +1099,6 @@ siri.apple.com
 smoot.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-new.apple.com.edgekey.net
 smp-device-content-us.lb-apple.com.akadns.net
