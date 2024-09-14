@@ -55,6 +55,7 @@ amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
+amp-api-updates-apps-akam.itunes-apple.com.akadns.net
 amp-api-updates.apps.apple.com
 amp-api-updates.apps.apple.com.edgekey.net
 amp-api-updates.apps.apple.com.edgesuite.net
@@ -403,6 +404,7 @@ edge-164.sesto4.icloud-content.com
 edge-165.sesto4.icloud-content.com
 edge-166.sesto4.icloud-content.com
 edge-166.usdal2.icloud-content.com
+edge-168.defra2.icloud-content.com
 edge-168.sesto4.icloud-content.com
 edge-169.sesto4.icloud-content.com
 edge-171.sesto4.icloud-content.com
@@ -412,6 +414,7 @@ edge-174.sesto4.icloud-content.com
 edge-175.sesto4.icloud-content.com
 edge-175.usdal2.icloud-content.com
 edge-176.sesto4.icloud-content.com
+edge-177.sesto4.icloud-content.com
 edge-178.sesto4.icloud-content.com
 edge-179.sesto4.icloud-content.com
 edge-179.usdal2.icloud-content.com
@@ -496,6 +499,7 @@ edge-260.sesto4.icloud-content.com
 edge-261.sesto4.icloud-content.com
 edge-262.sesto4.icloud-content.com
 edge-263.sesto4.icloud-content.com
+edge-264.defra2.icloud-content.com
 edge-264.sesto4.icloud-content.com
 edge-265.sesto4.icloud-content.com
 edge-266.sesto4.icloud-content.com
@@ -505,6 +509,7 @@ edge-269.sesto4.icloud-content.com
 edge-270.sesto4.icloud-content.com
 edge-271.sesto4.icloud-content.com
 edge-272.sesto4.icloud-content.com
+edge-273.defra2.icloud-content.com
 edge-274.sesto4.icloud-content.com
 edge-275.sesto4.icloud-content.com
 edge-276.sesto4.icloud-content.com
@@ -786,6 +791,7 @@ news.iadsdk.apple.com
 newsletter-edge.apple.com
 news-sports-events.apple.com
 news-todayconfig-edge.apple.com
+nlhfd1.icloud-content.com
 northamerica-1.object-storage.apple.com
 notes-analytics-events.apple.com
 np-edge.itunes.apple.com
@@ -796,7 +802,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -845,6 +850,7 @@ p129-quota.icloud.com
 p130-acsegateway.icloud.com
 p130-caldav.icloud.com
 p130-contacts.icloud.com
+p130-content.icloud.com
 p130-escrowproxy.icloud.com
 p130-fmf.icloud.com
 p130-fmfmobile.icloud.com
@@ -1214,6 +1220,8 @@ vast-europe.iad-apple.com.akadns.net
 videos.apple.com.edgekey.net
 vod-ak-aoc.tv.apple.com
 vod-ak-aoc.tv.apple.com.akadns.net
+vod-ap1-aoc-aec.tv.g.apple.com
+vod-ap1-aoc.tv.apple.com
 vod-ap2-aoc.tv.apple.com
 vod-ap3-aoc.tv.apple.com
 vod-ap-aoc.tv.apple.com
