@@ -1691,6 +1691,7 @@ amp-api.sandbox.apps-apple.com.akadns.net
 amp-api.sandbox.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
+amp-api-search-edge.apps.apple.com.edgesuite.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
 amp-api.snapshot.apple.com
@@ -7904,6 +7905,8 @@ gspx-ssl-test.ls.apple.com
 gsq1-ls-st1.apple.com
 gsq23-ls-nk11.apple.com
 gsqa-loc-ls-nk11.apple.com
+gsra.apple.com
+gsra.apple.com.v.aaplimg.com
 gssg03p00ls-gsp39-e48221-ssl-sg03p00ls-gsp39-e482v38.ls.apple.com
 gs-uat.apple.com
 gsx2.apple.com
@@ -8341,6 +8344,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -12334,7 +12338,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -19428,6 +19431,7 @@ p29-iwres.icloud.com
 p29-maildomainws.icloud.com
 p29-mailws.icloud.com
 p29-mccgateway.icloud.com
+p29-mcc.icloud.com
 p29-mobilebackup-china.icloud.com
 p29-p64-streams-chinathumbnailws-china.icloud.com
 p29-quota-china.icloud.com
@@ -23387,6 +23391,7 @@ seed-hawk.smoot.apple.com
 seed-owl-aapse1a.smoot.apple.com
 seed-owl-aapse1b.smoot.apple.com
 seed-owl.smoot.apple.com
+seed-probe.siri.apple.com
 seedsales-corp.apple.com
 seed-services-old.apple.com
 seed.siri.apple.com
@@ -23539,6 +23544,7 @@ shelbywm.apple.com
 shield-013-ci.blobshield.apple.com
 shield-aos-stage.apple.com
 shield-graffiti-int-ucp3.usuqo4.me.icloud-content.com
+shield-konut-server-prod1.nonpci.prod.apay.apple.com.v.aaplimg.com
 shield-production-self-cert.g.apple.com
 shield-stage.apple.com
 shifts.apple.com
@@ -23653,7 +23659,6 @@ smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-new.apple.com.edgekey.net
 smp-device-content-us.lb-apple.com.akadns.net
@@ -24282,6 +24287,7 @@ statici-china-ic1.icloud.com
 statici-china.icloud.com
 statici.icloud.com
 statici.icloud.com.edgekey.net
+static.ips.apple.com
 static.ips.apple.com.edgekey.net
 static.itunes.apple.com
 static-mynews-nwk.apple.com
