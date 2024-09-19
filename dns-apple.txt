@@ -288,6 +288,7 @@ domainserver.icloud.com
 downloaddispatch-cdn.itunes-apple.com.akadns.net
 downloaddispatch.itunes.apple.com
 downloaddispatch.itunes.apple.com.edgesuite.net
+ec.pcms.apple.com
 edge-003.usdal2.icloud-content.com
 edge-004.ussjc1.icloud-content.com
 edge-004.usuyk1.icloud-content.com
@@ -297,6 +298,7 @@ edge-006.usdal2.icloud-content.com
 edge-007.usdal2.icloud-content.com
 edge-008.usdal2.icloud-content.com
 edge-008.usden6.icloud-content.com
+edge-008.ussea3.icloud-content.com
 edge-009.nlhfd1.icloud-content.com
 edge-011.dedus1.icloud-content.com
 edge-014.dkvib11.icloud-content.com
@@ -333,6 +335,7 @@ edge-044.defra2.icloud-content.com
 edge-046.defra2.icloud-content.com
 edge-046.nlhfd1.icloud-content.com
 edge-047.ussjc1.icloud-content.com
+edge-049.deber3.icloud-content.com
 edge-049.nlhfd1.icloud-content.com
 edge-051.ussjc1.icloud-content.com
 edge-053.dkvib11.icloud-content.com
@@ -822,6 +825,7 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -832,6 +836,7 @@ ontology.health.apple.com
 origin-apple.com.akadns.net
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
+osxapps.itunes.g.aaplimg.com
 p04-fmip.icloud.com
 p06-fmip.icloud.com
 p10-calendars.icloud.com
@@ -1126,7 +1131,6 @@ siri.apple.com
 smoot.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-new.apple.com.edgekey.net
 smp-device-content-us.lb-apple.com.akadns.net
@@ -1217,6 +1221,7 @@ transfer-ext-b-v4.dns.apple.com
 transfer-ext-c-v4.dns.apple.com
 tr.iadsdk.apple.com
 turn.gc.apple.com
+ue1-ec-prd-pcms.apple.com
 unlinkability.apple.com
 updates.cdn-apple.com
 updates.cdn-apple.com.akadns.net
@@ -1285,6 +1290,7 @@ www.apple.com.cn.edgekey.net.globalredir.akadns.net
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
+www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
