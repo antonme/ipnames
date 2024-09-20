@@ -2169,6 +2169,7 @@ apps.mzstatic.com-v1.edgesuite.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
 appstoreconnect.apple.com
 appstoreconnect.apple.com.edgekey.net
+appstoreconnect-lb.itunes-apple.com.akadns.net
 apptneckermannaileneckermanns-ssl.itunes.apple.com
 apptrailers-apac-lb.itunes-apple.com.v.aaplimg.com
 apptrailers-eu-lb.itunes-apple.com.v.aaplimg.com
@@ -3837,6 +3838,7 @@ edge-060.usatl5.icloud-content.com
 edge-06133.searn.icloud-content.com
 edge-061.hkhkg-4.icloud-content.com
 edge-061.sesto4.icloud-content.com
+edge-062.deber3.icloud-content.com
 edge-062.sesto4.icloud-content.com
 edge-063.hkhkg.icloud-content.com
 edge-063.sesto4.icloud-content.com
@@ -8354,6 +8356,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -12350,6 +12353,7 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -19351,6 +19355,7 @@ p28-availability-china.icloud.com
 p28-bookmarks-china.icloud.com
 p28-bookmarks.icloud.com
 p28-buy.itunes.apple.com
+p28-buy-lb.itunes-apple.com.akadns.net
 p28-calendars.icloud.com
 p28-calendars-notesws.icloud.com
 p28-ckdashboardws.icloud.apple.com
@@ -20535,6 +20540,8 @@ p45-ubiquityws.icloud.com
 p45-uploadimagews.icloud.com
 p46-bookmarks-china.icloud.com
 p46-bookmarks.icloud.com
+p46-buy.itunes.apple.com
+p46-buy-lb.itunes-apple.com.akadns.net
 p46-caldav-china.icloud.com
 p46-calendars-china.icloud.com
 p46-calendars.icloud.com
@@ -23671,7 +23678,6 @@ smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-new.apple.com.edgekey.net
 smp-device-content-us.lb-apple.com.akadns.net
@@ -24495,6 +24501,7 @@ supportpayment.apple.com
 supportprofile.apple.com
 support-sp.apple.com
 support-sp.apple.com.edgekey.net
+support-sp.apple-support.akadns.net
 supporttest.apple.com
 support-uata.apple.com
 support-vendor.apple.com
@@ -25590,7 +25597,6 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
