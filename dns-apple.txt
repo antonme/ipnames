@@ -114,7 +114,9 @@ apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
 apps.mzstatic.com-v1.edgesuite.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
+appstoreconnect.apple.com
 appstoreconnect.apple.com.edgekey.net
+appstoreconnect-lb.itunes-apple.com.akadns.net
 apptrailers.itunes.apple.com
 apptrailers-ssl.itunes.apple.com
 apptrailers-ssl.itunes-apple.com.akadns.net
@@ -271,6 +273,7 @@ defra2.icloud-content.com
 dejavu.apple.com
 developer-api.icloud.com
 developer.apple.com
+developerservices2.apple.com
 device-config.pcms.apple.com
 devimages-cdn.apple.com
 devimages-cdn.origin-apple.com.akadns.net
@@ -343,6 +346,7 @@ edge-054.nlhfd1.icloud-content.com
 edge-056.usdal2.icloud-content.com
 edge-057.defra2.icloud-content.com
 edge-059.ussjc1.icloud-content.com
+edge-062.deber3.icloud-content.com
 edge-064.nlhfd1.icloud-content.com
 edge-067.defra2.icloud-content.com
 edge-067.uslax2.icloud-content.com
@@ -825,6 +829,7 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -929,6 +934,8 @@ p26-imap.mail.me.com
 p26-imap.mail.me.com.akadns.net
 p26-sharedstreams.icloud.com
 p27-content.icloud.com
+p28-buy.itunes.apple.com
+p28-buy-lb.itunes-apple.com.akadns.net
 p28-calendars.icloud.com
 p28-content.icloud.com
 p29-buy.itunes.apple.com
@@ -977,6 +984,8 @@ p45-content.icloud.com
 p45-fmip.icloud.com
 p45-mobilebackup.icloud.com
 p45-sharedstreams.icloud.com
+p46-buy.itunes.apple.com
+p46-buy-lb.itunes-apple.com.akadns.net
 p46-content.icloud.com
 p47-content.icloud.com
 p48-content.icloud.com
@@ -1129,7 +1138,6 @@ siri.apple.com
 smoot.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-new.apple.com.edgekey.net
 smp-device-content-us.lb-apple.com.akadns.net
@@ -1194,6 +1202,7 @@ support-lb.apple-support.akadns.net
 supportmetrics.apple.com
 support-sp.apple.com
 support-sp.apple.com.edgekey.net
+support-sp.apple-support.akadns.net
 swallow.apple.com
 swcdn.apple.com
 swcdn.apple.com.edgesuite.net
