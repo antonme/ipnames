@@ -334,6 +334,7 @@ edge-040.usqas5.icloud-content.com
 edge-040.ussjc1.icloud-content.com
 edge-041.usmin.icloud-content.com
 edge-041.ussjc1.icloud-content.com
+edge-043.ussea3.icloud-content.com
 edge-044.defra2.icloud-content.com
 edge-046.defra2.icloud-content.com
 edge-046.nlhfd1.icloud-content.com
@@ -830,7 +831,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -841,6 +841,7 @@ ontology.health.apple.com
 origin-apple.com.akadns.net
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
+osxapps.itunes.g.aaplimg.com
 p04-fmip.icloud.com
 p06-fmip.icloud.com
 p10-calendars.icloud.com
@@ -1069,6 +1070,9 @@ profile.ess.apple.com
 profile.ess-apple.com.akadns.net
 profile.gc.apple.com
 profile.gc-apple.com.akadns.net
+provider-api.health.apple.com
+provider-api.health.apple.com.akadns.net
+provider-search-api.health.apple.com
 pr-pod10-smp-device.apple.com
 pr-pod10-smp-device.gcsis-apple.com.akadns.net
 pr-pod1-smp-device.apple.com
@@ -1203,7 +1207,6 @@ support-lb.apple-support.akadns.net
 supportmetrics.apple.com
 support-sp.apple.com
 support-sp.apple.com.edgekey.net
-support-sp.apple-support.akadns.net
 swallow.apple.com
 swcdn.apple.com
 swcdn.apple.com.edgesuite.net
@@ -1299,6 +1302,7 @@ www.apple.com.cn.edgekey.net.globalredir.akadns.net
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
+www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
