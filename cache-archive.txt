@@ -1431,6 +1431,7 @@ cl2-cdn-us.origin-apple.com.akadns.net
 cl3.apple.com
 cl3-cdn.origin-apple.com.akadns.net
 cl3-cdn-us.origin-apple.com.akadns.net
+cl3.g.aaplimg.com
 cl4.apple.com
 cl4.apple.com.c.footprint.net
 cl4-cdn.origin-apple.com.akadns.net
@@ -3487,6 +3488,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -3595,7 +3597,6 @@ io.lazerpenguin.com
 ios-apple.com
 iosapps.itunes.apple.com
 iosapps.itunes.apple.com.edgesuite.net
-iosapps.itunes.g.aaplimg.com
 ios.chat.openai.com
 ios.chat.openai.com.cdn.cloudflare.net
 ip-100-50.adobeaemcloud.com
@@ -9393,7 +9394,6 @@ www.apple.com.cn.edgekey.net.globalredir.akadns.net
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
-www.appleiphonecell.com
 www.as.adobeaemcloud.com
 www.backblaze.com
 www-backblaze-com.webpkgcache.com
