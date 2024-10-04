@@ -1700,6 +1700,7 @@ amp-api-updates.apps.apple.com
 amp-api-updates.apps.apple.com.edgekey.net
 amp-api-updates.apps.apple.com.edgesuite.net
 amp-api-updates.apps-lb.itunes-apple.com.akadns.net
+amp-api-videos-akam.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
 amp-assets.cdn-apple.com
@@ -8364,7 +8365,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -11221,6 +11221,7 @@ mesu.apple.com
 mesu.apple.com.edgekey.net
 mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
+mesu.g.aaplimg.com
 metrics-china-ic3.icloud.com
 metrics-china.icloud.com
 metrics-config-ic2.icloud.com
