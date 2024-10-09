@@ -128,6 +128,7 @@ asa.commerce.apple.com
 asa.commerce.apple.com.edgesuite.net
 associate.itunes.apple.com
 attester.gateway.icloud.com
+audiocontentdownload.apple.com
 audio.itunes.apple.com
 audio-ssl.itunes.apple.com
 auth.apps.apple.com
@@ -146,6 +147,7 @@ bag.itunes.apple.com
 bag.itunes.apple.com.edgesuite.net
 basejumper.apple.com
 bcrw.apple.com
+beta.apple.com
 beta.music.apple.com.edgesuite.net
 big.itunes.apple.com
 b.ns.apple.com
@@ -596,6 +598,8 @@ friend.gc.apple.com
 friend.gc-apple.com.akadns.net
 g.aaplimg.com
 g.apple.com
+garageband.apple.com
+garageband-events.apple.com
 gateway-asset.icloud-content.com
 gateway.icloud.com
 gatewayws.icloud.com
@@ -681,6 +685,7 @@ help-ar.apple.com.edgekey.net
 help.origin-apple.com.akadns.net
 hls.itunes.apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
+hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes-apple.com.akadns.net
 hls-svod.itunes.apple.com.edgesuite.net
@@ -704,6 +709,7 @@ idms-apple.com.akadns.net
 iforgot.apple.com
 images-mercury.mzstatic.com
 imap.mail.me.com.akadns.net
+imovie-events.apple.com
 inappcheck-ak.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com
 inappcheck-lb.itunes-apple.com.akadns.net
@@ -712,6 +718,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -862,6 +869,8 @@ p04-fmip.icloud.com
 p06-fmip.icloud.com
 p10-calendars.icloud.com
 p112-iwnr-china.icloud.com
+p117-availability.icloud.com
+p117-sharedstreams.icloud.com
 p122-acsegateway.icloud.com
 p122-caldav.icloud.com
 p122-ckdatabase.icloud.com
