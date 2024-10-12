@@ -241,6 +241,7 @@ cma.itunes-apple.com.akadns.net
 c.ns.apple.com
 comm-cohort.ess.apple.com
 comm-cohort.ess-apple.com.akadns.net
+commercegateway-sandbox.itunes-apple.com.akadns.net
 comm-main.ess.apple.com
 comm-main.ess-apple.com.akadns.net
 commnat-cohort-gc.ess.apple.com
@@ -822,13 +823,13 @@ musicstatus-us.edge-itunes-apple.com.akadns.net
 musicstatus-us-e.edge-itunes-apple.com.akadns.net
 mvod.itunes.apple.com
 mvod.itunes.apple.com.edgesuite.net
-mvod.itunes.g.aaplimg.com
 mwpe-ssl.ls-apple.com.akadns.net
 mzstatic.com
 mzstatic.itunes-apple.com.akadns.net
 mzstorekit.itunes.apple.com
 mzstorekit.itunes.apple.com.edgesuite.net
 mzstorekit.lb-apple.com.akadns.net
+mzstorekit-sb.itunes.apple.com
 nc-pod2-smp-device-asset.apple.com
 netcts.cdn-apple.com
 netcts.cdn-apple.com.edgesuite.net
@@ -1039,6 +1040,7 @@ p62-availability.icloud.com
 p62-bookmarks.icloud.com
 p62-ckdatabase.icloud.com
 p62-ckdevice.icloud.com
+p62-content.icloud.com
 p62-escrowproxy.icloud.com
 p62-fmfmobile.icloud.com
 p62-imap.mail.me.com
@@ -1266,7 +1268,6 @@ unlinkability.apple.com
 updates.cdn-apple.com
 updates.cdn-apple.com.akadns.net
 updates.cdn-apple.com.edgesuite.net
-updates.g.aaplimg.com
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates-http.cdn-apple.com.edgesuite.net
