@@ -41283,3 +41283,16 @@ Sat Oct 12 08:38:46 AM MSK 2024                dns-expressvpn.txt  >ipv6-resolve
 Sat Oct 12 08:45:11 AM MSK 2024                dns-facebook.txt  >ipv6-resolve-facebook.txt
 Sat Oct 12 09:47:43 AM MSK 2024                dns-github.txt  >ipv6-resolve-github.txt
 Sat Oct 12 09:58:41 AM MSK 2024                dns-google.txt  >ipv6-resolve-google.txt
+[master 69c6e8db] auto-update merged
+ 24 files changed, 9411 insertions(+), 17129 deletions(-)
+ delete mode 100644 merged/ipv6-expressvpn.cidr
+Sat Oct 12 10:59:31 AM MSK 2024                dns-huggingface.txt  >ipv6-resolve-huggingface.txt
+Sat Oct 12 11:00:19 AM MSK 2024                dns-openai.txt  >ipv6-resolve-openai.txt
+Sat Oct 12 11:04:02 AM MSK 2024                dns-ozon.txt  >ipv6-resolve-ozon.txt
+Sat Oct 12 11:05:37 AM MSK 2024                dns-pornhub.txt  >ipv6-resolve-pornhub.txt
+Sat Oct 12 11:07:51 AM MSK 2024                dns-surfshark.txt  >ipv6-resolve-surfshark.txt
+Sat Oct 12 11:14:04 AM MSK 2024                dns-tiktok.txt  >ipv6-resolve-tiktok.txt
+Sat Oct 12 12:15:38 PM MSK 2024                dns-tunnelbear.txt  >ipv6-resolve-tunnelbear.txt
+Sat Oct 12 12:25:48 PM MSK 2024                dns-twitter.txt  >ipv6-resolve-twitter.txt
+Sat Oct 12 12:36:19 PM MSK 2024                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
+Sat Oct 12 12:36:26 PM MSK 2024                dns-youtube.txt  >ipv6-resolve-youtube.txt
