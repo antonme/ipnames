@@ -41389,3 +41389,13 @@ Sun Oct 13 10:20:49 AM MSK 2024                dns-huggingface.txt  >resolve-hug
 Sun Oct 13 10:21:30 AM MSK 2024                dns-openai.txt  >resolve-openai.txt
 Sun Oct 13 10:24:38 AM MSK 2024                dns-ozon.txt  >resolve-ozon.txt
 Sun Oct 13 10:26:04 AM MSK 2024                dns-pornhub.txt  >resolve-pornhub.txt
+[master 1a875877] auto-update merged
+ 42 files changed, 10478 insertions(+), 7632 deletions(-)
+ delete mode 100644 merged/ipv6-surfshark.cidr
+ delete mode 100644 merged/ipv6-tunnelbear.cidr
+Sun Oct 13 10:27:54 AM MSK 2024                dns-surfshark.txt  >resolve-surfshark.txt
+Sun Oct 13 10:33:02 AM MSK 2024                dns-tiktok.txt  >resolve-tiktok.txt
+Sun Oct 13 11:27:23 AM MSK 2024                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Sun Oct 13 11:36:08 AM MSK 2024                dns-twitter.txt  >resolve-twitter.txt
+Sun Oct 13 11:45:18 AM MSK 2024                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Sun Oct 13 11:45:25 AM MSK 2024                dns-youtube.txt  >resolve-youtube.txt
