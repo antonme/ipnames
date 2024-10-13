@@ -41296,3 +41296,41 @@ Sat Oct 12 12:15:38 PM MSK 2024                dns-tunnelbear.txt  >ipv6-resolve
 Sat Oct 12 12:25:48 PM MSK 2024                dns-twitter.txt  >ipv6-resolve-twitter.txt
 Sat Oct 12 12:36:19 PM MSK 2024                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
 Sat Oct 12 12:36:26 PM MSK 2024                dns-youtube.txt  >ipv6-resolve-youtube.txt
+[master 225de2e9] auto-update ipv6
+ 12 files changed, 4111 insertions(+), 3091 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Sun Oct 13 06:00:01 AM MSK 2024
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
