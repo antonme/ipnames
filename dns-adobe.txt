@@ -7,6 +7,7 @@ abp-profile-service.adobe.io
 abZZZkUYlUhU.adobe.com
 account.adobe.com
 accounts.adobe.com
+accounts.frame.io
 account-va6-prod-k8s.cloud.adobe.io
 acierate.adobeaemcloud.com
 acp-ss.adobe.io
@@ -27,6 +28,7 @@ adobe-dns-05.adobe.com
 adobedtm.com
 adobeid-na1.services.adobe.com
 adobeid-na1.services.adobe.com.cdn.cloudflare.net
+adobeid-na1-stg1.services.adobe.com
 adobelogin.com
 adobelogin-prod07.prod.ims.adobejanus.com
 adobelogin.prod.ims.adobejanus.com
@@ -57,10 +59,13 @@ ans.prod.oobesaas.adobe.com
 aos.adobe.io
 ap3.prd.adobeaemcloud.net
 api.account.adobe.com
+api.frame.io
 api-gateway-ap-prd-va6-02.infra.adobe.io
 api.plan.adobe.com
 apm3-27224.adobeaemcloud.net
 app-content.lightroom.adobe.com
+app.frame.io
+apps.enterprise.adobe.com
 apqa.adobeaemcloud.net
 aps0114.adobeaemcloud.com
 aps-web.adobe.io
@@ -79,12 +84,14 @@ arubavpnd22032.adobeaemcloud.com
 as2.ftcdn.net
 assets.adobe.com
 assets.adobedtm.com
+assets.frame.io
 assets-helper.adobe.io
 assistant.adobe.io
 astockcdn.net
 atii.adobeaemcloud.net
 aug-student-141-224-206-156.adobeaemcloud.com
 aug-student-141-224-206-87.adobeaemcloud.com
+aura-prod.hz.adobe.com
 aus5.dcs.adobedc.net
 auth-light.identity.adobe.com
 auth.prod.ims.adobejanus.com
@@ -213,6 +220,7 @@ commerce.adobe.com.edgekey.net
 committeeadmin.adobeaemcloud.com
 community.adobe.com
 community-hubs.adobe.io
+concept.adobe.com
 connect.ffc.adobeoobe.com
 conquering.adobeaemcloud.com
 core312.bccms.adobeaemcloud.net
@@ -301,6 +309,7 @@ eddore.adobeaemcloud.com
 edge.adobedc.net
 edgeproxy-irl1.cloud.adobe.io
 edgeproxy-va6.cloud.adobe.io
+edu-classrooms.adobe.io
 eduroam-0620.wlan.adobeaemcloud.net
 eduroam-160-217-136-209.eduroam.adobeaemcloud.com
 eduroam-201-174.adobeaemcloud.net
@@ -345,6 +354,7 @@ ffc-addon.adobe.io
 ffc.adobe.io
 ffc.adobeoobe.com
 ffc-static-cdn.oobesaas.adobe.com
+ffc-was-assets.adobecces.com
 fgde.adobeaemcloud.com
 fgih.adobeaemcloud.com
 fh-s225n93.adobeaemcloud.net
@@ -364,6 +374,7 @@ fonts.adobe.com
 forums.adobe.com
 four-rowed.adobeaemcloud.com
 fpt.commerce.adobe.com
+frame.io
 fsfz.adobeaemcloud.net
 fxxq.adobeaemcloud.com
 fzbv.adobeaemcloud.net
@@ -551,6 +562,7 @@ magento-recs-sdk.adobe.net.edgekey.net
 magicofphotoshop.com
 marketing.philips-hue.com.data.adobedc.net
 maslab.adobeaemcloud.com
+max.adobe.com
 mbi3.adobeaemcloud.com
 mboxedge47.ethos102-prod-irl1.ethos.adobe.net
 mbu-.adobeaemcloud.com
@@ -590,6 +602,7 @@ netatmo-mkt-prod1-res.adobe-campaign.com
 new.express.adobe.com
 newsuk-mkt-prod1-lb.campaign.adobe.com
 newsuk-mkt-prod1-res.adobe-campaign.com
+next.frame.io
 NfQPhfoQKgPS.adobe.com
 nil9.adobeaemcloud.com
 nji1.adobeaemcloud.net
@@ -681,6 +694,7 @@ photos-storage.adobe.io
 phra-nakhon-si-ayutthaya.adobeaemcloud.com
 phymatoid.adobeaemcloud.net
 pick-up.adobeaemcloud.com
+picture.frame.io
 pillar.adobeaemcloud.com
 pimg.adobeaemcloud.com
 pinniwinkis.adobeaemcloud.com
@@ -826,6 +840,7 @@ stage.ims.adobejanus.com
 state.typekit.net
 static.adobelogin.com
 static.adobelogin.com-v1.edgekey.net
+static-assets.frame.io
 static-cdn-geo-ffc.oobesaas.adobe.com
 stats.adobe.com
 status.adobe.com
