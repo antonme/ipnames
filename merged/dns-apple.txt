@@ -1654,6 +1654,8 @@ amp-api.apps-marketplace.apple.com
 amp-api.books.apple.com
 amp-api.books.apple.com.edgekey.net
 amp-api.books.apple.com.edgesuite.net
+amp-api-books-cdn-lb.itunes-apple.com.akadns.net
+amp-api-books-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
 amp-api-edge.apps.apple.com.edgesuite.net
@@ -3817,6 +3819,7 @@ edge-052.hkhkg.icloud-content.com
 edge-052.sesto4.icloud-content.com
 edge-053.dkvib11.icloud-content.com
 edge-053.hkhkg.icloud-content.com
+edge-053.uschi7.icloud-content.com
 edge-053.ussehermes3.icloud-content.com
 edge-054-315.gbslo5.icloud-content.com
 edge-054.b393m2.icloud-content.com
@@ -8429,6 +8432,7 @@ invitation-qa2.g.apple.com
 ios-apple.com
 iosapps.itunes.apple.com
 iosapps.itunes.apple.com.edgesuite.net
+iosapps.itunes.g.aaplimg.com
 iosdiags.apple.com
 iosdiags-dr-old.apple.com
 iosdiags-mdn.apple.com
@@ -12228,6 +12232,7 @@ nova.apple.com
 nova-gen-rno.apple.com
 nova-staging.apple.com
 nova-web-rno.apple.com
+np-edge-cdn.itunes-apple.com.akadns.net
 np-edge.itunes.apple.com
 np-edge.itunes.apple.com.edgesuite.net
 np.itunes.apple.com.edgesuite.net
@@ -12373,7 +12378,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -12540,6 +12544,7 @@ osvcomm-prod.mdn.apple.com
 osvcomm-prod.prz.apple.com
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
+osxapps.itunes.g.aaplimg.com
 otocacheit.apple.com
 otocachet.apple.com
 otoit.cdn-apple.com
@@ -13699,6 +13704,7 @@ p105-remindersws-china.icloud.com
 p105-remindersws.icloud.com
 p105-sharedav-china.icloud.com
 p105-sharedstreams-china.icloud.com
+p105-sharedstreams.icloud.com
 p105-streams.icloud.com
 p105-uploadimagews-china.icloud.com
 p105-uploadimagews.icloud.com
