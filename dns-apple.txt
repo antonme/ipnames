@@ -266,6 +266,7 @@ croissant.cdn-apple.com
 csig.apple.com
 csig.g.apple.com
 cssubmissions.apple.com
+cssubmissions.apple.com.akadns.net
 cstat.apple.com.edgesuite.net
 cstat.cdn-apple.com
 cstat-lb.apple.com.akadns.net
@@ -586,6 +587,7 @@ events-delivery.apple.com
 experiments.apple.com
 experiments.apple.com.edgekey.net
 familyws.icloud.apple.com
+fba.apple.com
 fbs.smoot.apple.com
 fe.apple-dns.net
 feedbackws.icloud.com
@@ -724,6 +726,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -863,6 +866,7 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -874,7 +878,6 @@ opensource.apple.com
 origin-apple.com.akadns.net
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
-osxapps.itunes.g.aaplimg.com
 p04-fmip.icloud.com
 p06-fmip.icloud.com
 p105-sharedstreams.icloud.com
@@ -1218,6 +1221,7 @@ statici.icloud.com.edgekey.net
 static.ips.apple.com
 stats.gc.apple.com
 stats.gc-apple.com.akadns.net
+status.apple.com
 st-mailws.icloud.com.akadns.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
