@@ -159,6 +159,7 @@ books-analytics-events.apple.com
 books.apple.com
 books.apple.com.edgekey.net
 books-edge.apple.com
+books.itunes.apple.com
 books-personalization-server.apple.com
 bpapi.apple.com
 br-apple.com
@@ -236,6 +237,7 @@ client-api.itunes.apple.com
 client-api.itunes.apple.com.edgesuite.net
 clientflow.apple.com
 clientflow.apple.com.akadns.net
+cma2-cdn.itunes-apple.com.akadns.net
 cma2.itunes.apple.com
 cma2.itunes.apple.com.edgesuite.net
 cma-china.itunes-apple.com.akadns.net
@@ -269,7 +271,6 @@ cssubmissions.apple.com
 cssubmissions.apple.com.akadns.net
 cstat.apple.com.edgesuite.net
 cstat.cdn-apple.com
-cstat.g.aaplimg.com
 cstat-lb.apple.com.akadns.net
 cvws-001.icloud-content.com
 cvws-002.icloud-content.com
@@ -422,6 +423,7 @@ edge-129.sesto4.icloud-content.com
 edge-129.usdal2.icloud-content.com
 edge-131.sesto4.icloud-content.com
 edge-134.sesto4.icloud-content.com
+edge-135.dkvib11.icloud-content.com
 edge-135.sesto4.icloud-content.com
 edge-137.sesto4.icloud-content.com
 edge-138.sesto4.icloud-content.com
@@ -616,8 +618,13 @@ gc.apple.com
 gc.apple.com.akadns.net
 gdmf-ados.apple.com
 gdmf.apple.com
+genius-3-cdn.lb-apple.com.akadns.net
 genius-3.itunes.apple.com
 genius-3.itunes.apple.com.edgekey.net
+genius-download-2.apps-apple.com.akadns.net
+genius-download-2.itunes.apple.com
+genius-upload-2.apps-apple.com.akadns.net
+genius-upload-2.itunes.apple.com
 geo.itunes.apple.com
 graffiti-tags.apple.com
 graffiti-tags.apple.com.edgesuite.net
@@ -726,7 +733,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -824,6 +830,7 @@ ml.cdn-apple.com
 ml.cdn-apple.com.akamaized.net
 ml.lb-apple.com.akadns.net
 mobileapp.apple.com.edgekey.net
+mr36d-bistunium-k8scontour-tcp-ext.ls.apple.com
 mr-mailws.icloud.com.akadns.net
 musicstatus.edge-itunes-apple.com.akadns.net
 musicstatus-eu.edge-itunes-apple.com.akadns.net
@@ -999,6 +1006,9 @@ p32-content.icloud.com
 p33-content.icloud.com
 p34-buy.itunes.apple.com
 p34-content.icloud.com
+p35-buy.itunes.apple.com
+p35-buy.itunes-apple.com.akadns.net
+p35-buy-lb.itunes-apple.com.akadns.net
 p35-content.icloud.com
 p36-content.icloud.com
 p37-content.icloud.com
@@ -1165,6 +1175,7 @@ seed-probe.siri.apple.com
 seed.siri.apple.com
 seed-swallow.siri.apple.com
 seguro.promo-apple.com.cdn.gocache.net
+se.itunes.apple.com
 sequoia.apple.com
 sequoia.cdn-apple.com
 sesto4.icloud-content.com
@@ -1241,6 +1252,7 @@ su-applak.itunes-apple.com.akadns.net
 su-cdn.itunes-apple.com.akadns.net
 su.itunes.apple.com
 su.itunes.apple.com.edgekey.net
+sundew.ls.apple.com
 support.apple.com
 support.apple.com.edgekey.net
 support-china.apple-support.akadns.net
