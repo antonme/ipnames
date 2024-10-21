@@ -2552,6 +2552,7 @@ books-analytics-events.apple.com
 books.apple.com
 books.apple.com.edgekey.net
 books-edge.apple.com
+books.itunes.apple.com
 books-personalization-server.apple.com
 books-px14.apple.com
 books-ssl.itunes.apple.com
@@ -2960,6 +2961,7 @@ cls-webdata.education.icloud.com
 cls-webdata-ic1.icloud.com
 cls-webdata-ic2.icloud.com
 cluster-lom.ebc.apple.com
+cma2-cdn.itunes-apple.com.akadns.net
 cma2.itunes.apple.com
 cma2.itunes.apple.com.edgesuite.net
 cma2rb.cdn-apple.com
@@ -3165,7 +3167,6 @@ cssvc.apple.com
 cssvc-ut.apple.com
 cstat.apple.com.edgesuite.net
 cstat.cdn-apple.com
-cstat.g.aaplimg.com
 cstat-lb.apple.com.akadns.net
 cstat-origin.apple.com
 cstpp-proxy-stage.apple.com
@@ -4091,6 +4092,7 @@ edge-134.edge-295.icloud-content.com
 edge-134.jposa3.icloud-content.com
 edge-134.sesto4.icloud-content.com
 edge-134.sgsin8.icloud-content.com
+edge-135.dkvib11.icloud-content.com
 edge-135.hkhkg.icloud-content.com
 edge-135.jposa3.icloud-content.com
 edge-135.sesto4.icloud-content.com
@@ -6512,15 +6514,18 @@ genifp.apple.com
 genius-2.itunes.apple.com
 genius2.itunes.apple.com
 genius2-upload.itunes.apple.com
+genius-3-cdn.lb-apple.com.akadns.net
 genius3-download.itunes.apple.com
 genius-3.itunes.apple.com
 genius3.itunes.apple.com
 genius-3.itunes.apple.com.edgekey.net
 genius3-upload.itunes.apple.com
+genius-download-2.apps-apple.com.akadns.net
 genius-download-2.itunes.apple.com
 genius-download-3.itunes.apple.com
 genius.itunes.apple.com
 genius.push.apple.com
+genius-upload-2.apps-apple.com.akadns.net
 genius-upload-2.itunes.apple.com
 genius-upload-3.itunes.apple.com
 genserv.apple.com
@@ -8380,7 +8385,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -11484,6 +11488,7 @@ mr30834003c.connectivity.icloud.com
 mr30834004c.connectivity.icloud.com
 mr35q01if-configuration.mr.if1.apple.com
 mr36d-bistunium-k8scontour-ext.ls.apple.com
+mr36d-bistunium-k8scontour-tcp-ext.ls.apple.com
 mr36d-uridium-k8straefik-ext-dlb.ls.apple.com
 mr3-sec-burp01.rno.apple.com
 mr45p01nt-msbadger001101.ise.apple.com
@@ -20039,6 +20044,9 @@ p34-statici.icloud.com
 p34-streams-china.icloud.com
 p34-ubiquityws.icloud.com
 p35-acsegateway.icloud.com
+p35-buy.itunes.apple.com
+p35-buy.itunes-apple.com.akadns.net
+p35-buy-lb.itunes-apple.com.akadns.net
 p35-caldav-china.icloud.com
 p35-caldav.icloud.com
 p35-calendars-china.icloud.com
@@ -25493,7 +25501,6 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
