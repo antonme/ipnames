@@ -679,6 +679,7 @@ gspe21-ssl.ls.apple.com
 gspe21-ssl.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com.edgekey.net
 gspe21-ssl.ls.apple.com.edgesuite.net
+gspe35-applecdn-cutover.ls-apple.com.akadns.net
 gspe35-ssl.ls.apple.com
 gspe35-ssl.ls-apple.com.akadns.net
 gspe35-ssl.ls.apple.com.edgekey.net
@@ -735,7 +736,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -756,6 +756,7 @@ init-s01st.push.apple.com
 init-s01st.push.apple.com.edgesuite.net
 insideapple0517._domainkey.insideapple.apple.com
 internalcheck.apple.com
+invitation.ess.apple.com
 ios-apple.com
 iosapps.itunes.apple.com
 iosapps.itunes.apple.com.edgesuite.net
@@ -1287,6 +1288,7 @@ tf-feedback.itunes.apple.com
 time.apple.com
 time.euro.apple.com
 time-ios.apple.com
+toolbox.marketingtools.apple.com
 transfer-ext-a-v4.dns.apple.com
 transfer-ext-b-v4.dns.apple.com
 transfer-ext-c-v4.dns.apple.com
@@ -1297,6 +1299,7 @@ unlinkability.apple.com
 updates.cdn-apple.com
 updates.cdn-apple.com.akadns.net
 updates.cdn-apple.com.edgesuite.net
+updates.g.aaplimg.com
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates-http.cdn-apple.com.edgesuite.net
@@ -1346,6 +1349,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 webcourier.push.apple.com
 webproxy.advp.apple.com
