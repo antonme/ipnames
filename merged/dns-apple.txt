@@ -1868,6 +1868,7 @@ api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
 api-glb-aeun1a.smoot.apple.com
 api-glb-aeun1b.smoot.apple.com
+api-glb-aeus2a.smoot.apple.com
 api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw1c.smoot.apple.com
 api-glb-aeuw3b.smoot.apple.com
@@ -3168,7 +3169,6 @@ cssvc.apple.com
 cssvc-ut.apple.com
 cstat.apple.com.edgesuite.net
 cstat.cdn-apple.com
-cstat.g.aaplimg.com
 cstat-lb.apple.com.akadns.net
 cstat-origin.apple.com
 cstpp-proxy-stage.apple.com
@@ -7863,7 +7863,6 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl.ls.apple.com
@@ -8395,7 +8394,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -13678,6 +13676,7 @@ p104-ubiquity.icloud.com
 p104-uploadimagews.icloud.com
 p105-acsegateway.icloud.com
 p105-archivews.icloud.com
+p105-availability.icloud.com
 p105-calendars-china.icloud.com
 p105-calendarws-china.icloud.com
 p105-ckcoderouter-china.icloud.com
@@ -20875,6 +20874,8 @@ p51-ubiquityws.icloud.com
 p52-acsegateway.icloud.com
 p52-archivews.icloud.com
 p52-bookmarks-china.icloud.com
+p52-buy.itunes.apple.com
+p52-buy-lb.itunes-apple.com.akadns.net
 p52-calendars-china.icloud.com
 p52-calendars.icloud.com
 p52-calendarws.icloud.com
