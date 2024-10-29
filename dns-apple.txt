@@ -89,6 +89,7 @@ api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
 api-glb-aeun1a.smoot.apple.com
 api-glb-aeun1b.smoot.apple.com
+api-glb-aeus2a.smoot.apple.com
 api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw3b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
@@ -274,7 +275,6 @@ cssubmissions.apple.com
 cssubmissions.apple.com.akadns.net
 cstat.apple.com.edgesuite.net
 cstat.cdn-apple.com
-cstat.g.aaplimg.com
 cstat-lb.apple.com.akadns.net
 cvws-001.icloud-content.com
 cvws-002.icloud-content.com
@@ -745,7 +745,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -902,6 +901,7 @@ osxapps.itunes.apple.com.edgesuite.net
 p04-contactsws.icloud.com
 p04-fmip.icloud.com
 p06-fmip.icloud.com
+p105-availability.icloud.com
 p105-sharedstreams.icloud.com
 p10-calendars.icloud.com
 p112-iwnr-china.icloud.com
@@ -1062,6 +1062,8 @@ p50-buy.itunes-apple.com.akadns.net
 p50-buy-lb.itunes-apple.com.akadns.net
 p50-content.icloud.com
 p51-content.icloud.com
+p52-buy.itunes.apple.com
+p52-buy-lb.itunes-apple.com.akadns.net
 p52-content.icloud.com
 p53-content.icloud.com
 p54-content.icloud.com
@@ -1215,6 +1217,7 @@ smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
+smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-new.apple.com.edgekey.net
 smp-device-content-us.lb-apple.com.akadns.net
@@ -1383,6 +1386,7 @@ www.apple.com.cn.edgekey.net.globalredir.akadns.net
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
+www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
