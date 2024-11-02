@@ -59,6 +59,7 @@ amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api-search-edge.apps.apple.com.edgesuite.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
+amp-api.shazam.apple.com
 amp-api.shazam.apple.com.edgekey.net
 amp-api-updates-apps-akam.itunes-apple.com.akadns.net
 amp-api-updates.apps.apple.com
@@ -381,6 +382,7 @@ edge-064.nlhfd1.icloud-content.com
 edge-065.deber3.icloud-content.com
 edge-067.defra2.icloud-content.com
 edge-067.uslax2.icloud-content.com
+edge-068.nlhfd1.icloud-content.com
 edge-069.usuyk1.icloud-content.com
 edge-070.defra2.icloud-content.com
 edge-070.usdal2.icloud-content.com
@@ -722,7 +724,6 @@ help-ar.apple.com.edgekey.net
 help.origin-apple.com.akadns.net
 hls.itunes.apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
-hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes-apple.com.akadns.net
 hls-svod.itunes.apple.com.edgesuite.net
@@ -758,6 +759,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -1279,6 +1281,7 @@ stocks-sparkline.apple.com.edgekey.net
 store-030.blobstore.apple.com
 store-030-lb.blobstore-apple.com.akadns.net
 store-031.blobstore.apple.com
+store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
 store.storeimages.cdn-apple.com.edgekey.net
 store.storeimages.cdn-apple.com-v2.edgekey.net
