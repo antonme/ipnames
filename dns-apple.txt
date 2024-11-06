@@ -95,8 +95,10 @@ api-glb-aeus2a.smoot.apple.com
 api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw3b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
+api-lookup-aeun1a.smoot.apple.com
 api-lookup-aeun1b.smoot.apple.com
 api-lookup.smoot.apple.com
+api-safari-aeun1a.smoot.apple.com
 api-safari-aeun1b.smoot.apple.com
 api-safari.smoot.apple.com
 api.smoot.apple.com
@@ -114,6 +116,7 @@ appleid.idms-apple.com.akadns.net
 appleid-ut.corp.apple.com
 apple-mapkit.com
 applepay.cdn-apple.com
+apple-relay.apple.com
 appleseedcdn.apple.com
 apps.apple.com
 apps.apple.com.edgekey.net
@@ -725,7 +728,6 @@ help-ar.apple.com.edgekey.net
 help.origin-apple.com.akadns.net
 hls.itunes.apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
-hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes-apple.com.akadns.net
 hls-svod.itunes.apple.com.edgesuite.net
@@ -761,7 +763,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -916,6 +917,7 @@ opensource.apple.com
 origin-apple.com.akadns.net
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
+osxapps.itunes.g.aaplimg.com
 p04-contactsws.icloud.com
 p04-fmip.icloud.com
 p06-fmip.icloud.com
@@ -1337,6 +1339,7 @@ unlinkability.apple.com
 updates.cdn-apple.com
 updates.cdn-apple.com.akadns.net
 updates.cdn-apple.com.edgesuite.net
+updates.g.aaplimg.com
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates-http.cdn-apple.com.edgesuite.net
@@ -1387,6 +1390,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 webcourier.push.apple.com
 webproxy.advp.apple.com
@@ -1404,7 +1408,6 @@ www.apple.com.cn.edgekey.net.globalredir.akadns.net
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
