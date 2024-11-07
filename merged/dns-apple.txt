@@ -7877,7 +7877,6 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl.ls.apple.com
@@ -8116,6 +8115,7 @@ hls-mslive.itunes.apple.com.edgesuite.net
 hls-slive.itunes.apple.com.edgesuite.net
 hls-streaming.cdn-apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
+hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes-apple.com.akadns.net
 hls-svod.itunes.apple.com.edgesuite.net
@@ -8410,6 +8410,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-cdn-world.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -12412,7 +12413,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -22341,6 +22341,7 @@ pr-pod8-smp-device-dr.apple.com
 pr-pod8-smp-device.gcsis-apple.com.akadns.net
 pr-pod9-smp-device.apple.com
 pr-pod9-smp-device-dr.apple.com
+pr-security-prod.apple.com
 pr-sfs-prod.apple.com
 pr-smb-ma-prod.apple.com
 pr-tuneandplay.apple.com
@@ -23569,6 +23570,7 @@ sgp-fileaggr-stage.apple.com
 sgp-nimbus-prod.apple.com
 sgp-redd-prod.apple.com
 sgp-retailjss-sgp.apple.com
+sgp-security-prod.apple.com
 sgp-spdrcrp-lapp01.asia.apple.com
 sgp-trace-dev.apple.com
 sgp-webmail-pbz-prod.apple.com
