@@ -113,6 +113,7 @@ acrobat.vendors.experiencecloud.adobe.com
 acrodash.corp.adobe.com
 acrodash-stg.corp.adobe.com
 acroeng.adobe.com
+acroipm2.adobe.com
 acrolaw.host.adobe.com
 acromon.adobe.com
 acrs.adobe.com
@@ -313,6 +314,7 @@ adobelearningmanagercsmprime11285.adobe.com
 adobe-learning-summit.elearning.adobeevents.com
 adobe.marketing.adobe.com
 adobemcidplan.businesscatalyst.com
+adobemobiledev-mkt-prod1-lb.campaign.adobe.com
 adobe.na1.documents.adobe.com
 adobenow.corp.adobe.com
 adobe-owa.experiencecloud.adobe.com
@@ -408,6 +410,7 @@ ags633.marketing.adobe.com
 ags84.marketing.adobe.com
 agsinsight.adobe.com
 ags-studio.adobe.com
+agsupdate.adobe.com
 ahl-mkt-prod1-lb.campaign.adobe.com
 ahortonart.myportfolio.com
 aialosangeles.businesscatalyst.com
@@ -632,6 +635,7 @@ aphug.documents.adobe.com
 api1.corp.adobe.com
 api.212.na1.documents.adobe.com
 api.237.marketing-assets.adobe.com
+api.account.adobe.com
 api.adm.na2.documents.adobe.com
 api.auth.adobe.com
 api.autodiscover.na3.documents.adobe.com
@@ -714,6 +718,7 @@ appcat-eth-stg.corp.adobe.com
 app-cdn.adobe.com
 app-cdn-origin-du1--ext-vip.adobe.com
 app.circle.ci.adobe.com
+app.frame.io
 appf.sem.adobe.com
 app.ftpeu1.documentsawspreview.adobe.com
 app.fusion.adobe.com
@@ -727,6 +732,7 @@ apps-campus.corp.adobe.com
 appscanner1-sign-prd.corp.adobe.com
 appscanner2-sign-stg.corp.adobe.com
 appscan-sign-stg.corp.adobe.com
+apps.enterprise.adobe.com
 app.vi.documentsawspreview.adobe.com
 ap-r9127tsl.corp.adobe.com
 apricot-a.corp.adobe.com
@@ -747,6 +753,7 @@ archivumuk.businesscatalyst.com
 arcps.adobeconnect.com
 ardownload2.adobe.com
 ardownload2-stg.corp.adobe.com
+ardownload3.adobe.com
 ardownload.adobe.com
 aresconfig-cja.appsvc.an.adobe.com
 aresconfig-global.acc.appsvc.an.adobe.com
@@ -783,6 +790,8 @@ artopica.prosite.com
 artsci.mm.na2.documents.adobe.com
 artsvit.myportfolio.com
 as1010219170059.corp.adobe.com
+as1.ftcdn.net
+as2.ftcdn.net
 as2node01.corp.adobe.com
 asa-bangalore-2.adobe.com
 asa-bangalore-3.adobe.com
@@ -943,6 +952,7 @@ authhome-depot.marketing.adobe.com
 auth-host.documentsgovstage.adobe.com
 auth-ip.marketing.adobe.com
 auth.kaufland.documents.adobe.com
+auth-light.identity.adobe.com
 auth-light-popup.identity-stage.adobe.com
 auth-light-sample.identity.adobe.com
 auth-light-tessera.identity-stage.adobe.com
@@ -1254,6 +1264,7 @@ blancheporte-mkt-prod1-m.campaign.adobe.com
 blancheporte-mkt-prod1-t.campaign.adobe.com
 blog.164.marketing.adobe.com
 blog.accountbackup.demo.documentsgovstage.adobe.com
+blog.adobe.com
 blog.adobe-solutions.de
 blog.adobespark.com
 blog.behance.net
@@ -1417,8 +1428,10 @@ builder.notifications.experiencecloud.adobe.com
 build.phonegap.com
 bupaaustralia-mkt-stage5-cus.campaign.adobe.com
 burnttoast.myportfolio.com
+business.adobe.com
 businesscatalyst.com.au
 busmcme.na1.documents.adobe.com
+butler.adobe.com
 buyconnect.adobe.com
 buy.consolede.sem.adobe.com
 buying-a-home.myportfolio.com
@@ -1437,6 +1450,7 @@ byusign.management-na2.documents.adobe.com
 byusign.na2alpha.documents.adobe.com
 byusign.na2.noida.documents.adobe.com
 byusign-preview.na2.documents.adobe.com
+c00.adobe.com
 c00danieapp.marketing.adobe.com
 c00-de.sem.adobe.com
 c00.drew-phillips.marketing.adobe.com
@@ -1730,6 +1744,7 @@ cdn.cnameprod.test.cjmadobe.com.cname.cjm.adobe.com
 cdn.communicatie.nn.nl.cname.cjm.adobe.com
 cdn.comunicaciones.tengo.hn.cname.cjm.adobe.com
 cdn-contentviewer.adobe.com
+cdn.cp.adobe.io
 cdn-cuali-na3.vi.documentsawspreview.adobe.com
 cdn.customer-success-apac.adobe.com
 cdn.edex.adobe.com
@@ -1767,6 +1782,7 @@ cdn.qamailing.mcafee.com.cname.cjm.adobe.com
 cdn-qe-ffc.dev.oobesaas.adobe.com
 cdn.resources.ringcentral.com.cname.cjm.adobe.com
 cdn.service.wizconnected.com.cname.cjm.adobe.com
+cdn-sharing.adobecc.map.fastly.net
 cdn-sharing-stage.adobecc.map.fastly.net
 cdn.ssocm.corp.adobe.com
 cdn-stage-svc.adobecc.map.fastly.net
@@ -2714,6 +2730,7 @@ docs.phonegap.com
 documentationvendors.experiencecloud.adobe.com
 documentcloud.adobe.com
 document.documentsawspreview.adobe.com
+documents.adobe.com
 documentsawsdevops.adobe.com
 documentsawspreview.adobe.com
 documentservices.adobe.com
@@ -3067,6 +3084,7 @@ emu.fan-one.com.cname.campaign.adobe.com
 emulate.phonegap.com
 e.newyorklife.com.cname.campaign.adobe.com
 en.experiencecloud.adobe.com
+engage.adobe.com
 engagement.adobe.com
 engineeringgcp-us-west1-azure.brand-portal.adobe.com
 engineering-secure-na3.vi.documentsawspreview.adobe.com
@@ -3517,6 +3535,7 @@ fpdownload.wgqa.corp.adobe.com
 fp-mm-origin.wip4.adobe.com
 fr.53babb6ac04faa4464363ab9.c00.adobe.com
 fra8.canary.adobe.com
+frame.io
 frameio-arcade-temporal-prod.corp.adobe.com
 frameio-devops-functions-temporal-prod.corp.adobe.com
 franconottaris.myportfolio.com
@@ -4395,6 +4414,7 @@ jettypest.na4.documents.adobe.com
 jgm98.myportfolio.com
 jhonny.myportfolio.com
 jidoka.corp.adobe.com
+jil.adobe.com
 jinher.myportfolio.com
 jira.corp.adobe.com
 jira.dev1.corp.adobe.com
@@ -5262,6 +5282,7 @@ maverick-prod.corp.adobe.com
 maverick-stg.corp.adobe.com
 mavlink.ci.corp.adobe.com
 mavlink.corp.adobe.com
+max.adobe.com
 max.adobe-web.jp
 max-emea.adobe.com
 max-europe.adobe.com
@@ -6034,6 +6055,7 @@ newsssl.experiencecloud.adobe.com
 news-status-na1.is1.documentsawspreview.adobe.com
 newstaff.documents.adobe.com
 newsuk-mkt-prod1-1.campaign.adobe.com
+newsuk-mkt-prod1-lb.campaign.adobe.com
 newtest.wunderman-email.cjm.adobe.com
 newtonryan.myportfolio.com
 newyorklife-bp.documentsawspreview.adobe.com
@@ -8704,6 +8726,7 @@ share.corp.adobe.com
 shared-assets.adobe.com
 shared-cassandra-node.identity-dev.adobe.com
 sharedcloud.eur.adobe.com
+shared-components.adobe.com
 share.eu2.snapshot.documentsawspreview.adobe.com
 share.experiencecloud.adobe.com
 share.studio.adobe.com
@@ -9186,6 +9209,7 @@ spark-dev.adobe.com
 spark-qa.adobe.com
 spartans-deployer.corp.adobe.com
 spartans-support.corp.adobe.com
+sp.auth.adobe.com
 specter-soar.corp.adobe.com
 spectrum-admin.corp.adobe.com
 spectrum.adobe.com
@@ -9466,6 +9490,7 @@ substance3d-news.adobe.com
 subway-mkt-prod1-1.campaign.adobe.com
 subway-mkt-prod1-lb.campaign.adobe.com
 subway-mkt-stage1-lb.campaign.adobe.com
+success.adobe.com
 sufeeyama.myportfolio.com
 summit.adobe.com
 summit-apac.adobe.com
@@ -9675,6 +9700,7 @@ t3.apac.pdm.gm.com.cname.campaign.adobe.com
 t3.communications.mastercard.com.br.cname.campaign.adobe.com
 t3.email.cadillacarabia.com.cname.campaign.adobe.com
 t3.emea.pdm.gm.com.cname.campaign.adobe.com
+t3.ftcdn.net
 t3.mailing.unilever.com.cname.campaign.adobe.com
 t3.messages.cadillac.com.cname.campaign.adobe.com
 t3.products.hl.co.uk.cname.campaign.adobe.com
@@ -9682,6 +9708,7 @@ t3.pt-br.gm.com.cname.campaign.adobe.com
 t3.sa.pdm.gm.com.cname.campaign.adobe.com
 t4.communications.diorbeauty.dk.cname.campaign.adobe.com
 t4.e-mail.mastercard.pl.cname.campaign.adobe.com
+t4.ftcdn.net
 t4.service.comviq.se.cname.campaign.adobe.com
 t4.service.tele2.se.cname.campaign.adobe.com
 t5.digital.natwest.com.cname.campaign.adobe.com
@@ -10132,6 +10159,7 @@ t.notification.dcu.org.cname.campaign.adobe.com
 t.notifications.canadapost-postescanada.ca.cname.campaign.adobe.com
 t.notifications.lombard.co.uk.cname.campaign.adobe.com
 t.notifications.rbs.co.uk.cname.campaign.adobe.com
+to.adobe.com
 todds-plm-san-test.corp.adobe.com
 todds-plm-test-cert.corp.adobe.com
 tods-mkt-prod1-cus.campaign.adobe.com
