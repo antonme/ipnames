@@ -45257,3 +45257,10 @@ Wed Nov 20 09:37:05 AM MSK 2024                dns-pornhub.txt  >resolve-pornhub
 Wed Nov 20 09:38:47 AM MSK 2024                dns-surfshark.txt  >resolve-surfshark.txt
 Wed Nov 20 09:43:59 AM MSK 2024                dns-tiktok.txt  >resolve-tiktok.txt
 Wed Nov 20 10:26:44 AM MSK 2024                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+[master 7fe3668d] auto-update merged
+ 46 files changed, 10938 insertions(+), 11114 deletions(-)
+ delete mode 100644 merged/ipv4-tunnelbear.cidr
+ delete mode 100644 merged/ipv6-tunnelbear.cidr
+Wed Nov 20 10:35:31 AM MSK 2024                dns-twitter.txt  >resolve-twitter.txt
+Wed Nov 20 10:38:42 AM MSK 2024                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Wed Nov 20 10:38:48 AM MSK 2024                dns-youtube.txt  >resolve-youtube.txt
