@@ -1854,6 +1854,7 @@ api-fitness.smoot.apple.com
 api-fra.smoot.apple.com
 api-glb-aapne1a.smoot.apple.com
 api-glb-aapne1c.smoot.apple.com
+api-glb-aaps1b.smoot.apple.com
 api-glb-aapse1c.smoot.apple.com
 api-glb-aapse2c.smoot.apple.com
 api-glb-abt.smoot.apple.com
@@ -1939,6 +1940,7 @@ api-rv117-ause1c.smoot.apple.com
 api-safari-aapse2c.smoot.apple.com
 api-safari-aeuc1a.smoot.apple.com
 api-safari-aeun1a.smoot.apple.com
+api-safari-aeun1b.smoot.apple.com
 api-safari-aeuw1b.smoot.apple.com
 api-safari-aeuw3b.smoot.apple.com
 api-safari-aeuw3c.smoot.apple.com
@@ -3669,6 +3671,7 @@ edge-011.sesto4.icloud-content.com
 edge-012.sesto4.icloud-content.com
 edge-012.usden6.icloud-content.com
 edge-013.mediaedge-150nyc.icloud-content.com
+edge-013.nlhfd1.icloud-content.com
 edge-013.sesto4.icloud-content.com
 edge-014.dkvib11.icloud-content.com
 edge-015.hkhkg.icloud-content.com
@@ -4542,6 +4545,7 @@ edge-256.sgsin8.icloud-content.com
 edge-256.usdal2.icloud-content.com
 edge-256.zamrd1.icloud-content.com
 edge-257.deber3.icloud-content.com
+edge-257.defra2.icloud-content.com
 edge-257.hkhkg-3.icloud-content.com
 edge-257.hkhkg-4.icloud-content.com
 edge-257.hkhkg.icloud-content.com
@@ -7811,6 +7815,8 @@ gspx-ssl-test.ls.apple.com
 gsq1-ls-st1.apple.com
 gsq23-ls-nk11.apple.com
 gsqa-loc-ls-nk11.apple.com
+gsra.apple.com
+gsra.apple.com.v.aaplimg.com
 gssg03p00ls-gsp39-e48221-ssl-sg03p00ls-gsp39-e482v38.ls.apple.com
 gs-uat.apple.com
 gsx2.apple.com
@@ -7959,7 +7965,6 @@ hls-mslive.itunes.apple.com.edgesuite.net
 hls-slive.itunes.apple.com.edgesuite.net
 hls-streaming.cdn-apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
-hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes.apple.com.edgesuite.net
 hlstv.hkhkg-2.icloud-content.com
@@ -12236,7 +12241,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
