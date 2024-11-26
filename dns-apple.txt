@@ -79,6 +79,8 @@ api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
 api-glb-aeun1a.smoot.apple.com
 api-glb-aeun1b.smoot.apple.com
+api-glb-aeus2a.smoot.apple.com
+api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw1b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
 api.smoot.apple.com
@@ -319,14 +321,17 @@ edge-172.sesto4.icloud-content.com
 edge-185.sesto4.icloud-content.com
 edge-191.sesto4.icloud-content.com
 edge-195.sesto4.icloud-content.com
+edge-197.sesto4.icloud-content.com
 edge-204.sesto4.icloud-content.com
 edge-211.sesto4.icloud-content.com
+edge-215.sesto4.icloud-content.com
 edge-223.sesto4.icloud-content.com
 edge-231.sesto4.icloud-content.com
 edge-237.sesto4.icloud-content.com
 edge-250.sesto4.icloud-content.com
 edge-256.sesto4.icloud-content.com
 edge-257.defra2.icloud-content.com
+edge-257.sesto4.icloud-content.com
 edge-264.sesto4.icloud-content.com
 edge-269.sesto4.icloud-content.com
 edge-271.sesto4.icloud-content.com
@@ -418,6 +423,7 @@ gspe11-ssl.ls.apple.com.edgekey.net
 gspe12-ssl.ls.apple.com
 gspe12-ssl.ls.apple.com.edgekey.net
 gspe19-2-ssl.ls.apple.com
+gspe19-2-ssl.ls.apple.com.edgesuite.net
 gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-ssl.ls.apple.com
@@ -437,7 +443,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -452,7 +457,6 @@ help-ar.apple.com.edgekey.net
 help.origin-apple.com.akadns.net
 hls.itunes.apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
-hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes.apple.com.edgesuite.net
 hostmaster.shop-apple.com
