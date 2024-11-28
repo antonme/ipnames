@@ -45927,3 +45927,42 @@ Wed Nov 27 08:54:26 AM MSK 2024                dns-vpnhosts.txt  >resolve-vpnhos
 Wed Nov 27 08:54:33 AM MSK 2024                dns-youtube.txt  >resolve-youtube.txt
 [master 4957c821] auto-update ipv4
  19 files changed, 2164 insertions(+), 13566 deletions(-)
+[master 16533882] auto-update merged
+ 31 files changed, 3215 insertions(+), 9724 deletions(-)
+ create mode 100644 merged/ipv6-tunnelbear.cidr
+
+
+
+--------------------------------------------------------------------------------
+Thu Nov 28 06:00:01 AM MSK 2024
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
