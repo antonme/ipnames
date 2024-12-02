@@ -95,6 +95,7 @@ appleid.apple.com
 appleid.cdn-apple.com
 appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.edgekey.net
+appleid.idms-apple.com.akadns.net
 apple-mapkit.com
 applepay.cdn-apple.com
 apps.apple.com
@@ -326,18 +327,23 @@ edge-157.sesto4.icloud-content.com
 edge-158.sesto4.icloud-content.com
 edge-159.sesto4.icloud-content.com
 edge-161.sesto4.icloud-content.com
+edge-169.sesto4.icloud-content.com
 edge-172.sesto4.icloud-content.com
+edge-173.sesto4.icloud-content.com
 edge-176.sesto4.icloud-content.com
 edge-179.sesto4.icloud-content.com
 edge-184.sesto4.icloud-content.com
 edge-185.sesto4.icloud-content.com
 edge-191.sesto4.icloud-content.com
 edge-195.sesto4.icloud-content.com
+edge-196.sesto4.icloud-content.com
 edge-197.sesto4.icloud-content.com
 edge-199.sesto4.icloud-content.com
 edge-204.sesto4.icloud-content.com
+edge-205.sesto4.icloud-content.com
 edge-206.sesto4.icloud-content.com
 edge-211.sesto4.icloud-content.com
+edge-214.sesto4.icloud-content.com
 edge-215.sesto4.icloud-content.com
 edge-218.sesto4.icloud-content.com
 edge-223.sesto4.icloud-content.com
@@ -349,6 +355,7 @@ edge-235.sesto4.icloud-content.com
 edge-237.sesto4.icloud-content.com
 edge-241.sesto4.icloud-content.com
 edge-247.sesto4.icloud-content.com
+edge-249.sesto4.icloud-content.com
 edge-250.sesto4.icloud-content.com
 edge-253.sesto4.icloud-content.com
 edge-256.sesto4.icloud-content.com
@@ -359,10 +366,12 @@ edge-264.sesto4.icloud-content.com
 edge-266.sesto4.icloud-content.com
 edge-269.sesto4.icloud-content.com
 edge-271.sesto4.icloud-content.com
+edge-272.sesto4.icloud-content.com
 edge-273.sesto4.icloud-content.com
 edge-274.sesto4.icloud-content.com
 edge-275.sesto4.icloud-content.com
 edge-277.sesto4.icloud-content.com
+edge-279.sesto4.icloud-content.com
 edge-280.sesto4.icloud-content.com
 edge-283.sesto4.icloud-content.com
 edge.apple
@@ -470,7 +479,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -485,6 +493,7 @@ help-ar.apple.com.edgekey.net
 help.origin-apple.com.akadns.net
 hls.itunes.apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
+hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes.apple.com.edgesuite.net
 hostmaster.shop-apple.com
@@ -655,6 +664,7 @@ p105-sharedstreams.icloud.com
 p10-calendars.icloud.com
 p112-iwnr-china.icloud.com
 p117-availability.icloud.com
+p117-sharedstreams.icloud.com
 p122-acsegateway.icloud.com
 p122-caldav.icloud.com
 p122-ckdatabase.icloud.com
@@ -817,7 +827,6 @@ p72-content.icloud.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
-pancake.g.aaplimg.com
 partiality.itunes.apple.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com.edgekey.net
