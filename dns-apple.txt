@@ -126,6 +126,7 @@ ax.init.itunes.apple.com
 ax.itunes.apple.com.edgesuite.net
 ax.phobos.apple.com.edgesuite.net
 background-weighted.ls4-apple.com.akadns.net
+bag-cdn-akam.itunes-apple.com.akadns.net
 bag-cdn.itunes-apple.com.akadns.net
 bag-cdn-lb.itunes-apple.com.akadns.net
 bag.itunes.apple.com
@@ -221,6 +222,7 @@ cma.itunes-apple.com.akadns.net
 c.ns.apple.com
 comm-cohort.ess.apple.com
 comm-cohort.ess-apple.com.akadns.net
+commercegateway-sandbox.itunes-apple.com.akadns.net
 comm-main.ess.apple.com
 comm-main.ess-apple.com.akadns.net
 commnat-cohort-gc.ess.apple.com
@@ -341,7 +343,9 @@ edge-184.sesto4.icloud-content.com
 edge-185.sesto4.icloud-content.com
 edge-187.sesto4.icloud-content.com
 edge-188.sesto4.icloud-content.com
+edge-190.sesto4.icloud-content.com
 edge-191.sesto4.icloud-content.com
+edge-193.sesto4.icloud-content.com
 edge-195.sesto4.icloud-content.com
 edge-196.sesto4.icloud-content.com
 edge-197.sesto4.icloud-content.com
@@ -349,12 +353,14 @@ edge-199.sesto4.icloud-content.com
 edge-204.sesto4.icloud-content.com
 edge-205.sesto4.icloud-content.com
 edge-206.sesto4.icloud-content.com
+edge-208.sesto4.icloud-content.com
 edge-209.sesto4.icloud-content.com
 edge-211.sesto4.icloud-content.com
 edge-214.sesto4.icloud-content.com
 edge-215.sesto4.icloud-content.com
 edge-216.sesto4.icloud-content.com
 edge-218.sesto4.icloud-content.com
+edge-221.sesto4.icloud-content.com
 edge-223.sesto4.icloud-content.com
 edge-228.sesto4.icloud-content.com
 edge-231.sesto4.icloud-content.com
@@ -395,6 +401,7 @@ edge-284.sesto4.icloud-content.com
 edge.apple
 edge.icloud-content.com
 edge-itunes-apple.com.akadns.net
+embed.podcasts.apple.com
 entitlements-edge.edge-itunes-apple.com.akadns.net
 entitlements-edge-eu.edge-itunes-apple.com.akadns.net
 entitlements-edge.itunes.apple.com
@@ -645,6 +652,7 @@ mzstatic.itunes-apple.com.akadns.net
 mzstorekit.itunes.apple.com
 mzstorekit.itunes.apple.com.edgesuite.net
 mzstorekit.lb-apple.com.akadns.net
+mzstorekit-sb.itunes.apple.com
 nc-pod2-smp-device-asset.apple.com
 netcts.cdn-apple.com
 netcts.cdn-apple.com.edgesuite.net
@@ -670,7 +678,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -922,6 +929,7 @@ search-cdn.itunes-apple.com.akadns.net
 search.itunes.apple.com
 securemetrics.apple.com
 securemvt.apple.com
+seed-diatryma.siri.apple.com
 se-edge.itunes.apple.com
 se-edge.itunes-apple.com.akadns.net
 se-edge.itunes.apple.com.edgekey.net
@@ -948,6 +956,8 @@ smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
+smp-paymentservices.apple.com
+smp-paymentservices.apple.com.v.aaplimg.com
 smtp.mail.me.com
 smtp.mail.me.com.akadns.net
 s-mzstatic-applak.itunes-apple.com.akadns.net
