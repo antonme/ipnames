@@ -310,6 +310,7 @@ edge-093.defra2.icloud-content.com
 edge-094.sesto4.icloud-content.com
 edge-095.sesto4.icloud-content.com
 edge-099.sesto4.icloud-content.com
+edge-100.defra2.icloud-content.com
 edge-100.sesto4.icloud-content.com
 edge-101.sesto4.icloud-content.com
 edge-104.usdal2.icloud-content.com
@@ -513,6 +514,7 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -529,7 +531,6 @@ help-ar.apple.com.edgekey.net
 help.origin-apple.com.akadns.net
 hls.itunes.apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
-hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes-apple.com.akadns.net
 hls-svod.itunes.apple.com.edgesuite.net
@@ -688,6 +689,7 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -814,6 +816,7 @@ p45-content.icloud.com
 p45-fmip.icloud.com
 p45-sharedstreams.icloud.com
 p46-buy.itunes.apple.com
+p46-buy.itunes-apple.com.akadns.net
 p46-buy-lb.itunes-apple.com.akadns.net
 p46-content.icloud.com
 p47-content.icloud.com
@@ -965,7 +968,6 @@ siri.apple.com
 smoot.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smp-paymentservices.apple.com
@@ -1098,6 +1100,7 @@ wps.v.aaplimg.com
 wu.apple.com.akadns.net
 wu-calculator.apple.com
 wu-mdn.apple.com.akadns.net
+www.airport.us
 www.apple.com
 www.apple.com.cn
 www.apple.com.cn.edgekey.net
@@ -1109,9 +1112,11 @@ www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
+www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
+www.itools.info
 www.mac.com
 www.portal-repair-uat-apple.com
 www.thinkdifferent.us
