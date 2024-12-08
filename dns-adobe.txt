@@ -30,7 +30,9 @@ adobelogin-static.prod.ims.adobejanus.com
 adobelogin-weighted.prod.ims.adobejanus.com
 adobe.net
 adobesearch.adobe.io
+adobesearch-atc.adobe.io
 adobetarget.data.adobedc.net
+afwebcdn.fonts.adobe.com
 ak5q.adobeaemcloud.com
 akhoond.adobeaemcloud.com
 akno.adobeaemcloud.net
@@ -45,6 +47,7 @@ ans.prod.oobesaas.adobe.com
 ap3.prd.adobeaemcloud.net
 api-gateway-ap-prd-va6-02.infra.adobe.io
 api.plan.adobe.com
+api.typekit.com
 apm3-27224.adobeaemcloud.net
 apqa.adobeaemcloud.net
 aps0114.adobeaemcloud.com
@@ -62,7 +65,9 @@ arubavpnd22032.adobeaemcloud.com
 assests.adobetm.com
 assets.adobe.com
 assets.adobedtm.com
+assets.fonts.adobe.com
 assets-helper.adobe.io
+assistant.adobe.io
 astockcdn.net
 atii.adobeaemcloud.net
 aug-student-141-224-206-156.adobeaemcloud.com
@@ -142,6 +147,7 @@ ccpd.adobe.com
 ccprojects.adobe.io
 cctypekit.adobe.io
 cdn.adobeaemcloud.com
+cdn.cp.adobe.io
 cdn.experienceleague.adobe.com
 cdn-ffc.oobesaas.adobe.com
 cdn-geo-ffc.oobesaas.adobe.com
@@ -220,6 +226,7 @@ data.status.adobe.com
 data.status.adobe.com.edgesuite.net
 data-status.stage.adobe.com
 data-status.stage.adobe.com.edgesuite.net
+data.typekit.net
 dattihp.adobeaemcloud.com
 daviston.adobeaemcloud.com
 dcpa.adobeaemcloud.net
@@ -632,6 +639,7 @@ pinniwinkis.adobeaemcloud.com
 pjuf.adobeaemcloud.net
 plain-headed.adobeaemcloud.com
 plan.adobe.com
+platform-assets.typekit.net
 platform-cs.adobe.io
 platform-cs-edge.adobe.io
 platform-cs-edge-jpn3.adobe.io
@@ -726,8 +734,10 @@ secureuk.adobeaemcloud.com
 self-ignite.adobeaemcloud.com
 senniu.adobeaemcloud.net
 server.messaging.adobe.com
+service.account.adobe.com
 services.account.adobe.com
 services.prod.ims.adobejanus.com
+shared-components.adobe.com
 shenqingsongcaijinwangzhi.adobeaemcloud.net
 shijieshidabocaigongsipaiming.adobeaemcloud.net
 shishicaizhuanqianjihuaqun.adobeaemcloud.com
@@ -752,6 +762,7 @@ ssl.adobe.com.edgekey.net
 ssl-delivery.adobe.com.edgekey.net
 ssl-delivery.adobe.com-stls-dd-cn-v2.edgesuite88.net
 ssl-delivery.adobe.com-stls-dd-cn-v2.edgesuite.net.globalredir.akadns88.net
+sso.behance.net
 ss-prod-an1-ns.aws.adobess.com
 sstats.adobe.com
 stage.cloud.adobe.io
@@ -834,6 +845,7 @@ uh3s.adobeaemcloud.net
 uh-4.adobeaemcloud.net
 uhrt.adobeaemcloud.com
 ui.messaging.adobe.com
+uis-cdn.creativecloud.adobe.com
 ujge.adobeaemcloud.com
 uksi.adobeaemcloud.com
 ukwb.adobeaemcloud.com
