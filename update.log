@@ -47129,3 +47129,26 @@ s
 ===anthropic
 
 == Save names archive
+[master 19bd2101] auto-update names
+ 3 files changed, 38 insertions(+), 2 deletions(-)
+
+== Resolving names to ipv4
+Wed Dec 11 06:27:19 AM MSK 2024                dns-adobe.txt  >resolve-adobe.txt
+Wed Dec 11 06:57:28 AM MSK 2024                dns-anthropic.txt  >resolve-anthropic.txt
+Wed Dec 11 06:58:01 AM MSK 2024                dns-apple.txt  >resolve-apple.txt
+Wed Dec 11 07:33:16 AM MSK 2024                dns-backblaze.txt  >resolve-backblaze.txt
+Wed Dec 11 07:51:09 AM MSK 2024                dns-bing.txt  >resolve-bing.txt
+Wed Dec 11 07:53:02 AM MSK 2024                dns-expressvpn.txt  >resolve-expressvpn.txt
+Wed Dec 11 07:57:42 AM MSK 2024                dns-facebook.txt  >resolve-facebook.txt
+Wed Dec 11 08:24:01 AM MSK 2024                dns-github.txt  >resolve-github.txt
+Wed Dec 11 08:31:34 AM MSK 2024                dns-google.txt  >resolve-google.txt
+Wed Dec 11 09:03:06 AM MSK 2024                dns-huggingface.txt  >resolve-huggingface.txt
+Wed Dec 11 09:03:12 AM MSK 2024                dns-openai.txt  >resolve-openai.txt
+Wed Dec 11 09:03:23 AM MSK 2024                dns-ozon.txt  >resolve-ozon.txt
+Wed Dec 11 09:03:35 AM MSK 2024                dns-pornhub.txt  >resolve-pornhub.txt
+Wed Dec 11 09:03:41 AM MSK 2024                dns-surfshark.txt  >resolve-surfshark.txt
+Wed Dec 11 09:03:48 AM MSK 2024                dns-tiktok.txt  >resolve-tiktok.txt
+Wed Dec 11 09:04:17 AM MSK 2024                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Wed Dec 11 09:04:35 AM MSK 2024                dns-twitter.txt  >resolve-twitter.txt
+Wed Dec 11 09:04:41 AM MSK 2024                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Wed Dec 11 09:04:48 AM MSK 2024                dns-youtube.txt  >resolve-youtube.txt
