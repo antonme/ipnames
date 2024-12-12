@@ -47230,3 +47230,23 @@ s
 ===anthropic
 
 == Save names archive
+[master b557f064] auto-update names
+ 3 files changed, 40 insertions(+)
+
+== Resolving external names to ipv6
+Thu Dec 12 06:27:23 AM MSK 2024                ext-dns-adobe.txt  >ipv6-ext-resolve-adobe.txt
+Thu Dec 12 06:39:59 AM MSK 2024                ext-dns-anthropic.txt  >ipv6-ext-resolve-anthropic.txt
+Thu Dec 12 06:40:06 AM MSK 2024                ext-dns-apple.txt  >ipv6-ext-resolve-apple.txt
+Thu Dec 12 07:08:24 AM MSK 2024                ext-dns-backblaze.txt  >ipv6-ext-resolve-backblaze.txt
+Thu Dec 12 07:20:52 AM MSK 2024                ext-dns-bing.txt  >ipv6-ext-resolve-bing.txt
+Thu Dec 12 07:21:44 AM MSK 2024                ext-dns-facebook.txt  >ipv6-ext-resolve-facebook.txt
+Thu Dec 12 08:01:15 AM MSK 2024                ext-dns-github.txt  >ipv6-ext-resolve-github.txt
+Thu Dec 12 08:11:46 AM MSK 2024                ext-dns-google.txt  >ipv6-ext-resolve-google.txt
+Thu Dec 12 08:41:27 AM MSK 2024                ext-dns-huggingface.txt  >ipv6-ext-resolve-huggingface.txt
+Thu Dec 12 08:41:34 AM MSK 2024                ext-dns-openai.txt  >ipv6-ext-resolve-openai.txt
+Thu Dec 12 08:43:03 AM MSK 2024                ext-dns-ozon.txt  >ipv6-ext-resolve-ozon.txt
+Thu Dec 12 08:43:48 AM MSK 2024                ext-dns-pornhub.txt  >ipv6-ext-resolve-pornhub.txt
+Thu Dec 12 08:55:12 AM MSK 2024                ext-dns-tiktok.txt  >ipv6-ext-resolve-tiktok.txt
+Thu Dec 12 09:07:12 AM MSK 2024                ext-dns-twitter.txt  >ipv6-ext-resolve-twitter.txt
+Thu Dec 12 09:12:11 AM MSK 2024                ext-dns-vpnhosts.txt  >ipv6-ext-resolve-vpnhosts.txt
+Thu Dec 12 09:18:12 AM MSK 2024                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
