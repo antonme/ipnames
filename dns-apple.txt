@@ -120,6 +120,7 @@ apptrailers-ssl.itunes.apple.com
 apptrailers-ssl.itunes-apple.com.akadns.net
 asa.commerce.apple.com
 asa.commerce.apple.com.edgesuite.net
+assets-mercury.mzstatic.com
 associate.itunes.apple.com
 attester.gateway.icloud.com
 audio.itunes.apple.com
@@ -345,6 +346,8 @@ edge-157.sesto4.icloud-content.com
 edge-158.sesto4.icloud-content.com
 edge-159.sesto4.icloud-content.com
 edge-161.sesto4.icloud-content.com
+edge-162.sesto4.icloud-content.com
+edge-168.sesto4.icloud-content.com
 edge-169.sesto4.icloud-content.com
 edge-170.sesto4.icloud-content.com
 edge-171.sesto4.icloud-content.com
@@ -353,6 +356,7 @@ edge-173.sesto4.icloud-content.com
 edge-176.sesto4.icloud-content.com
 edge-177.sesto4.icloud-content.com
 edge-179.sesto4.icloud-content.com
+edge-181.sesto4.icloud-content.com
 edge-183.sesto4.icloud-content.com
 edge-184.sesto4.icloud-content.com
 edge-185.sesto4.icloud-content.com
@@ -367,6 +371,9 @@ edge-196.sesto4.icloud-content.com
 edge-197.sesto4.icloud-content.com
 edge-198.sesto4.icloud-content.com
 edge-199.sesto4.icloud-content.com
+edge-200.sesto4.icloud-content.com
+edge-201.sesto4.icloud-content.com
+edge-203.sesto4.icloud-content.com
 edge-204.sesto4.icloud-content.com
 edge-205.sesto4.icloud-content.com
 edge-206.sesto4.icloud-content.com
@@ -541,6 +548,7 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -585,7 +593,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -901,7 +908,6 @@ p72-content.icloud.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
-pancake.g.aaplimg.com
 partiality.itunes.apple.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com.edgekey.net
@@ -1091,6 +1097,7 @@ us-courier.push.apple.com
 us-courier-vs.push-apple.com.akadns.net
 usdal2.icloud-content.com
 use1-tdm-prod.apple.com
+use1-wps-prod.apple.com
 usmia1.icloud-content.com
 us-ne-courier-4.push-apple.com.akadns.net
 us-sandbox-courier-4.push-apple.com.akadns.net
@@ -1125,7 +1132,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webproxy.advp.apple.com
 webproxy-advp.iad-apple.com.akadns.net
