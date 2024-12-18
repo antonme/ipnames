@@ -47736,3 +47736,22 @@ s
 ===anthropic
 
 == Save names archive
+[master f8b1866c] auto-update names
+ 3 files changed, 38 insertions(+), 2 deletions(-)
+
+== Resolving names to ipv4
+Wed Dec 18 06:27:20 AM MSK 2024                dns-adobe.txt  >resolve-adobe.txt
+Wed Dec 18 07:03:48 AM MSK 2024                dns-anthropic.txt  >resolve-anthropic.txt
+Wed Dec 18 07:04:27 AM MSK 2024                dns-apple.txt  >resolve-apple.txt
+Wed Dec 18 07:47:30 AM MSK 2024                dns-backblaze.txt  >resolve-backblaze.txt
+Wed Dec 18 08:08:52 AM MSK 2024                dns-bing.txt  >resolve-bing.txt
+Wed Dec 18 08:11:07 AM MSK 2024                dns-expressvpn.txt  >resolve-expressvpn.txt
+Wed Dec 18 08:16:41 AM MSK 2024                dns-facebook.txt  >resolve-facebook.txt
+Wed Dec 18 08:51:44 AM MSK 2024                dns-github.txt  >resolve-github.txt
+Wed Dec 18 09:00:51 AM MSK 2024                dns-google.txt  >resolve-google.txt
+Wed Dec 18 09:51:46 AM MSK 2024                dns-huggingface.txt  >resolve-huggingface.txt
+Wed Dec 18 09:52:22 AM MSK 2024                dns-openai.txt  >resolve-openai.txt
+Wed Dec 18 09:55:23 AM MSK 2024                dns-ozon.txt  >resolve-ozon.txt
+Wed Dec 18 09:56:40 AM MSK 2024                dns-pornhub.txt  >resolve-pornhub.txt
+Wed Dec 18 09:58:23 AM MSK 2024                dns-surfshark.txt  >resolve-surfshark.txt
+Wed Dec 18 10:03:35 AM MSK 2024                dns-tiktok.txt  >resolve-tiktok.txt
