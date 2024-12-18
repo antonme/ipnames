@@ -47755,3 +47755,10 @@ Wed Dec 18 09:55:23 AM MSK 2024                dns-ozon.txt  >resolve-ozon.txt
 Wed Dec 18 09:56:40 AM MSK 2024                dns-pornhub.txt  >resolve-pornhub.txt
 Wed Dec 18 09:58:23 AM MSK 2024                dns-surfshark.txt  >resolve-surfshark.txt
 Wed Dec 18 10:03:35 AM MSK 2024                dns-tiktok.txt  >resolve-tiktok.txt
+[master c242099b] auto-update merged
+ 40 files changed, 6731 insertions(+), 12291 deletions(-)
+ delete mode 100644 merged/ipv6-tunnelbear.cidr
+Wed Dec 18 10:28:51 AM MSK 2024                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Wed Dec 18 10:29:15 AM MSK 2024                dns-twitter.txt  >resolve-twitter.txt
+Wed Dec 18 10:29:32 AM MSK 2024                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Wed Dec 18 10:29:39 AM MSK 2024                dns-youtube.txt  >resolve-youtube.txt
