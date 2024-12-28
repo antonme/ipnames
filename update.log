@@ -48755,3 +48755,5 @@ Sat Dec 28 06:43:52 AM MSK 2024                dns-tunnelbear.txt  >ipv6-resolve
 Sat Dec 28 06:43:58 AM MSK 2024                dns-twitter.txt  >ipv6-resolve-twitter.txt
 Sat Dec 28 06:44:04 AM MSK 2024                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
 Sat Dec 28 06:44:10 AM MSK 2024                dns-youtube.txt  >ipv6-resolve-youtube.txt
+[master 379652d7] auto-update ipv6
+ 14 files changed, 1393 insertions(+), 13663 deletions(-)
