@@ -49053,3 +49053,8 @@ Tue Dec 31 09:35:31 AM MSK 2024                dns-surfshark.txt  >ipv6-resolve-
 Tue Dec 31 09:39:58 AM MSK 2024                dns-tiktok.txt  >ipv6-resolve-tiktok.txt
 Tue Dec 31 10:18:18 AM MSK 2024                dns-tunnelbear.txt  >ipv6-resolve-tunnelbear.txt
 Tue Dec 31 10:25:56 AM MSK 2024                dns-twitter.txt  >ipv6-resolve-twitter.txt
+[master c7c57256] auto-update merged
+ 33 files changed, 24997 insertions(+), 3027 deletions(-)
+ create mode 100644 merged/ipv6-expressvpn.cidr
+Tue Dec 31 10:32:51 AM MSK 2024                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
+Tue Dec 31 10:32:58 AM MSK 2024                dns-youtube.txt  >ipv6-resolve-youtube.txt
