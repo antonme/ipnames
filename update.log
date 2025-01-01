@@ -49058,3 +49058,41 @@ Tue Dec 31 10:25:56 AM MSK 2024                dns-twitter.txt  >ipv6-resolve-tw
  create mode 100644 merged/ipv6-expressvpn.cidr
 Tue Dec 31 10:32:51 AM MSK 2024                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
 Tue Dec 31 10:32:58 AM MSK 2024                dns-youtube.txt  >ipv6-resolve-youtube.txt
+[master 6c35076e] auto-update ipv6
+ 3 files changed, 806 insertions(+), 15 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Wed Jan  1 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
