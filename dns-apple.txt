@@ -97,6 +97,7 @@ api-lookup.smoot.apple.com
 api-safari-aeun1a.smoot.apple.com
 api-safari.smoot.apple.com
 api.smoot.apple.com
+appldnld.apple.com
 apple-cloudkit.com
 apple.co
 apple.com
@@ -373,6 +374,7 @@ edge-170.sesto4.icloud-content.com
 edge-171.sesto4.icloud-content.com
 edge-172.sesto4.icloud-content.com
 edge-173.sesto4.icloud-content.com
+edge-174.sesto4.icloud-content.com
 edge-176.sesto4.icloud-content.com
 edge-177.sesto4.icloud-content.com
 edge-178.sesto4.icloud-content.com
@@ -431,6 +433,7 @@ edge-240.sesto4.icloud-content.com
 edge-241.sesto4.icloud-content.com
 edge-242.sesto4.icloud-content.com
 edge-243.sesto4.icloud-content.com
+edge-244.sesto4.icloud-content.com
 edge-245.sesto4.icloud-content.com
 edge-246.sesto4.icloud-content.com
 edge-247.sesto4.icloud-content.com
@@ -599,7 +602,9 @@ help.apple.com
 help-ar.apple.com.edgekey.net
 help.origin-apple.com.akadns.net
 hls.itunes.apple.com
+hls.itunes.apple.com.edgesuite.net
 hls-svod-aoc.itunes.apple.com.edgesuite.net
+hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes-apple.com.akadns.net
 hls-svod.itunes.apple.com.edgesuite.net
@@ -628,7 +633,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -761,7 +765,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net

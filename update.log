@@ -49159,3 +49159,41 @@ Wed Jan  1 09:39:09 AM MSK 2025                dns-vpnhosts.txt  >resolve-vpnhos
 Wed Jan  1 09:39:15 AM MSK 2025                dns-youtube.txt  >resolve-youtube.txt
 [master edb6800e] auto-update ipv4
  19 files changed, 3190 insertions(+), 11053 deletions(-)
+[master e0cc82cb] auto-update merged
+ 24 files changed, 3815 insertions(+), 6804 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Thu Jan  2 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
