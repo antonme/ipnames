@@ -3684,6 +3684,7 @@ edge-012.sesto4.icloud-content.com
 edge-012.usden6.icloud-content.com
 edge-013.mediaedge-150nyc.icloud-content.com
 edge-013.sesto4.icloud-content.com
+edge-014.defra2.icloud-content.com
 edge-014.dkvib11.icloud-content.com
 edge-015.hkhkg.icloud-content.com
 edge-015.sesto4.icloud-content.com
@@ -3828,6 +3829,7 @@ edge-068.ussea3.icloud-content.com
 edge-069141.jptyo-3.icloud-content.com
 edge-069.jposa3.icloud-content.com
 edge-069.sesto4.icloud-content.com
+edge-070.defra2.icloud-content.com
 edge-070.usdal2.icloud-content.com
 edge-071.deber3.icloud-content.com
 edge-071.hkhkg.icloud-content.com
@@ -4235,6 +4237,7 @@ edge-180.zamrd1.icloud-content.com
 edge-181.deber3.icloud-content.com
 edge-181.sesto4.icloud-content.com
 edge-182.deber3.icloud-content.com
+edge-182.sesto4.icloud-content.com
 edge-183.deber3.icloud-content.com
 edge-183.jposa3.icloud-content.com
 edge-183.sesto4.icloud-content.com
@@ -7776,7 +7779,6 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl.ls.apple.com
@@ -8303,6 +8305,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -23340,6 +23343,7 @@ seed-hawk.smoot.apple.com
 seed-owl-aapse1a.smoot.apple.com
 seed-owl-aapse1b.smoot.apple.com
 seed-owl.smoot.apple.com
+seed-probe.siri.apple.com
 seedsales-corp.apple.com
 seed-sequoia.siri.apple.com
 seed-services-old.apple.com
@@ -24230,6 +24234,7 @@ static.cdn-apple.com.edgekey.net
 static-content-device.apple.com
 static.ess.apple.com
 static.gc.apple.com
+static.gc-lb.apple.com.akadns.net
 statici-china-ic1.icloud.com
 statici-china.icloud.com
 statici.icloud.com
@@ -25376,7 +25381,6 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
