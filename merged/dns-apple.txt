@@ -2474,6 +2474,7 @@ bag-cdn-akam.itunes-apple.com.akadns.net
 bag-cdn.itunes-apple.com.akadns.net
 bag-cdn-lb.itunes-apple.com.akadns.net
 bag.itunes.apple.com
+bag.itunes.apple.com.edgesuite.net
 banners.itunes.apple.com
 banners.store.apple.com
 banyan.apple.com
@@ -8017,7 +8018,6 @@ hls-mslive.itunes.apple.com.edgesuite.net
 hls-slive.itunes.apple.com.edgesuite.net
 hls-streaming.cdn-apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
-hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes-apple.com.akadns.net
 hls-svod.itunes.apple.com.edgesuite.net
@@ -12300,6 +12300,7 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -24229,6 +24230,7 @@ starling-ext-t.apple.com
 starling-stage.hwte.apple.com
 starlingweb.apple.com
 starwars.apple.com
+static2.ips.apple.com.edgekey.net
 static.cdn-apple.com
 static.cdn-apple.com.edgekey.net
 static-content-device.apple.com
@@ -24239,6 +24241,7 @@ statici-china-ic1.icloud.com
 statici-china.icloud.com
 statici.icloud.com
 statici.icloud.com.edgekey.net
+static.ips.apple.com
 static.ips.apple.com.edgekey.net
 static-its-images.apple.com
 static.itunes.apple.com
@@ -25289,13 +25292,16 @@ vod-ak-aoc.tv.apple.com.akadns.net
 vod-ak-im.tv.apple.com
 vod-aoc.tv.apple.com
 vod-ap1-aoc-aec.tv.g.apple.com
+vod-ap1-aoc.tv.apple.com
 vod-ap2-amt.tv.apple.com
 vod-ap2-aoc.tv.apple.com
 vod-ap3-amt.tv.apple.com
 vod-ap3-aoc.tv.apple.com
 vod-ap3-svod.tv.apple.com
+vod-ap-amt.tv.apple.com
 vod-ap-aoc.tv.apple.com
 vod-ap-aoc.tv.apple.com.akadns.net
+vod-ap-svod.tv.apple.com
 vod-lu-amt.tv.apple.com
 vod-lu-aoc.tv.apple.com
 volume.itunes.apple.com
