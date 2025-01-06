@@ -10,7 +10,10 @@ accounts.adobe.com
 acierate.adobeaemcloud.com
 acp-ss.adobe.io
 acp-ss-an1.adobe.io
+acrobat.adobe.com
 acrobat.com
+acroipm2.adobe.com
+acroipm2.adobe.com.edgesuite.net
 acwm.adobeaemcloud.com
 adm-1063.adm.adobeaemcloud.net
 admed123.adobeaemcloud.net
@@ -29,6 +32,7 @@ adobelogin-static.prod.ims.adobejanus.com
 adobelogin-weighted.prod.ims.adobejanus.com
 adobe.net
 adobesearch.adobe.io
+adobesearch-sec-uss.adobe.io
 adobetarget.data.adobedc.net
 ak5q.adobeaemcloud.com
 akhoond.adobeaemcloud.com
@@ -42,6 +46,7 @@ a.ns.campaign.adobe.com
 ans.oobesaas.adobe.com
 ans.prod.oobesaas.adobe.com
 ap3.prd.adobeaemcloud.net
+api.na4.documents.adobe.com
 api.plan.adobe.com
 apm3-27224.adobeaemcloud.net
 apqa.adobeaemcloud.net
@@ -160,7 +165,10 @@ cjm.adobe.com
 client.messaging.adobe.com
 clio-assets.adobe.com
 clmx.adobeaemcloud.com
+cloud.acrobat.com
 cloud.adobe.io
+cloud-asr.acrobat.com
+cloud-legacy-fc-asr.adobe.io
 clouso.adobeaemcloud.net
 cmeitin.adobeaemcloud.com
 cname.campaign.adobe.com
@@ -181,6 +189,7 @@ community.adobe.com
 connect.ffc.adobeoobe.com
 conquering.adobeaemcloud.com
 core312.bccms.adobeaemcloud.net
+core-prod-lvs-ue.adobe-identity.com
 corporosity.adobeaemcloud.net
 counseling-center.printers.adobeaemcloud.com
 cp.adobe.io
@@ -188,6 +197,11 @@ cpanel.adobee.cl
 cpanel.ilovephotoshop.com
 cpcalendars.adobesignn.duckdns.org
 cpcontacts.adobegram.com
+cpdf-legacy-fc.adobe.io
+cpdf-legacy-fc-asr.adobe.io
+createpdf.acrobat.com
+createpdf-asr.acrobat.com
+createpdf-migrate.r53.acrobat.com
 createprosite.com
 creativecloud.adobe.com
 crlog-crcn.adobe.com
@@ -218,6 +232,10 @@ data-status.stage.adobe.com
 data-status.stage.adobe.com.edgesuite.net
 dattihp.adobeaemcloud.com
 daviston.adobeaemcloud.com
+dc-api.adobe.io
+dc-api-v2.adobe.io
+dcdiscovery.adobe.io
+dc-genai-access-provisioning-api.adobe.io
 dcpa.adobeaemcloud.net
 dcs.adobedc.net
 ddlc.adobeaemcloud.com
@@ -242,6 +260,7 @@ dhcp82-44.adobeaemcloud.net
 dhcp92-145.adobeaemcloud.com
 dhlp.adobeaemcloud.com
 dianwanyouxidubojubaozhongxin.adobeaemcloud.com
+dim-kafka-rest.adobe.io
 discover.photoshop.com
 Dispatcher.adobeaemcloud.net
 d.ns.campaign.adobe.com
@@ -308,9 +327,16 @@ fgde.adobeaemcloud.com
 fgih.adobeaemcloud.com
 fh-s225n93.adobeaemcloud.net
 fiaocong.adobeaemcloud.com
+files.acrobat.com
+files-asr.acrobat.com
+files-legacy-fc.adobe.io
+files-legacy-fc-asr.adobe.io
+files-migrate.r53.acrobat.com
+fillsign.acrobat.com
 filmable.adobeaemcloud.com
 firefly-acs.adobe.io
 firefly.adobe.com
+firefly.adobe.io
 firefly-cliov2.adobe.io
 firefly-md.adobe.io
 firefly-ps.adobe.io
@@ -387,6 +413,7 @@ hz-telemetry.adobe.io
 i2m4.adobeaemcloud.com
 ia9c.adobeaemcloud.com
 ibrq.adobeaemcloud.com
+ic.adobe.io
 icv0.adobeaemcloud.com
 identity.adobe.com
 ids-proxy.account.adobe.com
@@ -469,6 +496,7 @@ laoqianzhuangyulechengbaijiale.adobeaemcloud.com
 lcs-cops.adobe.io
 lcsr.adobeaemcloud.net
 lcs-ulecs.adobe.io
+learnplaylistservice.adobe.com
 lesechos-mkt-prod2-cus.campaign.adobe.com
 lesechos-mkt-prod2-t.adobe-campaign.com
 lfms.adobeaemcloud.com
@@ -482,6 +510,7 @@ LNVOigTUnXaU.adobelogin.com
 localprosite.com
 localsmallbusinessmarketing.adobeaemcloud.com
 logheaded.adobeaemcloud.net
+logitech-mkt-prod1-res.adobe-campaign.com
 LPWNgmYOpgYW.adobe.com
 lq2y.adobeaemcloud.net
 lth1260.adobeaemcloud.net
@@ -634,6 +663,7 @@ pnfXQiVUMaRM.adobe.com
 pnl8.adobeaemcloud.com
 polka.typekit.com
 postoffice.adobe.com
+pps.adobe.io
 pps.services.adobe.com
 ppzhenrenyulecheng.adobeaemcloud.com
 presence-an1.adobe.io
@@ -649,6 +679,7 @@ p.typekit.net-stls-v3.edgesuite.net
 pulpless.adobeaemcloud.com
 pUlVpnNUmURM.adobelogin.com
 pv24v41zibm.prod.cloud.adobe.io
+pv2fcqvzl1r.prod.cloud.adobe.io
 px0n.adobeaemcloud.net
 q0yb.adobeaemcloud.com
 q5o8.adobeaemcloud.com
@@ -714,10 +745,13 @@ sdk-1p.cc-embed.adobe.com
 sea-kale.adobeaemcloud.net
 secureuk.adobeaemcloud.com
 self-ignite.adobeaemcloud.com
+send-asr.acrobat.com
 senniu.adobeaemcloud.net
 server.messaging.adobe.com
+service.account.adobe.com
 services.account.adobe.com
 services.prod.ims.adobejanus.com
+shared-components.adobe.com
 shenqingsongcaijinwangzhi.adobeaemcloud.net
 shijieshidabocaigongsipaiming.adobeaemcloud.net
 shishicaizhuanqianjihuaqun.adobeaemcloud.com
