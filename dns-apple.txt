@@ -95,6 +95,7 @@ api-glb-ause2c.smoot.apple.com
 api-lookup-aeun1a.smoot.apple.com
 api-lookup.smoot.apple.com
 api-safari-aeun1a.smoot.apple.com
+api-safari-aeun1b.smoot.apple.com
 api-safari.smoot.apple.com
 api.smoot.apple.com
 appldnld.apple.com
@@ -375,6 +376,7 @@ edge-164.sesto4.icloud-content.com
 edge-165.defra2.icloud-content.com
 edge-165.sesto4.icloud-content.com
 edge-166.sesto4.icloud-content.com
+edge-167.sesto4.icloud-content.com
 edge-168.sesto4.icloud-content.com
 edge-169.sesto4.icloud-content.com
 edge-170.sesto4.icloud-content.com
@@ -427,7 +429,9 @@ edge-219.sesto4.icloud-content.com
 edge-221.sesto4.icloud-content.com
 edge-223.sesto4.icloud-content.com
 edge-224.sesto4.icloud-content.com
+edge-225.sesto4.icloud-content.com
 edge-226.sesto4.icloud-content.com
+edge-227.sesto4.icloud-content.com
 edge-228.sesto4.icloud-content.com
 edge-230.sesto4.icloud-content.com
 edge-231.sesto4.icloud-content.com
@@ -482,6 +486,7 @@ edge-278.sesto4.icloud-content.com
 edge-279.sesto4.icloud-content.com
 edge-280.sesto4.icloud-content.com
 edge-281.sesto4.icloud-content.com
+edge-282.sesto4.icloud-content.com
 edge-283.sesto4.icloud-content.com
 edge-284.sesto4.icloud-content.com
 edge.apple
@@ -1118,6 +1123,7 @@ stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
 store-030-lb.blobstore-apple.com.akadns.net
+store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
 store.storeimages.cdn-apple.com.edgekey.net
 store.storeimages.cdn-apple.com-v2.edgekey.net
@@ -1212,7 +1218,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webproxy.advp.apple.com
 webproxy-advp.iad-apple.com.akadns.net
