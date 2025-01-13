@@ -1898,6 +1898,7 @@ api-lax.smoot.apple.com
 api-lookup-aapse1c.smoot.apple.com
 api-lookup-aeuc1b.smoot.apple.com
 api-lookup-aeun1a.smoot.apple.com
+api-lookup-aeun1b.smoot.apple.com
 api-lookup-aeuw3c.smoot.apple.com
 api-lookup-asae1b.smoot.apple.com
 api-lookup-ause2b.smoot.apple.com
@@ -8312,6 +8313,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -13967,6 +13969,7 @@ p110-ubiquity.icloud.com
 p110-uploadimagews-china.icloud.com
 p111-availability-china.icloud.com
 p111-bookmarks-china.icloud.com
+p111-caldav.icloud.com
 p111-calendars.icloud.com
 p111-calendarws.icloud.com
 p111-ckdashboardws-china.icloud.com
@@ -13975,7 +13978,9 @@ p111-ckdatabasews.icloud.com
 p111-ckdevice-china.icloud.com
 p111-ckdevice.icloud.com
 p111-ckshare.icloud.com
+p111-contacts.icloud.com
 p111-contactsws.icloud.com
+p111-content.icloud.com
 p111-fmfmail-china.icloud.com
 p111-fmfmail.icloud.com
 p111-fmfmobile-china.icloud.com
@@ -25524,6 +25529,7 @@ www262.xs4tz.icloud.com
 www2.apple.com
 www2.seminars.apple.com
 www.afl.info.apple.com
+www.airport.us
 www.anat.apple.com
 www.apple.com
 www.apple.com.cn
@@ -25564,6 +25570,7 @@ www.gauravsays.info.apple.com
 www.germany.euro.apple.com
 www.guide.apple.com
 www.holland.euro.apple.com
+www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
@@ -25571,6 +25578,7 @@ www.icloud-content.com
 www.img1.apple-mapkit.com
 www.inspectieresultaten.icloud.com
 www.it.nfapeuro.apple.com
+www.itools.info
 www.itunes.com
 www.iworktrialbuy.apple.com
 www.kreasifb.blobstore.apple.com
@@ -25608,6 +25616,7 @@ www.spain.euro.apple.com
 www.store.apple.com
 wwwsupp2.apple.com
 wwwsupp.apple.com
+www.thinkdifferent.us
 www.tips.apple.com
 www.trafficexchange.info.apple.com
 www.tsu.blobstore.apple.com
