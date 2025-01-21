@@ -50970,3 +50970,22 @@ s
 ===anthropic
 
 == Save names archive
+[master 6ea4723c] auto-update names
+ 4 files changed, 40 insertions(+), 6 deletions(-)
+
+== Resolving names to ipv6
+Tue Jan 21 06:27:15 AM MSK 2025                dns-adobe.txt  >ipv6-resolve-adobe.txt
+Tue Jan 21 07:04:40 AM MSK 2025                dns-anthropic.txt  >ipv6-resolve-anthropic.txt
+Tue Jan 21 07:05:23 AM MSK 2025                dns-apple.txt  >ipv6-resolve-apple.txt
+Tue Jan 21 07:54:19 AM MSK 2025                dns-backblaze.txt  >ipv6-resolve-backblaze.txt
+Tue Jan 21 08:16:26 AM MSK 2025                dns-bing.txt  >ipv6-resolve-bing.txt
+Tue Jan 21 08:18:45 AM MSK 2025                dns-expressvpn.txt  >ipv6-resolve-expressvpn.txt
+Tue Jan 21 08:24:22 AM MSK 2025                dns-facebook.txt  >ipv6-resolve-facebook.txt
+Tue Jan 21 09:07:52 AM MSK 2025                dns-github.txt  >ipv6-resolve-github.txt
+Tue Jan 21 09:17:04 AM MSK 2025                dns-google.txt  >ipv6-resolve-google.txt
+Tue Jan 21 10:06:29 AM MSK 2025                dns-huggingface.txt  >ipv6-resolve-huggingface.txt
+Tue Jan 21 10:07:01 AM MSK 2025                dns-openai.txt  >ipv6-resolve-openai.txt
+Tue Jan 21 10:09:42 AM MSK 2025                dns-ozon.txt  >ipv6-resolve-ozon.txt
+Tue Jan 21 10:10:59 AM MSK 2025                dns-pornhub.txt  >ipv6-resolve-pornhub.txt
+Tue Jan 21 10:12:36 AM MSK 2025                dns-surfshark.txt  >ipv6-resolve-surfshark.txt
+Tue Jan 21 10:17:02 AM MSK 2025                dns-tiktok.txt  >ipv6-resolve-tiktok.txt
