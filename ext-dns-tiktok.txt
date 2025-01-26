@@ -79,6 +79,7 @@ activity.us-cgi.tiktok.com
 activity.us.tiktok.com
 activity-va1-core-c6-alisg.tiktokv.com
 activity-va-login.tiktok.com
+activity-va.tiktok.com
 activity-va.tiktokv.com
 ad-admin.gts.byteoversea.net
 adam.gts.byteoversea.net
@@ -829,6 +830,7 @@ api16-core-useast5.us.tiktokv.com
 api16-core-va.tiktokv.com
 api16-core-va.tiktokv.com.edgekey.net
 api16-core-webcast16-ws-c-va-alisg.tiktokv.com
+api16-core-ycru.tiktokv.com
 api16-core-z-alisg.tiktokv.com
 api16-ngrmal-useast5.us.tiktokv.com
 api16-normal-20.tiktokv.com
@@ -902,6 +904,7 @@ api16-normal-v6.tiktokv.com
 api16-normal-v6.tiktokv.com.edgekey.net
 api16-normal-v6-webcast22-normal-delay-alisg.tiktokv.com
 api16-normal-vpc2-useast5.us.tiktokv.com
+api16-normal-ycru.tiktokv.com
 api16-re-usea1aadmin.gts.byteoversea.net
 api16-re-usea1a-v39-ca.gts.byteoversea.net
 api16.tiktokv.com
@@ -1371,6 +1374,7 @@ api39-sg160.gts.byteoversea.net
 api39sgali3.gts.byteoversea.net
 api39-sgee-internal-all-lb-vdc0.gts.byteoversea.net
 api39sgee-internal-all-lb-vdc2.gts.byteoversea.net
+api39-sg.gts.byteoversea.net
 api39sgsaas0lark-internal-all-lb-vdc2.gts.byteoversea.net
 api39-sgsaas1lark.gts.byteoversea.net
 api39-sgsaas1lark-internal-all-lb-vdc1.gts.byteoversea.net
@@ -2360,6 +2364,7 @@ bytedanceapi.com
 bytedance.com
 bytedance.feishu.cn
 bytedance.host
+bytedance.map.fastly.net
 bytedancemea.6connex.eu
 bytedance.net
 byted.org
@@ -2506,6 +2511,7 @@ cdn.tiktok.com.c.secure.footprint.net
 cdn.tiktokv.com
 cdn.ttc.io
 cdn.ttgtmedia.com
+cdn.tt.omtrdc.net
 cdnv.gts.byteoversea.net
 ce-boe-ns4.gts.byteoversea.net
 cee.gts.byteoversea.net
@@ -4338,6 +4344,7 @@ forum.tt-news.de
 forum.ttpforum.de
 forum-us.gts.byteoversea.net
 forum-v39-us.gts.byteoversea.net
+foxnews.tt.omtrdc.net
 foxx.tiktok.com
 fp16-core-phx.tiktokv.com
 fp16-normal.012gh.developer-sg.tiktok.com
@@ -4406,6 +4413,7 @@ frontier-maliva-bdva-ns4.gts.byteoversea.net
 frontier-my.tiktokv.com
 frontierns3.gts.byteoversea.net
 frontier-phx.tiktokv.com
+frontier-ru.tiktokv.com
 frontier-ttp2.us.tiktokv.com
 frontier.us.tiktokv.com
 frontier-v39-ca.gts.byteoversea.net
@@ -4547,6 +4555,7 @@ gecko16-normal.tiktokv.com
 gecko16-normal-useast1a.tiktokv.com
 gecko16-normal-useast2a.tiktokv.com
 gecko16-platform-useast5.us.tiktokv.com
+gecko16-platform-ycru.tiktokv.com
 gecko16-tmp-normal-useast1a.tiktokv.com
 gecko19-normal-alisg.tiktokv.com
 gecko19-normal.tiktokv.com
@@ -4909,6 +4918,7 @@ hotapi22-normal-useast1a.tiktokv.com
 hotapi22-normal-useast2a.tiktokv.com
 hotapi-i18n.tiktokv.com
 hotapi-phx.tiktokv.com
+hotapi-ru.tiktokv.com
 hotapi-sg.tiktokv.com
 hotapi-va.isnssdk.com.edgekey.net
 hotapi-va.tiktokv.com
@@ -5031,6 +5041,7 @@ imapi2.isnssdk.com.edgekey.net
 imapi-mu.isnssdk.com.edgekey.net
 im-api-test.api-m-useast2aus.tiktok.com
 im-api-test.usid.tiktok.com
+im-api.tiktok.com
 im-api.us.tiktok.com
 im-api-va.tiktok.com
 imap.tiktok.com
@@ -5199,6 +5210,7 @@ jsb31-normal-useast1a.tiktokv.com
 jsb31-normal-useast2a.tiktokv.com
 jsb-boot.tiktokv.com
 jsb-phx.tiktokv.com
+jsb-ru.tiktokv.com
 jsb-sg.byteoversea.com.edgesuite.net
 jsb-sg.tiktokv.com
 jsb-sg.tiktokv.com.edgekey.net
@@ -5373,6 +5385,7 @@ libra-i18n.tiktokv.com
 libra-normal.tiktokv.com
 libra-normal-useast2a.tiktokv.com
 libra-phx.tiktokv.com
+libra-ru.tiktokv.com
 library.tiktok.com
 library.ttu.edu
 libra-sg.tiktokv.com
@@ -5436,6 +5449,7 @@ log16-normal-ind.tiktokv.com
 log16-normal.tiktokv.com
 log16-normal-useast1a.wd-bemapi-stgapi.tiktokv.com
 log16-normal-useast5.tiktokv.us
+log16-platform-ycru.tiktokv.com
 log16-tmp-normal-useast1a.tiktokv.com
 log17-normal-alisg.tiktokv.com
 log17-normal.tiktokv.com
@@ -5455,6 +5469,7 @@ log2.musical.ly.edgesuite.net
 log2-useast1a.musical.ly.edgekey.net
 log2-useast2a.musical.ly.edgekey.net
 log31-normal-alisg.rtc-access-fr.tiktokv.com
+log31-normal-alisg.tiktokv.com
 log31-normallog17.tiktokv.com
 log31-normal-useast1a.tiktokv.com
 log31-normal-useast2a.tiktokv.com
@@ -5670,6 +5685,7 @@ mon16-normal-c-useast2a.tiktokv.com
 mon16-normallibra16-normal-useast2a.tiktokv.com
 mon16-normal.tiktokv.com
 mon16-normal-useast1a.tiktokv.com
+mon16-normal-useast5.tiktokv.us
 mon16-platform-useast530.tiktokv.com
 mon16-platform-useast5.us.tiktokv.com
 mon16-platform-ycru.tiktokv.com
@@ -5694,6 +5710,7 @@ monitoring.0-0-dev-staff.developer-sg.tiktok.com
 monlibra16-normal.us.tiktokv.com
 mon.musical.ly.edgesuite.net
 mon-phx.tiktokv.com
+mon-ru.tiktokv.com
 mon-sg.tiktokv.com
 mon-useast2a.tiktokv.com
 mon-va.byteoversea.com.edgesuite.net
@@ -5741,6 +5758,7 @@ mssdk-phx.tiktokv.com
 mssdk-quic-i18n.tiktokv.com
 mssdk-quic-sg.tiktok.com
 mssdk-quic-va.tiktokv.com
+mssdk-ru.tiktokv.com
 mssdk.seller-sg-us.tiktok.com
 mssdk-sg.tiktokv.com
 mssdk.us.tiktokv.com
@@ -6292,6 +6310,7 @@ p15.hypstarcdn.com
 p16-ad-sg.ibyteimg.com
 p16a.hypstarcdn.com
 p16a.hypstarcdn.com.edgesuite.net
+p16-amd-va.tiktokcdn.com
 p16a.tiktokcdn.com.edgesuite.net
 p16b.hypstarcdn.com
 p16-booktok.tiktokcdn-us.com
@@ -6451,6 +6470,7 @@ p9-reading.byteimg.com
 p9-security.byteimg.com
 p9-security.byteimg.com.bsgslb.com
 p9-sg.tiktokcdn.com
+p9-sign-sg.tiktokcdn.com
 p9-tt.bytecdn.cn
 p9-tt.bytecdn.cn.bsgslb.com
 p9-tt.byteimg.com
@@ -6911,6 +6931,7 @@ push-fcdn-base-oversea.s.worldfcdn.com
 push-rtmp-f5-ab.tiktokcdn.com
 push-rtmp-f5-gcp01.tiktokcdn.com
 push-rtmp-f5.hypstarcdn.com
+push-rtmp-f5-sg01.ttlivecdn.com
 push-rtmp-f5.tiktokcdn.com
 push-rtmp-f5.tiktokcdn.com.c.bytetcdn.com
 push-rtmp-f5.tiktokcdn.com.c.worldfcdn.com
@@ -7076,6 +7097,7 @@ rr2.sn-tt1e7nls.googlevideo.com
 rr2---sn-tt1e7nls.googlevideo.com
 rr2.sn-tt1e7nlz.googlevideo.com
 rr2---sn-tt1e7nlz.googlevideo.com
+rr2---sn-tt1elnel.googlevideo.com
 rr3---sn-4gvoupxgoxu-tt1e.googlevideo.com
 rr3---sn-nu5gu-tt1e.googlevideo.com
 rr3.sn-tt1e7nls.googlevideo.com
@@ -7191,6 +7213,7 @@ rtlog.isnssdk.com
 rtlog.musical.ly
 rtlog.musical.ly.edgekey.net
 rtlog-phx.tiktokv.com
+rtlog-ru.tiktokv.com
 rtlog.sgsnssdk.com
 rtlog.tiktokv.com
 rtlog.us.tiktokv.com
@@ -7845,9 +7868,11 @@ sf16-eacdn-tos.pstatp.com
 sf16-ies-music-va.tiktokcdn.com
 sf16-lark-va.ibytedtos.com
 sf16-lark-va.ibytedtos.com.edgekey.net
+sf16-muse-va.ibytedtos.com
 sf16-muse-va.ibytedtos.com.edgekey.net
 sf16-passport-sg.ibytedtos.com
 sf16-passport-sg.ibytedtos.com.edgekey.net
+sf16-passport-va.ibytedtos.com
 sf16-passport-va.ibytedtos.com.edgekey.net
 sf16-scmcdn-sg.ibytedtos.com
 sf16-scmcdn-va.ibytedtos.com
@@ -7868,6 +7893,7 @@ sf16-ttcdn-tos.ipstatp.com.edgesuite.net
 sf16-ttcdn-tos.pstatp.com
 sf16-ttcdn-tos.pstatp.com.edgesuite.net
 sf16-unpkg-va.ibytedtos.com
+sf16-va.tiktokcdn.com
 sf16-webcast-hypstarcdn.byteimg.com
 sf16-webcast.hypstarcdn.com
 sf16-webcast.hypstarcdn.com.edgesuite.net
@@ -8851,8 +8877,10 @@ v16m.byteicdn.com.akamaized.net
 v16m.hypstarcdn.com
 v16m.hypstarcdn.com.akamaized.net
 v16m.tiktokcdn-eu.com
+v16m.tiktokcdn-us.com
 v16m-t.tiktokcdn.com
 v16.musical.ly
+v16m-webapp.tiktokcdn-us.com
 v16s.byteicdn.com
 v16s.tiktokcdn.com
 v16-tcscdn.byteoversea.com
@@ -8866,6 +8894,7 @@ v16-webapp002.developer-sg.tiktok.com
 v16-webapp-prime.email.mail.tiktok.com
 v16-webapp-prime.tiktok.com
 v16-webapp-prime.us.payment.tiktok.com
+v16-webapp-prime.us.tiktok.com
 v16-webapp.tiktok.com
 v16-weboceania.tiktok.com
 v16-web.tiktokcdn.com
@@ -8878,6 +8907,7 @@ v19.byteicdn.com
 v19-hwp.tiktokcdn.com
 v19.hypstarcdn.com
 v19.tiktokcdn-eu.com
+v19.tiktokcdn-us.com
 v19-webapp-careers.us.tiktok.com
 v19-webapp-datahub.us.tiktok.com
 v19-webapp-prime.infobip.service.tiktok.com
@@ -9004,6 +9034,7 @@ v39-sg.gts.byteoversea.net
 v39-tcs.gts.byteoversea.net
 v39.tiktokcdn.com
 v39.tiktokcdn-eu.com
+v39.tiktokcdn-us.com
 v39-us.admin.gts.byteoversea.net
 v39-us.gts.byteoversea.net
 v39-us.tiktokcdn.com
@@ -9064,6 +9095,7 @@ v9.pstatp.com
 v9.pstatp.com.bsgslb.com
 v9-rp.tiktokcdn.com
 v9-th.tiktokcdn.com
+v9.tiktokcdn.com
 v9.tiktokcdn.com.baishan-cloud.net
 v9-tt.bytecdn.cn
 v9-tt.ixigua.com
@@ -9232,6 +9264,7 @@ video-tcs-va-oec3-normal-alisg.tiktokv.com
 video-tcs-va.tiktok.com
 video-tcs-va.tiktokv.com
 video-tcs-vattp.tiktokv.com
+video.us.bytedance.map.fastly.net
 video-useast2a.tiktokv.com
 video-useast5.tiktokcdn-us.com
 video-useast5.tiktokv.com
@@ -9480,6 +9513,7 @@ webcast16-normal-probe-useast2a.tiktokv.com
 webcast16-normal.tiktokv.com
 webcast16-normal-useast5.tiktokv.us
 webcast16-normal-useast5.us.tiktokv.com
+webcast16-normal-ycru.tiktokv.com
 webcast16-open-alisg.tiktokv.com
 webcast16-openoec16-normal-iquic.tiktokv.com
 webcast16-open.tiktokv.com
@@ -9613,6 +9647,7 @@ webcast-useast1a.tiktokv.com
 webcast-useast2a.musical.ly
 webcast-useast2a.musical.ly.edgekey.net
 webcast-useast2a.tiktokv.com
+webcast.us.tiktok.com
 webcast.us.tiktokv.com
 webcastvas-alisg16-normal-c-alisg.tiktokv.com
 webcast-va.tiktokv.com
@@ -9700,6 +9735,7 @@ wenguitar.tiktokv.com
 wesleychapelhonda.tiktokv.com
 western-overseas.com
 westernoverseas.com
+westeurope.tts.speech.microsoft.com
 west.exch082.tiktokv.com
 westfield.tiktok.com
 westonforest.tiktokv.com
@@ -10143,6 +10179,7 @@ wxutils.tiktokv.com
 wyles.overseasind.com
 x-boe.admin.gts.byteoversea.net
 xdb79com.tiktokv.com
+xdevice-api.tiktokv.com
 xdevice-api.us.tiktokv.com
 xdevice-boot.tiktokv.com
 xdevice.rtlog19-platform-useast5.us.tiktokv.com
