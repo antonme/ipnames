@@ -78,6 +78,7 @@ api-glb-aeuc1b.smoot.apple.com
 api-glb-aeun1a.smoot.apple.com
 api-glb-aeun1b.smoot.apple.com
 api-glb-aeus2a.smoot.apple.com
+api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
 api-safari-aeun1a.smoot.apple.com
 api-safari-aeun1b.smoot.apple.com
@@ -114,6 +115,7 @@ asa.commerce.apple.com
 asa.commerce.apple.com.edgesuite.net
 assets-mercury.mzstatic.com
 attester.gateway.icloud.com
+audio.itunes.apple.com
 audio-ssl.itunes.apple.com
 auth.itunes.apple.com
 authorize.music.apple.com.edgekey.net
@@ -317,9 +319,11 @@ edge-128.sesto4.icloud-content.com
 edge-129.sesto4.icloud-content.com
 edge-129.usdal2.icloud-content.com
 edge-131.sesto4.icloud-content.com
+edge-134.dkvib11.icloud-content.com
 edge-135.sesto4.icloud-content.com
 edge-137.sesto4.icloud-content.com
 edge-138.sesto4.icloud-content.com
+edge-161.sesto4.icloud-content.com
 edge-167.sesto4.icloud-content.com
 edge-170.sesto4.icloud-content.com
 edge-171.sesto4.icloud-content.com
@@ -402,7 +406,12 @@ gc.apple.com
 gc.apple.com.akadns.net
 gdmf-ados.apple.com
 gdmf.apple.com
+genius-3.itunes.apple.com
 genius-3.itunes.apple.com.edgekey.net
+genius-download-2.apps-apple.com.akadns.net
+genius-download-2.itunes.apple.com
+genius-upload-2.apps-apple.com.akadns.net
+genius-upload-2.itunes.apple.com
 geo.itunes.apple.com
 graffiti-tags.apple.com
 graffiti-tags.apple.com.edgesuite.net
@@ -427,6 +436,8 @@ gsp47-ssl.ls.apple.com
 gsp47-ssl.ls-apple.com.akadns.net
 gsp51-ssl-ds.ls-apple.com.akadns.net
 gsp51-ssl.ls.apple.com
+gsp53-ssl.ls.apple.com
+gsp53-ssl.ls-apple.com.akadns.net
 gsp57-ssl-background.ls.apple.com
 gsp57-ssl-background.ls-apple.com.akadns.net
 gsp57-ssl-locus.ls.apple.com
@@ -619,6 +630,7 @@ news-edge.apple.com
 news-events.apple.com
 news.iadsdk.apple.com
 newsletter-edge.apple.com
+news-nar-aud.apple.com
 news-sports-events.apple.com
 news-todayconfig-edge.apple.com
 northamerica-1.object-storage.apple.com
@@ -631,7 +643,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -1059,6 +1070,7 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
+www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
