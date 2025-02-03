@@ -95,6 +95,7 @@ appleid.apple.com
 appleid.cdn-apple.com
 appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.edgekey.net
+appleid.idms-apple.com.akadns.net
 apple-mapkit.com
 applepay.cdn-apple.com
 apps.apple.com
@@ -327,12 +328,14 @@ edge-134.dkvib11.icloud-content.com
 edge-135.sesto4.icloud-content.com
 edge-137.sesto4.icloud-content.com
 edge-138.sesto4.icloud-content.com
+edge-157.sesto4.icloud-content.com
 edge-161.sesto4.icloud-content.com
 edge-167.sesto4.icloud-content.com
 edge-170.sesto4.icloud-content.com
 edge-171.sesto4.icloud-content.com
 edge-174.sesto4.icloud-content.com
 edge-175.sesto4.icloud-content.com
+edge-177.sesto4.icloud-content.com
 edge-179.sesto4.icloud-content.com
 edge-180.sesto4.icloud-content.com
 edge-181.sesto4.icloud-content.com
@@ -364,6 +367,8 @@ edge-240.sesto4.icloud-content.com
 edge-241.sesto4.icloud-content.com
 edge-242.sesto4.icloud-content.com
 edge-244.sesto4.icloud-content.com
+edge-246.sesto4.icloud-content.com
+edge-247.sesto4.icloud-content.com
 edge-248.sesto4.icloud-content.com
 edge-250.sesto4.icloud-content.com
 edge-259.sesto4.icloud-content.com
@@ -537,6 +542,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -675,6 +681,7 @@ p04-fmip.icloud.com
 p06-fmip.icloud.com
 p105-sharedstreams.icloud.com
 p107-acsegateway.icloud.com
+p107-caldav.icloud.com
 p107-contacts.icloud.com
 p107-escrowproxy.icloud.com
 p107-fmf.icloud.com
@@ -1100,7 +1107,6 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
