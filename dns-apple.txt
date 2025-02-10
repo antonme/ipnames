@@ -24,6 +24,7 @@ amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
 amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
+amp-api-edge.music.apple.com
 amp-api-fitness-akam.itunes-apple.com.akadns.net
 amp-api.fitness.apple.com
 amp-api.fitness.apple.com.edgekey.net
@@ -380,6 +381,7 @@ edge-213.sesto4.icloud-content.com
 edge-214.sesto4.icloud-content.com
 edge-216.sesto4.icloud-content.com
 edge-218.sesto4.icloud-content.com
+edge-219.sesto4.icloud-content.com
 edge-222.sesto4.icloud-content.com
 edge-223.sesto4.icloud-content.com
 edge-224.sesto4.icloud-content.com
@@ -748,6 +750,7 @@ p111-fmf.icloud.com
 p111-fmfmobile.icloud.com
 p111-fmip.icloud.com
 p111-fmipmobile.icloud.com
+p111-maildomainws.icloud.com
 p111-mccgateway.icloud.com
 p111-quota.icloud.com
 p112-iwnr-china.icloud.com
@@ -840,6 +843,7 @@ p31-content.icloud.com
 p32-content.icloud.com
 p33-content.icloud.com
 p34-buy.itunes.apple.com
+p34-content.icloud.com
 p35-content.icloud.com
 p36-content.icloud.com
 p37-content.icloud.com
@@ -1097,7 +1101,6 @@ unlinkability.apple.com
 updates.cdn-apple.com
 updates.cdn-apple.com.akadns.net
 updates.cdn-apple.com.edgesuite.net
-updates.g.aaplimg.com
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 upp-cdn.itunes-apple.com.akadns.net
