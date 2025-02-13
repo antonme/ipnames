@@ -53225,3 +53225,41 @@ Wed Feb 12 10:03:40 AM MSK 2025                dns-vpnhosts.txt  >resolve-vpnhos
 Wed Feb 12 10:03:47 AM MSK 2025                dns-youtube.txt  >resolve-youtube.txt
 [master 788eb872] auto-update ipv4
  19 files changed, 5181 insertions(+), 9912 deletions(-)
+[master a66f39cc] auto-update merged
+ 27 files changed, 5677 insertions(+), 7382 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Thu Feb 13 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive

@@ -427,6 +427,7 @@ edge-266.sesto4.icloud-content.com
 edge-267.sesto4.icloud-content.com
 edge-268.sesto4.icloud-content.com
 edge-269.sesto4.icloud-content.com
+edge-270.sesto4.icloud-content.com
 edge-271.sesto4.icloud-content.com
 edge-272.sesto4.icloud-content.com
 edge-273.sesto4.icloud-content.com
@@ -728,7 +729,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -740,6 +740,7 @@ osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
 p04-fmip.icloud.com
 p06-fmip.icloud.com
+p105-availability.icloud.com
 p105-sharedstreams.icloud.com
 p107-acsegateway.icloud.com
 p107-caldav.icloud.com
@@ -750,6 +751,7 @@ p107-fmf.icloud.com
 p107-fmfmobile.icloud.com
 p107-fmip.icloud.com
 p107-fmipmobile.icloud.com
+p107-mccgateway.icloud.com
 p10-calendars.icloud.com
 p111-acsegateway.icloud.com
 p111-caldav.icloud.com
@@ -841,6 +843,7 @@ p28-content.icloud.com
 p29-content.icloud.com
 p29-imap.mail.me.com
 p29-imap.mail.me.com.akadns.net
+p29-mcc.icloud.com
 p29-smtp.mail.me.com
 p29-smtp.mail.me.com.akadns.net
 p2-buy.itunes.apple.com
@@ -1152,6 +1155,7 @@ weather-data.apple.com.akadns.net
 weather-data.apple.com.akamaized.net
 weather-edge.apple.com
 weatherkit.apple.com
+weatherkit.apple.com.akadns.net
 weather-map2.apple.com
 weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
