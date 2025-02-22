@@ -10,6 +10,7 @@ accounts.adobe.com
 acierate.adobeaemcloud.com
 acp-ss.adobe.io
 acp-ss-an1.adobe.io
+acrobat.adobe.com
 acrobat.com
 acroipm2.adobe.com
 acroipm2.adobe.com.edgesuite.net
@@ -37,6 +38,7 @@ adobelogin-weighted.prod.ims.adobejanus.com
 adobemobiledev.data.adobedc.net
 adobe.net
 adobesearch.adobe.io
+adobesearch-sec-uss.adobe.io
 adobetarget.data.adobedc.net
 ais.adobe.io
 ak5q.adobeaemcloud.com
@@ -52,6 +54,7 @@ ans.oobesaas.adobe.com
 ans.prod.oobesaas.adobe.com
 ap3.prd.adobeaemcloud.net
 api-gateway-ap-prd-va6-02.infra.adobe.io
+api.na4.documents.adobe.com
 api.plan.adobe.com
 apm3-27224.adobeaemcloud.net
 apqa.adobeaemcloud.net
@@ -99,6 +102,9 @@ birthdate.adobeaemcloud.com
 bituminoid.adobeaemcloud.net
 bj-o.adobeaemcloud.com
 bjoy.adobeaemcloud.com
+bks.adobe.io
+bks-epo8512.adobe.io
+bks-epo8532.adobe.io
 bn6s.adobeaemcloud.com
 bn-au-171-3.adobeaemcloud.net
 b.ns.campaign.adobe.com
@@ -151,6 +157,7 @@ ccpd.adobe.com
 ccprojects.adobe.io
 cctypekit.adobe.io
 cdn.adobeaemcloud.com
+cdn.cp.adobe.io
 cdn.experienceleague.adobe.com
 cdn-ffc.oobesaas.adobe.com
 cdn-geo-ffc.oobesaas.adobe.com
@@ -172,7 +179,11 @@ cjm.adobe.com
 client.messaging.adobe.com
 clio-assets.adobe.com
 clmx.adobeaemcloud.com
+cloud.acrobat.com
 cloud.adobe.io
+cloud-asr.acrobat.com
+cloud-legacy-fc.adobe.io
+cloud-legacy-fc-asr.adobe.io
 clouso.adobeaemcloud.net
 cmeitin.adobeaemcloud.com
 cname.campaign.adobe.com
@@ -190,6 +201,7 @@ commerce.adobe.com
 commerce.adobe.com.edgekey.net
 committeeadmin.adobeaemcloud.com
 community.adobe.com
+community-hubs.adobe.io
 connect.ffc.adobeoobe.com
 conquering.adobeaemcloud.com
 core312.bccms.adobeaemcloud.net
@@ -201,6 +213,10 @@ cpanel.adobee.cl
 cpanel.ilovephotoshop.com
 cpcalendars.adobesignn.duckdns.org
 cpcontacts.adobegram.com
+cpdf-legacy-fc.adobe.io
+cpdf-legacy-fc-asr.adobe.io
+createpdf.acrobat.com
+createpdf-asr.acrobat.com
 createprosite.com
 creativecloud.adobe.com
 crlog-crcn.adobe.com
@@ -231,6 +247,9 @@ data-status.stage.adobe.com
 data-status.stage.adobe.com.edgesuite.net
 dattihp.adobeaemcloud.com
 daviston.adobeaemcloud.com
+dc-api-v2.adobe.io
+dcdiscovery.adobe.io
+dc-genai-access-provisioning-api.adobe.io
 dcpa.adobeaemcloud.net
 dcs.adobedc.net
 ddlc.adobeaemcloud.com
@@ -298,6 +317,7 @@ esgaroth.adobeaemcloud.com
 ethos.adobe.net
 ethos.ethos502-prod-irl1.ethos.adobe.net
 ethos.ethos502-prod-va6.ethos.adobe.net
+ethos.pub.ethos851-prod-oh2.ethos.adobe.net
 eTOPghiQKOZU.adobe.com
 ewpc-236-58.adobeaemcloud.com
 execrating.adobeaemcloud.com
@@ -323,9 +343,15 @@ fgde.adobeaemcloud.com
 fgih.adobeaemcloud.com
 fh-s225n93.adobeaemcloud.net
 fiaocong.adobeaemcloud.com
+files.acrobat.com
+files-asr.acrobat.com
+files-legacy-fc.adobe.io
+files-legacy-fc-asr.adobe.io
 filmable.adobeaemcloud.com
 firefly-acs.adobe.io
 firefly.adobe.com
+firefly.adobe.io
+firefly-clio-imaging-preview.adobe.io
 firefly-cliov2.adobe.io
 firefly-md.adobe.io
 firefly-ps.adobe.io
@@ -403,6 +429,7 @@ hz-telemetry.adobe.io
 i2m4.adobeaemcloud.com
 ia9c.adobeaemcloud.com
 ibrq.adobeaemcloud.com
+ic.adobe.io
 icv0.adobeaemcloud.com
 identity.adobe.com
 ids-proxy.account.adobe.com
@@ -670,7 +697,9 @@ p.typekit.net
 p.typekit.net-stls-v3.edgesuite.net
 pulpless.adobeaemcloud.com
 pUlVpnNUmURM.adobelogin.com
+pv218qmzox6.prod.cloud.adobe.io
 pv24v41zibm.prod.cloud.adobe.io
+pv2fcqvzl1r.prod.cloud.adobe.io
 px0n.adobeaemcloud.net
 q0yb.adobeaemcloud.com
 q5o8.adobeaemcloud.com
@@ -736,10 +765,14 @@ sdk-1p.cc-embed.adobe.com
 sea-kale.adobeaemcloud.net
 secureuk.adobeaemcloud.com
 self-ignite.adobeaemcloud.com
+send-asr.acrobat.com
+send-legacy-fc-asr.adobe.io
 senniu.adobeaemcloud.net
 server.messaging.adobe.com
+service.account.adobe.com
 services.account.adobe.com
 services.prod.ims.adobejanus.com
+shared-components.adobe.com
 shenqingsongcaijinwangzhi.adobeaemcloud.net
 shijieshidabocaigongsipaiming.adobeaemcloud.net
 shishicaizhuanqianjihuaqun.adobeaemcloud.com
