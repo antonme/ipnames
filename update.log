@@ -54220,3 +54220,42 @@ Sat Feb 22 06:41:46 AM MSK 2025                dns-vpnhosts.txt  >ipv6-resolve-v
 Sat Feb 22 06:41:52 AM MSK 2025                dns-youtube.txt  >ipv6-resolve-youtube.txt
 [master 23230df3] auto-update ipv6
  16 files changed, 1268 insertions(+), 14426 deletions(-)
+[master 24bebf7f] auto-update merged
+ 19 files changed, 1733 insertions(+), 11331 deletions(-)
+ delete mode 100644 merged/ipv4-tunnelbear.cidr
+
+
+
+--------------------------------------------------------------------------------
+Sun Feb 23 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
