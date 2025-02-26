@@ -7764,7 +7764,6 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl.ls.apple.com
@@ -8291,6 +8290,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -12285,6 +12285,7 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -12450,6 +12451,7 @@ osvcomm-prod.mdn.apple.com
 osvcomm-prod.prz.apple.com
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
+osxapps.itunes.g.aaplimg.com
 otocacheit.apple.com
 otocachet.apple.com
 otoit.cdn-apple.com
@@ -23619,7 +23621,6 @@ smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smp-device-lt3.apple.com
@@ -25387,6 +25388,7 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
+weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -25525,7 +25527,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
