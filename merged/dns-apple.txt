@@ -1686,6 +1686,7 @@ amp-api-preview.videos.apple.com
 amp-api.sandbox.apple.com
 amp-api.sandbox.apps-apple.com.akadns.net
 amp-api.sandbox.itunes-apple.com.akadns.net
+amp-api-search-edge-apps-akam.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
@@ -6422,6 +6423,7 @@ genifp.apple.com
 genius-2.itunes.apple.com
 genius2.itunes.apple.com
 genius2-upload.itunes.apple.com
+genius-3-cdn.lb-apple.com.akadns.net
 genius3-download.itunes.apple.com
 genius-3.itunes.apple.com
 genius3.itunes.apple.com
@@ -7997,6 +7999,7 @@ hls-amt-ve.itunes.apple.com
 hls-amt-ve.itunes.apple.com.edgesuite.net
 hls.assets.itunes.com
 hls.itunes.apple.com
+hls.itunes-apple.com.akadns.net
 hls.itunes.apple.com.edgesuite.net
 hls-mslive.itunes.apple.com.edgesuite.net
 hls-slive.itunes.apple.com.edgesuite.net
@@ -8290,7 +8293,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -12285,7 +12287,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -12451,7 +12452,6 @@ osvcomm-prod.mdn.apple.com
 osvcomm-prod.prz.apple.com
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
-osxapps.itunes.g.aaplimg.com
 otocacheit.apple.com
 otocachet.apple.com
 otoit.cdn-apple.com
@@ -20769,6 +20769,8 @@ p51-ubiquityws.icloud.com
 p52-acsegateway.icloud.com
 p52-archivews.icloud.com
 p52-bookmarks-china.icloud.com
+p52-buy.itunes.apple.com
+p52-buy-lb.itunes-apple.com.akadns.net
 p52-calendars-china.icloud.com
 p52-calendars.icloud.com
 p52-calendarws.icloud.com
@@ -21039,6 +21041,8 @@ p57-sharedav-china.icloud.com
 p57-sharedav.icloud.com
 p57-streams.icloud.com
 p58-archivews.icloud.com
+p58-buy.itunes.apple.com
+p58-buy-lb.itunes-apple.com.akadns.net
 p58-caldav.icloud.com
 p58-calendars-china.icloud.com
 p58-calendars.icloud.com
@@ -25527,6 +25531,7 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
+www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
