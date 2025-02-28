@@ -54722,3 +54722,42 @@ Thu Feb 27 09:10:53 AM MSK 2025                ext-dns-vpnhosts.txt  >ipv6-ext-r
 Thu Feb 27 09:16:26 AM MSK 2025                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
 [master 28b5e790] auto-update ipv6
  14 files changed, 5619 insertions(+), 6610 deletions(-)
+[master 14012650] auto-update merged
+ 28 files changed, 8241 insertions(+), 11037 deletions(-)
+ create mode 100644 merged/ipv4-surfshark.cidr
+
+
+
+--------------------------------------------------------------------------------
+Fri Feb 28 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
