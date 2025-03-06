@@ -63,6 +63,7 @@ amp-api.videos.apple.com.edgesuite.net
 a.ns.apple.com
 aod.itunes.apple.com
 aod.itunes.apple.com.edgesuite.net
+aod.itunes.g.aaplimg.com
 api2.smoot.apple.com
 api-adservices.apple.com
 api.apple-cloudkit.com
@@ -395,6 +396,7 @@ edge-202.sesto4.icloud-content.com
 edge-203.sesto4.icloud-content.com
 edge-204.sesto4.icloud-content.com
 edge-205.sesto4.icloud-content.com
+edge-206.sesto4.icloud-content.com
 edge-207.sesto4.icloud-content.com
 edge-208.sesto4.icloud-content.com
 edge-209.sesto4.icloud-content.com
@@ -443,6 +445,7 @@ edge-252.sesto4.icloud-content.com
 edge-253.sesto4.icloud-content.com
 edge-254.sesto4.icloud-content.com
 edge-255.sesto4.icloud-content.com
+edge-256.defra2.icloud-content.com
 edge-256.sesto4.icloud-content.com
 edge-257.sesto4.icloud-content.com
 edge-258.sesto4.icloud-content.com
@@ -588,7 +591,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -635,7 +637,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -888,10 +889,15 @@ p164-content.icloud.com
 p165-content.icloud.com
 p166-content.icloud.com
 p166-fmipmobile.icloud.com
+p167-content.icloud.com
 p168-contacts.icloud.com
+p169-content.icloud.com
 p16-buy.itunes.apple.com
 p16-buy-lb.itunes-apple.com.akadns.net
+p172-content.icloud.com
+p174-content.icloud.com
 p175-content.icloud.com
+p176-content.icloud.com
 p181-content.icloud.com
 p22-calendars.icloud.com
 p23-content.icloud.com
@@ -1193,6 +1199,7 @@ updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 upp-cdn.itunes-apple.com.akadns.net
 upp.itunes.apple.com
+usbos2.icloud-content.com
 us-courier.push.apple.com
 us-courier-vs.push-apple.com.akadns.net
 usdal2.icloud-content.com
@@ -1236,7 +1243,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webproxy.advp.apple.com
 websitereview.corp.apple.com
