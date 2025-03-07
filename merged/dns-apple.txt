@@ -1658,6 +1658,7 @@ amp-api-edge.apps.apple.com.edgekey.net
 amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-edge.music.apple.com
+amp-api-edge.music-lb.itunes-apple.com.akadns.net
 amp-api.edu.apple.com
 amp-api.ent.apple.com
 amp-api-fitness-akam.itunes-apple.com.akadns.net
@@ -7776,7 +7777,6 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl.ls.apple.com
@@ -8203,6 +8203,7 @@ idm.applepay.ireporter.apple.com
 idmas-nc.apple.com
 idmsa.apple.com
 idmsac-stage.apple.com
+idmsa.idms-apple.com.akadns.net
 idmsa-nc.apple.com
 idms-apple.com.akadns.net
 idmsa-stage-mdn.apple.com
@@ -20788,6 +20789,7 @@ p52-acsegateway.icloud.com
 p52-archivews.icloud.com
 p52-bookmarks-china.icloud.com
 p52-buy.itunes.apple.com
+p52-buy.itunes-apple.com.akadns.net
 p52-buy-lb.itunes-apple.com.akadns.net
 p52-calendars-china.icloud.com
 p52-calendars.icloud.com
@@ -20981,6 +20983,7 @@ p55-sharedav.icloud.com
 p55-sharedstreams-china.icloud.com
 p55-statici-china.icloud.com
 p56-buy.itunes.apple.com
+p56-buy-lb.itunes-apple.com.akadns.net
 p56-caldav-china.icloud.com
 p56-caldav.icloud.com
 p56-ckcoderouter.icloud.com
@@ -21060,6 +21063,7 @@ p57-sharedav.icloud.com
 p57-streams.icloud.com
 p58-archivews.icloud.com
 p58-buy.itunes.apple.com
+p58-buy.itunes-apple.com.akadns.net
 p58-buy-lb.itunes-apple.com.akadns.net
 p58-caldav.icloud.com
 p58-calendars-china.icloud.com
@@ -21895,6 +21899,7 @@ pams-media-prod.apple.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 pano-es-prod-us2.explr.poc.cp.sap.apple.com
 pargo-cd-buy.itunes.apple.com
 partiality.itunes.apple.com
