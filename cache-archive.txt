@@ -316,6 +316,7 @@ amp-api-edge.apps.apple.com.edgekey.net
 amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-edge.music.apple.com
+amp-api-edge.music-lb.itunes-apple.com.akadns.net
 amp-api-fitness-akam.itunes-apple.com.akadns.net
 amp-api.fitness.apple.com
 amp-api.fitness.apple.com.edgekey.net
@@ -1245,6 +1246,7 @@ cdn.openai.com
 cdn.ozonusercontent.com.edgesuite.net
 cdn.smoot.apple.com
 cdn.syndication.twimg.com
+cdn-telegram.org
 cdn-thumbnails.huggingface.co
 cdn.tt.omtrdc.net
 cdn-uploads.huggingface.co
@@ -3004,7 +3006,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -3966,6 +3967,7 @@ mds-cdn.infra.adobesensei.io
 me.apple-dns.net
 me.com
 media-3-252-48-102.webrtc.adobeconnect.com
+media-arn2-1.cdn.whatsapp.net
 media.githubusercontent.com
 media.icloud-content.com
 meetabuse-pa.googleapis.com
@@ -4831,6 +4833,7 @@ panama-ca-version-2.expressnetw.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 pando-bliptk1.googleapis.com
 pandora-cdn.adobe.com
 pangolin16.isnssdk.com
@@ -8720,6 +8723,7 @@ uzbekistan-ca-version-2.expressnetw.com
 uz.lazerpenguin.com
 uzmh.googleapis.com
 uz-tas.prod.surfshark.com
+v120gszvrs.data.adobedc.net
 v16-cla.tiktokcdn.com.edgesuite.net
 v16m-default.tiktokcdn-us.com
 v16m-default.tiktokcdn-us.com.akamaized.net
@@ -8912,6 +8916,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
@@ -9026,6 +9031,7 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
+www.appleiphonecell.com
 www.as.adobeaemcloud.com
 www.backblaze.com
 www-backblaze-com.webpkgcache.com
@@ -9215,6 +9221,7 @@ www.www.git.git.git.magento.facebook.cheeseandburger.com
 www.xn--tt-tmrerfirma-enb.dk
 www.youtube.com
 www.youtube.kellykawase.com
+www.youtube-nocookie.com
 www.zh-tw.facebook.com.eu.cas.ms
 wxf.adobeaemcloud.com
 wx.phvmuse.jkwaqczhbntdbkfli45u8pm2h47ysemn.ttymjvyop0.semizuq.8.aaumbbiz.wlnh.os4l3jyyk0ofewaeojnpfswwmdnb.ujyxvggvr6v.v24u7lkcj8ujjhzlv.shofha.online
