@@ -55511,3 +55511,133 @@ Fri Mar  7 08:24:51 AM MSK 2025                ext-dns-vpnhosts.txt  >ext-resolv
 Fri Mar  7 08:25:21 AM MSK 2025                ext-dns-youtube.txt  >ext-resolve-youtube.txt
 [master 27f42f37] auto-update ipv4
  17 files changed, 4030 insertions(+), 22147 deletions(-)
+[master 8d9d89b6] auto-update merged
+ 23 files changed, 3953 insertions(+), 18926 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Sat Mar  8 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cache-archive.txt
+	modified:   dns-adobe.txt
+	modified:   dns-anthropic.txt
+	modified:   dns-apple.txt
+	modified:   dns-backblaze.txt
+	modified:   dns-bing.txt
+	modified:   dns-facebook.txt
+	modified:   dns-github.txt
+	modified:   dns-google.txt
+	modified:   dns-huggingface.txt
+	modified:   dns-openai.txt
+	modified:   dns-ozon.txt
+	modified:   dns-pornhub.txt
+	modified:   dns-surfshark.txt
+	modified:   dns-tiktok.txt
+	modified:   dns-twitter.txt
+	modified:   dns-youtube.txt
+	modified:   ext-dns-adobe.txt
+	modified:   ext-dns-anthropic.txt
+	modified:   ext-dns-apple.txt
+	modified:   ext-dns-backblaze.txt
+	modified:   ext-dns-bing.txt
+	modified:   ext-dns-facebook.txt
+	modified:   ext-dns-github.txt
+	modified:   ext-dns-google.txt
+	modified:   ext-dns-huggingface.txt
+	modified:   ext-dns-openai.txt
+	modified:   ext-dns-ozon.txt
+	modified:   ext-dns-pornhub.txt
+	modified:   ext-dns-tiktok.txt
+	modified:   ext-dns-twitter.txt
+	modified:   ext-dns-youtube.txt
+	modified:   update.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	temp.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+
+--------------------------------------------------------------------------------
+Sat Mar  8 06:27:02 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing l
+
+
+--------------------------------------------------------------------------------
+Sun Mar  9 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
