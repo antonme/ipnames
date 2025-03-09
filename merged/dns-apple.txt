@@ -1658,7 +1658,6 @@ amp-api-edge.apps.apple.com.edgekey.net
 amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-edge.music.apple.com
-amp-api-edge.music-lb.itunes-apple.com.akadns.net
 amp-api.edu.apple.com
 amp-api.ent.apple.com
 amp-api-fitness-akam.itunes-apple.com.akadns.net
@@ -1687,19 +1686,16 @@ amp-api-preview.videos.apple.com
 amp-api.sandbox.apple.com
 amp-api.sandbox.apps-apple.com.akadns.net
 amp-api.sandbox.itunes-apple.com.akadns.net
-amp-api-search-edge-apps-akam.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
 amp-api.snapshot.apple.com
 amp-api-updates.apps.apple.com
-amp-api-updates.apps.apple.com.edgesuite.net
 amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api-videos-akam.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
-amp-api.videos.apple.com.edgesuite.net
 amp-assets.cdn-apple.com
 amp-assets-sliced.cdn-apple.com
 amp-eng-sg-l7-1.asia.apple.com
@@ -1854,16 +1850,12 @@ api-fitness.smoot.apple.com
 api-fra.smoot.apple.com
 api-glb-aapne1a.smoot.apple.com
 api-glb-aapne1c.smoot.apple.com
-api-glb-aaps1b.smoot.apple.com
 api-glb-aapse1c.smoot.apple.com
 api-glb-aapse2c.smoot.apple.com
 api-glb-abt.smoot.apple.com
 api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
 api-glb-aeun1a.smoot.apple.com
-api-glb-aeun1b.smoot.apple.com
-api-glb-aeus2a.smoot.apple.com
-api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw1c.smoot.apple.com
 api-glb-aeuw3b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
@@ -1940,8 +1932,6 @@ api-rv117-ause1c.smoot.apple.com
 api-safari-aapse2c.smoot.apple.com
 api-safari-aeuc1a.smoot.apple.com
 api-safari-aeun1a.smoot.apple.com
-api-safari-aeun1b.smoot.apple.com
-api-safari-aeus2a.smoot.apple.com
 api-safari-aeuw1b.smoot.apple.com
 api-safari-aeuw3b.smoot.apple.com
 api-safari-aeuw3c.smoot.apple.com
@@ -2069,7 +2059,6 @@ appleid.apple.com
 appleid.cdn-apple.com
 appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.edgekey.net
-appleid.idms-apple.com.akadns.net
 appleid-it.apple.com
 appleid-nlt.apple.com
 appleid-nwk.apple.com
@@ -2120,7 +2109,6 @@ applepay-ingestionservice-ext.apple.com
 applepay-ireporter.apple.com
 applepayments.apple.com
 apple.pha.localhost.apple.com
-apple-relay.apple.com
 appleschoolcontent.com
 applescript.apple.com
 appleseed.apple.com
@@ -2166,7 +2154,6 @@ apps.itunes-nocookie.com
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
-apps.mzstatic.com-v1.edgesuite.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
 appstoreconnect.apple.com
 apptneckermannaileneckermanns-ssl.itunes.apple.com
@@ -2466,11 +2453,9 @@ b2btest.apple.com
 background-weighted.ls4-apple.com.akadns.net
 backstage.apple.com
 bag-a1153.phobos.apple.com
-bag-cdn-akam.itunes-apple.com.akadns.net
 bag-cdn.itunes-apple.com.akadns.net
 bag-cdn-lb.itunes-apple.com.akadns.net
 bag.itunes.apple.com
-bag.itunes.apple.com.edgesuite.net
 banners.itunes.apple.com
 banners.store.apple.com
 banyan.apple.com
@@ -3668,10 +3653,8 @@ edge-007.usdal2.icloud-content.com
 edge-007.usden6.icloud-content.com
 edge-008.usdal2.icloud-content.com
 edge-009.120prz3.icloud-content.com
-edge-009.deber3.icloud-content.com
 edge-009.edge-050.usnyc.icloud-content.com
 edge-009.hkhkg.icloud-content.com
-edge-009.nlhfd1.icloud-content.com
 edge-009.sesto4.icloud-content.com
 edge-010.sesto4.icloud-content.com
 edge-011.dedus1.icloud-content.com
@@ -3686,7 +3669,6 @@ edge-015.sesto4.icloud-content.com
 edge-016.edge-188.usmin.icloud-content.com
 edge-016.sesto4.icloud-content.com
 edge-016.uslax2.icloud-content.com
-edge-017.defra2.icloud-content.com
 edge-017.sesto4.icloud-content.com
 edge-017.twntc1.icloud-content.com
 edge-018-edge-497.ussjc.icloud-content.com
@@ -3695,7 +3677,6 @@ edge-018.sesto4.icloud-content.com
 edge-020.jptyo12.icloud-content.com
 edge-020.sesto4.icloud-content.com
 edge-020.usdal2.icloud-content.com
-edge-021.dkvib11.icloud-content.com
 edge-021.oa.icloud-content.com
 edge-021.zamrd1.icloud-content.com
 edge-023.usdal2.quiz.icloud-content.com
@@ -3800,7 +3781,6 @@ edge-060.gbslo5.icloud-content.com
 edge-060.hkhkg.icloud-content.com
 edge-060.usatl5.icloud-content.com
 edge-06133.searn.icloud-content.com
-edge-061.deber3.icloud-content.com
 edge-061.hkhkg-4.icloud-content.com
 edge-061.sesto4.icloud-content.com
 edge-062.sesto4.icloud-content.com
@@ -3816,7 +3796,6 @@ edge-065.jposa3.icloud-content.com
 edge-065.sesto4.icloud-content.com
 edge-066.auto.gbslo5.icloud-content.com
 edge-066.sesto4.icloud-content.com
-edge-067.defra2.icloud-content.com
 edge-067.hkhkg.icloud-content.com
 edge-068.hkhkg.icloud-content.com
 edge-068.sesto4.icloud-content.com
@@ -3825,7 +3804,6 @@ edge-068.ussea3.icloud-content.com
 edge-069141.jptyo-3.icloud-content.com
 edge-069.jposa3.icloud-content.com
 edge-069.sesto4.icloud-content.com
-edge-070.defra2.icloud-content.com
 edge-070.usdal2.icloud-content.com
 edge-071.deber3.icloud-content.com
 edge-071.hkhkg.icloud-content.com
@@ -3840,8 +3818,6 @@ edge-073.usdal2.icloud-content.com
 edge-073.ussjc1.icloud-content.com
 edge-074.hkhkg.icloud-content.com
 edge-074.nlhfd1.icloud-content.com
-edge-074.usuyk1.icloud-content.com
-edge-075.defra2.icloud-content.com
 edge-075.hkhkg.icloud-content.com
 edge-075.sesto4.icloud-content.com
 edge-075.usprz3.icloud-content.com
@@ -3859,16 +3835,12 @@ edge-079.uslax2.icloud-content.com
 edge-080.hkhkg.icloud-content.com
 edge-080.sesto4.icloud-content.com
 edge-081.jposa3.icloud-content.com
-edge-082.deber3.icloud-content.com
 edge-082.hkhkg-2.icloud-content.com
 edge-082.sesto4.icloud-content.com
-edge-083.defra2.icloud-content.com
 edge-083.hkhkg.icloud-content.com
 edge-083.jposa3.icloud-content.com
 edge-083.sesto4.icloud-content.com
 edge-083.zamrd1.icloud-content.com
-edge-084.deber3.icloud-content.com
-edge-084.defra2.icloud-content.com
 edge-084.sesto4.icloud-content.com
 edge-084.twntc381.icloud-content.com
 edge-084.usaprilin.icloud-content.com
@@ -3900,7 +3872,6 @@ edge-095-edge-291.usbos2.icloud-content.com
 edge-095.hkhkg.icloud-content.com
 edge-095.sesto4.icloud-content.com
 edge-095.zamrd1.icloud-content.com
-edge-096.deber3.icloud-content.com
 edge-096.hkhkg.icloud-content.com
 edge-097-400.usmia1.me.icloud-content.com
 edge-097.jposa3.icloud-content.com
@@ -3929,7 +3900,6 @@ edge-105.zamrd1.icloud-content.com
 edge-106.mediaedge-391usmia1.icloud-content.com
 edge-107.edge-078-hktko1.icloud-content.com
 edge-107.zamrd1.icloud-content.com
-edge-108.deber3.icloud-content.com
 edge-108.zamrd1.icloud-content.com
 edge-109.hkhkg.icloud-content.com
 edge-109.jposa3.icloud-content.com
@@ -3969,7 +3939,6 @@ edge-118.usmsc2.icloud-content.com
 edge-119.edge-022.usatl5.icloud-content.com
 edge-119.sesto4.icloud-content.com
 edge-119.usdal2.icloud-content.com
-edge-120.defra2.icloud-content.com
 edge-120.edge-461-usatl5.icloud-content.com
 edge-120.hkhkg.icloud-content.com
 edge-120.jposa3.icloud-content.com
@@ -4014,7 +3983,6 @@ edge-131.hkhkg.icloud-content.com
 edge-131.sesto4.icloud-content.com
 edge-131.zamrd1.icloud-content.com
 edge-132.240-usden6.icloud-content.com
-edge-132.dkvib11.icloud-content.com
 edge-132.jposa3.icloud-content.com
 edge-132.sesto4.icloud-content.com
 edge-132.sgsin8.icloud-content.com
@@ -4022,7 +3990,6 @@ edge-132.zamrd1.icloud-content.com
 edge-133.jposa3.icloud-content.com
 edge-133.sgsin8.icloud-content.com
 edge-133.zamrd1.icloud-content.com
-edge-134.dkvib11.icloud-content.com
 edge-134-edge-043.jptyo12.icloud-content.com
 edge-134.edge-295.icloud-content.com
 edge-134.jposa3.icloud-content.com
@@ -4154,7 +4121,6 @@ edge-164.deber3.icloud-content.com
 edge-164.ids-uschi.icloud-content.com
 edge-164.jposa3.icloud-content.com
 edge-164.sesto4.icloud-content.com
-edge-164.usqas5.icloud-content.com
 edge-164.usqas5usmes1.icloud-content.com
 edge-164.zamrd1.icloud-content.com
 edge-165.deber3.icloud-content.com
@@ -4172,7 +4138,6 @@ edge-167.sgsin8.icloud-content.com
 edge-167.zamrd1.icloud-content.com
 edge-168edge-251.zamrd1.icloud-content.com
 edge-168.hkhkg-4.icloud-content.com
-edge-168.sesto4.icloud-content.com
 edge-168.sgsin8.icloud-content.com
 edge-169.jptyo12.icloud-content.com
 edge-169.sesto4.icloud-content.com
@@ -4181,7 +4146,6 @@ edge-170.hkhkg-4.icloud-content.com
 edge-170.jposa3.icloud-content.com
 edge-170.sesto4.icloud-content.com
 edge-170.zamrd1.icloud-content.com
-edge-171.sesto4.icloud-content.com
 edge-171.sgsin8.icloud-content.com
 edge-171.zamrd1.icloud-content.com
 edge-172.deber3.icloud-content.com
@@ -4192,9 +4156,7 @@ edge-173.deber3.icloud-content.com
 edge-173.edge-228.uschi7.icloud-content.com
 edge-173.jposa3.icloud-content.com
 edge-173.mediaedge-498detxl.icloud-content.com
-edge-173.sesto4.icloud-content.com
 edge-174.jposa3.icloud-content.com
-edge-174.sesto4.icloud-content.com
 edge-174.zamrd1.icloud-content.com
 edge-175.deber3.icloud-content.com
 edge-175edge-270.uslax.icloud-content.com
@@ -4209,7 +4171,6 @@ edge-176.sesto4.icloud-content.com
 edge-176.sgsin8.icloud-content.com
 edge-177.edge-288-defra2.icloud-content.com
 edge-177.jposa3.icloud-content.com
-edge-177.nlhfd1.icloud-content.com
 edge-177.sesto4.icloud-content.com
 edge-177.sgsin8.icloud-content.com
 edge-177.usbos2.icloud-content.com
@@ -4221,11 +4182,9 @@ edge-178.sesto4.icloud-content.com
 edge-178.zamrd1.icloud-content.com
 edge-179-010.hkhkg-2.icloud-content.com
 edge-179.deber3.icloud-content.com
-edge-179.sesto4.icloud-content.com
 edge-179.sgsin8.icloud-content.com
 edge-179.uschi7.icloud-content.com
 edge-179.zamrd1.icloud-content.com
-edge-180.sesto4.icloud-content.com
 edge-180.sgsin8.icloud-content.com
 edge-180.ussjc1.icloud-content.com
 edge-180.usuqo4.icloud-content.com
@@ -4235,7 +4194,6 @@ edge-181.sesto4.icloud-content.com
 edge-182.deber3.icloud-content.com
 edge-183.deber3.icloud-content.com
 edge-183.jposa3.icloud-content.com
-edge-183.sesto4.icloud-content.com
 edge-183.zamrd1.icloud-content.com
 edge-184.0181.icloud-content.com
 edge-184.sesto4.icloud-content.com
@@ -4254,7 +4212,6 @@ edge-187.jposa3.icloud-content.com
 edge-187.sesto4.icloud-content.com
 edge-188.deber3.icloud-content.com
 edge-188.jposa3.icloud-content.com
-edge-188.sesto4.icloud-content.com
 edge-188.sgsin8.icloud-content.com
 edge-189.deber3.icloud-content.com
 edge-189.sesto4.icloud-content.com
@@ -4263,7 +4220,6 @@ edge-189.usdal2.icloud-content.com
 edge-189.zamrd1.icloud-content.com
 edge-190.deber3.icloud-content.com
 edge-190edge-033.deber3.me.icloud-content.com
-edge-190.sesto4.icloud-content.com
 edge-190.sgsin8.icloud-content.com
 edge-191.sesto4.icloud-content.com
 edge-191.twntc1.icloud-content.com
@@ -4280,7 +4236,6 @@ edge-193.zamrd1.icloud-content.com
 edge-194.261.usdal2.icloud-content.com
 edge-194.edge-451qas5.icloud-content.com
 edge-194.gbmnc1.icloud-content.com
-edge-194.gbslo5.icloud-content.com
 edge-194.sesto4.icloud-content.com
 edge-194.sgsin8.icloud-content.com
 edge-194.usdal2.icloud-content.com
@@ -4298,7 +4253,6 @@ edge-196.zamrd1.icloud-content.com
 edge-197.sesto4.icloud-content.com
 edge-197.zamrd1.icloud-content.com
 edge-198edge-047.dkvib11.icloud-content.com
-edge-198.sesto4.icloud-content.com
 edge-198.sgsin8.icloud-content.com
 edge-199.deber3.icloud-content.com
 edge-199.sesto4.icloud-content.com
@@ -4306,7 +4260,6 @@ edge-199.zamrd1.icloud-content.com
 edge-1mediaedge-4627.hkhkg-3.icloud-content.com
 edge-200.deber3.icloud-content.com
 edge-200.jposa3.icloud-content.com
-edge-200.sesto4.icloud-content.com
 edge-200.usdal2.icloud-content.com
 edge-200.usedge-102ax2.icloud-content.com
 edge-200.zamrd1.icloud-content.com
@@ -4326,7 +4279,6 @@ edge-203.usden6.icloud-content.com
 edge-203.zamrd1.icloud-content.com
 edge-204.dedus1.mediaedge-052.icloud-content.com
 edge-204edge-282.usden6.me.icloud-content.com
-edge-204.sesto4.icloud-content.com
 edge-204.usdal2.icloud-content.com
 edge-205.deber3.icloud-content.com
 edge-205.hkhkg.icloud-content.com
@@ -4346,7 +4298,6 @@ edge-208.jposa3.icloud-content.com
 edge-208.sesto4.icloud-content.com
 edge-209.deber3.icloud-content.com
 edge-209.jposa3.icloud-content.com
-edge-209.sesto4.icloud-content.com
 edge-209.sgsin8.icloud-content.com
 edge-209.ussjc1.icloud-content.com
 edge-209.zamrd1.icloud-content.com
@@ -4367,7 +4318,6 @@ edge-212.usdal2.icloud-content.com
 edge-213.deber3.icloud-content.com
 edge-213.hkhkg.icloud-content.com
 edge-213.jposa3.icloud-content.com
-edge-213.sesto4.icloud-content.com
 edge-213.sgsin8.icloud-content.com
 edge-213.usdal2.icloud-content.com
 edge-213.usmsc2.icloud-content.com
@@ -4404,7 +4354,6 @@ edge-218.sgsin8.icloud-content.com
 edge-218.ussea3.icloud-content.com
 edge-218.zamrd1.icloud-content.com
 edge-219.jposa3.icloud-content.com
-edge-219.sesto4.icloud-content.com
 edge-219.zamrd1.icloud-content.com
 edge-220.ausydedge-344.icloud-content.com
 edge-220.jposa3.icloud-content.com
@@ -4516,7 +4465,6 @@ edge-242.deber3.icloud-content.com
 edge-242.edge-369hkhkg-4.icloud-content.com
 edge-242.hkhkg.icloud-content.com
 edge-242.jposa3.icloud-content.com
-edge-242.sesto4.icloud-content.com
 edge-242.sgsin8.icloud-content.com
 edge-242.usdal2.icloud-content.com
 edge-242.ussea3.icloud-content.com
@@ -4527,7 +4475,6 @@ edge-243.jptyo395.icloud-content.com
 edge-243.sesto4.icloud-content.com
 edge-243.usdal2.icloud-content.com
 edge-243.zamrd1.icloud-content.com
-edge-244.sesto4.icloud-content.com
 edge-244.usdal2.icloud-content.com
 edge-245.sesto4.icloud-content.com
 edge-245.ussjc-016-edge.uslax2.icloud-content.com
@@ -4546,7 +4493,6 @@ edge-247.strainingto4.icloud-content.com
 edge-248.dedus1-dkvib11.icloud-content.com
 edge-248.hkhkg.icloud-content.com
 edge-248.mediaedge-216.usuyk1.me.icloud-content.com
-edge-248.sesto4.icloud-content.com
 edge-248.zamrd1.icloud-content.com
 edge-249.jposa3.icloud-content.com
 edge-249.sesto4.icloud-content.com
@@ -4555,12 +4501,10 @@ edge-250.deber3.icloud-content.com
 edge-250.hkhkg.icloud-content.com
 edge-250.jposa3.icloud-content.com
 edge-250.mediaedge-413.icloud-content.com
-edge-250.sesto4.icloud-content.com
 edge-250.sgsin8.icloud-content.com
 edge-250.usdal2.icloud-content.com
 edge-251.deber3.icloud-content.com
 edge-251.hkhkg.icloud-content.com
-edge-251.sesto4.icloud-content.com
 edge-251.sgsin8.icloud-content.com
 edge-251.zamrd1.icloud-content.com
 edge-252.dedus1.me.icloud-content.com
@@ -4569,7 +4513,6 @@ edge-252.jposa3.icloud-content.com
 edge-252.sesto4.icloud-content.com
 edge-252.sgsin8.icloud-content.com
 edge-253.hkhkg.icloud-content.com
-edge-253.sesto4.icloud-content.com
 edge-253.usuyk1.icloud-content.com
 edge-253.zamrd1.icloud-content.com
 edge-254.deber3.icloud-content.com
@@ -4580,10 +4523,7 @@ edge-254.sgsin8.icloud-content.com
 edge-254.zamrd1.icloud-content.com
 edge-255.hkhkg.icloud-content.com
 edge-255.jposa3.icloud-content.com
-edge-255.sesto4.icloud-content.com
 edge-255.zamrd1.icloud-content.com
-edge-256.defra2.icloud-content.com
-edge-256.sesto4.icloud-content.com
 edge-256.sgsin8.icloud-content.com
 edge-256.usdal2.icloud-content.com
 edge-256.zamrd1.icloud-content.com
@@ -4615,7 +4555,6 @@ edge-262.sgsin8.icloud-content.com
 edge-262.zamrd1.icloud-content.com
 edge-263.deber3.icloud-content.com
 edge-263.jposa3.icloud-content.com
-edge-263.sesto4.icloud-content.com
 edge-263.uslax2.icloud-content.com
 edge-264.sesto4.icloud-content.com
 edge-264.sgsin8.icloud-content.com
@@ -4628,12 +4567,10 @@ edge-265.sgsin8.icloud-content.com
 edge-266.deber3.icloud-content.com
 edge-266.hkhkg.icloud-content.com
 edge-266.jposa3.icloud-content.com
-edge-266.sesto4.icloud-content.com
 edge-266.zamrd1.icloud-content.com
 edge-267diaedge-086.gbmnc1.edge-267.icloud-content.com
 edge-267.inbom2.icloud-content.com
 edge-267.jposa3.icloud-content.com
-edge-267.sesto4.icloud-content.com
 edge-267.sgsin8.icloud-content.com
 edge-267.usuyk1.icloud-content.com
 edge-268.deber3.icloud-content.com
@@ -4658,7 +4595,6 @@ edge-271.zamrd1.icloud-content.com
 edge-272.deber3.icloud-content.com
 edge-272.sesto4.icloud-content.com
 edge-273.deber3.icloud-content.com
-edge-273.sesto4.icloud-content.com
 edge-273.zamrd1.icloud-content.com
 edge-274.deber3.icloud-content.com
 edge-274.hkhkg.icloud-content.com
@@ -4683,9 +4619,7 @@ edge-277.usdal2.icloud-content.com
 edge-277.usmsc2.icloud-content.com
 edge-278.hkhkg-edge-260.icloud-content.com
 edge-278.jposa3.icloud-content.com
-edge-278.sesto4.icloud-content.com
 edge-279.deber3.icloud-content.com
-edge-279.defra2.icloud-content.com
 edge-279.hkhkg.icloud-content.com
 edge-279.jposa3.icloud-content.com
 edge-279.sesto4.icloud-content.com
@@ -4705,7 +4639,6 @@ edge-282.sgsin8.icloud-content.com
 edge-282.usdal2.icloud-content.com
 edge-283.398-dedus.icloud-content.com
 edge-283.hkhkg.icloud-content.com
-edge-283.sesto4.icloud-content.com
 edge-283.sgsin8.icloud-content.com
 edge-283.usdal2.icloud-content.com
 edge-283.zamrd1.icloud-content.com
@@ -6389,7 +6322,6 @@ gatewayws-sandbox.icloud.com
 gayfhg.info.apple.com
 gb-api-cn.apple.com
 gb.apple.com
-gb-courier-4.push-apple.com.akadns.net
 gb-ext-facade-ali.apple.com
 gb-ext-facade.apple.com
 gb-ext-facade-denali.apple.com
@@ -6434,18 +6366,15 @@ genifp.apple.com
 genius-2.itunes.apple.com
 genius2.itunes.apple.com
 genius2-upload.itunes.apple.com
-genius-3-cdn.lb-apple.com.akadns.net
 genius3-download.itunes.apple.com
 genius-3.itunes.apple.com
 genius3.itunes.apple.com
 genius-3.itunes.apple.com.edgekey.net
 genius3-upload.itunes.apple.com
-genius-download-2.apps-apple.com.akadns.net
 genius-download-2.itunes.apple.com
 genius-download-3.itunes.apple.com
 genius.itunes.apple.com
 genius.push.apple.com
-genius-upload-2.apps-apple.com.akadns.net
 genius-upload-2.itunes.apple.com
 genius-upload-3.itunes.apple.com
 genserv.apple.com
@@ -7732,7 +7661,6 @@ gsp-e1502.ls.apple.com
 gsp-e1512.ls.apple.com
 gspe19-2-cn-ssl.ls.apple.com
 gspe19-2-ssl.ls.apple.com
-gspe19-2-ssl.ls.apple.com.edgesuite.net
 gspe19-cn.ls-apple.com.akadns.net
 gspe19-cn-test-ssl.ls-apple.com.akadns.net
 gspe19-geo-selector.ls2-apple.com.akadns.net
@@ -7759,7 +7687,6 @@ gspe21-ssl-carry-row.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com
 gspe21-ssl.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com.edgekey.net
-gspe21-ssl.ls.apple.com.edgesuite.net
 gspe35-applecdn-cutover.ls-apple.com.akadns.net
 gspe35-ssl-carry.ls.apple.com
 gspe35-ssl.ls.apple.com
@@ -7865,8 +7792,6 @@ gspx-ssl-test.ls.apple.com
 gsq1-ls-st1.apple.com
 gsq23-ls-nk11.apple.com
 gsqa-loc-ls-nk11.apple.com
-gsra.apple.com
-gsra.apple.com.v.aaplimg.com
 gssg03p00ls-gsp39-e48221-ssl-sg03p00ls-gsp39-e482v38.ls.apple.com
 gs-uat.apple.com
 gsx2.apple.com
@@ -8010,14 +7935,12 @@ hls-amt-ve.itunes.apple.com
 hls-amt-ve.itunes.apple.com.edgesuite.net
 hls.assets.itunes.com
 hls.itunes.apple.com
-hls.itunes-apple.com.akadns.net
 hls.itunes.apple.com.edgesuite.net
 hls-mslive.itunes.apple.com.edgesuite.net
 hls-slive.itunes.apple.com.edgesuite.net
 hls-streaming.cdn-apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
 hls-svod.itunes.apple.com
-hls-svod.itunes-apple.com.akadns.net
 hls-svod.itunes.apple.com.edgesuite.net
 hlstv.hkhkg-2.icloud-content.com
 homepage.mac.com
@@ -8203,7 +8126,6 @@ idm.applepay.ireporter.apple.com
 idmas-nc.apple.com
 idmsa.apple.com
 idmsac-stage.apple.com
-idmsa.idms-apple.com.akadns.net
 idmsa-nc.apple.com
 idms-apple.com.akadns.net
 idmsa-stage-mdn.apple.com
@@ -8240,7 +8162,6 @@ iforgot-rno-s.apple.com
 iforgot-uat-old.apple.com
 ifs-cert.apple.com
 ifs-external.apple.com
-ifs-wpc-device.apple.com
 ig.apple.com.v.aaplimg.com
 igb.apple.com.g.apple.com
 ig-old.apple.com
@@ -8305,6 +8226,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -8352,7 +8274,6 @@ internaljobs-mdn.apple.com
 internal-titusvpcservice-1737186766.explr.poc.cp.sap.apple.com
 internal-updates.g.apple.com
 investor.apple.com
-invitation.ess.apple.com
 invitation.gc.apple.com
 invitation-qa1.g.apple.com
 invitation-qa2.g.apple.com
@@ -11837,7 +11758,6 @@ nc-pod6-smp-device.apple.com
 nc-pod6-smp-device-asset-ccs.apple.com
 nc-pod8-gsp3-ls-st1-device.apple.com
 nc-pod8-smp-device.apple.com
-nc-pod8-smp-device-asset.apple.com
 nc-pod8-smp-device-asset-ccs.apple.com
 nc-pod9-smp-device-asset.apple.com
 nc-pod9-smp-device-asset-ccs.apple.com
@@ -11880,7 +11800,6 @@ news.iadsdk.apple.com
 news-iworkexportws.icloud.com
 newskit-events.apple.com
 newsletter-edge.apple.com
-news-nar-aud.apple.com
 newspublisherapi-old.icloud.com
 newsresources.apple.com
 newsroom-notifications.apple.com
@@ -13376,6 +13295,7 @@ p101-ckdevice-china.icloud.com
 p101-ckdevice.icloud.com
 p101-contacts-china.icloud.com
 p101-contactsws.icloud.com
+p101-content.icloud.com
 p101-docws.icloud.com
 p101-escrowproxy.icloud.com
 p101-exportws.iwork.apple.com
@@ -13579,7 +13499,6 @@ p104-ubiquity.icloud.com
 p104-uploadimagews.icloud.com
 p105-acsegateway.icloud.com
 p105-archivews.icloud.com
-p105-availability.icloud.com
 p105-calendars-china.icloud.com
 p105-calendarws-china.icloud.com
 p105-ckcoderouter-china.icloud.com
@@ -13590,7 +13509,6 @@ p105-ckdevice.icloud.com
 p105-ckshare.icloud.com
 p105-contactsws-china.icloud.com
 p105-contactsws.icloud.com
-p105-content.icloud.com
 p105-docws.icloud.com
 p105-drivews-china.icloud.com
 p105-exportws.iwork.apple.com
@@ -13625,7 +13543,6 @@ p105-remindersws-china.icloud.com
 p105-remindersws.icloud.com
 p105-sharedav-china.icloud.com
 p105-sharedstreams-china.icloud.com
-p105-sharedstreams.icloud.com
 p105-streams.icloud.com
 p105-uploadimagews-china.icloud.com
 p105-uploadimagews.icloud.com
@@ -13686,7 +13603,6 @@ p107-ckcoderouter.icloud.com
 p107-ckdatabase-china.icloud.com
 p107-ckdatabase.icloud.com
 p107-ckdevice-china.icloud.com
-p107-ckdevice.icloud.com
 p107-ckdp65abasews.icloud.apple.com
 p107-contacts-china.icloud.com
 p107-contacts.icloud.com
@@ -13700,13 +13616,10 @@ p107-feedbackws-china.icloud.com
 p107-fmf-china.icloud.com
 p107-fmf.icloud.com
 p107-fmfmail.icloud.com
-p107-fmfmobile.icloud.com
 p107-fmfweb-china.icloud.com
-p107-fmip.icloud.com
 p107-fmipmail-china.icloud.com
 p107-fmipmail.icloud.com
 p107-fmipmobile-china.icloud.com
-p107-fmipmobile.icloud.com
 p107-iwmb0-china.icloud.com
 p107-iwmb1-china.icloud.com
 p107-iwmb2-china.icloud.com
@@ -13728,7 +13641,6 @@ p107-p04-china.icloud.com
 p107-p116-availabilityws.icloud.com
 p107-p98-fmf-china.icloud.com
 p107-quota-china.icloud.com
-p107-quota.icloud.com
 p107-remindersws.icloud.com
 p107-setup.icloud.com
 p107-sharedav.icloud.com
@@ -14007,8 +13919,6 @@ p111-iwmb9.icloud.com
 p111-iworkexportws.icloud.com
 p111-iworkthumbnailws.icloud.com
 p111-keyvalueservice-china.icloud.com
-p111-maildomainws.icloud.com
-p111-mccgateway.icloud.com
 p111-mcc.icloud.com
 p111-mobilebackup-china.icloud.com
 p111-notesws-china.icloud.com
@@ -14074,7 +13984,6 @@ p112-uploadimagews.icloud.com
 p113-archivews-china.icloud.com
 p113-archivews.icloud.com
 p113-availability-china.icloud.com
-p113-availability.icloud.com
 p113-bookmarks.icloud.com
 p113-caldav.icloud.com
 p113-calendars-china.icloud.com
@@ -14299,7 +14208,6 @@ p116-streams-china.icloud.com
 p116-streams.icloud.com
 p116-ubiquityws.icloud.com
 p117-acsegateway.icloud.com
-p117-availability.icloud.com
 p117-bookmarks-china.icloud.com
 p117-calendarws.icloud.com
 p117-ckcoderouter-china.icloud.com
@@ -14309,7 +14217,6 @@ p117-ckshare-china.icloud.com
 p117-ckshare.icloud.com
 p117-contactsws.icloud.com
 p117-content-china.icloud.com
-p117-content.icloud.com
 p117-docws-china.icloud.com
 p117-drivews.icloud.com
 p117-exportws.icloud.apple.com
@@ -15042,7 +14949,6 @@ p130-ckshare-china.icloud.com
 p130-contacts-china.icloud.com
 p130-contacts.icloud.com
 p130-contactsws.icloud.com
-p130-content.icloud.com
 p130-dteleworkcws.icloud.com
 p130-escrowproxy-china.icloud.com
 p130-feedbackws.icloud.com
@@ -15723,7 +15629,6 @@ p142-ckdevice.icloud.com
 p142-ckshare.icloud.com
 p142-contacts-china.icloud.com
 p142-contactsws.icloud.com
-p142-content.icloud.com
 p142-docws.icloud.com
 p142-drivews-china.icloud.com
 p142-escrowproxy-china.icloud.com
@@ -15819,7 +15724,6 @@ p144-ckshare.icloud.com
 p144-contacts-china.icloud.com
 p144-contactsws.icloud.com
 p144-content-china.icloud.com
-p144-content.icloud.com
 p144-docws-china.icloud.com
 p144-docws.icloud.com
 p144-drivews-china.icloud.com
@@ -16107,7 +16011,6 @@ p14-archivews.icloud.com
 p14-availability-china.icloud.com
 p14-bookmarks.icloud.com
 p14-buy.itunes.apple.com
-p14-buy-lb.itunes-apple.com.akadns.net
 p14-calendars.icloud.com
 p14-ckcoderouter-china.icloud.com
 p14-ckcoderouter.icloud.com
@@ -16166,7 +16069,6 @@ p150-ckcoderouter.icloud.com
 p150-ckdevice.icloud.com
 p150-ckshare-china.icloud.com
 p150-contacts-china.icloud.com
-p150-content.icloud.com
 p150-docws.icloud.com
 p150-drivews-china.icloud.com
 p150-escrowproxy-china.icloud.com
@@ -16707,7 +16609,6 @@ p160-ckcoderouter-china.icloud.com
 p160-ckdevice.icloud.com
 p160-contacts.icloud.com
 p160-contactsws-china.icloud.com
-p160-content.icloud.com
 p160-docws-china.icloud.com
 p160-docws.icloud.com
 p160-exportws.iwork.apple.com
@@ -17340,7 +17241,6 @@ p172-ckdatabasews.icloud.com
 p172-ckdevice.icloud.com
 p172-ckshare.icloud.com
 p172-content-china.icloud.com
-p172-content.icloud.com
 p172-exportws.iwork.apple.com
 p172-feedbackws-china.icloud.com
 p172-fmf-china.icloud.com
@@ -17438,7 +17338,6 @@ p174-ckshare-china.icloud.com
 p174-contacts-china.icloud.com
 p174-contactsws-china.icloud.com
 p174-content-china.icloud.com
-p174-content.icloud.com
 p174-docws.icloud.com
 p174-escrowproxy-china.icloud.com
 p174-fmf.icloud.com
@@ -17527,7 +17426,6 @@ p176-ckcoderouter-china.icloud.com
 p176-ckdatabase.icloud.com
 p176-ckdevice.icloud.com
 p176-contacts-china.icloud.com
-p176-content.icloud.com
 p176-drivews-china.icloud.com
 p176-escrowproxy-china.icloud.com
 p176-escrowproxy.icloud.com
@@ -17829,7 +17727,6 @@ p181-ckdevice-china.icloud.com
 p181-ckdevice.icloud.com
 p181-contacts-china.icloud.com
 p181-contactsws.icloud.com
-p181-content.icloud.com
 p181-docws.icloud.com
 p181-escrowproxy.icloud.com
 p181-feedbackws-china.icloud.com
@@ -19410,7 +19307,6 @@ p29-iworkthumbnailws-china.icloud.com
 p29-iwres.icloud.com
 p29-maildomainws.icloud.com
 p29-mccgateway.icloud.com
-p29-mcc.icloud.com
 p29-mobilebackup-china.icloud.com
 p29-p64-streams-chinathumbnailws-china.icloud.com
 p29-quota-china.icloud.com
@@ -20488,7 +20384,6 @@ p45-keyvalueservice-china.icloud.com
 p45-keyvalueservice.icloud.com
 p45-mailws.icloud.com
 p45-mcc.icloud.com
-p45-mobilebackup.icloud.com
 p45-quota-china.icloud.com
 p45-remindersws.icloud.com
 p45-setup-china.icloud.com
@@ -20501,9 +20396,6 @@ p45-ubiquityws.icloud.com
 p45-uploadimagews.icloud.com
 p46-bookmarks-china.icloud.com
 p46-bookmarks.icloud.com
-p46-buy.itunes.apple.com
-p46-buy.itunes-apple.com.akadns.net
-p46-buy-lb.itunes-apple.com.akadns.net
 p46-caldav-china.icloud.com
 p46-calendars-china.icloud.com
 p46-calendars.icloud.com
@@ -20788,9 +20680,6 @@ p51-ubiquityws.icloud.com
 p52-acsegateway.icloud.com
 p52-archivews.icloud.com
 p52-bookmarks-china.icloud.com
-p52-buy.itunes.apple.com
-p52-buy.itunes-apple.com.akadns.net
-p52-buy-lb.itunes-apple.com.akadns.net
 p52-calendars-china.icloud.com
 p52-calendars.icloud.com
 p52-calendarws.icloud.com
@@ -20983,7 +20872,6 @@ p55-sharedav.icloud.com
 p55-sharedstreams-china.icloud.com
 p55-statici-china.icloud.com
 p56-buy.itunes.apple.com
-p56-buy-lb.itunes-apple.com.akadns.net
 p56-caldav-china.icloud.com
 p56-caldav.icloud.com
 p56-ckcoderouter.icloud.com
@@ -21062,9 +20950,6 @@ p57-sharedav-china.icloud.com
 p57-sharedav.icloud.com
 p57-streams.icloud.com
 p58-archivews.icloud.com
-p58-buy.itunes.apple.com
-p58-buy.itunes-apple.com.akadns.net
-p58-buy-lb.itunes-apple.com.akadns.net
 p58-caldav.icloud.com
 p58-calendars-china.icloud.com
 p58-calendars.icloud.com
@@ -21160,8 +21045,6 @@ p59-streams.icloud.com
 p59-uploadimagews.icloud.com
 p60-archivews-iwmb7.icloud.com
 p60-bookmarks.icloud.com
-p60-buy.itunes.apple.com
-p60-buy-lb.itunes-apple.com.akadns.net
 p60-caldav-china.icloud.com
 p60-caldav.icloud.com
 p60-calendars-china.icloud.com
@@ -21271,7 +21154,6 @@ p62-ckdatabasews.icloud.com
 p62-ckdevice.icloud.com
 p62-contacts-china.icloud.com
 p62-contacts.icloud.com
-p62-content.icloud.com
 p62-drivews.icloud.com
 p62-escrowproxy-china.icloud.com
 p62-escrowproxy.icloud.com
@@ -21899,7 +21781,6 @@ pams-media-prod.apple.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
-pancake.g.aaplimg.com
 pano-es-prod-us2.explr.poc.cp.sap.apple.com
 pargo-cd-buy.itunes.apple.com
 partiality.itunes.apple.com
@@ -22113,7 +21994,6 @@ podcasts.apple.com.edgekey.net
 podcastsconnect.apple.com
 podcasts.itunes.apple.com
 podcasts.itunes-apple.com.akadns.net
-podcasts.itunes.apple.com.edgesuite.net
 poduat-vpn.apple.com
 portal-cs-suppliercheck.apple.com
 portal-nwk.apple.com
@@ -22200,9 +22080,7 @@ providersharing-stbbdatamodule-dbging.health.apple.com
 provision.ess.apple.com
 proxy.hwet.apple.com
 pr-payments-partner-prod.apple.com
-pr-pod10-smp-device.apple.com
 pr-pod10-smp-device-asset-ccs.apple.com
-pr-pod10-smp-device.gcsis-apple.com.akadns.net
 pr-pod11-smp-device.apple.com
 pr-pod11-smp-device-asset-ccs.apple.com
 pr-pod12-smp-device.apple.com
@@ -22233,7 +22111,6 @@ pr-pod6-smp-device.apple.com
 pr-pod7-smp-device.apple.com
 pr-pod7-smp-device-asset-ccs.apple.com
 pr-pod8-smp-device.apple.com
-pr-pod8-smp-device-asset.apple.com
 pr-pod8-smp-device-dr.apple.com
 pr-pod8-smp-device.gcsis-apple.com.akadns.net
 pr-pod9-smp-device.apple.com
@@ -23231,6 +23108,7 @@ sbinstall-uat-old.apple.com
 sbit-old.apple.com
 sb-music.apple.com
 sb.music.apple.com
+sb-music.itunes-apple.com.akadns.net
 sbproxy-uat-old.apple.com
 sbqfrzsllqgmojizpvhotniddgnstprp.apple.com
 sb-retail-cttdctt-ios.apple.com
@@ -23361,6 +23239,7 @@ secure.ucp5-storeint.apple.com
 security.apple.com
 sed.apple.com
 seed-condor-aeuw1b.smoot.apple.com
+seed-diatryma.siri.apple.com
 seeddownload.cdn-apple.com
 seed-eagle-aapse1b.smoot.apple.com
 seed-eagle-aeuw1a.smoot.apple.com
@@ -23533,7 +23412,6 @@ shelbywm.apple.com
 shield-013-ci.blobshield.apple.com
 shield-aos-stage.apple.com
 shield-graffiti-int-ucp3.usuqo4.me.icloud-content.com
-shield-magma-ifs-device-prod.pci.prod.apay.apple.com.v.aaplimg.com
 shield-production-self-cert.g.apple.com
 shield-stage.apple.com
 shifts.apple.com
@@ -23653,7 +23531,6 @@ smp-device-content-us.lb-apple.com.akadns.net
 smp-device-lt3.apple.com
 smp-device-lt4.apple.com
 smp-device-qa6.apple.com
-smp-paymentservices.apple.com
 smp-paymentservices.apple.com.v.aaplimg.com
 smp-qa5.apple.com
 smp-tsm-qa.apple.com
@@ -23702,7 +23579,6 @@ spaceengineers.apple.com
 spam.bite.me.com
 spapp.apple.com
 spare0004.ms20.siri.apple.com
-sp-cdn.itunes-apple.com.akadns.net
 specter.apple.com
 speech.apple.com
 speechtest2.apple.com
@@ -23732,7 +23608,6 @@ spets-apple.com
 sp.itunes.apple.com
 sp.itunes.apple.com.edgekey.net
 splunkcorrelation-mr.if.apple.com
-splunk-hec.apple.com
 spoofed-src-frm-outside-apple.apple.com
 sports.apple.com
 sportskit-api.cdn-apple.com
@@ -25257,7 +25132,6 @@ valid-qa.apple.com
 valid-uat.apple.com
 valid-ust-rsa.apple.com
 vandelay-carry.icloud.com
-vast-europe.iad-apple.com.akadns.net
 vb01sa.apple.com
 vb02sa-x02.apple.com
 vb11-bistunium-k8scontour-ext2.ls.apple.com
@@ -25325,10 +25199,8 @@ vod-ap2-aoc.tv.apple.com
 vod-ap3-amt.tv.apple.com
 vod-ap3-aoc.tv.apple.com
 vod-ap3-svod.tv.apple.com
-vod-ap-amt.tv.apple.com
 vod-ap-aoc.tv.apple.com
 vod-ap-aoc.tv.apple.com.akadns.net
-vod-ap-svod.tv.apple.com
 vod-lu-amt.tv.apple.com
 vod-lu-aoc.tv.apple.com
 volume.itunes.apple.com
@@ -25408,14 +25280,12 @@ weather-data-usmsc04-origin.apple.com
 weather-data-usspk05-origin.apple.com
 weather-edge.apple.com
 weatherkit.apple.com
-weatherkit.apple.com.akadns.net
 weather-map2.apple.com
 weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -25467,7 +25337,6 @@ web-nc1.mmap.apple.com
 web-nc1.mmap-shield.apple.com
 web-p34-exportwsp34-exportwsap-xe03.apple.com
 webpay-sh-mdn.apple.com
-webproxy.advp.apple.com
 webproxy-dev.advp.apple.com
 web.push.apple.com
 web.qa2.push.apple.com
@@ -25554,7 +25423,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
