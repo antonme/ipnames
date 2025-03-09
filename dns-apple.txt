@@ -51,6 +51,7 @@ amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
 amp-api-updates.apps.apple.com
+amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api-videos-akam.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
@@ -458,6 +459,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -594,6 +596,7 @@ p04-fmip.icloud.com
 p06-fmip.icloud.com
 p101-content.icloud.com
 p107-acsegateway.icloud.com
+p107-caldav.icloud.com
 p107-ckdatabase.icloud.com
 p107-contacts.icloud.com
 p107-content.icloud.com
@@ -604,6 +607,7 @@ p111-acsegateway.icloud.com
 p111-caldav.icloud.com
 p111-contacts.icloud.com
 p111-content.icloud.com
+p111-escrowproxy.icloud.com
 p111-fmf.icloud.com
 p111-fmfmobile.icloud.com
 p111-fmip.icloud.com

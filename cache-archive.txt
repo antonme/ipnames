@@ -261,6 +261,7 @@ amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
 amp-api-updates.apps.apple.com
+amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api-videos-akam.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
@@ -424,6 +425,7 @@ app-measurement.com
 apps.apple.com
 apps.apple.com.edgekey.net
 apps-cdn.itunes-apple.com.akadns.net
+appsgenaiserver-pa.googleapis.com
 apps.google.com
 app-site-association.cdn-apple.com
 app-site-association.cdn-apple.com.akadns.net
@@ -1039,7 +1041,6 @@ chachastoursandoverseas.com
 chapelling.adobeaemcloud.com
 chart.apis.google.com
 chart.googleapis.com
-chat.cdn.whatsapp.net
 chat-commerce.adobe.com.edgekey.net
 chat-e2ee.c10r.facebook.com
 chat-e2ee.facebook.com
@@ -2610,6 +2611,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -2977,6 +2979,8 @@ lcxd.googleapis.com
 ld2zy6r96dy.ttot5dxkcatib7l6xbmubeyj9uqg.6.ewpgmn41f7a4t.2.1ogz0uevzt5.mta-sts.1ceegqle8ogi17dkfbd.a.exnrcnbx.6hiblfayh.wcps63bkddr0.shofha.online
 leader-tweet.scorpiodeal.com
 learning.ttc.edu.tw
+learnplaylistservice.adobe.com
+learnplaylistservice.adobe.com.edgekey.net
 leivab.googleapis.com
 lejanoverseas.com
 lens.google.com
@@ -3207,7 +3211,6 @@ mds-cdn.infra.adobesensei.io
 me.apple-dns.net
 me.com
 media-3-252-48-102.webrtc.adobeconnect.com
-media-cph2-1.cdn.whatsapp.net
 media.icloud-content.com
 meetings.googleapis.com
 meiguodubo.adobeaemcloud.net
@@ -3748,6 +3751,7 @@ p06-fmip.icloud.com
 p0y5.googleapis.com
 p101-content.icloud.com
 p107-acsegateway.icloud.com
+p107-caldav.icloud.com
 p107-ckdatabase.icloud.com
 p107-contacts.icloud.com
 p107-content.icloud.com
@@ -3758,6 +3762,7 @@ p111-acsegateway.icloud.com
 p111-caldav.icloud.com
 p111-contacts.icloud.com
 p111-content.icloud.com
+p111-escrowproxy.icloud.com
 p111-fmf.icloud.com
 p111-fmfmobile.icloud.com
 p111-fmip.icloud.com
@@ -6537,6 +6542,7 @@ sq-device.v.aaplimg.com
 sql.bing.com
 srilanka-ca-version-2.expressnetw.com
 sr.lazerpenguin.com
+ssdk-sg.pangle.io
 sse-ws-p189.apple.com
 ssl.adobe.com.edgekey.net
 ssl.bing.com
@@ -7135,6 +7141,7 @@ videos.apple.com.edgekey.net
 video-s.twimg.com
 video.tv.adobe.com
 video.twimg.com
+video.twimg.com.cdn.cloudflare.net
 video-weaver.arn03.hls.ttvnw.net
 video.xx.fbcdn.net
 vienffko3ph7ob00cntmq2kf4v4oqf2i.my.eu.org
