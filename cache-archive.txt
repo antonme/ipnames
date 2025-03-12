@@ -1760,7 +1760,9 @@ edge-007.usdal2.icloud-content.com
 edge-008.usdal2.icloud-content.com
 edge-011.dedus1.icloud-content.com
 edge-014.dkvib11.icloud-content.com
+edge-020.dkvib11.icloud-content.com
 edge-020.usdal2.icloud-content.com
+edge-021.defra2.icloud-content.com
 edge-025.dedus1.icloud-content.com
 edge-027.nlhfd1.icloud-content.com
 edge-030.defra2.icloud-content.com
@@ -1789,6 +1791,7 @@ edge-099.sesto4.icloud-content.com
 edge-100.sesto4.icloud-content.com
 edge-101.sesto4.icloud-content.com
 edge-104.usdal2.icloud-content.com
+edge-105.deber3.icloud-content.com
 edge-110.deber3.icloud-content.com
 edge-110.sesto4.icloud-content.com
 edge-112.sesto4.icloud-content.com
@@ -1827,7 +1830,9 @@ edge-197.sesto4.icloud-content.com
 edge-205.sesto4.icloud-content.com
 edge-206.sesto4.icloud-content.com
 edge-210.sesto4.icloud-content.com
+edge-211.sesto4.icloud-content.com
 edge-212.sesto4.icloud-content.com
+edge-217.sesto4.icloud-content.com
 edge-221.sesto4.icloud-content.com
 edge-222.sesto4.icloud-content.com
 edge-227.sesto4.icloud-content.com
@@ -3339,6 +3344,7 @@ mds-cdn.infra.adobesensei.io
 me.apple-dns.net
 me.com
 media-3-252-48-102.webrtc.adobeconnect.com
+media-arn2-1.cdn.whatsapp.net
 media.icloud-content.com
 meetabuse-pa.googleapis.com
 meet.google.com
@@ -3770,7 +3776,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp.pki.goog
@@ -4149,6 +4154,7 @@ panama-ca-version-2.expressnetw.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 pando-bliptk1.googleapis.com
 pandora-cdn.adobe.com
 pangolin16.isnssdk.com
@@ -5274,6 +5280,8 @@ r1.sn-5go7ynld.googlevideo.com
 r1---sn-5go7ynld.googlevideo.com
 r1.sn-5goeenes.googlevideo.com
 r1---sn-5goeenes.googlevideo.com
+r1.sn-ab5sznzd.googlevideo.com
+r1---sn-ab5sznzd.googlevideo.com
 r1.sn-aigl6n6s.googlevideo.com
 r1---sn-aigl6n6s.googlevideo.com
 r1.sn-aigzrnld.googlevideo.com
@@ -5310,6 +5318,8 @@ r2---sn-2gb7sn7r.googlevideo.com
 r2---sn-3c27sn76.googlevideo.com
 r2---sn-3c27snee.googlevideo.com
 r2---sn-ab5l6nk6.googlevideo.com
+r2.sn-ab5l6nrl.googlevideo.com
+r2---sn-ab5l6nrl.googlevideo.com
 r2---sn-aigl6n6s.googlevideo.com
 r2.sn-aigzrnsz.googlevideo.com
 r2---sn-aigzrnsz.googlevideo.com
@@ -5351,6 +5361,8 @@ r3---sn-4g5e6nzs.googlevideo.com
 r3.sn-5uaezny6.googlevideo.com
 r3---sn-5uaezny6.googlevideo.com
 r3---sn-8ph2xajvh-gufs.googlevideo.com
+r3.sn-ab5l6nrk.googlevideo.com
+r3---sn-ab5l6nrk.googlevideo.com
 r3.sn-aigzrn7z.googlevideo.com
 r3---sn-aigzrn7z.googlevideo.com
 r3---sn-c0q7lnsl.googlevideo.com
@@ -5401,6 +5413,8 @@ r4---sn-5uaeznze.googlevideo.com
 r4---sn-8pxuuxa-nboer.googlevideo.com
 r4.sn-ab5l6nr6.googlevideo.com
 r4---sn-ab5l6nr6.googlevideo.com
+r4.sn-ab5sznzl.googlevideo.com
+r4---sn-ab5sznzl.googlevideo.com
 r4.sn-h0jelne7.googlevideo.com
 r4---sn-h0jelne7.googlevideo.com
 r4.sn-h5qzen76.googlevideo.com
@@ -6864,7 +6878,6 @@ sm.lazerpenguin.com
 smoot.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 sms.tttt.26.anyline.kr
@@ -6920,7 +6933,6 @@ sq-device.v.aaplimg.com
 sql.bing.com
 srilanka-ca-version-2.expressnetw.com
 sr.lazerpenguin.com
-ssdk-sg.pangle.io
 sse-ws-p189.apple.com
 ssl.adobe.com.edgekey.net
 ssl.bing.com
@@ -7621,7 +7633,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
