@@ -86,6 +86,9 @@ api-glb-aapne1a.smoot.apple.com
 api-glb-aapse1c.smoot.apple.com
 api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
+api-glb-aeun1a.smoot.apple.com
+api-glb-aeun1b.smoot.apple.com
+api-glb-aeus2a.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
 api-lookup.smoot.apple.com
 api-safari.smoot.apple.com
@@ -342,7 +345,10 @@ edge-182.sesto4.icloud-content.com
 edge-185.sesto4.icloud-content.com
 edge-187.sesto4.icloud-content.com
 edge-190.sesto4.icloud-content.com
+edge-191.sesto4.icloud-content.com
 edge-192.sesto4.icloud-content.com
+edge-194.sesto4.icloud-content.com
+edge-195.sesto4.icloud-content.com
 edge-197.sesto4.icloud-content.com
 edge-205.sesto4.icloud-content.com
 edge-206.sesto4.icloud-content.com
@@ -354,6 +360,7 @@ edge-221.sesto4.icloud-content.com
 edge-222.sesto4.icloud-content.com
 edge-227.sesto4.icloud-content.com
 edge-229.sesto4.icloud-content.com
+edge-230.sesto4.icloud-content.com
 edge-234.sesto4.icloud-content.com
 edge-236.sesto4.icloud-content.com
 edge-239.sesto4.icloud-content.com
@@ -361,6 +368,8 @@ edge-241.sesto4.icloud-content.com
 edge-253.sesto4.icloud-content.com
 edge-256.defra2.icloud-content.com
 edge-260.sesto4.icloud-content.com
+edge-266.sesto4.icloud-content.com
+edge-271.sesto4.icloud-content.com
 edge-278.sesto4.icloud-content.com
 edge-284.sesto4.icloud-content.com
 edge.apple
@@ -511,6 +520,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -671,6 +681,7 @@ p111-fmf.icloud.com
 p111-fmfmobile.icloud.com
 p111-fmip.icloud.com
 p111-fmipmobile.icloud.com
+p111-mccgateway.icloud.com
 p111-quota.icloud.com
 p112-iwnr-china.icloud.com
 p113-availability.icloud.com
@@ -853,7 +864,6 @@ p72-content.icloud.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
-pancake.g.aaplimg.com
 partiality.itunes.apple.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com.edgekey.net
@@ -1071,6 +1081,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier.push.apple.com
 websitereview.corp.apple.com
 wps.apple.com
