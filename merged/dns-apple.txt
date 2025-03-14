@@ -1727,6 +1727,7 @@ anger-management.tv.apple.com
 a.ns.apple.com
 aod.itunes.apple.com
 aod.itunes.apple.com.edgesuite.net
+aod.itunes.g.aaplimg.com
 aodp.assets.itunes.com
 aodp-ssl.itunes.apple.com
 aolauth-china-ic1.icloud.com
@@ -1865,6 +1866,7 @@ api-glb-aeuc1b.smoot.apple.com
 api-glb-aeun1a.smoot.apple.com
 api-glb-aeun1b.smoot.apple.com
 api-glb-aeus2a.smoot.apple.com
+api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw1c.smoot.apple.com
 api-glb-aeuw3b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
@@ -1941,6 +1943,8 @@ api-rv117-ause1c.smoot.apple.com
 api-safari-aapse2c.smoot.apple.com
 api-safari-aeuc1a.smoot.apple.com
 api-safari-aeun1a.smoot.apple.com
+api-safari-aeun1b.smoot.apple.com
+api-safari-aeus2a.smoot.apple.com
 api-safari-aeuw1b.smoot.apple.com
 api-safari-aeuw3b.smoot.apple.com
 api-safari-aeuw3c.smoot.apple.com
@@ -3730,6 +3734,7 @@ edge-035.sesto4.icloud-content.com
 edge-035.zamrd1.icloud-content.com
 edge-037.hkhkg.icloud-content.com
 edge-037.usuyk1.icloud-content.com
+edge-038.deber3.icloud-content.com
 edge-038.hkhkg.icloud-content.com
 edge-039.hkhkg.icloud-content.com
 edge-039.sesto4.icloud-content.com
@@ -3758,6 +3763,7 @@ edge-048.sesto4.icloud-content.com
 edge-049.defra2.icloud-content.com
 edge-049.hkhkg.icloud-content.com
 edge-049.sesto4.icloud-content.com
+edge-050.dkvib11.icloud-content.com
 edge-050.gbmnc1.icloud-content.com
 edge-050.hkhkg.icloud-content.com
 edge-050.sesto4.icloud-content.com
@@ -7714,6 +7720,7 @@ gspe21-ssl-carry-row.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com
 gspe21-ssl.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com.edgekey.net
+gspe21-ssl.ls.apple.com.edgesuite.net
 gspe35-applecdn-cutover.ls-apple.com.akadns.net
 gspe35-ssl-carry.ls.apple.com
 gspe35-ssl.ls.apple.com
@@ -8253,7 +8260,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -23572,6 +23578,7 @@ smp-device-content-us.lb-apple.com.akadns.net
 smp-device-lt3.apple.com
 smp-device-lt4.apple.com
 smp-device-qa6.apple.com
+smp-paymentservices.apple.com
 smp-paymentservices.apple.com.v.aaplimg.com
 smp-qa5.apple.com
 smp-tsm-qa.apple.com
@@ -25332,7 +25339,6 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -25470,7 +25476,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
