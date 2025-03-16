@@ -56420,4 +56420,57 @@ Changes not staged for commit:
 	modified:   ext-dns-backblaze.txt
 	modified:   ext-dns-bing.txt
 	modified:   ext-dns-facebook.txt
-	modified:   
+	modified:   [master aa3c5124] auto-update merged
+ 57 files changed, 235 insertions(+), 364126 deletions(-)
+ delete mode 100644 merged/dns-adobe.txt
+ delete mode 100644 merged/dns-anthropic.txt
+ delete mode 100644 merged/dns-apple.txt
+ delete mode 100644 merged/dns-backblaze.txt
+ delete mode 100644 merged/dns-bing.txt
+ delete mode 100644 merged/dns-facebook.txt
+ delete mode 100644 merged/dns-github.txt
+ delete mode 100644 merged/dns-google.txt
+ delete mode 100644 merged/dns-huggingface.txt
+ delete mode 100644 merged/dns-openai.txt
+ delete mode 100644 merged/dns-ozon.txt
+ delete mode 100644 merged/dns-pornhub.txt
+ delete mode 100644 merged/dns-surfshark.txt
+ delete mode 100644 merged/dns-tiktok.txt
+ delete mode 100644 merged/dns-twitter.txt
+ delete mode 100644 merged/dns-youtube.txt
+
+
+
+--------------------------------------------------------------------------------
+Sun Mar 16 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
