@@ -56531,3 +56531,25 @@ Sun Mar 16 09:38:31 AM MSK 2025                dns-ozon.txt  >resolve-ozon.txt
 Sun Mar 16 09:39:42 AM MSK 2025                dns-pornhub.txt  >resolve-pornhub.txt
 Sun Mar 16 09:41:26 AM MSK 2025                dns-surfshark.txt  >resolve-surfshark.txt
 Sun Mar 16 09:46:44 AM MSK 2025                dns-tiktok.txt  >resolve-tiktok.txt
+[master 0ceb569c] auto-update merged
+ 42 files changed, 180471 insertions(+), 3947 deletions(-)
+ create mode 100644 merged/dns-adobe.txt
+ create mode 100644 merged/dns-anthropic.txt
+ create mode 100644 merged/dns-apple.txt
+ create mode 100644 merged/dns-backblaze.txt
+ create mode 100644 merged/dns-bing.txt
+ create mode 100644 merged/dns-facebook.txt
+ create mode 100644 merged/dns-github.txt
+ create mode 100644 merged/dns-google.txt
+ create mode 100644 merged/dns-huggingface.txt
+ create mode 100644 merged/dns-openai.txt
+ create mode 100644 merged/dns-ozon.txt
+ create mode 100644 merged/dns-pornhub.txt
+ create mode 100644 merged/dns-surfshark.txt
+ create mode 100644 merged/dns-tiktok.txt
+ create mode 100644 merged/dns-twitter.txt
+ create mode 100644 merged/dns-youtube.txt
+Sun Mar 16 10:29:55 AM MSK 2025                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Sun Mar 16 10:39:01 AM MSK 2025                dns-twitter.txt  >resolve-twitter.txt
+Sun Mar 16 10:46:51 AM MSK 2025                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Sun Mar 16 10:46:58 AM MSK 2025                dns-youtube.txt  >resolve-youtube.txt
