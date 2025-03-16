@@ -53,6 +53,7 @@ amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
 amp-api-updates.apps.apple.com
+amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api-videos-akam.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
@@ -599,6 +600,7 @@ p06-fmip.icloud.com
 p105-sharedstreams.icloud.com
 p107-acsegateway.icloud.com
 p107-ckdatabase.icloud.com
+p107-escrowproxy.icloud.com
 p107-fmf.icloud.com
 p107-quota.icloud.com
 p10-calendars.icloud.com
@@ -871,7 +873,6 @@ siri.apple.com
 smoot.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smtp.mail.me.com
@@ -990,6 +991,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier.push.apple.com
 websitereview.corp.apple.com
 wps.apple.com
@@ -1007,7 +1009,6 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info

@@ -264,6 +264,7 @@ amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
 amp-api-updates.apps.apple.com
+amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api-videos-akam.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
@@ -326,7 +327,6 @@ api-0-4-7.twitter.com
 api-0-4-8.twitter.com
 api-0-5-0.twitter.com
 api-1-0-0.twitter.com
-api16-access-sg.pangle.io
 api16-core-alisg.tiktokv.com
 api16-core-alisg.tiktokv.com.edgesuite.net
 api16-core-c-alisg.tiktokv.com
@@ -1046,6 +1046,7 @@ chachastoursandoverseas.com
 chapelling.adobeaemcloud.com
 chart.apis.google.com
 chart.googleapis.com
+chat.cdn.whatsapp.net
 chat-commerce.adobe.com.edgekey.net
 chat-e2ee.c10r.facebook.com
 chat-e2ee.facebook.com
@@ -3756,6 +3757,7 @@ p0y5.googleapis.com
 p105-sharedstreams.icloud.com
 p107-acsegateway.icloud.com
 p107-ckdatabase.icloud.com
+p107-escrowproxy.icloud.com
 p107-fmf.icloud.com
 p107-quota.icloud.com
 p10-calendars.icloud.com
@@ -3998,6 +4000,7 @@ pandora-cdn.adobe.com
 pangolin16.isnssdk.com
 pangolin16.sgsnssdk.com
 pangolin16.sgsnssdk.com.edgesuite.net
+pangolin16.sgsnssdk.com.ttdns2.com
 panlogistically.devices.resinstaging.io
 panshua.googleapis.com
 pa-pac.prod.surfshark.com
@@ -4646,6 +4649,7 @@ pod-031-2025-07.backblaze.com
 pod-031-2025-09.backblaze.com
 pod-031-2025-10.backblaze.com
 pod-031-2025-11.backblaze.com
+pod-031-2025-12.backblaze.com
 pod-031-2025-13.backblaze.com
 pod-031-2025-14.backblaze.com
 pod-031-2025-15.backblaze.com
@@ -4680,6 +4684,7 @@ pod-031-2027-10.backblaze.com
 pod-031-2027-11.backblaze.com
 pod-031-2027-14.backblaze.com
 pod-031-2027-15.backblaze.com
+pod-031-2027-18.backblaze.com
 pod-031-2027-19.backblaze.com
 pod-031-2028-00.backblaze.com
 pod-031-2028-01.backblaze.com
@@ -4689,6 +4694,7 @@ pod-031-2028-04.backblaze.com
 pod-031-2028-05.backblaze.com
 pod-031-2028-07.backblaze.com
 pod-031-2028-08.backblaze.com
+pod-031-2028-09.backblaze.com
 pod-031-2028-10.backblaze.com
 pod-031-2028-12.backblaze.com
 pod-031-2028-13.backblaze.com
@@ -4697,6 +4703,7 @@ pod-031-2028-15.backblaze.com
 pod-031-2028-16.backblaze.com
 pod-031-2028-17.backblaze.com
 pod-031-2028-18.backblaze.com
+pod-031-2028-19.backblaze.com
 podcasts.apple.com
 podcasts.apple.com.edgekey.net
 podcasts.itunes.apple.com
@@ -6535,7 +6542,6 @@ sm.lazerpenguin.com
 smoot.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 sms.tttt.26.anyline.kr
@@ -6590,6 +6596,7 @@ sql.bing.com
 srilanka-ca-version-2.expressnetw.com
 sr.lazerpenguin.com
 ssdk-sg.pangle.io
+ssdk-sg.pangle.io.ttdns2.com
 sse-ws-p189.apple.com
 ssl.adobe.com.edgekey.net
 ssl.bing.com
@@ -7278,6 +7285,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
@@ -7384,7 +7392,6 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.as.adobeaemcloud.com
 www.backblaze.com
 www-backblaze-com.webpkgcache.com
