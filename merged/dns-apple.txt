@@ -1693,6 +1693,7 @@ amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
 amp-api.snapshot.apple.com
 amp-api-updates.apps.apple.com
+amp-api-updates.apps.apple.com.edgesuite.net
 amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api-videos-akam.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
@@ -2057,15 +2058,18 @@ apple-e-vod.cdn-apple.com
 applegiftcardvolumeprogramdownloadtool.apple.com
 apple-guest.asia.apple.com
 applehosted.podcasts.apple.com
+appleid1.idms-apple.com.akadns.net
 appleid.apple.com
 appleid.cdn-apple.com
 appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.edgekey.net
+appleid.idms-apple.com.akadns.net
 appleid-it.apple.com
 appleid-nlt.apple.com
 appleid-nwk.apple.com
 appleid-scv.apple.com
 appleid-uat.apple.com
+appleid-ut.corp.apple.com
 apple-l.cdn-apple.com
 apple-livephotoskit.com
 apple-mapkit.com
@@ -2376,6 +2380,7 @@ ausyd2.me.icloud-content.com
 ausyd.icloud-content.com
 ausyd.me.icloud-content.com
 auth.apple.com
+auth.apps.apple.com
 auth.books.apple.com
 auth.itunes.apple.com
 auth.me.com
@@ -4215,6 +4220,7 @@ edge-187.jposa3.icloud-content.com
 edge-187.sesto4.icloud-content.com
 edge-188.deber3.icloud-content.com
 edge-188.jposa3.icloud-content.com
+edge-188.sesto4.icloud-content.com
 edge-188.sgsin8.icloud-content.com
 edge-189.deber3.icloud-content.com
 edge-189.sesto4.icloud-content.com
@@ -4436,6 +4442,7 @@ edge-235.deber3.icloud-content.com
 edge-235.sesto4.icloud-content.com
 edge-236.deber3.icloud-content.com
 edge-236.jposa3.icloud-content.com
+edge-236.sesto4.icloud-content.com
 edge-236.sgsin8.icloud-content.com
 edge-236.usdal2.icloud-content.com
 edge-237.a141yd.icloud-content.com
@@ -4620,6 +4627,7 @@ edge-277.usdal2.icloud-content.com
 edge-277.usmsc2.icloud-content.com
 edge-278.hkhkg-edge-260.icloud-content.com
 edge-278.jposa3.icloud-content.com
+edge-278.sesto4.icloud-content.com
 edge-279.deber3.icloud-content.com
 edge-279.hkhkg.icloud-content.com
 edge-279.jposa3.icloud-content.com
@@ -6016,6 +6024,7 @@ fairchild-am1.apple.com
 falcon-aapse1a.smoot.apple.com
 falcon-aapse1b.smoot.apple.com
 falcon-ausw2b.smoot.apple.com
+familyws.icloud.apple.com
 faraway-edge-001.icloud1.icloud-content.com
 faraway-edge-001.icloud1.media.icloud-content.com
 faraway-edge-001.icloud2.icloud-content.com
@@ -7662,6 +7671,7 @@ gsp-e1502.ls.apple.com
 gsp-e1512.ls.apple.com
 gspe19-2-cn-ssl.ls.apple.com
 gspe19-2-ssl.ls.apple.com
+gspe19-2-ssl.ls.apple.com.edgesuite.net
 gspe19-cn.ls-apple.com.akadns.net
 gspe19-cn-test-ssl.ls-apple.com.akadns.net
 gspe19-geo-selector.ls2-apple.com.akadns.net
@@ -8128,6 +8138,7 @@ idm.applepay.ireporter.apple.com
 idmas-nc.apple.com
 idmsa.apple.com
 idmsac-stage.apple.com
+idmsa.idms-apple.com.akadns.net
 idmsa-nc.apple.com
 idms-apple.com.akadns.net
 idmsa-stage-mdn.apple.com
@@ -13616,10 +13627,13 @@ p107-feedbackws-china.icloud.com
 p107-fmf-china.icloud.com
 p107-fmf.icloud.com
 p107-fmfmail.icloud.com
+p107-fmfmobile.icloud.com
 p107-fmfweb-china.icloud.com
+p107-fmip.icloud.com
 p107-fmipmail-china.icloud.com
 p107-fmipmail.icloud.com
 p107-fmipmobile-china.icloud.com
+p107-fmipmobile.icloud.com
 p107-iwmb0-china.icloud.com
 p107-iwmb1-china.icloud.com
 p107-iwmb2-china.icloud.com
@@ -13985,6 +13999,7 @@ p112-uploadimagews.icloud.com
 p113-archivews-china.icloud.com
 p113-archivews.icloud.com
 p113-availability-china.icloud.com
+p113-availability.icloud.com
 p113-bookmarks.icloud.com
 p113-caldav.icloud.com
 p113-calendars-china.icloud.com
@@ -14209,6 +14224,7 @@ p116-streams-china.icloud.com
 p116-streams.icloud.com
 p116-ubiquityws.icloud.com
 p117-acsegateway.icloud.com
+p117-availability.icloud.com
 p117-bookmarks-china.icloud.com
 p117-calendarws.icloud.com
 p117-ckcoderouter-china.icloud.com
@@ -25414,7 +25430,6 @@ www262.xs4tz.icloud.com
 www2.apple.com
 www2.seminars.apple.com
 www.afl.info.apple.com
-www.airport.us
 www.anat.apple.com
 www.apple.com
 www.apple.com.cn
@@ -25455,7 +25470,6 @@ www.gauravsays.info.apple.com
 www.germany.euro.apple.com
 www.guide.apple.com
 www.holland.euro.apple.com
-www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
@@ -25463,7 +25477,6 @@ www.icloud-content.com
 www.img1.apple-mapkit.com
 www.inspectieresultaten.icloud.com
 www.it.nfapeuro.apple.com
-www.itools.info
 www.itunes.com
 www.iworktrialbuy.apple.com
 www.kreasifb.blobstore.apple.com
@@ -25500,7 +25513,6 @@ www.spain.euro.apple.com
 www.store.apple.com
 wwwsupp2.apple.com
 wwwsupp.apple.com
-www.thinkdifferent.us
 www.tips.apple.com
 www.trafficexchange.info.apple.com
 www.tsu.blobstore.apple.com
