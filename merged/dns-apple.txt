@@ -1859,6 +1859,8 @@ api-glb-abt.smoot.apple.com
 api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
 api-glb-aeun1a.smoot.apple.com
+api-glb-aeun1b.smoot.apple.com
+api-glb-aeus2a.smoot.apple.com
 api-glb-aeuw1c.smoot.apple.com
 api-glb-aeuw3b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
@@ -3771,6 +3773,7 @@ edge-053.ussehermes3.icloud-content.com
 edge-054-315.gbslo5.icloud-content.com
 edge-054.b393m2.icloud-content.com
 edge-054.boedge-457.icloud-content.com
+edge-054.dkvib11.icloud-content.com
 edge-054.inbom2.icloud-content.com
 edge-054.nlhfd1.icloud-content.com
 edge-054.sesto4.icloud-content.com
@@ -4518,10 +4521,12 @@ edge-250.deber3.icloud-content.com
 edge-250.hkhkg.icloud-content.com
 edge-250.jposa3.icloud-content.com
 edge-250.mediaedge-413.icloud-content.com
+edge-250.sesto4.icloud-content.com
 edge-250.sgsin8.icloud-content.com
 edge-250.usdal2.icloud-content.com
 edge-251.deber3.icloud-content.com
 edge-251.hkhkg.icloud-content.com
+edge-251.sesto4.icloud-content.com
 edge-251.sgsin8.icloud-content.com
 edge-251.zamrd1.icloud-content.com
 edge-252.dedus1.me.icloud-content.com
@@ -4590,6 +4595,7 @@ edge-266.zamrd1.icloud-content.com
 edge-267diaedge-086.gbmnc1.edge-267.icloud-content.com
 edge-267.inbom2.icloud-content.com
 edge-267.jposa3.icloud-content.com
+edge-267.sesto4.icloud-content.com
 edge-267.sgsin8.icloud-content.com
 edge-267.usuyk1.icloud-content.com
 edge-268.deber3.icloud-content.com
@@ -4614,6 +4620,7 @@ edge-271.zamrd1.icloud-content.com
 edge-272.deber3.icloud-content.com
 edge-272.sesto4.icloud-content.com
 edge-273.deber3.icloud-content.com
+edge-273.sesto4.icloud-content.com
 edge-273.zamrd1.icloud-content.com
 edge-274.deber3.icloud-content.com
 edge-274.hkhkg.icloud-content.com
@@ -7728,7 +7735,6 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl.ls.apple.com
@@ -25460,7 +25466,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
