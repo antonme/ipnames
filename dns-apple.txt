@@ -22,6 +22,7 @@ amp-api.apps.apple.com
 amp-api.apps.apple.com.edgekey.net
 amp-api.apps.apple.com.edgesuite.net
 amp-api.apps-lb.itunes-apple.com.akadns.net
+amp-api.books.apple.com
 amp-api.books.apple.com.edgekey.net
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
@@ -65,7 +66,6 @@ amp-api.videos.apple.com.edgesuite.net
 a.ns.apple.com
 aod.itunes.apple.com
 aod.itunes.apple.com.edgesuite.net
-aod.itunes.g.aaplimg.com
 api2.smoot.apple.com
 api-adservices.apple.com
 api.apple-cloudkit.com
@@ -141,6 +141,7 @@ bookkeeper-cdn.itunes-apple.com.akadns.net
 bookkeeper.itunes.apple.com
 books-analytics-events.apple.com
 books.apple.com.edgekey.net
+books-edge.apple.com
 bpapi.apple.com
 br-apple.com
 buy.apps.apple.com
@@ -347,6 +348,7 @@ edge-185.sesto4.icloud-content.com
 edge-187.sesto4.icloud-content.com
 edge-188.sesto4.icloud-content.com
 edge-192.sesto4.icloud-content.com
+edge-193.nlhfd1.icloud-content.com
 edge-194.sesto4.icloud-content.com
 edge-195.sesto4.icloud-content.com
 edge-198.sesto4.icloud-content.com
@@ -361,6 +363,8 @@ edge-207.sesto4.icloud-content.com
 edge-208.sesto4.icloud-content.com
 edge-210.sesto4.icloud-content.com
 edge-211.sesto4.icloud-content.com
+edge-212.sesto4.icloud-content.com
+edge-213.sesto4.icloud-content.com
 edge-214.sesto4.icloud-content.com
 edge-216.sesto4.icloud-content.com
 edge-218.sesto4.icloud-content.com
@@ -381,6 +385,7 @@ edge-240.sesto4.icloud-content.com
 edge-241.sesto4.icloud-content.com
 edge-242.sesto4.icloud-content.com
 edge-246.sesto4.icloud-content.com
+edge-248.sesto4.icloud-content.com
 edge-249.sesto4.icloud-content.com
 edge-250.sesto4.icloud-content.com
 edge-251.sesto4.icloud-content.com
@@ -528,6 +533,7 @@ help.origin-apple.com.akadns.net
 hls.itunes.apple.com
 hls.itunes.apple.com.edgesuite.net
 hls-svod-aoc.itunes.apple.com.edgesuite.net
+hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes-apple.com.akadns.net
 hls-svod.itunes.apple.com.edgesuite.net
@@ -558,7 +564,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -1117,6 +1122,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier.push.apple.com
 websitereview.corp.apple.com
 wps.apple.com
