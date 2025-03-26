@@ -1654,6 +1654,7 @@ amp-api.apps-lb.itunes-apple.com.akadns.net
 amp-api.apps-marketplace.apple.com
 amp-api.books.apple.com
 amp-api.books.apple.com.edgekey.net
+amp-api-books-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
 amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
@@ -1724,6 +1725,7 @@ anger-management.tv.apple.com
 a.ns.apple.com
 aod.itunes.apple.com
 aod.itunes.apple.com.edgesuite.net
+aod.itunes.g.aaplimg.com
 aodp.assets.itunes.com
 aodp-ssl.itunes.apple.com
 aolauth-china-ic1.icloud.com
@@ -3773,6 +3775,7 @@ edge-051.hkhkg.icloud-content.com
 edge-051.iedub2-416.icloud-content.com
 edge-051.sesto4.icloud-content.com
 edge-051.usamx-al5.icloud-content.com
+edge-052.deber3.icloud-content.com
 edge-052.hkhkg.icloud-content.com
 edge-052.sesto4.icloud-content.com
 edge-053.hkhkg.icloud-content.com
@@ -4000,6 +4003,7 @@ edge-129.usdal2.icloud-content.com
 edge-130.hkhkg-3.icloud-content.com
 edge-130.hkhkg.icloud-content.com
 edge-130.jposa3.icloud-content.com
+edge-131.dkvib11.icloud-content.com
 edge-131.hkhkg.icloud-content.com
 edge-131.sesto4.icloud-content.com
 edge-131.zamrd1.icloud-content.com
@@ -4512,6 +4516,7 @@ edge-243.jptyo395.icloud-content.com
 edge-243.sesto4.icloud-content.com
 edge-243.usdal2.icloud-content.com
 edge-243.zamrd1.icloud-content.com
+edge-244.sesto4.icloud-content.com
 edge-244.usdal2.icloud-content.com
 edge-245.sesto4.icloud-content.com
 edge-245.ussjc-016-edge.uslax2.icloud-content.com
@@ -8277,6 +8282,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -8941,6 +8947,7 @@ ma-box-events.apple.com
 ma-button-prod.apple.com
 ma-cardinalweb-prod.apple.com
 machinelearning.apple.com
+machinelearning.apple.com.edgekey.net
 ma-cide-access-prod.apple.com
 ma-clearmater-prod-mdn.apple.com
 ma-cma.apple.com
@@ -12268,7 +12275,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -22145,7 +22151,9 @@ providersharing-stbbdatamodule-dbging.health.apple.com
 provision.ess.apple.com
 proxy.hwet.apple.com
 pr-payments-partner-prod.apple.com
+pr-pod10-smp-device.apple.com
 pr-pod10-smp-device-asset-ccs.apple.com
+pr-pod10-smp-device.gcsis-apple.com.akadns.net
 pr-pod11-smp-device.apple.com
 pr-pod11-smp-device-asset-ccs.apple.com
 pr-pod12-smp-device.apple.com
@@ -23590,7 +23598,6 @@ smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smp-device-lt3.apple.com
@@ -25486,12 +25493,12 @@ www.apple.com
 www.apple.com.cn
 www.apple.com.cn.edgekey.net
 www.apple.com.cn.edgekey.net.globalredir.akadns.net
+www-apple-com-cn.v.aaplimg.com
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
