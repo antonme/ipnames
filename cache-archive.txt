@@ -265,6 +265,8 @@ amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
+amp-api-updates.apps.apple.com
+amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api-videos-akam.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
@@ -443,7 +445,6 @@ apps-mzstatic-cdn.itunes-apple.com.akadns.net
 apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
-app.snapchat.com
 appspot.com
 apptrailers.itunes.apple.com
 apptrailers-ssl.itunes.apple.com
@@ -2633,7 +2634,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -7301,7 +7301,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
