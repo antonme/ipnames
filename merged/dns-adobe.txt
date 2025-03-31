@@ -296,6 +296,7 @@ adobeid-na1-ew1-internal-i.services.adobe.com
 adobeid-na1-i.services.adobe.com
 adobeid-na1-origin.services.adobe.com
 adobeid-na1.services.adobe.com
+adobeid-na1.services.adobe.com.cdn.cloudflare.net
 adobeid-na1-sgp5-internal-i.services.adobe.com
 adobeid-na1-sgp5-internal.services.adobe.com
 adobeid-na1-stg1-ew1-internal-control.services.adobe.com
@@ -352,6 +353,7 @@ adobeprimetimeinternaldocumentsstage.marketing.adobe.com
 adobeqa-sn.corp.adobe.com
 adobe-resolver-03.adobe.com
 adobesearch.adobe.io
+adobesearch-sec-uss.adobe.io
 adobesigntrial.corp.adobe.com
 adobesip.documents.adobe.com
 adobe-sn.corp.adobe.com
@@ -712,6 +714,7 @@ apim.ipaas-np.corp.adobe.com
 apim-ssg.ipaas-np.corp.adobe.com
 api.na1.documents.adobe.com
 api.na2.documents.adobe.com
+api.na4.documents.adobe.com
 api-nautilus.na3.documents.adobe.com
 api.net.adobe.com
 apinew.eu1.documents.adobe.com
@@ -2158,12 +2161,15 @@ cloud-analytics-and-reporting-api-etl.corp.adobe.com
 cloud-analytics-and-reporting-api-etl-dev.corp.adobe.com
 cloudapp-cim-api.experiencecloud.adobe.com
 cloudapp-sso.documents.adobe.com
+cloud-asr.acrobat.com
 clouddashboard.marketing.adobe.com
 cloudefficiency.corp.adobe.com
 cloudfront-53cfd84ce6d49219222e921a.c00.adobe.com
 cloudfrontedge.experiencecloud.adobe.com
 cloudfronttechops1-us-east-1.marketing-stage.adobe.com
 cloudgovernance.corp.adobe.com
+cloud-legacy-fc.adobe.io
+cloud-legacy-fc-asr.adobe.io
 cloudmanagement.corp.adobe.com
 cloudmanagement-dev.corp.adobe.com
 cloud-mgmt-mware-api.corp.adobe.com
@@ -2438,6 +2444,8 @@ cpcontents.adobe.com
 cpcontents.stage.adobe.com
 cpcontentsstage.adobe.com
 cpde.experiencecloud.adobe.com
+cpdf-legacy-fc.adobe.io
+cpdf-legacy-fc-asr.adobe.io
 cpe-monitoring.corp.adobe.com
 cp.gws.marketing.adobe.com
 cplive.adobe.com
@@ -2468,6 +2476,7 @@ crcn-stage-or1-vip.corp.adobe.com
 create.adobe.com
 createpdf.acrobat.com
 createpdf.adobe.com
+createpdf-asr.acrobat.com
 createpdf-sjc0.adobe.com
 createprosite.com
 creative.adobe.com
@@ -2739,9 +2748,11 @@ dc-author.corp.adobe.com
 dc-author.stage.corp.adobe.com
 dc.ctl.documents.adobe.com
 dc.dev.dexilab.acrobat.com
+dcdiscovery.adobe.io
 dc-esm-sh.corp.adobe.com
 dc-esm-sh-dev.corp.adobe.com
 dc-esm-sh-stage.corp.adobe.com
+dc-genai-access-provisioning-api.adobe.io
 dchesmis.lightroom.adobe.com
 dchristofes.myportfolio.com
 dc.na1.documentssandboxstage.adobe.com
@@ -3759,11 +3770,14 @@ fifththird-mid-prod4-cus.campaign.adobe.com
 file.bsinghal.marketing.adobe.com
 file.experiencecloud.adobe.com
 files.acrobat.com
+files-asr.acrobat.com
 fileshare-prod-du1-ext-vip.adobe.com
 fileshare-stage-du1-ext-vip.adobe.com
 fileshare-stage-or1-ext-vip.adobe.com
 fileshare-stage.wip4.adobe.com
 fileshare.wip4.adobe.com
+files-legacy-fc.adobe.io
+files-legacy-fc-asr.adobe.io
 filipbaczun.myportfolio.com
 filipzaruba.myportfolio.com
 fillsign.acrobat.com
@@ -3958,6 +3972,7 @@ gcoe.corp.adobe.com
 gcom-product-find-dev.123.experiencecloud.adobe.com
 gcom-product-find-dev.ew1.experiencecloud.adobe.com
 gcom-product-find-qa.profile.experiencecloud.adobe.com
+gcos.adobe.io
 gcpcdn.emea1-region.brand-portal.adobe.com
 gcp-demo.na3.vi.documentsawspreview.adobe.com
 gcp.govytyeu2.documentsawspreview.adobe.com
@@ -4484,6 +4499,7 @@ ibmstg.adobeconnect.com
 ibmwh.adobeconnect.com
 ibrq.adobeaemcloud.com
 ibs-win04.corp.adobe.com
+ic.adobe.io
 icainsclaimsadv.na4.documents.adobe.com
 icangelrecords.myportfolio.com
 icann.adobeconnect.com
@@ -8322,7 +8338,9 @@ pum.corp.adobe.com
 punnwiantrakoon.myportfolio.com
 pure.corp.adobe.com
 pv1hostmgr.preview.adobeconnect.com
+pv218qmzox6.prod.cloud.adobe.io
 pv24v41zibm.prod.cloud.adobe.io
+pv2fcqvzl1r.prod.cloud.adobe.io
 px0n.adobeaemcloud.net
 q0jo16uy1r.data.adobedc.net
 q0yb.adobeaemcloud.com
@@ -9380,7 +9398,9 @@ sem-vendors.marketing.adobe.com
 se-mx2.documents.adobe.com
 sena1.vi.documentsawspreview.adobe.com
 send.acrobat.com
+send-asr.acrobat.com
 sender.tokyosmoke.com.cname.campaign.adobe.com
+send-legacy-fc-asr.adobe.io
 senniu.adobeaemcloud.net
 senseatelier.myportfolio.com
 sentry.na3.documents.adobe.com
@@ -9400,6 +9420,7 @@ servers.apache.marketing.adobe.com
 servers.docker.experiencecloud.adobe.com
 serversuk.documents.adobe.com
 server.tsc-adobe.na2.documents.adobe.com
+service.account.adobe.com
 service-acrobat-da1.stage.adobe.com
 service-connect-da1.stage.adobe.com
 servicegateway-prod-ext-awsoregon.wip4.adobe.com
