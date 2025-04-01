@@ -61,7 +61,6 @@ amp-api.videos.apple.com.edgesuite.net
 a.ns.apple.com
 aod.itunes.apple.com
 aod.itunes.apple.com.edgesuite.net
-aod.itunes.g.aaplimg.com
 api2.smoot.apple.com
 api-adservices.apple.com
 api.apple-cloudkit.com
@@ -118,9 +117,11 @@ ax.init-cdn.itunes-apple.com.akadns.net
 ax.init.itunes.apple.com
 ax.itunes.apple.com.edgesuite.net
 background-weighted.ls4-apple.com.akadns.net
+bag-cdn-akam.itunes-apple.com.akadns.net
 bag-cdn.itunes-apple.com.akadns.net
 bag-cdn-lb.itunes-apple.com.akadns.net
 bag.itunes.apple.com
+bag.itunes.apple.com.edgesuite.net
 basejumper.apple.com
 big.itunes.apple.com
 b.ns.apple.com
@@ -484,7 +485,6 @@ help.origin-apple.com.akadns.net
 hls.itunes.apple.com
 hls.itunes.apple.com.edgesuite.net
 hls-svod-aoc.itunes.apple.com.edgesuite.net
-hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes.apple.com.edgesuite.net
 hostmaster.shop-apple.com
@@ -511,6 +511,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
