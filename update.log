@@ -57977,3 +57977,42 @@ Mon Mar 31 09:20:19 AM MSK 2025                ext-dns-vpnhosts.txt  >ext-resolv
 Mon Mar 31 09:25:53 AM MSK 2025                ext-dns-youtube.txt  >ext-resolve-youtube.txt
 [master ee4b0fc8] auto-update ipv4
  17 files changed, 47909 insertions(+), 433 deletions(-)
+[master 997b6656] auto-update merged
+ 30 files changed, 39684 insertions(+), 1204 deletions(-)
+ create mode 100644 merged/ipv4-tiktok.cidr
+
+
+
+--------------------------------------------------------------------------------
+Tue Apr  1 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
