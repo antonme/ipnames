@@ -58479,3 +58479,11 @@ Sun Apr  6 10:05:20 AM MSK 2025                dns-ozon.txt  >resolve-ozon.txt
 Sun Apr  6 10:06:38 AM MSK 2025                dns-pornhub.txt  >resolve-pornhub.txt
 Sun Apr  6 10:08:38 AM MSK 2025                dns-surfshark.txt  >resolve-surfshark.txt
 Sun Apr  6 10:14:44 AM MSK 2025                dns-tiktok.txt  >resolve-tiktok.txt
+[master 4b2557d1] auto-update merged
+ 44 files changed, 17920 insertions(+), 11926 deletions(-)
+ create mode 100644 merged/ipv4-expressvpn.cidr
+ create mode 100644 merged/ipv4-surfshark.cidr
+Sun Apr  6 11:03:05 AM MSK 2025                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Sun Apr  6 11:14:09 AM MSK 2025                dns-twitter.txt  >resolve-twitter.txt
+Sun Apr  6 11:23:41 AM MSK 2025                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Sun Apr  6 11:23:48 AM MSK 2025                dns-youtube.txt  >resolve-youtube.txt
