@@ -60,6 +60,7 @@ amp-api.videos.apple.com.edgesuite.net
 a.ns.apple.com
 aod.itunes.apple.com
 aod.itunes.apple.com.edgesuite.net
+aod.itunes.g.aaplimg.com
 api2.smoot.apple.com
 api-adservices.apple.com
 api.apple-cloudkit.com
@@ -79,6 +80,7 @@ api-glb-aeuc1b.smoot.apple.com
 api-glb-aeun1a.smoot.apple.com
 api-glb-aeun1b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
+api-lookup-aeun1a.smoot.apple.com
 api-safari-aaps1b.smoot.apple.com
 api-safari-aeun1a.smoot.apple.com
 api-safari.smoot.apple.com
@@ -106,6 +108,7 @@ apps.itunes-nocookie.com
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
+apps.mzstatic.com-v1.edgesuite.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
 apptrailers.itunes.apple.com
 apptrailers-ssl.itunes.apple.com
@@ -254,6 +257,7 @@ developer.apple.com
 device-config.pcms.apple.com
 devimages-cdn.apple.com
 devimages-cdn.origin-apple.com.akadns.net
+diatryma.apple.com
 discussions.apple.com
 discussions.apple.com.edgekey.net
 d.ns.apple.com
@@ -267,6 +271,7 @@ downloaddispatch-cdn.itunes-apple.com.akadns.net
 downloaddispatch.itunes.apple.com
 downloaddispatch.itunes.apple.com.edgesuite.net
 edge-005.dkvib11.icloud-content.com
+edge-006.nlhfd1.icloud-content.com
 edge-006.usdal2.icloud-content.com
 edge-007.dkvib11.icloud-content.com
 edge-007.usdal2.icloud-content.com
@@ -278,6 +283,7 @@ edge-014.dkvib11.icloud-content.com
 edge-017.deber3.icloud-content.com
 edge-020.dkvib11.icloud-content.com
 edge-020.usdal2.icloud-content.com
+edge-021.dkvib11.icloud-content.com
 edge-025.dedus1.icloud-content.com
 edge-025.dkvib11.icloud-content.com
 edge-026.dkvib11.icloud-content.com
@@ -287,11 +293,14 @@ edge-029.dkvib11.icloud-content.com
 edge-030.defra2.icloud-content.com
 edge-030.usdal2.icloud-content.com
 edge-031.dedus1.icloud-content.com
+edge-031.dkvib11.icloud-content.com
 edge-035.dkvib11.icloud-content.com
 edge-035.nlhfd1.icloud-content.com
 edge-037.dkvib11.icloud-content.com
+edge-040.defra2.icloud-content.com
 edge-040.dkvib11.icloud-content.com
 edge-041.usmin.icloud-content.com
+edge-044.dkvib11.icloud-content.com
 edge-046.nlhfd1.icloud-content.com
 edge-047.dkvib11.icloud-content.com
 edge-048.dkvib11.icloud-content.com
@@ -309,6 +318,7 @@ edge-080.sesto4.icloud-content.com
 edge-083.sesto4.icloud-content.com
 edge-088.sesto4.icloud-content.com
 edge-090.sesto4.icloud-content.com
+edge-091.defra2.icloud-content.com
 edge-092.sesto4.icloud-content.com
 edge-094.sesto4.icloud-content.com
 edge-095.sesto4.icloud-content.com
@@ -335,6 +345,7 @@ edge-127.dkvib11.icloud-content.com
 edge-128.sesto4.icloud-content.com
 edge-129.sesto4.icloud-content.com
 edge-129.usdal2.icloud-content.com
+edge-131.defra2.icloud-content.com
 edge-131.sesto4.icloud-content.com
 edge-135.dkvib11.icloud-content.com
 edge-135.sesto4.icloud-content.com
@@ -346,6 +357,7 @@ edge-157.sesto4.icloud-content.com
 edge-160.sesto4.icloud-content.com
 edge-162.sesto4.icloud-content.com
 edge-163.sesto4.icloud-content.com
+edge-165.sesto4.icloud-content.com
 edge-171.sesto4.icloud-content.com
 edge-174.sesto4.icloud-content.com
 edge-175.sesto4.icloud-content.com
@@ -355,6 +367,7 @@ edge-180.sesto4.icloud-content.com
 edge-182.sesto4.icloud-content.com
 edge-183.sesto4.icloud-content.com
 edge-186.sesto4.icloud-content.com
+edge-190.sesto4.icloud-content.com
 edge-192.sesto4.icloud-content.com
 edge-195.sesto4.icloud-content.com
 edge-196.sesto4.icloud-content.com
@@ -364,9 +377,11 @@ edge-200.sesto4.icloud-content.com
 edge-201.sesto4.icloud-content.com
 edge-203.sesto4.icloud-content.com
 edge-205.sesto4.icloud-content.com
+edge-210.nlhfd1.icloud-content.com
 edge-210.sesto4.icloud-content.com
 edge-211.sesto4.icloud-content.com
 edge-212.sesto4.icloud-content.com
+edge-214.sesto4.icloud-content.com
 edge-215.sesto4.icloud-content.com
 edge-216.sesto4.icloud-content.com
 edge-218.sesto4.icloud-content.com
@@ -379,6 +394,7 @@ edge-237.sesto4.icloud-content.com
 edge-238.sesto4.icloud-content.com
 edge-241.sesto4.icloud-content.com
 edge-245.sesto4.icloud-content.com
+edge-247.sesto4.icloud-content.com
 edge-249.sesto4.icloud-content.com
 edge-251.sesto4.icloud-content.com
 edge-252.sesto4.icloud-content.com
@@ -436,6 +452,10 @@ gdmf-ados.apple.com
 gdmf.apple.com
 genius-3.itunes.apple.com
 genius-3.itunes.apple.com.edgekey.net
+genius-download-2.apps-apple.com.akadns.net
+genius-download-2.itunes.apple.com
+genius-upload-2.apps-apple.com.akadns.net
+genius-upload-2.itunes.apple.com
 geo.itunes.apple.com
 graffiti-tags.apple.com
 graffiti-tags.apple.com.edgesuite.net
@@ -496,6 +516,7 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -510,6 +531,7 @@ help-ar.apple.com.edgekey.net
 help.origin-apple.com.akadns.net
 hls.itunes.apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
+hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes.apple.com.edgesuite.net
 hostmaster.shop-apple.com
@@ -660,7 +682,6 @@ notes-analytics-events.apple.com
 np-edge.itunes.apple.com
 np-edge.itunes.apple.com.edgesuite.net
 nserver.apple.com
-ntp.ecslb.sjtu.edu.cn
 ocsp2.apple.com
 ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
@@ -1104,7 +1125,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 websitereview.corp.apple.com
 wps.apple.com
@@ -1112,7 +1132,6 @@ wps.v.aaplimg.com
 wu.apple.com.akadns.net
 wu-calculator.apple.com
 wu-mdn.apple.com.akadns.net
-www.airport.us
 www.apple.com
 www.apple.com.cn
 www.apple.com.cn.edgekey.net
@@ -1122,16 +1141,12 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
-www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
-www.itools.info
 www.portal-repair-uat-apple.com
-www.thinkdifferent.us
 xp.apple.com
 xp.apple.com.edgekey.net
 xp-daf.apple.com.edgekey.net
