@@ -2807,7 +2807,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -3850,6 +3849,7 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp.pki.goog
@@ -7209,6 +7209,7 @@ tnc16-platform-alisg.tiktokv.com.edgekey.net
 tnc16-platform-useast1a.tiktokv.com
 tn.lazerpenguin.com
 tokenized.play.google.com
+tokenserver.prod.cloudops.mozgcp.net
 tokui-commerce.adobe.com
 to.lazerpenguin.com
 ton.twitter.com
@@ -7622,6 +7623,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
