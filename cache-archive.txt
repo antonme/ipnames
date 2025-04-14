@@ -275,6 +275,7 @@ amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
 amp-api-updates.apps.apple.com
 amp-api-updates.apps.apple.com.edgesuite.net
+amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api-videos-akam.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
@@ -2830,7 +2831,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -4253,6 +4253,7 @@ panama-ca-version-2.expressnetw.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 pando-bliptk1.googleapis.com
 pandora-cdn.adobe.com
 pangolin16.isnssdk.com
@@ -7132,7 +7133,6 @@ sxtm.adobeaemcloud.com
 sxyj.withgoogle.com
 sydney.bing.com
 sydney.bing.com.edgekey.net
-sydney-sydney-bing-com.trafficmanager.net
 sy.lazerpenguin.com
 sylvan.apple.com
 sync-cdn.itunes-apple.com.akadns.net
@@ -7676,6 +7676,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com

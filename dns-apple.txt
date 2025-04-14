@@ -54,6 +54,7 @@ amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
 amp-api-updates.apps.apple.com
 amp-api-updates.apps.apple.com.edgesuite.net
+amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api-videos-akam.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
@@ -558,7 +559,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -906,6 +906,7 @@ p72-content.icloud.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 partiality.itunes.apple.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com.edgekey.net
@@ -1127,6 +1128,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier.push.apple.com
 websitereview.corp.apple.com
 wps.apple.com
