@@ -189,6 +189,7 @@ cf.iadsdk.apple.com
 ckdatabasews.icloud.com
 cl1.apple.com
 cl1-cdn.origin-apple.com.akadns.net
+cl1-cdn-us.origin-apple.com.akadns.net
 cl2.apple.com
 cl2.apple.com.c.footprint.net
 cl2-cdn.origin-apple.com.akadns.net
@@ -238,6 +239,7 @@ courier-ab-vs.push-apple.com.akadns.net
 courier-push-apple.com.akadns.net
 cpcontacts.br-apple.com
 crl.apple.com
+croissant.cdn-apple.com
 csig.apple.com
 csig.g.apple.com
 cstat.apple.com.edgesuite.net
@@ -262,6 +264,7 @@ devimages-cdn.origin-apple.com.akadns.net
 diatryma.apple.com
 discussions.apple.com
 discussions.apple.com.edgekey.net
+dkvib11.icloud-content.com
 d.ns.apple.com
 dns.apple.com
 dns.apple.com.v.aaplimg.com
@@ -322,6 +325,7 @@ edge-088.sesto4.icloud-content.com
 edge-090.sesto4.icloud-content.com
 edge-091.defra2.icloud-content.com
 edge-092.sesto4.icloud-content.com
+edge-093.defra2.icloud-content.com
 edge-094.sesto4.icloud-content.com
 edge-095.sesto4.icloud-content.com
 edge-099.sesto4.icloud-content.com
@@ -331,6 +335,7 @@ edge-104.usdal2.icloud-content.com
 edge-110.sesto4.icloud-content.com
 edge-112.sesto4.icloud-content.com
 edge-113.sesto4.icloud-content.com
+edge-114.defra2.icloud-content.com
 edge-114.sesto4.icloud-content.com
 edge-115.sesto4.icloud-content.com
 edge-119.sesto4.icloud-content.com
@@ -401,6 +406,7 @@ edge-249.sesto4.icloud-content.com
 edge-251.sesto4.icloud-content.com
 edge-252.sesto4.icloud-content.com
 edge-254.sesto4.icloud-content.com
+edge-256.defra2.icloud-content.com
 edge-260.sesto4.icloud-content.com
 edge-261.sesto4.icloud-content.com
 edge-262.sesto4.icloud-content.com
@@ -518,6 +524,7 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -532,6 +539,7 @@ help-ar.apple.com.edgekey.net
 help.origin-apple.com.akadns.net
 hls.itunes.apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
+hls-svod-aoc-ve.itunes.g.aaplimg.com
 hls-svod.itunes.apple.com
 hls-svod.itunes.apple.com.edgesuite.net
 hostmaster.shop-apple.com
@@ -687,7 +695,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -726,6 +733,7 @@ p111-mccgateway.icloud.com
 p111-quota.icloud.com
 p112-iwnr-china.icloud.com
 p113-availability.icloud.com
+p113-content.icloud.com
 p115-content.icloud.com
 p117-availability.icloud.com
 p117-content.icloud.com
@@ -762,6 +770,7 @@ p129-keyvalueservice.icloud.com
 p129-quota.icloud.com
 p130-contacts.icloud.com
 p130-content.icloud.com
+p132-content.icloud.com
 p139-acsegateway.icloud.com
 p139-archivews.icloud.com
 p139-caldav.icloud.com
@@ -906,7 +915,6 @@ p72-content.icloud.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
-pancake.g.aaplimg.com
 partiality.itunes.apple.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com.edgekey.net
@@ -917,6 +925,7 @@ pd.itunes.apple.com
 pds.ess.apple.com
 pds-init.ess.apple.com
 pds-init.ess.apple.com.edgesuite.net
+ph2.itunes.apple.com
 phobos.apple.com
 play-cdn.itunes-apple.com.akadns.net
 play-edge.itunes.apple.com
@@ -1128,7 +1137,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 websitereview.corp.apple.com
 wps.apple.com
@@ -1136,6 +1144,7 @@ wps.v.aaplimg.com
 wu.apple.com.akadns.net
 wu-calculator.apple.com
 wu-mdn.apple.com.akadns.net
+www.airport.us
 www.apple.com
 www.apple.com.cn
 www.apple.com.cn.edgekey.net
@@ -1147,10 +1156,13 @@ www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
+www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
+www.itools.info
 www.portal-repair-uat-apple.com
+www.thinkdifferent.us
 xp.apple.com
 xp.apple.com.edgekey.net
 xp-daf.apple.com.edgekey.net
