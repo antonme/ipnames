@@ -59308,3 +59308,41 @@ Wed Apr 16 08:27:42 AM MSK 2025                dns-vpnhosts.txt  >resolve-vpnhos
 Wed Apr 16 08:27:49 AM MSK 2025                dns-youtube.txt  >resolve-youtube.txt
 [master 5ae0fc7a] auto-update ipv4
  19 files changed, 1745 insertions(+), 16456 deletions(-)
+[master ccfc065a] auto-update merged
+ 25 files changed, 2068 insertions(+), 10406 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Thu Apr 17 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive

@@ -80,6 +80,7 @@ api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
 api-glb-aeun1a.smoot.apple.com
 api-glb-aeun1b.smoot.apple.com
+api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
 api-lookup-aeun1a.smoot.apple.com
 api-safari-aaps1b.smoot.apple.com
@@ -120,6 +121,7 @@ asa.commerce.apple.com.edgesuite.net
 assets-mercury.mzstatic.com
 associate.itunes.apple.com
 attester.gateway.icloud.com
+audio.itunes.apple.com
 auth.itunes.apple.com
 authorize.music.apple.com.edgekey.net
 autodiscover.icloud.com.login-us.me
@@ -333,6 +335,7 @@ edge-099.sesto4.icloud-content.com
 edge-100.sesto4.icloud-content.com
 edge-101.sesto4.icloud-content.com
 edge-104.usdal2.icloud-content.com
+edge-109.defra2.icloud-content.com
 edge-110.sesto4.icloud-content.com
 edge-112.sesto4.icloud-content.com
 edge-113.sesto4.icloud-content.com
@@ -390,12 +393,14 @@ edge-210.nlhfd1.icloud-content.com
 edge-210.sesto4.icloud-content.com
 edge-211.sesto4.icloud-content.com
 edge-212.sesto4.icloud-content.com
+edge-213.sesto4.icloud-content.com
 edge-214.sesto4.icloud-content.com
 edge-215.sesto4.icloud-content.com
 edge-216.sesto4.icloud-content.com
 edge-218.sesto4.icloud-content.com
 edge-219.sesto4.icloud-content.com
 edge-220.sesto4.icloud-content.com
+edge-226.sesto4.icloud-content.com
 edge-229.sesto4.icloud-content.com
 edge-232.sesto4.icloud-content.com
 edge-233.sesto4.icloud-content.com
@@ -409,10 +414,13 @@ edge-251.sesto4.icloud-content.com
 edge-252.sesto4.icloud-content.com
 edge-254.sesto4.icloud-content.com
 edge-256.defra2.icloud-content.com
+edge-257.defra2.icloud-content.com
 edge-260.sesto4.icloud-content.com
 edge-261.sesto4.icloud-content.com
 edge-262.sesto4.icloud-content.com
 edge-264.sesto4.icloud-content.com
+edge-266.sesto4.icloud-content.com
+edge-268.sesto4.icloud-content.com
 edge-269.sesto4.icloud-content.com
 edge-271.sesto4.icloud-content.com
 edge-278.sesto4.icloud-content.com
@@ -491,6 +499,8 @@ gsp47-ssl.ls.apple.com
 gsp47-ssl.ls-apple.com.akadns.net
 gsp51-ssl-ds.ls-apple.com.akadns.net
 gsp51-ssl.ls.apple.com
+gsp53-ssl.ls.apple.com
+gsp53-ssl.ls-apple.com.akadns.net
 gsp57-ssl-background.ls.apple.com
 gsp57-ssl-background.ls-apple.com.akadns.net
 gsp57-ssl-locus.ls.apple.com
@@ -527,6 +537,7 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -535,6 +546,8 @@ gsp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 gspx57-ssl-background.ls.apple.com
 gspx-ssl.ls.apple.com
+gsra.apple.com
+gsra.apple.com.v.aaplimg.com
 guzzoni.apple.com
 help.apple.com
 help-ar.apple.com.edgekey.net
@@ -568,7 +581,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -802,6 +814,7 @@ p139-setup.icloud.com
 p140-ckdatabasews.icloud.com
 p140-content.icloud.com
 p142-content.icloud.com
+p144-content.icloud.com
 p146-content.icloud.com
 p148-content.icloud.com
 p152-content.icloud.com
@@ -810,10 +823,12 @@ p156-content.icloud.com
 p158-content.icloud.com
 p160-content.icloud.com
 p162-content.icloud.com
+p165-content.icloud.com
 p166-fmipmobile.icloud.com
 p168-contacts.icloud.com
 p16-buy.itunes.apple.com
 p16-buy-lb.itunes-apple.com.akadns.net
+p171-content.icloud.com
 p22-calendars.icloud.com
 p23-content.icloud.com
 p24-content.icloud.com
@@ -1143,6 +1158,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier.push.apple.com
 websitereview.corp.apple.com
 wps.apple.com
@@ -1160,7 +1176,6 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
