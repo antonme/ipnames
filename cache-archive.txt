@@ -437,6 +437,7 @@ appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.edgekey.net
 apple-mapkit.com
 applepay.cdn-apple.com
+applink.instagram.com
 app-measurement.com
 apps.apple.com
 apps.apple.com.edgekey.net
@@ -456,6 +457,7 @@ apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
 apps.mzstatic.com-v1.edgesuite.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
+app.snapchat.com
 appspot.com
 apptrailers.itunes.apple.com
 apptrailers-ssl.itunes.apple.com
@@ -509,6 +511,7 @@ assets.adobe.com
 assets.adobedtm.com
 assets-helper.adobe.io
 assets-mercury.mzstatic.com
+associate.itunes.apple.com
 assuredoverseas.com
 astockcdn.net
 at1yqght.mqj5b0z.giyevhtho3zopt0.dsnglii06wq2.amup.ttymjvyop0.semizuq.8.aaumbbiz.wlnh.os4l3jyyk0ofewaeojnpfswwmdnb.ujyxvggvr6v.v24u7lkcj8ujjhzlv.shofha.online
@@ -1102,6 +1105,8 @@ checkups.adobeaemcloud.com
 chile-ca-version-2.expressnetw.com
 ch.lazerpenguin.com
 chrome.google.com
+chromesyncentities-pa.googleapis.com
+chromesyncpasswords-pa.googleapis.com
 chromewebstore.google.com
 chuarao.googleapis.com
 chuoha.withgoogle.com
@@ -1483,6 +1488,7 @@ deadline.tt.uz
 dealczars.bing-shopping.microsoft-falcon.io
 deb72888f3cc82539d748490f855cf13.safeframe.googlesyndication.com
 debate-game.openai.com
+deber3.icloud-content.com
 de-ber.prod.surfshark.com
 deepmind.google
 defdf8068232f76e19175f91e46e3e8f.safeframe.googlesyndication.com
@@ -1784,6 +1790,7 @@ edge-064.nlhfd1.icloud-content.com
 edge-067.defra2.icloud-content.com
 edge-070.defra2.icloud-content.com
 edge-070.usdal2.icloud-content.com
+edge-072.deber3.icloud-content.com
 edge-073.usdal2.icloud-content.com
 edge-077.sesto4.icloud-content.com
 edge-080.sesto4.icloud-content.com
@@ -2097,6 +2104,7 @@ fides-pol.apple.com
 fides-pol.cdn-apple.com.akadns.net
 fi-hel.prod.surfshark.com
 fi.lazerpenguin.com
+files07.oaiusercontent.com
 files.oaiusercontent.com
 filmable.adobeaemcloud.com
 finance-app-cdn.itunes-apple.com.akadns.net
@@ -2434,9 +2442,11 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
+gsp-ssl-commute.ls.apple.com
 gsp-ssl-geomap.ls-apple.com.akadns.net
 gsp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
@@ -2724,6 +2734,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -3150,6 +3161,7 @@ lh4.googleusercontent.com
 lh5.googleusercontent.com
 lh6.googleusercontent.com
 lh7jffrevej-496ff2e9c6d22116-0-colab.googleusercontent.com
+lh7-us.googleusercontent.com
 lhvkywatzgagefd.githubusercontent.com
 li7a.githubusercontent.com
 liadeng.adobeaemcloud.com
@@ -4920,6 +4932,7 @@ pre-enforcement.googleapis.com
 preprod-voilatile-pa.googleapis.com
 presence-an1.adobe.io
 preview.illustrator.adobe.com
+priceline.com
 primegoogle.com
 primeminister.githubusercontent.com
 private-user-images.githubusercontent.com
@@ -4952,6 +4965,8 @@ programattik.rtb.ak-tt.net
 prolegislative.githubusercontent.com
 protobasidiomycetes.adobeaemcloud.net
 proxsee.pscp.tv
+pr-pod10-smp-device.apple.com
+pr-pod10-smp-device.gcsis-apple.com.akadns.net
 pr-pod1-smp-device.apple.com
 pr-pod1-smp-device.gcsis-apple.com.akadns.net
 pr-pod2-smp-device.apple.com
@@ -5918,6 +5933,7 @@ rr2---sn-p5qlsn7l.googlevideo.com
 rr2---sn-p5qlsndd.googlevideo.com
 rr2---sn-p5qlsndk.googlevideo.com
 rr2---sn-p5qlsndr.googlevideo.com
+rr2---sn-p5qlsnrr.googlevideo.com
 rr2---sn-p5qs7n6d.googlevideo.com
 rr2---sn-p5qs7nsk.googlevideo.com
 rr2---sn-p5qs7nzk.googlevideo.com
@@ -6044,10 +6060,12 @@ rr3---sn-n8v7znss.googlevideo.com
 rr3---sn-p5qddn7d.googlevideo.com
 rr3---sn-p5qddn7r.googlevideo.com
 rr3---sn-p5qlsn6l.googlevideo.com
+rr3---sn-p5qlsn76.googlevideo.com
 rr3---sn-p5qlsn7d.googlevideo.com
 rr3---sn-p5qlsn7l.googlevideo.com
 rr3.sn-p5qlsnd6.googlevideo.com
 rr3---sn-p5qlsnd6.googlevideo.com
+rr3---sn-p5qlsnrl.googlevideo.com
 rr3.sn-p5qlsny6.googlevideo.com
 rr3---sn-p5qlsny6.googlevideo.com
 rr3---sn-p5qs7n6d.googlevideo.com
@@ -6207,9 +6225,11 @@ rr4---sn-n8v7znz7.googlevideo.com
 rr4---sn-n8v7znzl.googlevideo.com
 rr4---sn-p5qddn76.googlevideo.com
 rr4---sn-p5qddn7r.googlevideo.com
+rr4.sn-p5qlsn6l.googlevideo.com
 rr4---sn-p5qlsn6l.googlevideo.com
 rr4---sn-p5qlsn76.googlevideo.com
 rr4---sn-p5qlsn7d.googlevideo.com
+rr4---sn-p5qlsndr.googlevideo.com
 rr4---sn-p5qlsndz.googlevideo.com
 rr4---sn-p5qlsnrr.googlevideo.com
 rr4---sn-p5qlsny6.googlevideo.com
@@ -6217,6 +6237,7 @@ rr4---sn-p5qs7n6d.googlevideo.com
 rr4.sn-p5qs7nzk.googlevideo.com
 rr4---sn-p5qs7nzk.googlevideo.com
 rr4---sn-p5qs7nzr.googlevideo.com
+rr4---sn-p5qs7nzy.googlevideo.com
 rr4---sn-q4fl6n66.googlevideo.com
 rr4---sn-q4fl6n6s.googlevideo.com
 rr4---sn-q4fl6ndz.googlevideo.com
@@ -6347,6 +6368,7 @@ rr5.sn-p5qddn76.googlevideo.com
 rr5---sn-p5qddn76.googlevideo.com
 rr5---sn-p5qddn7d.googlevideo.com
 rr5---sn-p5qlsn6l.googlevideo.com
+rr5---sn-p5qlsn76.googlevideo.com
 rr5---sn-p5qlsn7l.googlevideo.com
 rr5---sn-p5qlsn7s.googlevideo.com
 rr5---sn-p5qlsnd6.googlevideo.com
@@ -6683,6 +6705,7 @@ scontent-sin6-2.cdninstagram.com
 scontent-sin6-2.xx.fbcdn.net
 scontent-sin6-4.cdninstagram.com
 scontent-sin6-4.xx.fbcdn.net
+scontent-sjc3-1.xx.fbcdn.net
 scontent-sof1-1.cdninstagram.com
 scontent-sof1-1.xx.fbcdn.net
 scontent-sof1-2.cdninstagram.com
@@ -7683,7 +7706,6 @@ www4.l.google.com
 www.accounts.google.com.home.setia.ru
 www.accounts.google.com.sync15.com
 www.adobe.com
-www.airport.us
 www.anthropic.com
 www.anthropic.com.cdn.cloudflare.net
 www.apple.com
@@ -7798,7 +7820,6 @@ www.googlevideo.com
 www.gstatic.com
 www.homedecordiy.tweetyy.site
 www.hosting.github.com
-www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
@@ -7811,7 +7832,6 @@ www.instagram.ecofashionnights.com
 www.instagram-follower.com
 www.instagrammarketingexcellence.teemor.com
 www.instagramtraining-net.partnerwithacoach.com
-www.itools.info
 www.kamin-tt54.skidku-day4.ru
 www.lejanoverseas.com
 www.linoverseas.com
@@ -7840,7 +7860,6 @@ www.sistem.instagramhub.com
 www.sof.withgoogle.com
 www.star.googleapis.com
 www.the-instagram-team.com
-www.thinkdifferent.us
 www.tiktokbot.co
 www.tiktok.com
 www.tiktok.com.edgesuite.net
