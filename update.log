@@ -60204,3 +60204,11 @@ Sun Apr 27 10:13:46 AM MSK 2025                dns-openai.txt  >resolve-openai.t
 Sun Apr 27 10:17:17 AM MSK 2025                dns-ozon.txt  >resolve-ozon.txt
 Sun Apr 27 10:18:39 AM MSK 2025                dns-pornhub.txt  >resolve-pornhub.txt
 Sun Apr 27 10:20:50 AM MSK 2025                dns-surfshark.txt  >resolve-surfshark.txt
+[master d913aa6a] auto-update merged
+ 40 files changed, 7108 insertions(+), 5528 deletions(-)
+ delete mode 100644 merged/ipv4-surfshark.cidr
+Sun Apr 27 10:27:19 AM MSK 2025                dns-tiktok.txt  >resolve-tiktok.txt
+Sun Apr 27 11:19:11 AM MSK 2025                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Sun Apr 27 11:30:21 AM MSK 2025                dns-twitter.txt  >resolve-twitter.txt
+Sun Apr 27 11:40:04 AM MSK 2025                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Sun Apr 27 11:40:11 AM MSK 2025                dns-youtube.txt  >resolve-youtube.txt
