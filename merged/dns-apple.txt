@@ -1696,6 +1696,7 @@ amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api-videos-akam.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
+amp-api.videos.apple.com.edgesuite.net
 amp-assets.cdn-apple.com
 amp-assets-sliced.cdn-apple.com
 amp-eng-sg-l7-1.asia.apple.com
@@ -4149,6 +4150,7 @@ edge-170.hkhkg-4.icloud-content.com
 edge-170.jposa3.icloud-content.com
 edge-170.sesto4.icloud-content.com
 edge-170.zamrd1.icloud-content.com
+edge-171.sesto4.icloud-content.com
 edge-171.sgsin8.icloud-content.com
 edge-171.zamrd1.icloud-content.com
 edge-172.deber3.icloud-content.com
@@ -4619,6 +4621,7 @@ edge-277.usdal2.icloud-content.com
 edge-277.usmsc2.icloud-content.com
 edge-278.hkhkg-edge-260.icloud-content.com
 edge-278.jposa3.icloud-content.com
+edge-278.sesto4.icloud-content.com
 edge-279.deber3.icloud-content.com
 edge-279.hkhkg.icloud-content.com
 edge-279.jposa3.icloud-content.com
@@ -7687,6 +7690,7 @@ gspe21-ssl-carry-row.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com
 gspe21-ssl.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com.edgekey.net
+gspe21-ssl.ls.apple.com.edgesuite.net
 gspe35-applecdn-cutover.ls-apple.com.akadns.net
 gspe35-ssl-carry.ls.apple.com
 gspe35-ssl.ls.apple.com
@@ -7704,6 +7708,7 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl.ls.apple.com
@@ -8187,6 +8192,7 @@ imag02.apple.com
 images01.info.apple.com
 images03.info.apple.com
 images.apple.com
+images-mercury.mzstatic.com
 imaging.apple.com
 imap.mail.me.com
 imap.mail.me.com.akadns.net
@@ -12216,7 +12222,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -12382,7 +12387,6 @@ osvcomm-prod.mdn.apple.com
 osvcomm-prod.prz.apple.com
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
-osxapps.itunes.g.aaplimg.com
 otocacheit.apple.com
 otocachet.apple.com
 otoit.cdn-apple.com
@@ -13895,6 +13899,7 @@ p111-ckshare.icloud.com
 p111-contacts.icloud.com
 p111-contactsws.icloud.com
 p111-content.icloud.com
+p111-escrowproxy.icloud.com
 p111-fmf.icloud.com
 p111-fmfmail-china.icloud.com
 p111-fmfmail.icloud.com
@@ -14208,6 +14213,7 @@ p116-streams-china.icloud.com
 p116-streams.icloud.com
 p116-ubiquityws.icloud.com
 p117-acsegateway.icloud.com
+p117-availability.icloud.com
 p117-bookmarks-china.icloud.com
 p117-calendarws.icloud.com
 p117-ckcoderouter-china.icloud.com
@@ -14949,6 +14955,7 @@ p130-ckshare-china.icloud.com
 p130-contacts-china.icloud.com
 p130-contacts.icloud.com
 p130-contactsws.icloud.com
+p130-content.icloud.com
 p130-dteleworkcws.icloud.com
 p130-escrowproxy-china.icloud.com
 p130-feedbackws.icloud.com
@@ -15629,6 +15636,7 @@ p142-ckdevice.icloud.com
 p142-ckshare.icloud.com
 p142-contacts-china.icloud.com
 p142-contactsws.icloud.com
+p142-content.icloud.com
 p142-docws.icloud.com
 p142-drivews-china.icloud.com
 p142-escrowproxy-china.icloud.com
@@ -20383,6 +20391,7 @@ p45-keyvalueservice-china.icloud.com
 p45-keyvalueservice.icloud.com
 p45-mailws.icloud.com
 p45-mcc.icloud.com
+p45-mobilebackup.icloud.com
 p45-quota-china.icloud.com
 p45-remindersws.icloud.com
 p45-setup-china.icloud.com
@@ -23240,6 +23249,7 @@ secure.ucp5-storeint.apple.com
 security.apple.com
 sed.apple.com
 seed-condor-aeuw1b.smoot.apple.com
+seed-diatryma.siri.apple.com
 seeddownload.cdn-apple.com
 seed-eagle-aapse1b.smoot.apple.com
 seed-eagle-aeuw1a.smoot.apple.com
@@ -23317,6 +23327,7 @@ sfcdownloaduat.cdn-apple.com
 sfft.apple.com
 sfodownload.cdn-apple.com
 sfo.mediaedge-360.sesto4.me.icloud-content.com
+sf-saas.cdn-apple.com
 sf-saas-ext.apple.com
 sfss.cdn-apple.com
 sg01p01sa.apple.com
@@ -23579,6 +23590,7 @@ spaceengineers.apple.com
 spam.bite.me.com
 spapp.apple.com
 spare0004.ms20.siri.apple.com
+sp-cdn.itunes-apple.com.akadns.net
 specter.apple.com
 speech.apple.com
 speechtest2.apple.com
@@ -25281,6 +25293,7 @@ weather-data-usmsc04-origin.apple.com
 weather-data-usspk05-origin.apple.com
 weather-edge.apple.com
 weatherkit.apple.com
+weatherkit.apple.com.akadns.net
 weather-map2.apple.com
 weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
