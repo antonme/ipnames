@@ -3,6 +3,7 @@ a1b8892e-4b87-43c6-a00b-79fd18fb15e6.apple.com.v.aaplimg.com
 a935.phobos.apple.com.edgesuite.net
 aaplimg.com
 ab.apple.com.akadns.net
+acsegateway.icloud.com
 aidc.apple.com
 aidc.origin-apple.com.akadns.net
 albert.apple.com
@@ -60,7 +61,6 @@ amp-api.videos.apple.com.edgesuite.net
 a.ns.apple.com
 aod.itunes.apple.com
 aod.itunes.apple.com.edgesuite.net
-aod.itunes.g.aaplimg.com
 api2.smoot.apple.com
 api-adservices.apple.com
 api.apple-cloudkit.com
@@ -143,6 +143,7 @@ cabana-config.cdn-apple.com
 cabana-server.cdn-apple.com
 cabana-server.lb-apple.com.akadns.net
 ca.iadsdk.apple.com
+ca.iadsdk.apple.com.akadns.net
 caldav.icloud.com
 calendars.icloud.com
 c.apple.news
@@ -448,6 +449,7 @@ help.origin-apple.com.akadns.net
 hls.itunes.apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
 hls-svod.itunes.apple.com
+hls-svod.itunes-apple.com.akadns.net
 hls-svod.itunes.apple.com.edgesuite.net
 hostmaster.shop-apple.com
 humb.apple.com
@@ -600,7 +602,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -611,6 +612,7 @@ osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
 p04-fmip.icloud.com
 p06-fmip.icloud.com
+p105-availability.icloud.com
 p105-sharedstreams.icloud.com
 p107-acsegateway.icloud.com
 p107-caldav.icloud.com
@@ -637,8 +639,10 @@ p111-fmip.icloud.com
 p111-fmipmobile.icloud.com
 p111-quota.icloud.com
 p112-iwnr-china.icloud.com
+p115-content.icloud.com
 p117-availability.icloud.com
 p117-content.icloud.com
+p117-sharedstreams.icloud.com
 p122-acsegateway.icloud.com
 p122-caldav.icloud.com
 p122-ckdatabase.icloud.com
@@ -697,18 +701,22 @@ p139-quota.icloud.com
 p139-remindersws.icloud.com
 p139-setup.icloud.com
 p140-ckdatabasews.icloud.com
+p140-content.icloud.com
 p142-content.icloud.com
 p144-content.icloud.com
 p146-content.icloud.com
 p152-content.icloud.com
 p154-content.icloud.com
 p156-content.icloud.com
+p158-content.icloud.com
 p160-content.icloud.com
 p162-content.icloud.com
+p164-content.icloud.com
 p166-fmipmobile.icloud.com
 p168-contacts.icloud.com
 p16-buy.itunes.apple.com
 p16-buy-lb.itunes-apple.com.akadns.net
+p177-content.icloud.com
 p22-calendars.icloud.com
 p23-content.icloud.com
 p24-content.icloud.com
@@ -725,6 +733,7 @@ p28-content.icloud.com
 p29-content.icloud.com
 p29-imap.mail.me.com
 p29-imap.mail.me.com.akadns.net
+p29-mcc.icloud.com
 p29-smtp.mail.me.com
 p29-smtp.mail.me.com.akadns.net
 p2-buy.itunes.apple.com
@@ -842,6 +851,8 @@ profile.ess.apple.com
 profile.ess-apple.com.akadns.net
 profile.gc.apple.com
 profile.gc-apple.com.akadns.net
+pr-pod10-smp-device.apple.com
+pr-pod10-smp-device.gcsis-apple.com.akadns.net
 pr-pod1-smp-device.apple.com
 pr-pod1-smp-device.gcsis-apple.com.akadns.net
 pr-pod2-smp-device.apple.com
@@ -909,6 +920,7 @@ siri.apple.com
 smoot.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
+smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smtp.mail.me.com
@@ -983,6 +995,7 @@ time.apple.com
 time.euro.apple.com
 time-ios.apple.com
 tr.iadsdk.apple.com
+ts.apps-apple.com.akadns.net
 ts.itunes.apple.com
 unlinkability.apple.com
 updates.cdn-apple.com
@@ -1029,6 +1042,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier.push.apple.com
 websitereview.corp.apple.com
 wps.apple.com
