@@ -2644,6 +2644,7 @@ caffemacs-stage-ext.apple.com
 caffemacs-uat-alt-cert.apple.com
 caffemacs-uat-alt-gsp48-ssl-e1510.apple.com
 ca.iadsdk.apple.com
+ca.iadsdk.apple.com.akadns.net
 cajondelmaipo.info.apple.com
 calculushub-cmp.apple.com
 calculushub-dev.apple.com
@@ -7955,6 +7956,7 @@ hls-slive.itunes.apple.com.edgesuite.net
 hls-streaming.cdn-apple.com
 hls-svod-aoc.itunes.apple.com.edgesuite.net
 hls-svod.itunes.apple.com
+hls-svod.itunes-apple.com.akadns.net
 hls-svod.itunes.apple.com.edgesuite.net
 hlstv.hkhkg-2.icloud-content.com
 homepage.mac.com
@@ -13512,6 +13514,7 @@ p104-ubiquity.icloud.com
 p104-uploadimagews.icloud.com
 p105-acsegateway.icloud.com
 p105-archivews.icloud.com
+p105-availability.icloud.com
 p105-calendars-china.icloud.com
 p105-calendarws-china.icloud.com
 p105-ckcoderouter-china.icloud.com
@@ -16838,6 +16841,7 @@ p164-contacts.icloud.com
 p164-contactsws-china.icloud.com
 p164-contactsws.icloud.com
 p164-content-china.icloud.com
+p164-content.icloud.com
 p164-docws-china.icloud.com
 p164-docws.icloud.com
 p164-drivews.icloud.com
@@ -17505,6 +17509,7 @@ p177-ckdevice-china.icloud.com
 p177-ckshare.icloud.com
 p177-contacts.icloud.com
 p177-contactsws-china.icloud.com
+p177-content.icloud.com
 p177-docws.icloud.com
 p177-escrowproxy.icloud.com
 p177-feedbackws-china.icloud.com
@@ -19330,6 +19335,7 @@ p29-iworkthumbnailws-china.icloud.com
 p29-iwres.icloud.com
 p29-maildomainws.icloud.com
 p29-mccgateway.icloud.com
+p29-mcc.icloud.com
 p29-mobilebackup-china.icloud.com
 p29-p64-streams-chinathumbnailws-china.icloud.com
 p29-quota-china.icloud.com
@@ -22107,7 +22113,9 @@ providersharing-stbbdatamodule-dbging.health.apple.com
 provision.ess.apple.com
 proxy.hwet.apple.com
 pr-payments-partner-prod.apple.com
+pr-pod10-smp-device.apple.com
 pr-pod10-smp-device-asset-ccs.apple.com
+pr-pod10-smp-device.gcsis-apple.com.akadns.net
 pr-pod11-smp-device.apple.com
 pr-pod11-smp-device-asset-ccs.apple.com
 pr-pod12-smp-device.apple.com
@@ -24577,6 +24585,7 @@ tristar.g.apple.com
 trott-ccs.apple.com
 trott-tsm.apple.com
 truecompm.apple.com
+ts.apps-apple.com.akadns.net
 ts.itunes.apple.com
 tss-internal-mdn-pod1.apple.com
 tss-internal-mdn-pod2.apple.com
@@ -25316,6 +25325,7 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
+weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
