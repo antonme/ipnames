@@ -1721,7 +1721,6 @@ anger-management.tv.apple.com
 a.ns.apple.com
 aod.itunes.apple.com
 aod.itunes.apple.com.edgesuite.net
-aod.itunes.g.aaplimg.com
 aodp.assets.itunes.com
 aodp-ssl.itunes.apple.com
 aolauth-china-ic1.icloud.com
@@ -2804,6 +2803,7 @@ certs-nwk.apple.com
 certs-us-lb.apple.com.akadns.net
 cert-wallet.apple.com
 cf.iadsdk.apple.com
+cf.iadsdk.apple.com.akadns.net
 cf.iadsdk-stg.apple.com
 cgi5.training.apple.com
 ch01p00sa.apple.com
@@ -3874,6 +3874,7 @@ edge-092.sesto4.icloud-content.com
 edge-092.zamrd1.icloud-content.com
 edge-093.hkhkg-4.icloud-content.com
 edge-093.jptyo12.icloud-content.com
+edge-094.defra2.icloud-content.com
 edge-094.hkhkg.icloud-content.com
 edge-094.sesto4.icloud-content.com
 edge-094.zamrd1.icloud-content.com
@@ -6319,6 +6320,7 @@ gateway-china-ic1.icloud.com
 gateway-china.icloud.com
 gateway.icloud.com
 gatewayicperf-ic3.icloud.com
+gateway-oblivious.apple.com
 gateway.push.apple.com
 gateway.qa1.push.apple.com
 gateway-qa2-push.dslb.apple.com
@@ -12233,7 +12235,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -17560,6 +17561,7 @@ p178-calendarws.icloud.com
 p178-ckcoderouter.icloud.com
 p178-ckdatabasews.icloud.com
 p178-contactsws.icloud.com
+p178-content.icloud.com
 p178-docws-china.icloud.com
 p178-escrowproxy.icloud.com
 p178-feedbackws.icloud.com
@@ -17755,6 +17757,7 @@ p181-ckdevice-china.icloud.com
 p181-ckdevice.icloud.com
 p181-contacts-china.icloud.com
 p181-contactsws.icloud.com
+p181-content.icloud.com
 p181-docws.icloud.com
 p181-escrowproxy.icloud.com
 p181-feedbackws-china.icloud.com
@@ -22558,6 +22561,7 @@ recycling-st-old.apple.com
 redeem.apple.com
 redeem.itunes.apple.com
 redirect.healthhadoop.apple.com
+register.appattest.apple.com
 register.apple.com
 register-docs.apple.com
 register.euro.apple.com
@@ -24573,6 +24577,7 @@ transporter-secure.apple.com
 travelchat.apple.com
 tre.apple.com
 tr.iadsdk.apple.com
+tr.iadsdk.apple.com.akadns.net
 tr.iadsdk-r1.apple.com
 tr.iadsdk-stg.apple.com
 triana-appid-2.apple.com
@@ -24808,6 +24813,7 @@ use1-news-static-content-prod.apple.com
 use1-osvcomm-ui-dr.apple.com
 use1-peoplechat.apple.com
 use1-ppq-ext-prod.apple.com
+use1-register-appattest-prod-aws-prod.apple.com
 use1-rsa-platform-bridge.apple.com
 use1-safety-alert-prod.apple.com
 use1-shifts-isc.apple.com
@@ -25325,7 +25331,6 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
