@@ -1857,6 +1857,7 @@ api-glb-abt.smoot.apple.com
 api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
 api-glb-aeun1a.smoot.apple.com
+api-glb-aeun1b.smoot.apple.com
 api-glb-aeuw1c.smoot.apple.com
 api-glb-aeuw3b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
@@ -2454,9 +2455,11 @@ b2btest.apple.com
 background-weighted.ls4-apple.com.akadns.net
 backstage.apple.com
 bag-a1153.phobos.apple.com
+bag-cdn-akam.itunes-apple.com.akadns.net
 bag-cdn.itunes-apple.com.akadns.net
 bag-cdn-lb.itunes-apple.com.akadns.net
 bag.itunes.apple.com
+bag.itunes.apple.com.edgesuite.net
 banners.itunes.apple.com
 banners.store.apple.com
 banyan.apple.com
@@ -3718,6 +3721,7 @@ edge-034.edge-236-3.icloud-content.com
 edge-034.edge-394.icloud-content.com
 edge-034.sesto4.icloud-content.com
 edge-03537.sesto4.icloud-content.com
+edge-035.dkvib11.icloud-content.com
 edge-035.hkhkg.icloud-content.com
 edge-035.nlhfd1.icloud-content.com
 edge-035.sesto4.icloud-content.com
@@ -3981,6 +3985,7 @@ edge-126.sgsin8.icloud-content.com
 edge-127.sgsin8.icloud-content.com
 edge-127.zamrd1.icloud-content.com
 edge-128.193.usden.icloud-content.com
+edge-128.dkvib11.icloud-content.com
 edge-128.hkhkg.icloud-content.com
 edge-128.sesto4.icloud-content.com
 edge-128.zamrd1.icloud-content.com
@@ -8245,6 +8250,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -17177,6 +17183,7 @@ p170-ckdashboardws-china.icloud.com
 p170-ckshare.icloud.com
 p170-contacts-china.icloud.com
 p170-contactsws-china.icloud.com
+p170-content.icloud.com
 p170-docws-china.icloud.com
 p170-escrowproxy-china.icloud.com
 p170-escrowproxy.icloud.com
@@ -25470,7 +25477,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
