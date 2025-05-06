@@ -1688,6 +1688,7 @@ amp-api.sandbox.apps-apple.com.akadns.net
 amp-api.sandbox.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
+amp-api-search-edge.apps.apple.com.edgesuite.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
 amp-api.snapshot.apple.com
@@ -2156,6 +2157,7 @@ apps.itunes-nocookie.com
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
+apps.mzstatic.com-v1.edgesuite.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
 appstoreconnect.apple.com
 apptneckermannaileneckermanns-ssl.itunes.apple.com
@@ -3734,6 +3736,7 @@ edge-039.sesto4.icloud-content.com
 edge-040.defra2.icloud-content.com
 edge-040.hkhkg.icloud-content.com
 edge-040.sesto4.icloud-content.com
+edge-041.gbmnc1.icloud-content.com
 edge-041.usmin.icloud-content.com
 edge-042.hkhkg.icloud-content.com
 edge-042.sesto4.icloud-content.com
@@ -4515,6 +4518,7 @@ edge-249.jposa3.icloud-content.com
 edge-249.sesto4.icloud-content.com
 edge-249.zamrd1.icloud-content.com
 edge-250.deber3.icloud-content.com
+edge-250.defra2.icloud-content.com
 edge-250.hkhkg.icloud-content.com
 edge-250.jposa3.icloud-content.com
 edge-250.mediaedge-413.icloud-content.com
@@ -8250,7 +8254,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -13588,6 +13591,7 @@ p106-ckshare-china.icloud.com
 p106-ckshare.icloud.com
 p106-contactsws.icloud.com
 p106-content-china.icloud.com
+p106-content.icloud.com
 p106-escrowproxy-china.icloud.com
 p106-feedbackws-china.icloud.com
 p106-feedbackws.icloud.com
@@ -17462,6 +17466,7 @@ p176-ckcoderouter-china.icloud.com
 p176-ckdatabase.icloud.com
 p176-ckdevice.icloud.com
 p176-contacts-china.icloud.com
+p176-content.icloud.com
 p176-drivews-china.icloud.com
 p176-escrowproxy-china.icloud.com
 p176-escrowproxy.icloud.com
@@ -25477,6 +25482,7 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
+www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
