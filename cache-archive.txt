@@ -265,6 +265,7 @@ amp-api.sandbox.apps-apple.com.akadns.net
 amp-api.sandbox.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
+amp-api-search-edge.apps.apple.com.edgesuite.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
 amp-api-updates.apps.apple.com
@@ -398,7 +399,6 @@ api.finance.ozon.ru
 api-gateway-cc-prd-va6.infra.adobe.io
 api.github.com
 api.github.com.home.setia.ru
-api.githubcopilot.com
 api-glb-aapne1a.smoot.apple.com
 api-glb-aapse1c.smoot.apple.com
 api-glb-aeuc1a.smoot.apple.com
@@ -454,6 +454,7 @@ apps.itunes-nocookie.com
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
+apps.mzstatic.com-v1.edgesuite.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
 appspot.com
 apptrailers.itunes.apple.com
@@ -1005,6 +1006,7 @@ cdn-apple.com.akadns.net
 cdn.apple.com.c.footprint.net
 cdn.apple-mapkit.com
 cdn-ar.apple-mapkit.com.edgekey.net
+cdn-azalea-tts-achmg6dqbafjaxcr.a01.azurefd.net
 cdn.concert.io
 cdn.cp.adobe.io
 cdn.experienceleague.adobe.com
@@ -1024,6 +1026,7 @@ cdn.ozonusercontent.com.edgesuite.net
 cdn.smoot.apple.com
 cdn.syndication.twimg.com
 cdn-thumbnails.huggingface.co
+cdn.tt.omtrdc.net
 cdn-uploads.huggingface.co
 cdn.whatsapp.net
 cds.apple.com
@@ -1759,6 +1762,7 @@ edge-031.dedus1.icloud-content.com
 edge-035.dkvib11.icloud-content.com
 edge-035.nlhfd1.icloud-content.com
 edge-040.defra2.icloud-content.com
+edge-041.gbmnc1.icloud-content.com
 edge-041.usmin.icloud-content.com
 edge-046.nlhfd1.icloud-content.com
 edge-054.nlhfd1.icloud-content.com
@@ -1802,10 +1806,16 @@ edge-131.sesto4.icloud-content.com
 edge-135.sesto4.icloud-content.com
 edge-137.sesto4.icloud-content.com
 edge-138.sesto4.icloud-content.com
+edge-158.sesto4.icloud-content.com
 edge-171.sesto4.icloud-content.com
 edge-182.sesto4.icloud-content.com
+edge-199.sesto4.icloud-content.com
+edge-217.sesto4.icloud-content.com
 edge-219.sesto4.icloud-content.com
+edge-229.sesto4.icloud-content.com
+edge-250.defra2.icloud-content.com
 edge-254.sesto4.icloud-content.com
+edge-259.sesto4.icloud-content.com
 edge-273.sesto4.icloud-content.com
 edge-278.sesto4.icloud-content.com
 edge.adobedc.net
@@ -1887,6 +1897,8 @@ entitlements-edge.itunes.apple.com
 entitlements.edge-itunes-apple.com.akadns.net
 entitlements.itunes.apple.com
 en.tt-content.wiethe-preview.com
+ep1.adtrafficquality.google
+ep2.adtrafficquality.google
 ep2.facebook.com
 epdb.adobeaemcloud.com
 ephoric.googleapis.com
@@ -1955,6 +1967,7 @@ external-arn2-1.xx.fbcdn.net
 external-bru2-1.xx.fbcdn.net
 external-cph2-1.xx.fbcdn.net
 external.fkun2-1.fna.fbcdn.net
+external.frix4-1.fna.fbcdn.net
 external.frix7-1.fna.fbcdn.net
 external.frix8-1.fna.fbcdn.net
 external.fvno1-1.fna.fbcdn.net
@@ -2044,6 +2057,7 @@ fe.apple-dns.net
 feature-config.fonts.adobe.com
 fedcd621f09876e2c8979facf6eaf704.safeframe.googlesyndication.com
 federatedcompute-pa.googleapis.com
+feedback-pa.clients6.google.com
 feedback-pa.googleapis.com
 feedbackws.icloud.com
 feedburner.com
@@ -2134,6 +2148,7 @@ forums.developer.apple.com
 forums.developer.apple.com.edgekey.net
 foujxl-dnsotls-ds.metric.gstatic.com
 four-rowed.adobeaemcloud.com
+foxnews.tt.omtrdc.net
 fpinit.edge-itunes-apple.com.akadns.net
 fpinit-eu.edge-itunes-apple.com.akadns.net
 fpinit.itunes.apple.com
@@ -2231,6 +2246,7 @@ geladinhosgourmet.marketingonlinegoogle.com.br
 ge.lazerpenguin.com
 geller-pa.googleapis.com
 gemini.google.com
+generativelanguage.googleapis.com
 genius-3.itunes.apple.com.edgekey.net
 gentlenesses.withgoogle.com
 genuine.adobe.com
@@ -2268,6 +2284,7 @@ ginnbofpaz8fe3ibkcpuect1a7ynkiz33yqgq6.8ctyupt8wxxbhrx5.cf2jbvfkxjitovkpresrjhnt
 gioq.youtube
 gisbornephotoshop.com
 gist.github.com
+gist.githubusercontent.com
 git.git.git.git.git.instagram.bloggare.eu
 github.com
 github.io
@@ -2692,7 +2709,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -3366,6 +3382,7 @@ ml.cdn-apple.com.akamaized.net
 ml.lazerpenguin.com
 ml.lb-apple.com.akadns.net
 mm.lazerpenguin.com
+mm-mm.bing.net.trafficmanager.net
 mm-nyt.prod.surfshark.com
 mmsbackup.pa.googleapis.com
 mn.lazerpenguin.com
@@ -3451,6 +3468,7 @@ mw1.google.com
 mw2.google.com
 mw.lazerpenguin.com
 mwpe-ssl.ls-apple.com.akadns.net
+mw-small.l.google.com
 mx01.ttsozelmasaj.click
 mx1.mta-sts.mx1.mta-sts.mx1.mx2.mx2.ttombertud.us
 mx1.mta-sts.mx1.mx1.mx1.mta-sts.mx1.tteindrebas.us
@@ -3772,6 +3790,7 @@ omtrdc.net
 omvi.adobeaemcloud.com
 on3i.githubusercontent.com
 ondevicesafety-pa.googleapis.com
+one.google.com
 ontology.health.apple.com
 ooaqp1bd9v708nfea9cphb4ndl7pi1kb.bing
 oobesaas.adobe.com
@@ -3854,8 +3873,10 @@ p0213.googleapis.com
 p04-fmip.icloud.com
 p06-fmip.icloud.com
 p0y5.googleapis.com
+p102-content.icloud.com
 p105-availability.icloud.com
 p105-sharedstreams.icloud.com
+p106-content.icloud.com
 p107-acsegateway.icloud.com
 p107-caldav.icloud.com
 p107-ckdatabase.icloud.com
@@ -3949,6 +3970,7 @@ p140-content.icloud.com
 p142-content.icloud.com
 p144-content.icloud.com
 p146-content.icloud.com
+p148-content.icloud.com
 p152-content.icloud.com
 p154-content.icloud.com
 p156-content.icloud.com
@@ -3985,6 +4007,7 @@ p16-useast2a.tiktokcdn.com
 p16-useast2a.tiktokcdn.com.akamaized.net
 p16-va.tiktokcdn.com
 p170-content.icloud.com
+p176-content.icloud.com
 p177-content.icloud.com
 p178-content.icloud.com
 p179-content.icloud.com
@@ -5206,6 +5229,7 @@ py.lazerpenguin.com
 pymj.googleapis.com
 pzmfa6bj1syblu9ihdhuqzxqjpqmx2ypbmyeuaxx.tyh6ekxdcxtwnsgksk.glnnhcqspmjjq.tt5nd9qumyuyiv0lo.xmdnhov2onqohhv.b6uyndhfbspolncmlqpc2gbxjvkpnvia.4.epd6i1lik6rqgbarf6rzcs.gdtmyo.shofha.online
 q-08.googleapis.com
+q0jo16uy1r.data.adobedc.net
 q0yb.adobeaemcloud.com
 q1ry.withgoogle.com
 q4ns1c4ckgjr4b41hb4wb1fvedhrjhscngfptl4gsp.mta-sts.kh2njj5i4uiqr.nun55x.mta-sts.ttlu7jllkjoukrhwqqckppxca5ojstbopysythngrcblduk.dsupnekv676.qtzpdshb7pbjnzte0xc.wcps63bkddr0.shofha.online
@@ -6726,6 +6750,7 @@ search.itunes.apple.com
 searchlabspartnerservice-pa.googleapis.com
 searchlite-pa.googleapis.com
 searchnotifications-pa.googleapis.com
+search-prod.creativecloud.adobe.com
 searchpromo-pa.googleapis.com
 secure.backblaze.com
 securemetrics.apple.com
@@ -6879,6 +6904,7 @@ sonar-dus.xx.fbcdn.net
 sonar-ham.xx.fbcdn.net
 songcaijindewangzhan.adobeaemcloud.net
 sonic-color.corp.google.com
+sora.chatgpt.com
 southafrica-ca-version-2.expressnetw.com
 southendonsea.adobeaemcloud.com
 south-green.adobeaemcloud.com
@@ -7121,7 +7147,6 @@ talk.google.com
 taoa.devices.resinstaging.io
 taosheng.adobeaemcloud.com
 targetlr.adobe.com
-target.microsoft.com
 taskassist-pa.googleapis.com
 tasks-pa.googleapis.com
 tazl.googleapis.com
@@ -7142,7 +7167,6 @@ tdlwnbfdwlowgzl2wecjbywahgwpb4kk-c2r.metric.gstatic.com
 tdms.apple.com
 tdul.withgoogle.com
 teapots.googleapis.com
-telemetry.individual.githubcopilot.com
 telephonyspamprotect-pa.googleapis.com
 tengzi.googleapis.com
 tenor.googleapis.com
@@ -7157,6 +7181,7 @@ test-ipv6-dot-com-v6exp3-v4.metric.gstatic.com
 test-ipv6.ttk.ru
 test.opengoogle.com
 teunhniqnankk5zbnkkuc6i1fpg.tjv7trvejayhqqifazgmywy0nojazhi4t.josyj1w.ttdqh9n1t7ewqgo.0xrlc9.xm2ww7pdyunhtoy15advde5l.qst8ca9mmuqp6ynfdtn9has3gn.shofha.online
+texttospeech.googleapis.com
 tf3om.uruqp4ojiprpxl.ttdyopxvvu8j4g7mnyadjnwtym1vwuf00uapt8nr.b6uyndhfbspolncmlqpc2gbxjvkpnvia.4.epd6i1lik6rqgbarf6rzcs.gdtmyo.shofha.online
 tffeqflrbxroz92o9gp9lkaniotrmg0pvhupnrh1p9r.gseml28qn4h2v.ttfffkyycpcweb13qunmxvlkikqfuu.mta-sts.krzbu7b.xrutkvwdmmessv9wef3xstula29a2lebgbya75.a.exnrcnbx.6hiblfayh.wcps63bkddr0.shofha.online
 t.finance.ozon.ru
@@ -7519,6 +7544,7 @@ video-edge-076e8a.pdx01.abs.hls.ttvnw.net
 video-edge-671f48.pdx01.abs.hls.ttvnw.net
 video-edge-7e198b.pdx01.abs.hls.ttvnw.net
 video-edge-dd15f8.pdx01.abs.hls.ttvnw.net
+video.frix4-1.fna.fbcdn.net
 video.frix7-1.fna.fbcdn.net
 video-lga3-2.xx.fbcdn.net
 video.pscp.tv.map.fastly.net
@@ -7725,6 +7751,7 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
+www.appleiphonecell.com
 www.as.adobeaemcloud.com
 www.backblaze.com
 www-backblaze-com.webpkgcache.com
