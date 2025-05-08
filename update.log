@@ -61038,3 +61038,41 @@ Wed May  7 09:04:55 AM MSK 2025                dns-vpnhosts.txt  >resolve-vpnhos
 Wed May  7 09:05:02 AM MSK 2025                dns-youtube.txt  >resolve-youtube.txt
 [master 6c8a76d4] auto-update ipv4
  19 files changed, 2466 insertions(+), 12539 deletions(-)
+[master e6a5c27e] auto-update merged
+ 27 files changed, 3133 insertions(+), 8022 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Thu May  8 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
