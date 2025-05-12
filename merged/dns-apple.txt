@@ -1851,6 +1851,7 @@ api-fitness.smoot.apple.com
 api-fra.smoot.apple.com
 api-glb-aapne1a.smoot.apple.com
 api-glb-aapne1c.smoot.apple.com
+api-glb-aaps1b.smoot.apple.com
 api-glb-aapse1c.smoot.apple.com
 api-glb-aapse2c.smoot.apple.com
 api-glb-abt.smoot.apple.com
@@ -1858,6 +1859,7 @@ api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
 api-glb-aeun1a.smoot.apple.com
 api-glb-aeun1b.smoot.apple.com
+api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw1c.smoot.apple.com
 api-glb-aeuw3b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
@@ -1931,6 +1933,7 @@ api-pst-mulesoft.apple.com
 api.push.apple.com
 api-rd04.developer.rd.apple.com
 api-rv117-ause1c.smoot.apple.com
+api-safari-aaps1b.smoot.apple.com
 api-safari-aapse2c.smoot.apple.com
 api-safari-aeuc1a.smoot.apple.com
 api-safari-aeun1a.smoot.apple.com
@@ -2457,6 +2460,7 @@ b2btest.apple.com
 background-weighted.ls4-apple.com.akadns.net
 backstage.apple.com
 bag-a1153.phobos.apple.com
+bag-cdn-akam.itunes-apple.com.akadns.net
 bag-cdn.itunes-apple.com.akadns.net
 bag-cdn-lb.itunes-apple.com.akadns.net
 bag.itunes.apple.com
@@ -6377,10 +6381,12 @@ genius-3.itunes.apple.com
 genius3.itunes.apple.com
 genius-3.itunes.apple.com.edgekey.net
 genius3-upload.itunes.apple.com
+genius-download-2.apps-apple.com.akadns.net
 genius-download-2.itunes.apple.com
 genius-download-3.itunes.apple.com
 genius.itunes.apple.com
 genius.push.apple.com
+genius-upload-2.apps-apple.com.akadns.net
 genius-upload-2.itunes.apple.com
 genius-upload-3.itunes.apple.com
 genserv.apple.com
@@ -7667,6 +7673,7 @@ gsp-e1502.ls.apple.com
 gsp-e1512.ls.apple.com
 gspe19-2-cn-ssl.ls.apple.com
 gspe19-2-ssl.ls.apple.com
+gspe19-2-ssl.ls.apple.com.edgesuite.net
 gspe19-cn.ls-apple.com.akadns.net
 gspe19-cn-test-ssl.ls-apple.com.akadns.net
 gspe19-geo-selector.ls2-apple.com.akadns.net
@@ -7693,6 +7700,7 @@ gspe21-ssl-carry-row.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com
 gspe21-ssl.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com.edgekey.net
+gspe21-ssl.ls.apple.com.edgesuite.net
 gspe35-applecdn-cutover.ls-apple.com.akadns.net
 gspe35-ssl-carry.ls.apple.com
 gspe35-ssl.ls.apple.com
@@ -7710,7 +7718,6 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl.ls.apple.com
@@ -8233,7 +8240,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -13613,6 +13619,7 @@ p107-ckdp65abasews.icloud.apple.com
 p107-contacts-china.icloud.com
 p107-contacts.icloud.com
 p107-contactsws-china.icloud.com
+p107-content.icloud.com
 p107-docws-china.icloud.com
 p107-drivews-china.icloud.com
 p107-drivews.icloud.com
@@ -13621,6 +13628,7 @@ p107-feedbackws-china.icloud.com
 p107-fmf-china.icloud.com
 p107-fmf.icloud.com
 p107-fmfmail.icloud.com
+p107-fmfmobile.icloud.com
 p107-fmfweb-china.icloud.com
 p107-fmipmail-china.icloud.com
 p107-fmipmail.icloud.com
@@ -13885,6 +13893,7 @@ p110-sharedstreams.icloud.com
 p110-streams-china.icloud.com
 p110-ubiquity.icloud.com
 p110-uploadimagews-china.icloud.com
+p111-acsegateway.icloud.com
 p111-availability-china.icloud.com
 p111-bookmarks-china.icloud.com
 p111-caldav.icloud.com
@@ -13989,6 +13998,7 @@ p112-uploadimagews.icloud.com
 p113-archivews-china.icloud.com
 p113-archivews.icloud.com
 p113-availability-china.icloud.com
+p113-availability.icloud.com
 p113-bookmarks.icloud.com
 p113-caldav.icloud.com
 p113-calendars-china.icloud.com
@@ -14953,6 +14963,7 @@ p130-ckshare-china.icloud.com
 p130-contacts-china.icloud.com
 p130-contacts.icloud.com
 p130-contactsws.icloud.com
+p130-content.icloud.com
 p130-dteleworkcws.icloud.com
 p130-escrowproxy-china.icloud.com
 p130-feedbackws.icloud.com
@@ -15729,6 +15740,7 @@ p144-ckshare.icloud.com
 p144-contacts-china.icloud.com
 p144-contactsws.icloud.com
 p144-content-china.icloud.com
+p144-content.icloud.com
 p144-docws-china.icloud.com
 p144-docws.icloud.com
 p144-drivews-china.icloud.com
@@ -18744,6 +18756,7 @@ p229-uploadimagews-china.icloud.com
 p22-aolauth.icloud.com
 p22-archivews.icloud.com
 p22-buy.itunes.apple.com
+p22-buy-lb.itunes-apple.com.akadns.net
 p22-calendars-china.icloud.com
 p22-calendars.icloud.com
 p22-ckcoderouter-china.icloud.com
@@ -25429,7 +25442,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
