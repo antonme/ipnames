@@ -456,7 +456,6 @@ apps-mzstatic-cdn.itunes-apple.com.akadns.net
 apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
-app.snapchat.com
 appspot.com
 apptrailers.itunes.apple.com
 apptrailers-ssl.itunes.apple.com
@@ -2396,7 +2395,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -2683,6 +2681,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -4811,6 +4810,11 @@ pod-031-2027-14.backblaze.com
 pod-031-2027-15.backblaze.com
 pod-031-2027-18.backblaze.com
 pod-031-2027-19.backblaze.com
+pod-031-2028-03.backblaze.com
+pod-031-2028-08.backblaze.com
+pod-031-2028-14.backblaze.com
+pod-031-2028-15.backblaze.com
+pod-031-2028-16.backblaze.com
 pod-031-2029-00.backblaze.com
 pod-031-2029-01.backblaze.com
 pod-031-2029-02.backblaze.com
@@ -6959,7 +6963,6 @@ sxtm.adobeaemcloud.com
 sxyj.withgoogle.com
 sydney.bing.com
 sydney.bing.com.edgekey.net
-sydney-sydney-bing-com.trafficmanager.net
 sy.lazerpenguin.com
 sylvan.apple.com
 sync-cdn.itunes-apple.com.akadns.net
