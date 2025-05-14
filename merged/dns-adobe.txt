@@ -352,6 +352,7 @@ adobeprimetimeinternaldocumentsstage.marketing.adobe.com
 adobeqa-sn.corp.adobe.com
 adobe-resolver-03.adobe.com
 adobesearch.adobe.io
+adobesearch-atc.adobe.io
 adobesigntrial.corp.adobe.com
 adobesip.documents.adobe.com
 adobe-sn.corp.adobe.com
@@ -700,6 +701,7 @@ api.eu1.eu.documents.adobe.com
 api.eu1.newyorklife.documents.adobe.com
 api.eu1-redirector.documents.adobe.com
 api.eu2.documents.adobe.com
+api-gateway-cc-prd-va6.infra.adobe.io
 api.in1-cdn.documents.adobe.com
 api.in1ops.documents.adobe.com
 api.kentei.adobe.com
@@ -740,6 +742,7 @@ api.showroom.corp.adobe.com
 api.skms.adobe.com
 api.spark.adobe.com
 apitrial.eu1.documents.adobe.com
+api.typekit.com
 api-ui.eda-dev-int.corp.adobe.com
 api-ui.eda-prd-int.corp.adobe.com
 api-ui.eda-stg-int.corp.adobe.com
@@ -818,6 +821,7 @@ ariel-0.marketing.adobe.com
 aristotle.na4.documents.adobe.com
 ariwagner.myportfolio.com
 ark.corp.adobe.com
+arks-client.adobe.com
 armandobruck.myportfolio.com
 armc212-xerox5135.adobeaemcloud.com
 armdl.adobe.com
@@ -1585,6 +1589,7 @@ cai.adobe.com
 cai.adobe.io
 cai-assertions.adobe.com
 cai-assertions-stage.adobe.com
+cai-identity.adobe.io
 cai-manifests.adobe.com
 cai-manifests-stage.adobe.com
 cai-msb.adobe.io
@@ -1752,6 +1757,7 @@ ccaf.adobeaemcloud.net
 cc-api-behance.adobe.io
 cc-api-cp.adobe.io
 cc-api-data.adobe.io
+cc-api-data-stage.adobe.io
 cc-api-storage.adobe.io
 cc-author.con-a.corp.adobe.com
 cc-author.prod.corp.adobe.com
@@ -2697,6 +2703,7 @@ data.status.adobe.com
 data.status.adobe.com.edgesuite.net
 data-status.stage.adobe.com
 data-status.stage.adobe.com.edgesuite.net
+data.typekit.net
 dataupload.na3.documents.adobe.com
 dataweb-eu2.documentsawspreview.adobe.com
 dates-b.corp.adobe.com
@@ -3681,6 +3688,7 @@ fao.adobeconnect.com
 farmlands-mid-prod1-all-cus.campaign.adobe.com
 farmlands-mid-prod3-cus.campaign.adobe.com
 fast.adobe.demdex.net
+faster.typekit.net
 faster.typekit.net-stls-v3.edgesuite.net
 fastrac.corp.adobe.com
 fastretailinguqsg-mkt-prod1-cus.campaign.adobe.com
@@ -3743,6 +3751,7 @@ ffc.adobeoobe.com
 ffc-hd-crawler.corp.adobe.com
 ffc.shop.documents.adobe.com
 ffc-static-cdn.oobesaas.adobe.com
+ffc-static-cdn.oobesaas.adobe.com.edgekey.net
 ffc.tools.experiencecloud.adobe.com
 ffda-test-machine.qa.campaign.adobe.com
 fgde.adobeaemcloud.com
@@ -3777,6 +3786,8 @@ finland.groups.adobe.com
 fiogoncalves.myportfolio.com
 firefly-acs.adobe.io
 firefly.adobe.com
+fire-fly.adobe.io
+firefly.adobe.io
 firefly-cliov2.adobe.io
 firefly-dev-asml.corp.adobe.com
 firefly-dev-colligo.corp.adobe.com
@@ -4221,6 +4232,7 @@ hawcographicdesign.myportfolio.com
 hawk.corp.adobe.com
 hawkstgc.corp.adobe.com
 hayakawa825.myportfolio.com
+hbc.adobe.io
 hbctiapps-prd-1.corp.adobe.com
 hbctiapps-stage.corp.adobe.com
 hbctiapps-stg-2.corp.adobe.com
@@ -4486,6 +4498,7 @@ ibmstg.adobeconnect.com
 ibmwh.adobeconnect.com
 ibrq.adobeaemcloud.com
 ibs-win04.corp.adobe.com
+ic.adobe.io
 icainsclaimsadv.na4.documents.adobe.com
 icangelrecords.myportfolio.com
 icann.adobeconnect.com
@@ -6984,6 +6997,7 @@ onlineevents.adobeconnect.com
 onrksm.myportfolio.com
 onstar.myalertsexchange.marketing.adobe.com
 onyx.corp.adobe.com
+oobe.adobe.com
 oobesaas.adobe.com
 oobesaas.mcisqe2.marketing.adobe.com
 opaug.groups.adobe.com
@@ -8325,6 +8339,7 @@ punnwiantrakoon.myportfolio.com
 pure.corp.adobe.com
 pv1hostmgr.preview.adobeconnect.com
 pv24v41zibm.prod.cloud.adobe.io
+pv2fcqvzl1r.prod.cloud.adobe.io
 px0n.adobeaemcloud.net
 q0yb.adobeaemcloud.com
 q5o8.adobeaemcloud.com
@@ -9327,6 +9342,7 @@ searchportal-qa.adobeint.documents.adobe.com
 searchportal-qa.captivateprime.adobe.com
 searchportal-qa.experiencecloud.adobe.com
 searchportal-qa.php.experiencecloud.adobe.com
+search-prod.creativecloud.adobe.com
 sears-mkt-prod5-1.campaign.adobe.com
 seastore1.sea.adobe.com
 seastore.sea.adobe.com
@@ -9384,6 +9400,7 @@ send.acrobat.com
 sender.tokyosmoke.com.cname.campaign.adobe.com
 senniu.adobeaemcloud.net
 senseatelier.myportfolio.com
+senseimds.adobe.io
 sentry.na3.documents.adobe.com
 sephorafr-mid-prod1-t.campaign.adobe.com
 sephorafr-mid-prod8-cus.campaign.adobe.com
