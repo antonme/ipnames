@@ -252,6 +252,7 @@ cws.icloud-content.com
 daf.xp.apple.com
 ddeead2e-210c-4b2d-b7db-27fce9278350.apple.com
 ddeead2e-210c-4b2d-b7db-27fce9278350.apple.com.v.aaplimg.com
+deber3.icloud-content.com
 defra2.icloud-content.com
 dejavu.apple.com
 developer-api.icloud.com
@@ -327,6 +328,7 @@ edge-131.sesto4.icloud-content.com
 edge-135.sesto4.icloud-content.com
 edge-137.sesto4.icloud-content.com
 edge-138.sesto4.icloud-content.com
+edge-148.defra2.icloud-content.com
 edge-180.sesto4.icloud-content.com
 edge-219.sesto4.icloud-content.com
 edge-250.defra2.icloud-content.com
@@ -441,6 +443,7 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -609,7 +612,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -623,12 +625,14 @@ p06-fmip.icloud.com
 p107-acsegateway.icloud.com
 p107-caldav.icloud.com
 p107-ckdatabase.icloud.com
+p107-ckdevice.icloud.com
 p107-contacts.icloud.com
 p107-content.icloud.com
 p107-escrowproxy.icloud.com
 p107-fmf.icloud.com
 p107-fmfmobile.icloud.com
 p107-fmipmobile.icloud.com
+p107-mccgateway.icloud.com
 p10-calendars.icloud.com
 p111-acsegateway.icloud.com
 p111-caldav.icloud.com
@@ -642,6 +646,7 @@ p111-quota.icloud.com
 p112-iwnr-china.icloud.com
 p113-availability.icloud.com
 p113-content.icloud.com
+p117-content.icloud.com
 p122-acsegateway.icloud.com
 p122-caldav.icloud.com
 p122-ckdatabase.icloud.com
@@ -673,6 +678,7 @@ p129-keyvalueservice.icloud.com
 p129-quota.icloud.com
 p130-contacts.icloud.com
 p130-content.icloud.com
+p132-content.icloud.com
 p139-acsegateway.icloud.com
 p139-archivews.icloud.com
 p139-caldav.icloud.com
@@ -701,6 +707,7 @@ p140-ckdatabasews.icloud.com
 p142-content.icloud.com
 p144-content.icloud.com
 p146-content.icloud.com
+p148-content.icloud.com
 p150-content.icloud.com
 p152-content.icloud.com
 p154-content.icloud.com
@@ -1029,6 +1036,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier.push.apple.com
 websitereview.corp.apple.com
 wps.apple.com

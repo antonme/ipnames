@@ -29,6 +29,7 @@ adobelogin.prod.ims.adobejanus.com
 adobelogin-static.prod.ims.adobejanus.com
 adobe.net
 adobesearch.adobe.io
+adobesearch-atc.adobe.io
 adobetarget.data.adobedc.net
 ak5q.adobeaemcloud.com
 akhoond.adobeaemcloud.com
@@ -42,7 +43,9 @@ a.ns.campaign.adobe.com
 ans.oobesaas.adobe.com
 ans.prod.oobesaas.adobe.com
 ap3.prd.adobeaemcloud.net
+api-gateway-cc-prd-va6.infra.adobe.io
 api.plan.adobe.com
+api.typekit.com
 apm3-27224.adobeaemcloud.net
 apqa.adobeaemcloud.net
 aps0114.adobeaemcloud.com
@@ -51,12 +54,15 @@ aq5n.adobeaemcloud.net
 arcadesambo.adobeaemcloud.com
 ardleigh.adobeaemcloud.net
 arguta.adobeaemcloud.com
+arks-client.adobe.com
 armc212-xerox5135.adobeaemcloud.com
 armmf.adobe.com
 ars.adobe.io
 arsh-02961.adobeaemcloud.com
 ars.oobesaas.adobe.com
 arubavpnd22032.adobeaemcloud.com
+as1.ftcdn.net
+as2.ftcdn.net
 assets.adobe.com
 assets.adobedtm.com
 assets-helper.adobe.io
@@ -109,6 +115,7 @@ c3m-4-77.adobeaemcloud.com
 c5xv.adobeaemcloud.com
 cah-45-79.adobeaemcloud.com
 cai.adobe.io
+cai-identity.adobe.io
 cai-msb.adobe.io
 caipiao3dtu238qikaijihao.adobeaemcloud.net
 campaign.adobe.com
@@ -120,6 +127,7 @@ ccaf.adobeaemcloud.net
 cc-api-behance.adobe.io
 cc-api-cp.adobe.io
 cc-api-data.adobe.io
+cc-api-data-stage.adobe.io
 cc-api-storage.adobe.io
 cc-cdn.adobe.com
 cc-cdn.adobe.com.edgekey.net
@@ -217,6 +225,7 @@ data.status.adobe.com
 data.status.adobe.com.edgesuite.net
 data-status.stage.adobe.com
 data-status.stage.adobe.com.edgesuite.net
+data.typekit.net
 dattihp.adobeaemcloud.com
 daviston.adobeaemcloud.com
 dcpa.adobeaemcloud.net
@@ -295,6 +304,7 @@ express-prod.adobeprojectm.com
 ey8u.adobeaemcloud.net
 faclib-27.adobeaemcloud.com
 faculty-105-94.adobeaemcloud.net
+faster.typekit.net
 faster.typekit.net-stls-v3.edgesuite.net
 feature-config.fonts.adobe.com
 fencevrepc-84-161.adobeaemcloud.net
@@ -305,6 +315,7 @@ fengtianhuangguandaohangguangpananzhuang.adobeaemcloud.com
 ffc.adobe.io
 ffc.adobeoobe.com
 ffc-static-cdn.oobesaas.adobe.com
+ffc-static-cdn.oobesaas.adobe.com.edgekey.net
 fgde.adobeaemcloud.com
 fgih.adobeaemcloud.com
 fh-s225n93.adobeaemcloud.net
@@ -312,6 +323,8 @@ fiaocong.adobeaemcloud.com
 filmable.adobeaemcloud.com
 firefly-acs.adobe.io
 firefly.adobe.com
+fire-fly.adobe.io
+firefly.adobe.io
 firefly-cliov2.adobe.io
 firefly-md.adobe.io
 firefly-ps.adobe.io
@@ -357,6 +370,7 @@ h9hz.adobeaemcloud.net
 hallowd.adobeaemcloud.net
 hangers-on.adobeaemcloud.com
 hariri.adobeaemcloud.com
+hbc.adobe.io
 hbgl.adobeaemcloud.net
 hbrcv.adobe.com
 hbrt.adobe.com
@@ -390,6 +404,7 @@ hz-telemetry.adobe.io
 i2m4.adobeaemcloud.com
 ia9c.adobeaemcloud.com
 ibrq.adobeaemcloud.com
+ic.adobe.io
 icv0.adobeaemcloud.com
 identity.adobe.com
 ids-proxy.account.adobe.com
@@ -590,6 +605,7 @@ OlbMidjPpLMM.adobe.com
 olwc.adobeaemcloud.com
 omtrdc.net
 omvi.adobeaemcloud.com
+oobe.adobe.com
 oobesaas.adobe.com
 OpdTgjiLLWhT.adobe.com
 oqxf.adobeaemcloud.net
@@ -655,6 +671,7 @@ p.typekit.net-stls-v3.edgesuite.net
 pulpless.adobeaemcloud.com
 pUlVpnNUmURM.adobelogin.com
 pv24v41zibm.prod.cloud.adobe.io
+pv2fcqvzl1r.prod.cloud.adobe.io
 px0n.adobeaemcloud.net
 q0yb.adobeaemcloud.com
 q5o8.adobeaemcloud.com
@@ -689,6 +706,7 @@ range86-176.adobeaemcloud.net
 rbdsnbbk.adobeaemcloud.com
 RdaPaoZZWkLY.adobelogin.com
 registrarship.adobeaemcloud.com
+resources.licenses.adobe.com
 restaurateur.adobeaemcloud.net
 rg4e.adobeaemcloud.net
 rg6.adobeaemcloud.com
@@ -718,9 +736,11 @@ scss.adobesc.com
 sculker.adobeaemcloud.com
 sdk-1p.cc-embed.adobe.com
 sea-kale.adobeaemcloud.net
+search-prod.creativecloud.adobe.com
 secureuk.adobeaemcloud.com
 self-ignite.adobeaemcloud.com
 senniu.adobeaemcloud.net
+senseimds.adobe.io
 server.messaging.adobe.com
 services.account.adobe.com
 services.prod.ims.adobejanus.com
@@ -788,6 +808,7 @@ swupmf.adobe.com
 sxtm.adobeaemcloud.com
 szs0.adobeaemcloud.com
 t19d.adobeaemcloud.com
+t3.ftcdn.net
 t3yh.adobeaemcloud.net
 t436.adobeaemcloud.net
 t7mm.adobeaemcloud.net
