@@ -1689,7 +1689,9 @@ amp-api.sandbox.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
+amp-api.shazam.apple.com
 amp-api.shazam.apple.com.edgekey.net
+amp-api-shazam-lb.itunes-apple.com.akadns.net
 amp-api.snapshot.apple.com
 amp-api-updates.apps.apple.com
 amp-api-updates.apps-lb.itunes-apple.com.akadns.net
@@ -7736,6 +7738,7 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl.ls.apple.com
@@ -8258,6 +8261,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -11828,6 +11832,7 @@ news-data-service.apple.com
 news-edge.apple.com
 news-events.apple.com
 news.iadsdk.apple.com
+news.iadsdk.apple.com.akadns.net
 news-iworkexportws.icloud.com
 newskit-events.apple.com
 newsletter-edge.apple.com
@@ -12289,6 +12294,8 @@ olaf.usqas.me.icloud-content.com
 old-mypage.apple.com
 olympus-rest-mr.itunes.apple.com
 onboarding.iad.apple.com
+ondevice-agreements.apple.com
+ondevice-agreements.apple.com.edgekey.net
 one.apple.com
 onepulse.apple.com
 onepulse-stage.apple.com
@@ -13326,6 +13333,7 @@ p101-ckdevice-china.icloud.com
 p101-ckdevice.icloud.com
 p101-contacts-china.icloud.com
 p101-contactsws.icloud.com
+p101-content.icloud.com
 p101-docws.icloud.com
 p101-escrowproxy.icloud.com
 p101-exportws.iwork.apple.com
@@ -13539,6 +13547,7 @@ p105-ckdevice.icloud.com
 p105-ckshare.icloud.com
 p105-contactsws-china.icloud.com
 p105-contactsws.icloud.com
+p105-content.icloud.com
 p105-docws.icloud.com
 p105-drivews-china.icloud.com
 p105-exportws.iwork.apple.com
@@ -16956,6 +16965,7 @@ p166-ckdevice.icloud.com
 p166-ckshare.icloud.com
 p166-contacts.icloud.com
 p166-content-china.icloud.com
+p166-content.icloud.com
 p166-docws-china.icloud.com
 p166-docws.icloud.com
 p166-drivews-china.icloud.com
@@ -17191,6 +17201,7 @@ p170-ckdashboardws-china.icloud.com
 p170-ckshare.icloud.com
 p170-contacts-china.icloud.com
 p170-contactsws-china.icloud.com
+p170-content.icloud.com
 p170-docws-china.icloud.com
 p170-escrowproxy-china.icloud.com
 p170-escrowproxy.icloud.com
@@ -17381,6 +17392,7 @@ p174-ckshare-china.icloud.com
 p174-contacts-china.icloud.com
 p174-contactsws-china.icloud.com
 p174-content-china.icloud.com
+p174-content.icloud.com
 p174-docws.icloud.com
 p174-escrowproxy-china.icloud.com
 p174-fmf.icloud.com
@@ -17469,6 +17481,7 @@ p176-ckcoderouter-china.icloud.com
 p176-ckdatabase.icloud.com
 p176-ckdevice.icloud.com
 p176-contacts-china.icloud.com
+p176-content.icloud.com
 p176-drivews-china.icloud.com
 p176-escrowproxy-china.icloud.com
 p176-escrowproxy.icloud.com
@@ -17575,6 +17588,7 @@ p178-calendarws.icloud.com
 p178-ckcoderouter.icloud.com
 p178-ckdatabasews.icloud.com
 p178-contactsws.icloud.com
+p178-content.icloud.com
 p178-docws-china.icloud.com
 p178-escrowproxy.icloud.com
 p178-feedbackws.icloud.com
@@ -21828,6 +21842,7 @@ pams-media-prod.apple.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 pano-es-prod-us2.explr.poc.cp.sap.apple.com
 pargo-cd-buy.itunes.apple.com
 partiality.itunes.apple.com
@@ -23573,7 +23588,6 @@ smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smp-device-lt3.apple.com
@@ -24229,7 +24243,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline-origin.apple.com
@@ -25183,6 +25196,7 @@ valid-qa.apple.com
 valid-uat.apple.com
 valid-ust-rsa.apple.com
 vandelay-carry.icloud.com
+vast-europe.iad-apple.com.akadns.net
 vb01sa.apple.com
 vb02sa-x02.apple.com
 vb11-bistunium-k8scontour-ext2.ls.apple.com
@@ -25338,7 +25352,6 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -25390,6 +25403,7 @@ web-nc1.mmap.apple.com
 web-nc1.mmap-shield.apple.com
 web-p34-exportwsp34-exportwsap-xe03.apple.com
 webpay-sh-mdn.apple.com
+webproxy.advp.apple.com
 webproxy-dev.advp.apple.com
 web.push.apple.com
 web.qa2.push.apple.com
