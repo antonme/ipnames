@@ -469,7 +469,6 @@ apps-mzstatic-cdn.itunes-apple.com.akadns.net
 apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
-app.snapchat.com
 appspot.com
 apptrailers.itunes.apple.com
 apptrailers-ssl.itunes.apple.com
@@ -2748,6 +2747,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -3636,6 +3636,7 @@ notes-pa-alv.googleapis.com
 notes-pa.googleapis.com
 notifications.google.com
 notifications-pa.googleapis.com
+notifications-ueeshp-pa.googleapis.com
 notify.adobe.io
 no.ttxs5riqumlpcsa121n.tzldhgjgde1vduak4mnuus2t7.xbfney5lf.wvl6rwalboidmh.hwtjgmp4ou.yttpu3.bbibgipegsp.nixnq.sknoa5ivvcevax.23d2ef.shofha.online
 nouvelle-caledonie.githubusercontent.com
@@ -3805,7 +3806,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp.pki.goog
@@ -4204,6 +4204,7 @@ panama-ca-version-2.expressnetw.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
+pancake.g.aaplimg.com
 pando-bliptk1.googleapis.com
 pandora-cdn.adobe.com
 pangolin16.isnssdk.com
@@ -5846,8 +5847,11 @@ rr1.sn-p5qlsnrr.googlevideo.com
 rr1---sn-p5qlsnrr.googlevideo.com
 rr1.sn-p5qlsny6.googlevideo.com
 rr1---sn-p5qlsny6.googlevideo.com
+rr1.sn-p5qs7nsk.googlevideo.com
 rr1---sn-p5qs7nsk.googlevideo.com
 rr1---sn-p5qs7nzr.googlevideo.com
+rr1.sn-p5qs7nzy.googlevideo.com
+rr1---sn-p5qs7nzy.googlevideo.com
 rr1---sn-q4fl6n6r.googlevideo.com
 rr1---sn-q4fl6n6y.googlevideo.com
 rr1---sn-q4fl6n6z.googlevideo.com
@@ -5987,6 +5991,7 @@ rr2---sn-p5qddn7r.googlevideo.com
 rr2---sn-p5qddn7z.googlevideo.com
 rr2.sn-p5qlsn76.googlevideo.com
 rr2---sn-p5qlsn76.googlevideo.com
+rr2.sn-p5qlsn7d.googlevideo.com
 rr2---sn-p5qlsn7d.googlevideo.com
 rr2---sn-p5qlsn7l.googlevideo.com
 rr2---sn-p5qlsn7s.googlevideo.com
@@ -6134,6 +6139,7 @@ rr3---sn-p5qlsndz.googlevideo.com
 rr3.sn-p5qlsnrl.googlevideo.com
 rr3---sn-p5qlsnrl.googlevideo.com
 rr3---sn-p5qlsny6.googlevideo.com
+rr3.sn-p5qs7n6d.googlevideo.com
 rr3---sn-p5qs7n6d.googlevideo.com
 rr3---sn-p5qs7nsk.googlevideo.com
 rr3---sn-p5qs7nsr.googlevideo.com
@@ -6445,10 +6451,13 @@ rr5---sn-p5qddn7d.googlevideo.com
 rr5---sn-p5qddn7k.googlevideo.com
 rr5---sn-p5qddn7r.googlevideo.com
 rr5---sn-p5qddn7z.googlevideo.com
+rr5.sn-p5qlsn76.googlevideo.com
+rr5---sn-p5qlsn76.googlevideo.com
 rr5---sn-p5qlsn7d.googlevideo.com
 rr5---sn-p5qlsn7l.googlevideo.com
 rr5---sn-p5qlsn7s.googlevideo.com
 rr5---sn-p5qlsndk.googlevideo.com
+rr5.sn-p5qlsnrl.googlevideo.com
 rr5---sn-p5qlsnrl.googlevideo.com
 rr5.sn-p5qlsnrr.googlevideo.com
 rr5---sn-p5qlsnrr.googlevideo.com
@@ -7064,7 +7073,6 @@ stock-notifications.astockcdn.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 storage.cloud.google.com
