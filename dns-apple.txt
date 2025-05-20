@@ -341,6 +341,7 @@ edge-129.sesto4.icloud-content.com
 edge-129.usdal2.icloud-content.com
 edge-131.sesto4.icloud-content.com
 edge-135.sesto4.icloud-content.com
+edge-136.defra2.icloud-content.com
 edge-137.sesto4.icloud-content.com
 edge-138.sesto4.icloud-content.com
 edge-148.defra2.icloud-content.com
@@ -462,7 +463,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -471,6 +471,8 @@ gsp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 gspx57-ssl-background.ls.apple.com
 gspx-ssl.ls.apple.com
+gsra.apple.com
+gsra.apple.com.v.aaplimg.com
 guzzoni.apple.com
 help.apple.com
 help-ar.apple.com.edgekey.net
@@ -504,7 +506,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -868,7 +869,6 @@ p72-content.icloud.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
-pancake.g.aaplimg.com
 partiality.itunes.apple.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com.edgekey.net
@@ -996,6 +996,7 @@ stats.gc-apple.com.akadns.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
+stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -1038,6 +1039,7 @@ time.euro.apple.com
 time-ios.apple.com
 tr.iadsdk.apple.com
 tr.iadsdk.apple.com.akadns.net
+ts.apps-apple.com.akadns.net
 ts.itunes.apple.com
 unlinkability.apple.com
 updates.cdn-apple.com
@@ -1085,6 +1087,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webproxy.advp.apple.com
 websitereview.corp.apple.com
