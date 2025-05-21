@@ -19,6 +19,7 @@ amp-api.apps.apple.com
 amp-api.apps.apple.com.edgekey.net
 amp-api.apps.apple.com.edgesuite.net
 amp-api.apps-lb.itunes-apple.com.akadns.net
+amp-api.books.apple.com
 amp-api.books.apple.com.edgekey.net
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
@@ -85,6 +86,7 @@ api-glb-aeun1b.smoot.apple.com
 api-glb-aeus2a.smoot.apple.com
 api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
+api-lookup-aeun1b.smoot.apple.com
 api-safari-aaps1b.smoot.apple.com
 api-safari-aeun1a.smoot.apple.com
 api-safari-aeun1b.smoot.apple.com
@@ -117,6 +119,7 @@ apps-mzstatic-lb.itunes-apple.com.akadns.net
 apptrailers.itunes.apple.com
 apptrailers-ssl.itunes.apple.com
 apptrailers-ssl.itunes-apple.com.akadns.net
+aquila.apple.com
 asa.commerce.apple.com
 asa.commerce.apple.com.edgesuite.net
 assets-mercury.mzstatic.com
@@ -139,6 +142,7 @@ bookkeeper-cdn.itunes-apple.com.akadns.net
 bookkeeper.itunes.apple.com
 books-analytics-events.apple.com
 books.apple.com.edgekey.net
+books-edge.apple.com
 bpapi.apple.com
 br-apple.com
 buy.itunes.apple.com
@@ -281,6 +285,7 @@ downloaddispatch.itunes.apple.com.edgesuite.net
 ec.pcms.apple.com
 ec-prd-pcms.aweuw1.sbz.apple.com
 edge-001.deber3.icloud-content.com
+edge-005.dkvib11.icloud-content.com
 edge-006.usdal2.icloud-content.com
 edge-007.usdal2.icloud-content.com
 edge-008.usdal2.icloud-content.com
@@ -348,6 +353,7 @@ edge-138.sesto4.icloud-content.com
 edge-148.defra2.icloud-content.com
 edge-180.sesto4.icloud-content.com
 edge-203.sesto4.icloud-content.com
+edge-207.sesto4.icloud-content.com
 edge-219.sesto4.icloud-content.com
 edge-226.sesto4.icloud-content.com
 edge-232.sesto4.icloud-content.com
@@ -507,6 +513,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -574,6 +581,7 @@ ls.apple.com
 ls-apple.com.akadns.net
 ls.apple.com.edgekey.net
 ma-albert-prod.apple.com
+ma-ds-aquila.apple.com
 mail.mac.combuz.com
 mail.me.com
 mail.me.com.akadns.net
@@ -649,6 +657,7 @@ osxapps.itunes.apple.com.edgesuite.net
 p04-fmip.icloud.com
 p06-fmip.icloud.com
 p101-content.icloud.com
+p102-content.icloud.com
 p105-content.icloud.com
 p105-sharedstreams.icloud.com
 p107-acsegateway.icloud.com
@@ -759,8 +768,10 @@ p168-contacts.icloud.com
 p16-buy.itunes.apple.com
 p16-buy-lb.itunes-apple.com.akadns.net
 p170-content.icloud.com
+p171-content.icloud.com
 p174-content.icloud.com
 p176-content.icloud.com
+p177-content.icloud.com
 p178-content.icloud.com
 p179-content.icloud.com
 p22-buy.itunes.apple.com
@@ -774,7 +785,14 @@ p25-content.icloud.com
 p26-buy.itunes.apple.com
 p26-buy.itunes-apple.com.akadns.net
 p26-buy-lb.itunes-apple.com.akadns.net
+p26-caldav.icloud.com
 p26-content.icloud.com
+p26-fmf.icloud.com
+p26-fmfmobile.icloud.com
+p26-fmip.icloud.com
+p26-imap.mail.me.com
+p26-keyvalueservice.icloud.com
+p26-mailws.icloud.com
 p27-content.icloud.com
 p28-calendars.icloud.com
 p28-content.icloud.com
@@ -870,7 +888,6 @@ p72-content.icloud.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
-pancake.g.aaplimg.com
 partiality.itunes.apple.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com.edgekey.net
@@ -907,6 +924,8 @@ pr-pod2-smp-device.apple.com
 pr-pod2-smp-device.gcsis-apple.com.akadns.net
 pr-pod8-smp-device.apple.com
 pr-pod8-smp-device.gcsis-apple.com.akadns.net
+pr-pod9-smp-device.apple.com
+pr-pod9-smp-device.gcsis-apple.com.akadns.net
 publicassets.cdn-apple.com
 publicassets.lb-apple.com.akadns.net
 push.apple.com
@@ -993,6 +1012,7 @@ static.ess.apple.com
 static.gc.apple.com
 statici.icloud.com
 statici.icloud.com.edgekey.net
+static.ips.apple.com
 stats.gc.apple.com
 stats.gc-apple.com.akadns.net
 stocks-data-service.apple.com
