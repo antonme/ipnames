@@ -63132,3 +63132,11 @@ Sun Jun  1 09:35:11 AM MSK 2025                dns-pornhub.txt  >resolve-pornhub
 Sun Jun  1 09:36:52 AM MSK 2025                dns-surfshark.txt  >resolve-surfshark.txt
 Sun Jun  1 09:42:06 AM MSK 2025                dns-tiktok.txt  >resolve-tiktok.txt
 Sun Jun  1 10:24:15 AM MSK 2025                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+[master 17282cfe] auto-update merged
+ 67 files changed, 21990 insertions(+), 54643 deletions(-)
+ delete mode 100644 merged/ipv4-tunnelbear.cidr
+ delete mode 100644 merged/ipv6-pornhub.cidr
+ delete mode 100644 merged/ipv6-vpnhosts.cidr
+Sun Jun  1 10:33:11 AM MSK 2025                dns-twitter.txt  >resolve-twitter.txt
+Sun Jun  1 10:40:58 AM MSK 2025                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Sun Jun  1 10:41:05 AM MSK 2025                dns-youtube.txt  >resolve-youtube.txt
