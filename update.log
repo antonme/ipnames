@@ -62866,3 +62866,211 @@ Thu May 29 06:29:59 AM MSK 2025                ext-dns-tiktok.txt  >ipv6-ext-res
 Thu May 29 06:30:23 AM MSK 2025                ext-dns-twitter.txt  >ipv6-ext-resolve-twitter.txt
 Thu May 29 06:30:29 AM MSK 2025                ext-dns-vpnhosts.txt  >ipv6-ext-resolve-vpnhosts.txt
 Thu May 29 06:30:47 AM MSK 2025                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
+[master 14835555] auto-update ipv6
+ 17 files changed, 430 insertions(+), 19912 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Fri May 30 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
+On branch master
+Your branch is up to date with 'origin/master
+
+
+--------------------------------------------------------------------------------
+Fri May 30 06:27:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
+
+== Resolving external names to ipv4
+Fri May 30 06:27:08 AM MSK 2025                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Fri May 30 06:27:08 AM MSK 2025                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Fri May 30 06:27:09 AM MSK 2025                ext-dns-apple.txt  >ext-resolve-apple.txt
+Fri May 30 06:27:09 AM MSK 2025                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Fri May 30 06:27:09 AM MSK 2025                ext-dns-bing.txt  >ext-resolve-bing.txt
+Fri May 30 06:27:09 AM MSK 2025                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Fri May 30 06:27:10 AM MSK 2025                ext-dns-github.txt  >ext-resolve-github.txt
+Fri May 30 06:27:10 AM MSK 2025                ext-dns-google.txt  >ext-resolve-google.txt
+Fri May 30 06:27:31 AM MSK 2025                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Fri May 30 06:27:32 AM MSK 2025                ext-dns-openai.txt  >ext-resolve-openai.txt
+Fri May 30 06:27:32 AM MSK 2025                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Fri May 30 06:27:32 AM MSK 2025                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Fri May 30 06:27:32 AM MSK 2025                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Fri May 30 06:27:33 AM MSK 2025                ext-dns-twitter.txt  >ext-resolve-twitter.txt
+Fri May 30 06:27:33 AM MSK 2025                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
+Fri May 30 06:27:45 AM MSK 2025                ext-dns-youtube.txt  >ext-resolve-youtube.txt
+
+
+
+--------------------------------------------------------------------------------
+Sat May 31 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cache-archive.txt
+	modified:   dns-adobe.txt
+	modified:   dns-anthropic.txt
+	modified:   dns-apple.txt
+	modified:   dns-backblaze.txt
+	modified:   dns-bing.txt
+	modified:   dns-facebook.txt
+	modified:   dns-github.txt
+	modified:   dns-google.txt
+	modified:   dns-huggingface.txt
+	modified:   dns-openai.txt
+	modified:   dns-ozon.txt
+	modified:   dns-pornhub.txt
+	modified:   dns-surfshark.txt
+	modified:   dns-tiktok.txt
+	modified:   dns-twitter.txt
+	modified:   dns-youtube.txt
+	modified:   ext-dns-adobe.txt
+	modified:   ext-dns-anthropic.txt
+	modified:   ext-dns-apple.txt
+	modified:   ext-dns-backblaze.txt
+	modified:   ext-dns-bing.txt
+	modified:   ext-dns-facebook.txt
+	modified:   ext-dns-github.txt
+	modified:   ext-dns-google.txt
+	modified:   ext-dns-huggingface.txt
+	modified:   ext-dns-openai.txt
+	modified:   ext-dns-ozon.txt
+	modified:   ext-dns-pornhub.txt
+	modified:   ext-dns-tiktok.txt
+	modified:   ext-dns-twitter.txt
+	modified:   ext-dns-youtube.txt
+	modified:   ext-resolve-adobe.txt
+	modified:   ext-resolve-anthropic.txt
+	modified:   ext-resolve-apple.txt
+	modified:   ext-resolve-backblaze.txt
+	modified:   ext-resolve-bing.txt
+	modified:   ext-resolve-f
+
+
+--------------------------------------------------------------------------------
+Sun Jun  1 06:00:02 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
