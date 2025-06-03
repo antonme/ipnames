@@ -63238,3 +63238,42 @@ Mon Jun  2 09:28:11 AM MSK 2025                ext-dns-vpnhosts.txt  >ext-resolv
 Mon Jun  2 09:34:01 AM MSK 2025                ext-dns-youtube.txt  >ext-resolve-youtube.txt
 [master 8ed751ff] auto-update ipv4
  17 files changed, 49232 insertions(+), 12 deletions(-)
+[master e5ed24e9] auto-update merged
+ 31 files changed, 37366 insertions(+), 957 deletions(-)
+ create mode 100644 merged/ipv4-tunnelbear.cidr
+
+
+
+--------------------------------------------------------------------------------
+Tue Jun  3 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive

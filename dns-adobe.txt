@@ -29,8 +29,10 @@ adobelogin.prod.ims.adobejanus.com
 adobelogin-static.prod.ims.adobejanus.com
 adobe.net
 adobesearch.adobe.io
+adobesearch-atc.adobe.io
 adobetarget.data.adobedc.net
 aepxlg.adobe.com
+afwebcdn.fonts.adobe.com
 ak5q.adobeaemcloud.com
 akhoond.adobeaemcloud.com
 akno.adobeaemcloud.net
@@ -44,6 +46,7 @@ ans.oobesaas.adobe.com
 ans.prod.oobesaas.adobe.com
 ap3.prd.adobeaemcloud.net
 api.plan.adobe.com
+api.typekit.com
 apm3-27224.adobeaemcloud.net
 apqa.adobeaemcloud.net
 aps0114.adobeaemcloud.com
@@ -52,19 +55,23 @@ aq5n.adobeaemcloud.net
 arcadesambo.adobeaemcloud.com
 ardleigh.adobeaemcloud.net
 arguta.adobeaemcloud.com
+arks-client.adobe.com
 armc212-xerox5135.adobeaemcloud.com
 armmf.adobe.com
 ars.adobe.io
 arsh-02961.adobeaemcloud.com
 ars.oobesaas.adobe.com
 arubavpnd22032.adobeaemcloud.com
+as2.ftcdn.net
 assets.adobe.com
 assets.adobedtm.com
+assets.fonts.adobe.com
 assets-helper.adobe.io
 astockcdn.net
 atii.adobeaemcloud.net
 aug-student-141-224-206-156.adobeaemcloud.com
 aug-student-141-224-206-87.adobeaemcloud.com
+auth-light.identity.adobe.com
 auth.prod.ims.adobejanus.com
 auth.services.adobe.com
 auth.services.adobe.com.cdn.cloudflare.net
@@ -139,6 +146,7 @@ ccmdls-stls-cn.adobe.com-v2.edgesuite.net.globalredir.akadns88.net
 ccpd.adobe.com
 ccprojects.adobe.io
 cctypekit.adobe.io
+cctypekit.adobe.io.edgekey.net
 cdn.adobeaemcloud.com
 cdn.experienceleague.adobe.com
 cdn-ffc.oobesaas.adobe.com
@@ -217,6 +225,7 @@ data.status.adobe.com
 data.status.adobe.com.edgesuite.net
 data-status.stage.adobe.com
 data-status.stage.adobe.com.edgesuite.net
+data.typekit.net
 dattihp.adobeaemcloud.com
 daviston.adobeaemcloud.com
 dcpa.adobeaemcloud.net
@@ -296,6 +305,7 @@ express-prod.adobeprojectm.com
 ey8u.adobeaemcloud.net
 faclib-27.adobeaemcloud.com
 faculty-105-94.adobeaemcloud.net
+faster.typekit.net
 faster.typekit.net-stls-v3.edgesuite.net
 feature-config.fonts.adobe.com
 fencevrepc-84-161.adobeaemcloud.net
@@ -321,6 +331,7 @@ fi-rt.adobeaemcloud.net
 floscular.adobeaemcloud.net
 fmxt.adobeaemcloud.net
 fonts.adobe.com
+font-services.adobe.io
 forums.adobe.com
 four-rowed.adobeaemcloud.com
 fpt.commerce.adobe.com
@@ -394,6 +405,7 @@ ia9c.adobeaemcloud.com
 ibrq.adobeaemcloud.com
 icv0.adobeaemcloud.com
 identity.adobe.com
+idg.adobe.com
 ids-proxy.account.adobe.com
 iivw.adobeaemcloud.com
 ij-y.adobeaemcloud.com
@@ -632,8 +644,10 @@ pinniwinkis.adobeaemcloud.com
 pjuf.adobeaemcloud.net
 plain-headed.adobeaemcloud.com
 plan.adobe.com
+platform-assets.typekit.net
 platform-cs.adobe.io
 platform-cs-edge.adobe.io
+platform-cs-edge-jpn3.adobe.io
 platform-cs-jpn3.adobe.io
 platform-cs-va6.adobe.io
 PMkNlmLZPaPL.adobe.com
@@ -658,6 +672,7 @@ pulpless.adobeaemcloud.com
 pUlVpnNUmURM.adobelogin.com
 pv24v41zibm.prod.cloud.adobe.io
 px0n.adobeaemcloud.net
+q0jo16uy1r.data.adobedc.net
 q0yb.adobeaemcloud.com
 q5o8.adobeaemcloud.com
 q6xg.adobeaemcloud.com
@@ -724,8 +739,10 @@ secureuk.adobeaemcloud.com
 self-ignite.adobeaemcloud.com
 senniu.adobeaemcloud.net
 server.messaging.adobe.com
+service.account.adobe.com
 services.account.adobe.com
 services.prod.ims.adobejanus.com
+shared-components.adobe.com
 shenqingsongcaijinwangzhi.adobeaemcloud.net
 shijieshidabocaigongsipaiming.adobeaemcloud.net
 shishicaizhuanqianjihuaqun.adobeaemcloud.com
@@ -789,6 +806,7 @@ swupmf.adobe.com
 sxtm.adobeaemcloud.com
 szs0.adobeaemcloud.com
 t19d.adobeaemcloud.com
+t3.ftcdn.net
 t3yh.adobeaemcloud.net
 t436.adobeaemcloud.net
 t7mm.adobeaemcloud.net
@@ -847,6 +865,7 @@ utut-service.adobe.com
 utut-service-api.adobe.com.edgekey.net
 vault-test2.dev.or2.adobe.net
 vetz.adobeaemcloud.com
+v.ftcdn.net
 vhh.adobeaemcloud.com
 video.tv.adobe.com
 vkbt.adobeaemcloud.com
