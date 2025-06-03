@@ -63338,3 +63338,5 @@ Tue Jun  3 10:09:05 AM MSK 2025                dns-tunnelbear.txt  >ipv6-resolve
 Tue Jun  3 10:09:29 AM MSK 2025                dns-twitter.txt  >ipv6-resolve-twitter.txt
 Tue Jun  3 10:09:35 AM MSK 2025                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
 Tue Jun  3 10:09:42 AM MSK 2025                dns-youtube.txt  >ipv6-resolve-youtube.txt
+[master 6ff6bdaa] auto-update ipv6
+ 12 files changed, 6747 insertions(+), 4409 deletions(-)
