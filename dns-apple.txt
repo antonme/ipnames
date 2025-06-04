@@ -425,6 +425,7 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -466,6 +467,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -609,6 +611,7 @@ p107-caldav.icloud.com
 p107-ckdatabase.icloud.com
 p107-ckdevice.icloud.com
 p107-contacts.icloud.com
+p107-content.icloud.com
 p107-escrowproxy.icloud.com
 p107-fmf.icloud.com
 p107-fmip.icloud.com
@@ -626,6 +629,7 @@ p111-fmipmobile.icloud.com
 p111-quota.icloud.com
 p112-iwnr-china.icloud.com
 p113-content.icloud.com
+p115-content.icloud.com
 p117-availability.icloud.com
 p117-content.icloud.com
 p117-sharedstreams.icloud.com
@@ -642,6 +646,7 @@ p122-fmip.icloud.com
 p122-fmipmobile.icloud.com
 p122-keyvalueservice.icloud.com
 p122-quota.icloud.com
+p123-content.icloud.com
 p125-content.icloud.com
 p128-content.icloud.com
 p129-acsegateway.icloud.com
@@ -659,6 +664,7 @@ p129-iwnr.icloud.com
 p129-keyvalueservice.icloud.com
 p129-quota.icloud.com
 p130-contacts.icloud.com
+p132-content.icloud.com
 p139-acsegateway.icloud.com
 p139-archivews.icloud.com
 p139-caldav.icloud.com
