@@ -75,6 +75,7 @@ api-glb-aapne1a.smoot.apple.com
 api-glb-aapse1c.smoot.apple.com
 api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
+api-glb-aeun1a.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
 api-lookup.smoot.apple.com
 api-safari.smoot.apple.com
@@ -108,6 +109,7 @@ apptrailers-ssl.itunes-apple.com.akadns.net
 asa.commerce.apple.com
 asa.commerce.apple.com.edgesuite.net
 assets-mercury.mzstatic.com
+associate.itunes.apple.com
 attester.gateway.icloud.com
 auth.itunes.apple.com
 authorize.music.apple.com.edgekey.net
@@ -316,7 +318,14 @@ edge-131.sesto4.icloud-content.com
 edge-135.sesto4.icloud-content.com
 edge-137.sesto4.icloud-content.com
 edge-138.sesto4.icloud-content.com
+edge-187.sesto4.icloud-content.com
+edge-215.sesto4.icloud-content.com
 edge-226.sesto4.icloud-content.com
+edge-232.sesto4.icloud-content.com
+edge-242.sesto4.icloud-content.com
+edge-247.sesto4.icloud-content.com
+edge-258.sesto4.icloud-content.com
+edge-272.sesto4.icloud-content.com
 edge-282.sesto4.icloud-content.com
 edge.apple
 edge.icloud-content.com
@@ -626,6 +635,7 @@ p111-fmip.icloud.com
 p111-fmipmobile.icloud.com
 p111-quota.icloud.com
 p112-iwnr-china.icloud.com
+p113-availability.icloud.com
 p113-content.icloud.com
 p115-content.icloud.com
 p117-availability.icloud.com
@@ -662,6 +672,7 @@ p129-iwnr.icloud.com
 p129-keyvalueservice.icloud.com
 p129-quota.icloud.com
 p130-contacts.icloud.com
+p130-content.icloud.com
 p132-content.icloud.com
 p139-acsegateway.icloud.com
 p139-archivews.icloud.com
@@ -1029,7 +1040,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 websitereview.corp.apple.com
 wps.apple.com
