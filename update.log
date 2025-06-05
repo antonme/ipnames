@@ -63538,3 +63538,5 @@ Thu Jun  5 09:12:58 AM MSK 2025                ext-dns-tiktok.txt  >ipv6-ext-res
 Thu Jun  5 09:27:09 AM MSK 2025                ext-dns-twitter.txt  >ipv6-ext-resolve-twitter.txt
 Thu Jun  5 09:32:40 AM MSK 2025                ext-dns-vpnhosts.txt  >ipv6-ext-resolve-vpnhosts.txt
 Thu Jun  5 09:38:39 AM MSK 2025                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
+[master bf33b7fb] auto-update ipv6
+ 17 files changed, 19860 insertions(+), 351 deletions(-)
