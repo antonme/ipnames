@@ -63996,3 +63996,267 @@ s
 ===anthropic
 
 == Save names archive
+[master f14ad088] auto-update names
+ 11 files changed, 124 insertions(+), 10 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Thu Jun 12 06:27:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cache-archive.txt
+	modified:   dns-adobe.txt
+	modified:   dns-anthropic.txt
+	modified:   dns-apple.txt
+	modified:   dns-backblaze.txt
+	modified:   dns-bing.txt
+	modified:   dns-facebook.txt
+	modified:   dns-github.txt
+	modified:   dns-google.txt
+	modified:   dns-huggingface.txt
+	modified:   dns-openai.txt
+	modified:   dns-ozon.txt
+	modified:   dns-pornhub.txt
+	modified:   dns-surfshark.txt
+	modified:   dns-tiktok.txt
+	modified:   dns-twitter.txt
+	modified:   dns-youtube.txt
+	modified:   ext-dns-adobe.txt
+	modified:   ext-dns-anthropic.txt
+	modified:   ext-dns-apple.txt
+	modified:   ext-dns-backblaze.txt
+	modified:   ext-dns-bing.txt
+	modified:   ext-dns-facebook.txt
+	modified:   ext-dns-github.txt
+	modified:   ext-dns-google.txt
+	modified:   ext-dns-huggingface.txt
+	modified:   ext-dns-openai.txt
+	modified:   ext-dns-ozon.txt
+	modified:   ext-dns-pornhub.txt
+	modified:   ext-dns-tiktok.txt
+	modified:   ext-dns-twitter.txt
+	modified:   ext-dns-youtube.txt
+	modified:   update.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	temp.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+== Resolving external names to ipv6
+Thu Jun 12 06:27:07 AM MSK 2025                ext-dns-adobe.txt  >ipv6-ext-resolve-adobe.txt
+Thu Jun 12 06:27:07 AM MSK 2025                ext-dns-anthropic.txt  >ipv6-ext-resolve-anthropic.txt
+Thu Jun 12 06:27:07 AM MSK 2025                ext-dns-apple.txt  >ipv6-ext-resolve-apple.txt
+Thu Jun 12 06:27:07 AM MSK 2025                ext-dns-backblaze.txt  >ipv6-ext-resolve-backblaze.txt
+Thu Jun 12 06:27:07 AM MSK 2025                ext-dns-bing.txt  >ipv6-ext-resolve-bing.txt
+Thu Jun 12 06:27:08 AM MSK 2025                ext-dns-facebook.txt  >ipv6-ext-resolve-facebook.txt
+Thu Jun 12 06:27:08 AM MSK 2025                ext-dns-github.txt  >ipv6-ext-resolve-github.txt
+Thu Jun 12 06:27:08 AM MSK 2025                ext-dns-google.txt  >ipv6-ext-resolve-google.txt
+Thu Jun 12 06:27:08 AM MSK 2025                ext-dns-huggingface.txt  >ipv6-ext-resolve-huggingface.txt
+Thu Jun 12 06:27:09 AM MSK 2025                ext-dns-openai.txt  >ipv6-ext-resolve-openai.txt
+Thu Jun 12 06:27:09 AM MSK 2025                ext-dns-ozon.txt  >ipv6-ext-resolve-ozon.txt
+Thu Jun 12 06:27:09 AM MSK 2025                ext-dns-pornhub.txt  >ipv6-ext-resolve-pornhub.txt
+Thu Jun 12 06:27:10 AM MSK 2025                ext-dns-tiktok.txt  >ipv6-ext-resolve-tiktok.txt
+Thu Jun 12 06:27:10 AM MSK 2025                ext-dns-twitter.txt  >ipv6-ext-resolve-twitter.txt
+Thu Jun 12 06:27:10 AM MSK 2025                ext-dns-vpnhosts.txt  >ipv6-ext-resolve-vpnhosts.txt
+Thu Jun 12 06:27:18 AM MSK 2025                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cache-archive.txt
+	modified:   dns-adobe.txt
+	modified:   dns-anthropic.txt
+	modified:   dns-apple.txt
+	modified:   dns-backblaze.txt
+	modified:   dns-bing.txt
+	modified:   dns-facebook.txt
+	modified:   dns-github.txt
+	modified:   dns-google.txt
+	modified:   dns-huggingface.txt
+	modified:   dns-openai.txt
+	modified:   dns-ozon.txt
+	modified:   dns-pornhub.txt
+	modified:   dns-surfshark.txt
+	modified:   dns-tiktok.txt
+	modified:   dns-twitter.txt
+	modified:   dns-youtube.txt
+	modified:   ext-dns-adobe.txt
+	modified:   ext-dns-anthropic.txt
+	modified:   ext-dns-apple.txt
+	modified:   ext-dns-backblaze.txt
+	modified:   ext-dns-bing.txt
+	modified:   ext-dns-facebook.txt
+	modified:   ext-dns-github.txt
+	modified:   ext-dns-google.txt
+	modified:   ext-dns-huggingface.txt
+	modified:   ext-dns-openai.txt
+	modified:   ext-dns-ozon.txt
+	modified:   ext-dns-pornhub.txt
+	modified:   ext-dns-tiktok.txt
+	modified:   ext-dns-twitter.txt
+	modified:   ext-dns-youtube.txt
+	modified:   ipv6-ext-resolve-adobe.txt
+	modified:   ipv6-ext-resolve-anthropic.txt
+	modified:   ipv6-ext-resolve-apple.txt
+	modified:   ipv6-ext-resolve-backblaze.txt
+	modified:   ipv6-ext-resolve-bing.txt
+	modified:   ipv6-ext-resolve-facebook.txt
+	modified:   ipv6-ext-resolve-github.txt
+	modified:   ipv6-ext-resolve-google.txt
+	modified:   ipv6-ext-resolve-huggingface.txt
+	modified:   ipv6-ext-resolve-openai.txt
+	modified:   ipv6-ext-resolve-ozon.txt
+	modified:   ipv6-ext-resolve-pornhub.txt
+	modified:   ipv6-ext-resolve-tiktok.txt
+	modified:   ipv6-ext-resolve-twitter.txt
+	modified:   ipv6-ext-resolve-vpnhosts.txt
+	modified:   ipv6-ext-resolve-youtube.txt
+	modified:   update.log
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	temp.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+
+--------------------------------------------------------------------------------
+Fri Jun 13 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cache-archive.txt
+	modified:   dns-adobe.txt
+	modified:   dns-anthropic.txt
+	modified:   dns-apple.txt
+	modified:   dns-backblaze.txt
+	modified:   dns-bing.txt
+	modified:   dns-facebook.txt
+	modified:   dns-github.txt
+	modified:   dns-google.txt
+	modified:   dns-huggingface.txt
+	modified:   dns-openai.txt
+	modified:   dns-ozon.txt
+	modified:   dns-pornhub.txt
+	modified:   dns-surfshark.txt
+	modified:   dns-tiktok.txt
+	modified:   dns-twitter.txt
+	modified:   dns-youtube.txt
+	modified:   ext-dns-adobe.txt
+	modified:   ext-dns-anthropic.txt
+	modified:   ext-dns-apple.txt
+	modified:   ext-dns-backblaze.txt
+	modified:   ext-dns-bing.txt
+	modified:   ext-dns-facebook.txt
+	modified:   ext-dns-github.txt
+	modif
+
+
+--------------------------------------------------------------------------------
+Sun Jun 15 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
