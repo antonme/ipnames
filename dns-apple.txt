@@ -115,6 +115,7 @@ apps.mzstatic.com.edgekey.net
 apps.mzstatic.com-v1.edgesuite.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
 apptrailers.itunes.apple.com
+apptrailers.itunes.apple.com.edgesuite.net
 apptrailers-ssl.itunes.apple.com
 apptrailers-ssl.itunes-apple.com.akadns.net
 asa.commerce.apple.com
@@ -541,6 +542,7 @@ gspe1-ssl.ls.apple.com
 gspe1-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com.edgesuite.net
 gspe21-applecdn-cutover.ls-apple.com.akadns.net
+gspe21-cdn.v.aaplimg.com
 gspe21-ssl.ls.apple.com
 gspe21-ssl.ls-apple.com.akadns.net
 gspe21-ssl.ls.apple.com.edgekey.net
@@ -724,7 +726,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -969,7 +970,6 @@ p72-content.icloud.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.cdn-apple.com.akadns.net
-pancake.g.aaplimg.com
 partiality.itunes.apple.com
 partiality.itunes-apple.com.akadns.net
 partiality.itunes.apple.com.edgekey.net
@@ -989,6 +989,7 @@ play.itunes.apple.com
 play.itunes.apple.com.edgesuite.net
 podcasts.apple.com
 podcasts.apple.com.edgekey.net
+podcasts.g.aaplimg.com
 podcasts.itunes.apple.com
 podcasts.itunes-apple.com.akadns.net
 podcasts.itunes.apple.com.edgesuite.net
