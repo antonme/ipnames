@@ -65780,3 +65780,65 @@ Thu Jul  3 09:15:25 AM MSK 2025                ext-dns-vpnhosts.txt  >ipv6-ext-r
 Thu Jul  3 09:22:25 AM MSK 2025                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
 [master db461bb0] auto-update ipv6
  17 files changed, 18791 insertions(+), 2960 deletions(-)
+[master dc5aebcd] auto-update merged
+ 22 files changed, 15339 insertions(+), 3079 deletions(-)
+ create mode 100644 merged/ipv6-vpnhosts.cidr
+
+
+
+--------------------------------------------------------------------------------
+Fri Jul  4 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===op
+
+
+--------------------------------------------------------------------------------
+Sun Jul  6 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
