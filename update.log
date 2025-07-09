@@ -66104,3 +66104,41 @@ Tue Jul  8 09:01:37 AM MSK 2025                dns-vpnhosts.txt  >ipv6-resolve-v
 Tue Jul  8 09:01:43 AM MSK 2025                dns-youtube.txt  >ipv6-resolve-youtube.txt
 [master 17930297] auto-update ipv6
  12 files changed, 4369 insertions(+), 6476 deletions(-)
+[master 1585c376] auto-update merged
+ 18 files changed, 4407 insertions(+), 5499 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Wed Jul  9 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
