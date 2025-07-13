@@ -259,6 +259,8 @@ amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com.edgekey.net
+amp-api-updates.apps.apple.com
+amp-api-updates.apps-lb.itunes-apple.com.akadns.net
 amp-api-videos-akam.itunes-apple.com.akadns.net
 amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
@@ -3672,6 +3674,7 @@ p10-calendars.icloud.com
 p111-caldav.icloud.com
 p111-contacts.icloud.com
 p111-content.icloud.com
+p111-escrowproxy.icloud.com
 p111-fmf.icloud.com
 p111-fmip.icloud.com
 p112-iwnr-china.icloud.com
@@ -3925,6 +3928,7 @@ pbs-ak.twimg.com
 pbs.twimg.akadns.net
 pbs.twimg.com
 pbs.twimg.com.akamaized.net
+pbs.twimg.com.cdn.cloudflare.net
 pbs.twimg.com.eip.akadns.net
 pc10-251.withgoogle.com
 pc13-193.adobeaemcloud.net
@@ -7104,6 +7108,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
