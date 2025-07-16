@@ -10,6 +10,7 @@ albert.apple.com
 albert.v.aaplimg.com
 amd-infra.apps-apple.com.akadns.net
 amd-infra.itunes.apple.com
+amd-infra.itunes.apple.com.akamaized.net
 amp-account.apps.apple.com
 amp-account.itunes.apple.com
 amp-account.itunes-apple.com.akadns.net
@@ -76,7 +77,9 @@ api-glb-aapne1a.smoot.apple.com
 api-glb-aapse1c.smoot.apple.com
 api-glb-aeuc1a.smoot.apple.com
 api-glb-aeuc1b.smoot.apple.com
+api-glb-aeus2a.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
+api-safari-aeus2a.smoot.apple.com
 api-safari.smoot.apple.com
 api.smoot.apple.com
 apple-cloudkit.com
@@ -101,6 +104,7 @@ apps.itunes-nocookie.com
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 apps.mzstatic.com
 apps.mzstatic.com.edgekey.net
+apps.mzstatic.com-v1.edgesuite.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
 apptrailers.itunes.apple.com
 apptrailers-ssl.itunes.apple.com
@@ -279,6 +283,7 @@ edge-030.defra2.icloud-content.com
 edge-030.usdal2.icloud-content.com
 edge-031.dedus1.icloud-content.com
 edge-035.nlhfd1.icloud-content.com
+edge-037.deber3.icloud-content.com
 edge-041.usmin.icloud-content.com
 edge-046.nlhfd1.icloud-content.com
 edge-053.deber3.icloud-content.com
@@ -320,23 +325,31 @@ edge-138.sesto4.icloud-content.com
 edge-158.sesto4.icloud-content.com
 edge-161.sesto4.icloud-content.com
 edge-173.sesto4.icloud-content.com
+edge-181.sesto4.icloud-content.com
 edge-187.sesto4.icloud-content.com
 edge-195.sesto4.icloud-content.com
 edge-196.sesto4.icloud-content.com
 edge-198.sesto4.icloud-content.com
 edge-199.sesto4.icloud-content.com
 edge-203.sesto4.icloud-content.com
+edge-205.sesto4.icloud-content.com
 edge-212.sesto4.icloud-content.com
 edge-216.sesto4.icloud-content.com
 edge-221.sesto4.icloud-content.com
+edge-224.sesto4.icloud-content.com
 edge-226.sesto4.icloud-content.com
 edge-227.sesto4.icloud-content.com
+edge-235.sesto4.icloud-content.com
 edge-242.sesto4.icloud-content.com
 edge-251.sesto4.icloud-content.com
 edge-255.sesto4.icloud-content.com
 edge-260.sesto4.icloud-content.com
+edge-261.sesto4.icloud-content.com
+edge-266.sesto4.icloud-content.com
 edge-267.sesto4.icloud-content.com
 edge-268.sesto4.icloud-content.com
+edge-270.sesto4.icloud-content.com
+edge-283.sesto4.icloud-content.com
 edge-284.sesto4.icloud-content.com
 edge.apple
 edge.icloud-content.com
@@ -476,6 +489,7 @@ idiagnostics.apple.com.akadns.net
 idmsa.apple.com
 idms-apple.com.akadns.net
 iforgot.apple.com
+images-mercury.mzstatic.com
 imap.mail.me.com.akadns.net
 inappcheck-ak.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com
@@ -619,6 +633,8 @@ osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
 p04-fmip.icloud.com
 p06-fmip.icloud.com
+p102-content.icloud.com
+p105-content.icloud.com
 p105-sharedstreams.icloud.com
 p107-content.icloud.com
 p10-calendars.icloud.com
@@ -651,6 +667,7 @@ p122-keyvalueservice.icloud.com
 p122-quota.icloud.com
 p123-content.icloud.com
 p125-content.icloud.com
+p128-content.icloud.com
 p129-acsegateway.icloud.com
 p129-caldav.icloud.com
 p129-contacts.icloud.com
@@ -693,6 +710,7 @@ p139-quota.icloud.com
 p139-remindersws.icloud.com
 p139-setup.icloud.com
 p140-ckdatabasews.icloud.com
+p140-content.icloud.com
 p142-content.icloud.com
 p144-content.icloud.com
 p146-content.icloud.com
@@ -700,12 +718,15 @@ p150-content.icloud.com
 p152-content.icloud.com
 p154-content.icloud.com
 p156-content.icloud.com
+p158-content.icloud.com
 p160-content.icloud.com
 p162-content.icloud.com
+p164-content.icloud.com
 p166-fmipmobile.icloud.com
 p168-contacts.icloud.com
 p16-buy.itunes.apple.com
 p16-buy-lb.itunes-apple.com.akadns.net
+p178-content.icloud.com
 p22-calendars.icloud.com
 p23-content.icloud.com
 p24-content.icloud.com
@@ -757,6 +778,7 @@ p45-content.icloud.com
 p45-fmip.icloud.com
 p45-sharedstreams.icloud.com
 p46-buy.itunes.apple.com
+p46-buy.itunes-apple.com.akadns.net
 p46-buy-lb.itunes-apple.com.akadns.net
 p46-content.icloud.com
 p47-content.icloud.com
@@ -817,6 +839,7 @@ pba0.apple.com
 pba.apple.com
 pd-cdn.itunes-apple.com.akadns.net
 pd.itunes.apple.com
+pd-lb.itunes-apple.com.akadns.net
 pds.ess.apple.com
 pds-init.ess.apple.com
 pds-init.ess.apple.com.edgesuite.net
@@ -932,6 +955,7 @@ static.cdn-apple.com
 static.cdn-apple.com.edgekey.net
 static.ess.apple.com
 static.gc.apple.com
+static.gc-lb.apple.com.akadns.net
 statici.icloud.com
 statici.icloud.com.edgekey.net
 stats.gc.apple.com
@@ -939,7 +963,6 @@ stats.gc-apple.com.akadns.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -987,6 +1010,7 @@ unlinkability.apple.com
 updates.cdn-apple.com
 updates.cdn-apple.com.akadns.net
 updates.cdn-apple.com.edgesuite.net
+updates.g.aaplimg.com
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 upp-cdn.itunes-apple.com.akadns.net
@@ -1047,6 +1071,7 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
+www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
