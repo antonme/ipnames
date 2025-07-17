@@ -66761,3 +66761,42 @@ Wed Jul 16 08:53:54 AM MSK 2025                dns-vpnhosts.txt  >resolve-vpnhos
 Wed Jul 16 08:54:00 AM MSK 2025                dns-youtube.txt  >resolve-youtube.txt
 [master 0c36ffa7] auto-update ipv4
  18 files changed, 2905 insertions(+), 11870 deletions(-)
+[master bd547a34] auto-update merged
+ 28 files changed, 3494 insertions(+), 6985 deletions(-)
+ create mode 100644 merged/ipv6-tiktok.cidr
+
+
+
+--------------------------------------------------------------------------------
+Thu Jul 17 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
