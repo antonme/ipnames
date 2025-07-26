@@ -67670,3 +67670,59 @@ Sat Jul 26 09:54:56 AM MSK 2025                dns-ozon.txt  >ipv6-resolve-ozon.
 Sat Jul 26 09:56:43 AM MSK 2025                dns-pornhub.txt  >ipv6-resolve-pornhub.txt
 Sat Jul 26 09:58:50 AM MSK 2025                dns-surfshark.txt  >ipv6-resolve-surfshark.txt
 Sat Jul 26 10:04:43 AM MSK 2025                dns-tiktok.txt  >ipv6-resolve-tiktok.txt
+[master 1129e6b3] auto-update merged
+ 64 files changed, 230931 insertions(+), 4106 deletions(-)
+ create mode 100644 merged/dns-adobe.txt
+ create mode 100644 merged/dns-anthropic.txt
+ create mode 100644 merged/dns-apple.txt
+ create mode 100644 merged/dns-backblaze.txt
+ create mode 100644 merged/dns-bing.txt
+ create mode 100644 merged/dns-expressvpn.txt
+ create mode 100644 merged/dns-facebook.txt
+ create mode 100644 merged/dns-github.txt
+ create mode 100644 merged/dns-google.txt
+ create mode 100644 merged/dns-huggingface.txt
+ create mode 100644 merged/dns-openai.txt
+ create mode 100644 merged/dns-ozon.txt
+ create mode 100644 merged/dns-pornhub.txt
+ create mode 100644 merged/dns-surfshark.txt
+ create mode 100644 merged/dns-tiktok.txt
+ create mode 100644 merged/dns-tunnelbear.txt
+ create mode 100644 merged/dns-twitter.txt
+ create mode 100644 merged/dns-vpnhosts.txt
+ create mode 100644 merged/dns-youtube.txt
+ create mode 100644 merged/ipv4-adobe.cidr
+ create mode 100644 merged/ipv4-anthropic.cidr
+ create mode 100644 merged/ipv4-apple.cidr
+ create mode 100644 merged/ipv4-backblaze.cidr
+ create mode 100644 merged/ipv4-bing.cidr
+ create mode 100644 merged/ipv4-expressvpn.cidr
+ create mode 100644 merged/ipv4-facebook.cidr
+ create mode 100644 merged/ipv4-github.cidr
+ create mode 100644 merged/ipv4-google.cidr
+ create mode 100644 merged/ipv4-huggingface.cidr
+ create mode 100644 merged/ipv4-openai.cidr
+ create mode 100644 merged/ipv4-ozon.cidr
+ create mode 100644 merged/ipv4-pornhub.cidr
+ create mode 100644 merged/ipv4-tiktok.cidr
+ create mode 100644 merged/ipv4-tunnelbear.cidr
+ create mode 100644 merged/ipv4-twitter.cidr
+ create mode 100644 merged/ipv4-vpnhosts.cidr
+ create mode 100644 merged/ipv4-youtube.cidr
+ create mode 100644 merged/ipv6-adobe.cidr
+ create mode 100644 merged/ipv6-anthropic.cidr
+ create mode 100644 merged/ipv6-apple.cidr
+ create mode 100644 merged/ipv6-backblaze.cidr
+ create mode 100644 merged/ipv6-bing.cidr
+ create mode 100644 merged/ipv6-facebook.cidr
+ create mode 100644 merged/ipv6-github.cidr
+ create mode 100644 merged/ipv6-google.cidr
+ create mode 100644 merged/ipv6-huggingface.cidr
+ create mode 100644 merged/ipv6-openai.cidr
+ create mode 100644 merged/ipv6-ozon.cidr
+ create mode 100644 merged/ipv6-pornhub.cidr
+ create mode 100644 merged/ipv6-youtube.cidr
+Sat Jul 26 10:56:37 AM MSK 2025                dns-tunnelbear.txt  >ipv6-resolve-tunnelbear.txt
+Sat Jul 26 11:06:29 AM MSK 2025                dns-twitter.txt  >ipv6-resolve-twitter.txt
+Sat Jul 26 11:14:57 AM MSK 2025                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
+Sat Jul 26 11:15:05 AM MSK 2025                dns-youtube.txt  >ipv6-resolve-youtube.txt
