@@ -67821,3 +67821,12 @@ Sun Jul 27 09:42:59 AM MSK 2025                dns-ozon.txt  >resolve-ozon.txt
 Sun Jul 27 09:44:37 AM MSK 2025                dns-pornhub.txt  >resolve-pornhub.txt
 Sun Jul 27 09:46:30 AM MSK 2025                dns-surfshark.txt  >resolve-surfshark.txt
 Sun Jul 27 09:51:44 AM MSK 2025                dns-tiktok.txt  >resolve-tiktok.txt
+[master fb53e219] auto-update merged
+ 44 files changed, 20612 insertions(+), 1471 deletions(-)
+ create mode 100644 merged/ipv4-surfshark.cidr
+ create mode 100644 merged/ipv6-tiktok.cidr
+ create mode 100644 merged/ipv6-twitter.cidr
+Sun Jul 27 10:38:56 AM MSK 2025                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Sun Jul 27 10:47:42 AM MSK 2025                dns-twitter.txt  >resolve-twitter.txt
+Sun Jul 27 10:55:20 AM MSK 2025                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Sun Jul 27 10:55:27 AM MSK 2025                dns-youtube.txt  >resolve-youtube.txt
