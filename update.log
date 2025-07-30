@@ -68125,3 +68125,10 @@ Wed Jul 30 09:55:27 AM MSK 2025                dns-ozon.txt  >resolve-ozon.txt
 Wed Jul 30 09:57:22 AM MSK 2025                dns-pornhub.txt  >resolve-pornhub.txt
 Wed Jul 30 09:59:33 AM MSK 2025                dns-surfshark.txt  >resolve-surfshark.txt
 Wed Jul 30 10:05:37 AM MSK 2025                dns-tiktok.txt  >resolve-tiktok.txt
+[master 0986e91f] auto-update merged
+ 39 files changed, 7178 insertions(+), 15959 deletions(-)
+ create mode 100644 merged/ipv6-ozon.cidr
+Wed Jul 30 10:59:16 AM MSK 2025                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Wed Jul 30 11:09:48 AM MSK 2025                dns-twitter.txt  >resolve-twitter.txt
+Wed Jul 30 11:19:09 AM MSK 2025                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Wed Jul 30 11:19:17 AM MSK 2025                dns-youtube.txt  >resolve-youtube.txt
