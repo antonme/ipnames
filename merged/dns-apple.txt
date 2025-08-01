@@ -1688,6 +1688,7 @@ amp-api.sandbox.apps-apple.com.akadns.net
 amp-api.sandbox.itunes-apple.com.akadns.net
 amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
+amp-api-search-edge.apps.apple.com.edgesuite.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com
 amp-api.shazam.apple.com.edgekey.net
@@ -4207,6 +4208,7 @@ edge-178.sesto4.icloud-content.com
 edge-178.zamrd1.icloud-content.com
 edge-179-010.hkhkg-2.icloud-content.com
 edge-179.deber3.icloud-content.com
+edge-179.sesto4.icloud-content.com
 edge-179.sgsin8.icloud-content.com
 edge-179.uschi7.icloud-content.com
 edge-179.zamrd1.icloud-content.com
@@ -4349,6 +4351,7 @@ edge-212.usdal2.icloud-content.com
 edge-213.deber3.icloud-content.com
 edge-213.hkhkg.icloud-content.com
 edge-213.jposa3.icloud-content.com
+edge-213.sesto4.icloud-content.com
 edge-213.sgsin8.icloud-content.com
 edge-213.usdal2.icloud-content.com
 edge-213.usmsc2.icloud-content.com
@@ -12264,7 +12267,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -23592,6 +23594,7 @@ smp-device-content-us.lb-apple.com.akadns.net
 smp-device-lt3.apple.com
 smp-device-lt4.apple.com
 smp-device-qa6.apple.com
+smp-paymentservices.apple.com
 smp-paymentservices.apple.com.v.aaplimg.com
 smp-qa5.apple.com
 smp-tsm-qa.apple.com
@@ -24243,7 +24246,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline-origin.apple.com
@@ -25353,7 +25355,6 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -25479,6 +25480,7 @@ www262.xs4tz.icloud.com
 www2.apple.com
 www2.seminars.apple.com
 www.afl.info.apple.com
+www.airport.us
 www.anat.apple.com
 www.apple.com
 www.apple.com.cn
@@ -25490,7 +25492,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
@@ -25565,7 +25566,6 @@ www.spain.euro.apple.com
 www.store.apple.com
 wwwsupp2.apple.com
 wwwsupp.apple.com
-www.thinkdifferent.us
 www.tips.apple.com
 www.trafficexchange.info.apple.com
 www.tsu.blobstore.apple.com
