@@ -1653,6 +1653,7 @@ amp-api.apps-lb.itunes-apple.com.akadns.net
 amp-api.apps-marketplace.apple.com
 amp-api.books.apple.com
 amp-api.books.apple.com.edgekey.net
+amp-api-books-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
 amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
@@ -2539,6 +2540,7 @@ bookmarks-ic3.icloud.com
 books-analytics-events.apple.com
 books.apple.com
 books.apple.com.edgekey.net
+books-edge.apple.com
 books-personalization-server.apple.com
 books-px14.apple.com
 books-ssl.itunes.apple.com
@@ -11848,6 +11850,7 @@ news-data-service.apple.com
 news-edge.apple.com
 news-events.apple.com
 news.iadsdk.apple.com
+news.iadsdk.apple.com.akadns.net
 news-iworkexportws.icloud.com
 newskit-events.apple.com
 newsletter-edge.apple.com
@@ -12269,7 +12272,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -25204,6 +25206,7 @@ valid-qa.apple.com
 valid-uat.apple.com
 valid-ust-rsa.apple.com
 vandelay-carry.icloud.com
+vast-europe.iad-apple.com.akadns.net
 vb01sa.apple.com
 vb02sa-x02.apple.com
 vb11-bistunium-k8scontour-ext2.ls.apple.com
@@ -25359,7 +25362,6 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -25411,6 +25413,7 @@ web-nc1.mmap.apple.com
 web-nc1.mmap-shield.apple.com
 web-p34-exportwsp34-exportwsap-xe03.apple.com
 webpay-sh-mdn.apple.com
+webproxy.advp.apple.com
 webproxy-dev.advp.apple.com
 web.push.apple.com
 web.qa2.push.apple.com
