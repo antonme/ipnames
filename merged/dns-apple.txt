@@ -2066,6 +2066,7 @@ appleid.apple.com
 appleid.cdn-apple.com
 appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.edgekey.net
+appleid.idms-apple.com.akadns.net
 appleid-it.apple.com
 appleid-nlt.apple.com
 appleid-nwk.apple.com
@@ -2931,7 +2932,6 @@ cl5-stg.ls.apple.com
 claris-filemaker-cloud-test.cdn-apple.com
 clarisftp.apple.com
 classical-api.music.apple.com
-classical-api-music.v.aaplimg.com
 classical.music.apple.com.edgesuite.net
 cleanlinescollective.tv.apple.com
 clearinghouse.apple.com
@@ -3718,6 +3718,7 @@ edge-028.hkhkg.icloud-content.com
 edge-028.sesto4.icloud-content.com
 edge-028.ussjc1.icloud-content.com
 edge-029.sesto4.icloud-content.com
+edge-029.usbos2.icloud-content.com
 edge-029.uslax2.icloud-content.com
 edge-029.zamrd1.icloud-content.com
 edge-030.defra2.icloud-content.com
@@ -3888,6 +3889,7 @@ edge-090.zamrd1.icloud-content.com
 edge-091.edge-291.icloud-content.com
 edge-091.usprz3-121.icloud-content.com
 edge-091.zamrd1.icloud-content.com
+edge-092.nlhfd1.icloud-content.com
 edge-092.sesto4.icloud-content.com
 edge-092.zamrd1.icloud-content.com
 edge-093.hkhkg-4.icloud-content.com
@@ -4210,6 +4212,7 @@ edge-178.deber3.icloud-content.com
 edge-178.hontono1.icloud-content.com
 edge-178.jposa3.icloud-content.com
 edge-178.sesto4.icloud-content.com
+edge-178.usuyk1.icloud-content.com
 edge-178.zamrd1.icloud-content.com
 edge-179-010.hkhkg-2.icloud-content.com
 edge-179.deber3.icloud-content.com
@@ -8283,6 +8286,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -8294,9 +8298,11 @@ init-kt.lb-apple.com.akadns.net
 init-p01md.apple.com
 init-p01md.apple.com.edgesuite.net
 init-p01md-lb.push-apple.com.akadns.net
+init-p01md-row.push-apple.com.akadns.net
 init-p01st-lb.push-apple.com.akadns.net
 init-p01st.push.apple.com
 init-p01st.push.apple.com.edgesuite.net
+init-p01st-row.push-apple.com.akadns.net
 init-p01st-v6.push.apple.com.edgesuite.net
 init.push.apple.com
 init.push-apple.com.akadns.net
@@ -24259,7 +24265,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline-origin.apple.com
@@ -25508,7 +25513,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
@@ -25538,7 +25542,6 @@ www.gauravsays.info.apple.com
 www.germany.euro.apple.com
 www.guide.apple.com
 www.holland.euro.apple.com
-www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
@@ -25546,7 +25549,6 @@ www.icloud-content.com
 www.img1.apple-mapkit.com
 www.inspectieresultaten.icloud.com
 www.it.nfapeuro.apple.com
-www.itools.info
 www.itunes.com
 www.iworktrialbuy.apple.com
 www.kreasifb.blobstore.apple.com
