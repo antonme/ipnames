@@ -68824,3 +68824,11 @@ Wed Aug  6 10:15:01 AM MSK 2025                dns-openai.txt  >resolve-openai.t
 Wed Aug  6 10:18:22 AM MSK 2025                dns-ozon.txt  >resolve-ozon.txt
 Wed Aug  6 10:20:11 AM MSK 2025                dns-pornhub.txt  >resolve-pornhub.txt
 Wed Aug  6 10:22:12 AM MSK 2025                dns-surfshark.txt  >resolve-surfshark.txt
+[master 943b8aee] auto-update merged
+ 40 files changed, 6645 insertions(+), 8922 deletions(-)
+ delete mode 100644 merged/ipv4-surfshark.cidr
+Wed Aug  6 10:27:45 AM MSK 2025                dns-tiktok.txt  >resolve-tiktok.txt
+Wed Aug  6 11:16:55 AM MSK 2025                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Wed Aug  6 11:26:24 AM MSK 2025                dns-twitter.txt  >resolve-twitter.txt
+Wed Aug  6 11:34:33 AM MSK 2025                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Wed Aug  6 11:34:40 AM MSK 2025                dns-youtube.txt  >resolve-youtube.txt
