@@ -3051,6 +3051,7 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
+configuration-row-lb.apple.com.akadns.net
 connect2-temp.apple.com
 connect6-apple-guest2.apple.com
 connect7.apple.com
@@ -4416,6 +4417,7 @@ edge-221.deber3.icloud-content.com
 edge-221.sesto4.icloud-content.com
 edge-221.sgsin8.icloud-content.com
 edge-221.usdal2.icloud-content.com
+edge-221.usuyk1.icloud-content.com
 edge-221.zamrd1.icloud-content.com
 edge-222.deber3.icloud-content.com
 edge-222.jposa3.icloud-content.com
@@ -8300,6 +8302,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -12297,6 +12300,7 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -24286,7 +24290,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline-origin.apple.com
@@ -25525,6 +25528,7 @@ www262.xs4tz.icloud.com
 www2.apple.com
 www2.seminars.apple.com
 www.afl.info.apple.com
+www.airport.us
 www.anat.apple.com
 www.apple.com
 www.apple.com.cn
@@ -25565,6 +25569,7 @@ www.gauravsays.info.apple.com
 www.germany.euro.apple.com
 www.guide.apple.com
 www.holland.euro.apple.com
+www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
@@ -25572,6 +25577,7 @@ www.icloud-content.com
 www.img1.apple-mapkit.com
 www.inspectieresultaten.icloud.com
 www.it.nfapeuro.apple.com
+www.itools.info
 www.itunes.com
 www.iworktrialbuy.apple.com
 www.kreasifb.blobstore.apple.com
@@ -25608,6 +25614,7 @@ www.spain.euro.apple.com
 www.store.apple.com
 wwwsupp2.apple.com
 wwwsupp.apple.com
+www.thinkdifferent.us
 www.tips.apple.com
 www.trafficexchange.info.apple.com
 www.tsu.blobstore.apple.com
