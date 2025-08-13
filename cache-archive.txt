@@ -3119,6 +3119,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -3807,6 +3808,7 @@ mintly.ttpneonx.xyz
 mir-s3-cdn-cf.behance.net
 misc-anycast.l.google.com
 miulo.githubusercontent.com
+mixpanel.com
 mk6z.googleapis.com
 mk7r.adobeaemcloud.com
 mkcpa.ca.inbound20.ttasia.com
@@ -4200,6 +4202,7 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp.pki.goog
@@ -4258,6 +4261,7 @@ openai.qualtrics.com
 opengoogle.com
 openidconnect.googleapis.com
 operator.chatgpt.com
+o.pki.goog
 op-se.storage.googleapis.com
 optimizationguide-pa.googleapis.com
 op-ue.storage.googleapis.com
@@ -7033,6 +7037,7 @@ rr5---sn-5hneknee.googlevideo.com
 rr5---sn-5hneknek.googlevideo.com
 rr5---sn-ab5l6ndr.googlevideo.com
 rr5---sn-ab5l6nk6.googlevideo.com
+rr5.sn-ab5l6nkd.googlevideo.com
 rr5---sn-ab5l6nkd.googlevideo.com
 rr5---sn-ab5l6nr6.googlevideo.com
 rr5---sn-ab5l6nrd.googlevideo.com
@@ -7740,7 +7745,6 @@ stock-notifications.astockcdn.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 storage.cloud.google.com
@@ -7832,11 +7836,11 @@ sxtm.adobeaemcloud.com
 sxyj.withgoogle.com
 sydney.bing.com
 sydney.bing.com.edgekey.net
-sydney-sydney-bing-com.trafficmanager.net
 sy.lazerpenguin.com
 sylvan.apple.com
 sync-cdn.itunes-apple.com.akadns.net
 sync.itunes.apple.com
+sync.prod.webservices.mozgcp.net
 syndication.twitter.com
 s.youtube.com
 s.ytimg.com
@@ -8403,6 +8407,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
