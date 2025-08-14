@@ -2470,6 +2470,7 @@ bag-cdn-akam.itunes-apple.com.akadns.net
 bag-cdn.itunes-apple.com.akadns.net
 bag-cdn-lb.itunes-apple.com.akadns.net
 bag.itunes.apple.com
+bag.itunes.apple.com.edgesuite.net
 banners.itunes.apple.com
 banners.store.apple.com
 banyan.apple.com
@@ -3773,6 +3774,7 @@ edge-047.hkhkg.icloud-content.com
 edge-047.sesto4.icloud-content.com
 edge-048edge-490.defra2.icloud-content.com
 edge-048.sesto4.icloud-content.com
+edge-048.usqas5.icloud-content.com
 edge-049.defra2.icloud-content.com
 edge-049.hkhkg.icloud-content.com
 edge-049.sesto4.icloud-content.com
@@ -8302,7 +8304,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -12300,7 +12301,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -17578,6 +17578,7 @@ p177-ckdevice-china.icloud.com
 p177-ckshare.icloud.com
 p177-contacts.icloud.com
 p177-contactsws-china.icloud.com
+p177-content.icloud.com
 p177-docws.icloud.com
 p177-escrowproxy.icloud.com
 p177-feedbackws-china.icloud.com
@@ -17823,6 +17824,7 @@ p181-ckdevice-china.icloud.com
 p181-ckdevice.icloud.com
 p181-contacts-china.icloud.com
 p181-contactsws.icloud.com
+p181-content.icloud.com
 p181-docws.icloud.com
 p181-escrowproxy.icloud.com
 p181-feedbackws-china.icloud.com
@@ -25401,7 +25403,6 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
