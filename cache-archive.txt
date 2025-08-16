@@ -131,6 +131,7 @@ accounts-cctld.l.google.com
 accountsettingsmobile-pa.googleapis.com
 accounts.google.com
 accounts.youtube.com
+account-va6-prod-k8s.cloud.adobe.io
 a-cdn.anthropic.com
 a-cdn.claude.ai
 acec459725ffa8f789a0f8de966a5d39.safeframe.googlesyndication.com
@@ -247,6 +248,7 @@ aidc.apple.com
 aidc.origin-apple.com.akadns.net
 aidorudouga19.iebaikyaku.tiktok.tv
 ai.lazerpenguin.com
+aistudio.google.com
 ajax.googleapis.com
 ak5q.adobeaemcloud.com
 akamai.tiqcdn.com
@@ -484,6 +486,7 @@ api-glb-aeun1b.smoot.apple.com
 api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw1b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
+api-glb-asae1b.smoot.apple.com
 api-h2.tiktokv.com
 api-h2.tiktokv.com.edgekey.net
 api-inference.huggingface.co
@@ -681,6 +684,8 @@ b1ca38e2b7fc28fff2e79f2b73da02c2.safeframe.googlesyndication.com
 b1fc610579fb0e3dd22d32fbb0f49254.safeframe.googlesyndication.com
 b2374f5dfedf5615a8555b5a70bcf633.safeframe.googlesyndication.com
 b2c4.googleapis.com
+B2FCA9DF-6314-4B9C-9958-EE8EC5E7E1BD-netseer-ipaddr-assoc.xy.fbcdn.net
+B2FCA9DF-6314-4B9C-9958-EE8EC5E7E1BD-netseer-ipaddr-assoc.xz.fbcdn.net
 b-2i.withgoogle.com
 b2ug.adobeaemcloud.com
 b2yf.githubusercontent.com
@@ -699,6 +704,8 @@ B475EE06-A8F0-48D8-B6E7-547C9C63A81D-netseer-ipaddr-assoc.xz.fbcdn.net
 b4d0597d910315a81e75b07f3f7b50b5.safeframe.googlesyndication.com
 b510800c994385c80d3df273002cbbcd.safeframe.googlesyndication.com
 b57x.githubusercontent.com
+B5B7F34A-A07B-4465-9CEC-9449298F11AF-netseer-ipaddr-assoc.xy.fbcdn.net
+B5B7F34A-A07B-4465-9CEC-9449298F11AF-netseer-ipaddr-assoc.xz.fbcdn.net
 B5E7710E-B86A-43E4-B185-E9BA8D4F5350-netseer-ipaddr-assoc.xy.fbcdn.net
 B5E7710E-B86A-43E4-B185-E9BA8D4F5350-netseer-ipaddr-assoc.xz.fbcdn.net
 B63B0755-D77C-4CAE-BEBB-6F274CCBF924-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -717,6 +724,8 @@ B6AD742C-259A-4667-A8AF-7E3FD8260B28-netseer-ipaddr-assoc.xz.fbcdn.net
 B6B73A7F-46DB-4776-8046-0C3B8B7533DF-netseer-ipaddr-assoc.xy.fbcdn.net
 B6B73A7F-46DB-4776-8046-0C3B8B7533DF-netseer-ipaddr-assoc.xz.fbcdn.net
 b6rr.githubusercontent.com
+B755B238-3C2A-4F99-B4EA-086C8A4D2F6A-netseer-ipaddr-assoc.xy.fbcdn.net
+B755B238-3C2A-4F99-B4EA-086C8A4D2F6A-netseer-ipaddr-assoc.xz.fbcdn.net
 b778364d1225263f5cb86b2615dd7258.safeframe.googlesyndication.com
 B7A9AB5F-2FAD-424E-B926-40D5CE10F1E3-netseer-ipaddr-assoc.xy.fbcdn.net
 B7A9AB5F-2FAD-424E-B926-40D5CE10F1E3-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -727,6 +736,8 @@ b7pn.ttbxqtcwk37rqcoqkqephaavfbles2xovkxyedxpgg.5k5oqaegs.lncwp3vdec05wnc0nh.nkv
 b8928ee1bbc89874c8f2208c0cd4470e.safeframe.googlesyndication.com
 b8988e17bcfd725ebb0f8e993e6ea9dd.safeframe.googlesyndication.com
 b89a62e6f924c435abfa445fded47aa0.safeframe.googlesyndication.com
+B8AC7FB1-6072-4809-B52D-056071F724D1-netseer-ipaddr-assoc.xy.fbcdn.net
+B8AC7FB1-6072-4809-B52D-056071F724D1-netseer-ipaddr-assoc.xz.fbcdn.net
 b8f687372a29145411d27cd002dc6196.safeframe.googlesyndication.com
 b8fdb850c0c90cd63f40a5e94becdec8.safeframe.googlesyndication.com
 B931EEDB-30B2-4DD6-A13B-B6B6B0C38312-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -1316,7 +1327,6 @@ cl5.apple.com
 cl5.apple.com.edgekey.net
 cl5-cdn.origin-apple.com.akadns.net
 classical-api.music.apple.com
-classical-api-music.v.aaplimg.com
 classical.music.apple.com.edgesuite.net
 claude.ai
 clerc-dorm-118-239.githubusercontent.com
@@ -1852,6 +1862,7 @@ docs.adobe.com
 docs.anthropic.com
 docs-assets.developer.apple.com
 docs.docs.help-github.com
+docs.github.com
 docs.google.com
 docs.ozon.ru
 dodomint4.googleapis.com
@@ -1960,11 +1971,15 @@ E594D56B-2AD6-449A-B10D-7AFAF3895D7A-netseer-ipaddr-assoc.xz.fbcdn.net
 E5C293B0-53FB-4363-8001-D89DF56DF9EC-netseer-ipaddr-assoc.xz.fbcdn.net
 E643F3F5-7552-4DB3-B8C0-6B0F2767B585-netseer-ipaddr-assoc.xy.fbcdn.net
 E643F3F5-7552-4DB3-B8C0-6B0F2767B585-netseer-ipaddr-assoc.xz.fbcdn.net
+E645041C-DCED-491B-AD3F-611D0736A4BC-netseer-ipaddr-assoc.xy.fbcdn.net
+E645041C-DCED-491B-AD3F-611D0736A4BC-netseer-ipaddr-assoc.xz.fbcdn.net
 e6e76478291f6a471aab9c072d75ea7c.safeframe.googlesyndication.com
 E6EE9D48-FEBC-41D8-9C5C-FC2B53B4FD8E-netseer-ipaddr-assoc.xz.fbcdn.net
 e71a7f3695c895a94c2edd09d64d52de.safeframe.googlesyndication.com
 E7374970-9B36-4BA9-AE0D-BF9407322507-netseer-ipaddr-assoc.xy.fbcdn.net
 E7374970-9B36-4BA9-AE0D-BF9407322507-netseer-ipaddr-assoc.xz.fbcdn.net
+E76D8298-1545-46B4-961F-EF0FE5037201-netseer-ipaddr-assoc.xy.fbcdn.net
+E76D8298-1545-46B4-961F-EF0FE5037201-netseer-ipaddr-assoc.xz.fbcdn.net
 e7878534a28816e867e708eb0c27f5ff.safeframe.googlesyndication.com
 e7a.adobeaemcloud.net
 e7f60ece5c5129aec262e59f27836769.safeframe.googlesyndication.com
@@ -2050,6 +2065,7 @@ edge-035.nlhfd1.icloud-content.com
 edge-037.deber3.icloud-content.com
 edge-041.usmin.icloud-content.com
 edge-046.nlhfd1.icloud-content.com
+edge-048.nlhfd1.icloud-content.com
 edge-048.usqas5.icloud-content.com
 edge-051.dkvib11.icloud-content.com
 edge-054.nlhfd1.icloud-content.com
@@ -2067,6 +2083,7 @@ edge-077.sesto4.icloud-content.com
 edge-080.sesto4.icloud-content.com
 edge-083.sesto4.icloud-content.com
 edge-084.usqas5.icloud-content.com
+edge-087.usbos2.icloud-content.com
 edge-088.sesto4.icloud-content.com
 edge-090.sesto4.icloud-content.com
 edge-092.nlhfd1.icloud-content.com
@@ -2095,10 +2112,12 @@ edge-129.sesto4.icloud-content.com
 edge-129.usdal2.icloud-content.com
 edge-131.dkvib11.icloud-content.com
 edge-131.sesto4.icloud-content.com
+edge-132.dkvib11.icloud-content.com
 edge-135.sesto4.icloud-content.com
 edge-137.sesto4.icloud-content.com
 edge-138.sesto4.icloud-content.com
 edge-157.sesto4.icloud-content.com
+edge-158.sesto4.icloud-content.com
 edge-159.sesto4.icloud-content.com
 edge-160.sesto4.icloud-content.com
 edge-161.sesto4.icloud-content.com
@@ -2160,6 +2179,7 @@ edge-219.sesto4.icloud-content.com
 edge-220.sesto4.icloud-content.com
 edge-221.sesto4.icloud-content.com
 edge-221.usuyk1.icloud-content.com
+edge-222.sesto4.icloud-content.com
 edge-223.sesto4.icloud-content.com
 edge-224.sesto4.icloud-content.com
 edge-226.sesto4.icloud-content.com
@@ -2340,6 +2360,7 @@ etox.ttk.apigee.io
 etty2xxdmitp6ku.qu7pssz561xu4awpetx.xwowb3kfc.v1nvi9jsyqzelenioiwyeym9ayei1fgwg.tthih8odqw9d11ibk53.bx8xlanqvdmgrm.bnzghrqpkglwqqfr3be4.23d2ef.shofha.online
 euc1-wps-prod.apple.com
 eu-central-courier-4.push-apple.com.akadns.net
+eu-central-courier-vs.push-apple.com.akadns.net
 euju.googleapis.com
 eu-north-courier-4.push-apple.com.akadns.net
 eu-nw-courier-4.push-apple.com.akadns.net
@@ -2873,7 +2894,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -3107,6 +3127,7 @@ id-jak.prod.surfshark.com
 id.lazerpenguin.com
 idmsa.apple.com
 idms-apple.com.akadns.net
+idolchamp.co.kr
 idq0ip-dnsotls-ds.metric.gstatic.com
 idrhealthcare.instaging.io
 idrsp2c5qu290wx3i1ec6lgf9.e.ttdngh7a8h4.irivf90lycdshq8kow4fwghs.mta-sts.uly6fdfoy7g36grvqeh4bgordffyknsqb3xrjfi.mta-sts.y.r8evzktyeg7qxmd6qnfm16bi.wcps63bkddr0.shofha.online
@@ -3170,6 +3191,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -3679,6 +3701,7 @@ log16-platform-ycru.tiktokv.com
 logheaded.adobeaemcloud.net
 login.corp.google.com
 log-va.tiktokv.com.edgekey.net
+loki.cloud.adobe.io
 lonun.githubusercontent.com
 lookaside.facebook.com
 lookaside.instagram.com
@@ -4382,6 +4405,8 @@ p107-contacts.icloud.com
 p107-content.icloud.com
 p107-escrowproxy.icloud.com
 p107-fmf.icloud.com
+p107-fmfmobile.icloud.com
+p107-fmip.icloud.com
 p107-fmipmobile.icloud.com
 p107-quota.icloud.com
 p10-calendars.icloud.com
@@ -4511,6 +4536,7 @@ p171-content.icloud.com
 p173-content.icloud.com
 p176-content.icloud.com
 p177-content.icloud.com
+p178-content.icloud.com
 p181-content.icloud.com
 p182-content.icloud.com
 p19-pu-sign-useast8.tiktokcdn-us.com
@@ -5473,7 +5499,6 @@ pre-enforcement.googleapis.com
 preprod-voilatile-pa.googleapis.com
 presence-an1.adobe.io
 preview.illustrator.adobe.com
-priceline.com
 primegoogle.com
 primeminister.githubusercontent.com
 prisacom.tt.omtrdc.net
@@ -6404,11 +6429,15 @@ rr1---sn-ab5l6nkd.googlevideo.com
 rr1---sn-ab5l6nr6.googlevideo.com
 rr1.sn-ab5l6nrl.googlevideo.com
 rr1---sn-ab5l6nrl.googlevideo.com
+rr1---sn-ab5l6nrr.googlevideo.com
+rr1---sn-ab5l6nrz.googlevideo.com
 rr1---sn-ab5sznly.googlevideo.com
 rr1---sn-ab5sznzd.googlevideo.com
 rr1---sn-ab5sznze.googlevideo.com
+rr1---sn-ab5sznzk.googlevideo.com
 rr1---sn-ab5sznzr.googlevideo.com
 rr1---sn-ab5sznzy.googlevideo.com
+rr1---sn-ab5sznzz.googlevideo.com
 rr1---sn-ajab55-55.googlevideo.com
 rr1---sn-c0q7lns7.googlevideo.com
 rr1---sn-f5f7knee.googlevideo.com
@@ -6578,10 +6607,13 @@ rr2---sn-5hneknek.googlevideo.com
 rr2---sn-ab5l6nk6.googlevideo.com
 rr2---sn-ab5l6nrd.googlevideo.com
 rr2---sn-ab5l6nrk.googlevideo.com
+rr2---sn-ab5l6nrr.googlevideo.com
 rr2---sn-ab5l6nrs.googlevideo.com
+rr2---sn-ab5l6nrz.googlevideo.com
 rr2.sn-ab5sznld.googlevideo.com
 rr2---sn-ab5sznld.googlevideo.com
 rr2---sn-ab5sznly.googlevideo.com
+rr2---sn-ab5sznz6.googlevideo.com
 rr2---sn-ab5sznzd.googlevideo.com
 rr2---sn-ab5sznze.googlevideo.com
 rr2---sn-ab5sznzl.googlevideo.com
@@ -6758,7 +6790,9 @@ rr3---sn-ab5l6nrk.googlevideo.com
 rr3---sn-ab5l6nrr.googlevideo.com
 rr3---sn-ab5l6nrs.googlevideo.com
 rr3---sn-ab5sznz6.googlevideo.com
+rr3---sn-ab5sznzd.googlevideo.com
 rr3---sn-ab5sznzk.googlevideo.com
+rr3---sn-ab5sznzl.googlevideo.com
 rr3---sn-ab5sznzr.googlevideo.com
 rr3.sn-ab5sznzs.googlevideo.com
 rr3---sn-ab5sznzs.googlevideo.com
@@ -6937,15 +6971,18 @@ rr4---sn-ab5l6ndr.googlevideo.com
 rr4---sn-ab5l6nk6.googlevideo.com
 rr4---sn-ab5l6nkd.googlevideo.com
 rr4---sn-ab5l6nr6.googlevideo.com
+rr4---sn-ab5l6nrd.googlevideo.com
 rr4---sn-ab5l6nrl.googlevideo.com
 rr4---sn-ab5l6nrr.googlevideo.com
 rr4---sn-ab5l6nrs.googlevideo.com
 rr4---sn-ab5l6nrz.googlevideo.com
 rr4---sn-ab5sznzd.googlevideo.com
+rr4---sn-ab5sznze.googlevideo.com
 rr4---sn-ab5sznzk.googlevideo.com
 rr4---sn-ab5sznzl.googlevideo.com
 rr4---sn-ab5sznzr.googlevideo.com
 rr4---sn-ab5sznzs.googlevideo.com
+rr4---sn-ab5sznzy.googlevideo.com
 rr4---sn-ab5sznzz.googlevideo.com
 rr4---sn-ajab55-55.googlevideo.com
 rr4---sn-f5f7lnl6.googlevideo.com
@@ -7091,6 +7128,7 @@ rr5---sn-4g5edns7.googlevideo.com
 rr5---sn-4g5ednsz.googlevideo.com
 rr5---sn-4g5lznes.googlevideo.com
 rr5---sn-4g5lznls.googlevideo.com
+rr5---sn-5go7yner.googlevideo.com
 rr5---sn-5go7ynl6.googlevideo.com
 rr5.sn-5go7ynld.googlevideo.com
 rr5---sn-5go7ynld.googlevideo.com
@@ -7402,6 +7440,7 @@ s8lw.adobeaemcloud.com
 safebrowsing.apple
 safebrowsing.googleapis.com
 safebrowsing.google.com
+safebrowsingohttpgateway.googleapis.com
 safety-alert.apple.com
 safety-alert.apple.com.edgesuite.net
 sailu.devices.resinstaging.io
@@ -7461,6 +7500,7 @@ scontent-dfw5-1.xx.fbcdn.net
 scontent-dfw5-2.xx.fbcdn.net
 scontent-dus1-1.cdninstagram.com
 scontent-dus1-1.xx.fbcdn.net
+scontent-fallback.cdninstagram.com
 scontent.fallback.cdninstagram.com
 scontent.fallback.xx.fbcdn.net
 scontent.fbhz6-1.fna.fbcdn.net
@@ -8082,6 +8122,7 @@ tr.iadsdk.apple.com
 tr.iadsdk.apple.com.akadns.net
 tr-ist.prod.surfshark.com
 tr.lazerpenguin.com
+trust.anthropic.com
 tsdp.adobeaemcloud.com
 tse4.mm.bing.net
 ts.itunes.apple.com

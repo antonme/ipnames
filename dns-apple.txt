@@ -86,6 +86,7 @@ api-glb-aeun1b.smoot.apple.com
 api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw1b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
+api-glb-asae1b.smoot.apple.com
 api-lookup.smoot.apple.com
 api-safari-aeus2b.smoot.apple.com
 api-safari.smoot.apple.com
@@ -214,7 +215,6 @@ cl5.apple.com
 cl5.apple.com.edgekey.net
 cl5-cdn.origin-apple.com.akadns.net
 classical-api.music.apple.com
-classical-api-music.v.aaplimg.com
 classical.music.apple.com.edgesuite.net
 client-api-cdn.itunes-apple.com.akadns.net
 client-api.itunes.apple.com
@@ -309,6 +309,7 @@ edge-035.nlhfd1.icloud-content.com
 edge-037.deber3.icloud-content.com
 edge-041.usmin.icloud-content.com
 edge-046.nlhfd1.icloud-content.com
+edge-048.nlhfd1.icloud-content.com
 edge-048.usqas5.icloud-content.com
 edge-051.dkvib11.icloud-content.com
 edge-054.nlhfd1.icloud-content.com
@@ -326,6 +327,7 @@ edge-077.sesto4.icloud-content.com
 edge-080.sesto4.icloud-content.com
 edge-083.sesto4.icloud-content.com
 edge-084.usqas5.icloud-content.com
+edge-087.usbos2.icloud-content.com
 edge-088.sesto4.icloud-content.com
 edge-090.sesto4.icloud-content.com
 edge-092.nlhfd1.icloud-content.com
@@ -354,10 +356,12 @@ edge-129.sesto4.icloud-content.com
 edge-129.usdal2.icloud-content.com
 edge-131.dkvib11.icloud-content.com
 edge-131.sesto4.icloud-content.com
+edge-132.dkvib11.icloud-content.com
 edge-135.sesto4.icloud-content.com
 edge-137.sesto4.icloud-content.com
 edge-138.sesto4.icloud-content.com
 edge-157.sesto4.icloud-content.com
+edge-158.sesto4.icloud-content.com
 edge-159.sesto4.icloud-content.com
 edge-160.sesto4.icloud-content.com
 edge-161.sesto4.icloud-content.com
@@ -419,6 +423,7 @@ edge-219.sesto4.icloud-content.com
 edge-220.sesto4.icloud-content.com
 edge-221.sesto4.icloud-content.com
 edge-221.usuyk1.icloud-content.com
+edge-222.sesto4.icloud-content.com
 edge-223.sesto4.icloud-content.com
 edge-224.sesto4.icloud-content.com
 edge-226.sesto4.icloud-content.com
@@ -487,6 +492,7 @@ ess-apple.com.akadns.net
 ess.apple.com.edgesuite.net
 euc1-wps-prod.apple.com
 eu-central-courier-4.push-apple.com.akadns.net
+eu-central-courier-vs.push-apple.com.akadns.net
 eu-north-courier-4.push-apple.com.akadns.net
 eu-nw-courier-4.push-apple.com.akadns.net
 euro.apple.com
@@ -583,7 +589,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -629,6 +634,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -785,6 +791,8 @@ p107-contacts.icloud.com
 p107-content.icloud.com
 p107-escrowproxy.icloud.com
 p107-fmf.icloud.com
+p107-fmfmobile.icloud.com
+p107-fmip.icloud.com
 p107-fmipmobile.icloud.com
 p107-quota.icloud.com
 p10-calendars.icloud.com
@@ -889,6 +897,7 @@ p171-content.icloud.com
 p173-content.icloud.com
 p176-content.icloud.com
 p177-content.icloud.com
+p178-content.icloud.com
 p181-content.icloud.com
 p182-content.icloud.com
 p22-calendars.icloud.com
