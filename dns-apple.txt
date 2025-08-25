@@ -27,6 +27,7 @@ amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
 amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
+amp-api-edge.music.apple.com
 amp-api-fitness-akam.itunes-apple.com.akadns.net
 amp-api.fitness.apple.com
 amp-api.fitness.apple.com.edgekey.net
@@ -199,6 +200,7 @@ certs-lb.apple.com.akadns.net
 certs-us-lb.apple.com.akadns.net
 cf.iadsdk.apple.com
 cf.iadsdk.apple.com.akadns.net
+challenge.gc.apple.com
 ckdatabasews.icloud.com
 cl1.apple.com
 cl1-cdn.origin-apple.com.akadns.net
@@ -456,6 +458,7 @@ edge-244.sesto4.icloud-content.com
 edge-245.sesto4.icloud-content.com
 edge-245.usqas5.icloud-content.com
 edge-246.sesto4.icloud-content.com
+edge-246.usqas5.icloud-content.com
 edge-247.sesto4.icloud-content.com
 edge-248.sesto4.icloud-content.com
 edge-249.sesto4.icloud-content.com
@@ -648,6 +651,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -915,6 +919,7 @@ p176-content.icloud.com
 p177-content.icloud.com
 p178-content.icloud.com
 p17-sharedstreams.icloud.com
+p180-content.icloud.com
 p181-content.icloud.com
 p182-content.icloud.com
 p22-calendars.icloud.com
@@ -1161,6 +1166,7 @@ stats.gc-apple.com.akadns.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
+stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
