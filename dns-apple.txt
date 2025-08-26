@@ -345,6 +345,7 @@ edge-099.sesto4.icloud-content.com
 edge-100.sesto4.icloud-content.com
 edge-101.sesto4.icloud-content.com
 edge-104.usdal2.icloud-content.com
+edge-106.deber3.icloud-content.com
 edge-110.sesto4.icloud-content.com
 edge-112.sesto4.icloud-content.com
 edge-113.sesto4.icloud-content.com
@@ -651,7 +652,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -905,6 +905,7 @@ p160-content.icloud.com
 p162-content.icloud.com
 p163-sharedstreams.icloud.com
 p164-content.icloud.com
+p165-content.icloud.com
 p166-content.icloud.com
 p166-fmipmobile.icloud.com
 p167-content.icloud.com
@@ -915,9 +916,11 @@ p16-buy-lb.itunes-apple.com.akadns.net
 p170-content.icloud.com
 p171-content.icloud.com
 p173-content.icloud.com
+p174-content.icloud.com
 p176-content.icloud.com
 p177-content.icloud.com
 p178-content.icloud.com
+p179-content.icloud.com
 p17-sharedstreams.icloud.com
 p180-content.icloud.com
 p181-content.icloud.com
@@ -1166,6 +1169,7 @@ stats.gc-apple.com.akadns.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
+stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -1262,6 +1266,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webproxy.advp.apple.com
 websitereview.corp.apple.com
