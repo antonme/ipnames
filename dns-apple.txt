@@ -657,7 +657,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -1176,6 +1175,7 @@ stats.gc-apple.com.akadns.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
+stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -1217,6 +1217,7 @@ testflight.apple.com.edgekey.net
 time.apple.com
 time.euro.apple.com
 time-ios.apple.com
+time-macos.apple.com
 tr.iadsdk.apple.com
 tr.iadsdk.apple.com.akadns.net
 ts.itunes.apple.com
