@@ -3877,6 +3877,7 @@ edge-074.nlhfd1.icloud-content.com
 edge-075.hkhkg.icloud-content.com
 edge-075.sesto4.icloud-content.com
 edge-075.usbos2.icloud-content.com
+edge-075.uschi7.icloud-content.com
 edge-075.usprz3.icloud-content.com
 edge-075.ussea3.icloud-content.com
 edge-076.att-us-sfo-dfw-00002.usatl5.icloud-content.com
@@ -7823,6 +7824,7 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl.ls.apple.com
@@ -17438,6 +17440,7 @@ p173-archivews.icloud.com
 p173-availability.icloud.com
 p173-bookmarks-china.icloud.com
 p173-bookmarks.icloud.com
+p173-caldav.icloud.com
 p173-calendars.icloud.com
 p173-calendarws-china.icloud.com
 p173-ckcoderouter.icloud.com
@@ -17453,8 +17456,12 @@ p173-drivews.icloud.com
 p173-escrowproxy.icloud.com
 p173-feedbackws-china.icloud.com
 p173-feedbackws.icloud.com
+p173-fmf.icloud.com
 p173-fmfmail-china.icloud.com
 p173-fmfmail.icloud.com
+p173-fmfmobile.icloud.com
+p173-fmip.icloud.com
+p173-fmipmobile.icloud.com
 p173-iwmb0-china.icloud.com
 p173-iwmb1-china.icloud.com
 p173-iwmb1.icloud.com
@@ -20433,6 +20440,8 @@ p43-fmip.icloud.com
 p43-fmipmobile-china.icloud.com
 p43-geows.icloud.com
 p43-imap.mail.icloud.com
+p43-imap.mail.me.com
+p43-imap.mail.me.com.akadns.net
 p43-iwmb0-china.icloud.com
 p43-iwmb1.icloud.com
 p43-iwmb2-china.icloud.com
@@ -24360,6 +24369,7 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
+stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline-origin.apple.com
