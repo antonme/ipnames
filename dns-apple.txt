@@ -95,6 +95,7 @@ api-lookup.smoot.apple.com
 api-safari-aeus2b.smoot.apple.com
 api-safari.smoot.apple.com
 api.smoot.apple.com
+api-spotlight.smoot.apple.com
 apple-cloudkit.com
 apple.co
 apple.com
@@ -270,6 +271,7 @@ cws.icloud-content.com
 daf.xp.apple.com
 ddeead2e-210c-4b2d-b7db-27fce9278350.apple.com
 ddeead2e-210c-4b2d-b7db-27fce9278350.apple.com.v.aaplimg.com
+deber3.icloud-content.com
 defra2.icloud-content.com
 dejavu.apple.com
 developer-api.icloud.com
@@ -281,6 +283,7 @@ devimages-cdn.origin-apple.com.akadns.net
 diatryma.apple.com
 discussions.apple.com
 discussions.apple.com.edgekey.net
+dkvib11.icloud-content.com
 d.ns.apple.com
 dns.apple.com
 dns.apple.com.v.aaplimg.com
@@ -352,6 +355,7 @@ edge-082.usbos2.icloud-content.com
 edge-083.sesto4.icloud-content.com
 edge-083.usbos2.icloud-content.com
 edge-084.usqas5.icloud-content.com
+edge-085.uschi7.icloud-content.com
 edge-087.usbos2.icloud-content.com
 edge-088.sesto4.icloud-content.com
 edge-090.sesto4.icloud-content.com
@@ -447,6 +451,7 @@ edge-204.sesto4.icloud-content.com
 edge-205.sesto4.icloud-content.com
 edge-206.sesto4.icloud-content.com
 edge-207.sesto4.icloud-content.com
+edge-207.usqas5.icloud-content.com
 edge-208.sesto4.icloud-content.com
 edge-209.sesto4.icloud-content.com
 edge-210.sesto4.icloud-content.com
@@ -459,6 +464,7 @@ edge-216.sesto4.icloud-content.com
 edge-217.sesto4.icloud-content.com
 edge-218.sesto4.icloud-content.com
 edge-219.sesto4.icloud-content.com
+edge-220.nlhfd1.icloud-content.com
 edge-220.sesto4.icloud-content.com
 edge-221.sesto4.icloud-content.com
 edge-221.usuyk1.icloud-content.com
@@ -485,6 +491,7 @@ edge-241.sesto4.icloud-content.com
 edge-242.sesto4.icloud-content.com
 edge-243.sesto4.icloud-content.com
 edge-244.sesto4.icloud-content.com
+edge-244.usqas5.icloud-content.com
 edge-245.sesto4.icloud-content.com
 edge-245.usqas5.icloud-content.com
 edge-246.sesto4.icloud-content.com
@@ -644,6 +651,7 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-ssl-96.ls.apple.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
 gspe85-ssl.ls.apple.com
@@ -681,8 +689,10 @@ identity.ess-apple.com.akadns.net
 idiagnostics.apple.com
 idiagnostics.apple.com.akadns.net
 idmsa.apple.com
+idmsa.idms-apple.com.akadns.net
 idms-apple.com.akadns.net
 iforgot.apple.com
+ifs-wpc-device.apple.com
 images-mercury.mzstatic.com
 imap.mail.me.com.akadns.net
 inappcheck-ak.itunes-apple.com.akadns.net
@@ -728,6 +738,7 @@ is1-ssl.mzstatic.com
 is2-ssl.mzstatic.com
 is3-ssl.mzstatic.com
 is4-ssl.mzstatic.com
+is5.mzstatic.com
 is5-ssl.mzstatic.com
 is-ssl-cdn.itunes-apple.com.akadns.net
 is-ssl.mzstatic.com.itunes-apple.com.akadns.net
@@ -842,6 +853,7 @@ p104-content.icloud.com
 p105-availability.icloud.com
 p105-content.icloud.com
 p105-sharedstreams.icloud.com
+p106-content.icloud.com
 p107-acsegateway.icloud.com
 p107-caldav.icloud.com
 p107-ckdatabase.icloud.com
@@ -1024,6 +1036,7 @@ p42-ckdatabase.icloud.com
 p42-content.icloud.com
 p43-imap.mail.me.com
 p43-imap.mail.me.com.akadns.net
+p43-mcc.icloud.com
 p44-content.icloud.com
 p45-availability.icloud.com
 p45-content.icloud.com
@@ -1178,6 +1191,8 @@ seguro.promo-apple.com.cdn.gocache.net
 se.itunes.apple.com
 sequoia.apple.com
 sequoia.cdn-apple.com
+serverstatus.apple.com
+serverstatus.apple.com.akadns.net
 sesto4.icloud-content.com
 setup.icloud.com
 sf-api-token-service.itunes.apple.com
@@ -1187,8 +1202,10 @@ sfss.cdn-apple.com
 sgp-albert-prod.apple.com
 sgp-security-prod.apple.com
 share.icloud.com
+shazam-events.cdn-apple.com
 shazam-insights.cdn-apple.com
 shazam-insights-lb.apple.com.akadns.net
+shield-magma-ifs-device-prod.pci.prod.apay.apple.com.v.aaplimg.com
 shop-apple.com
 silverbullet-external-ats.itunes.apple.com
 silverbullet-external-ats.itunes-apple.com.akadns.net
@@ -1330,7 +1347,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webcourier-vs.push-apple.com.akadns.net
 webproxy.advp.apple.com
