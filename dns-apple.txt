@@ -108,6 +108,7 @@ appleid.cdn-apple.com.edgekey.net
 appleid.idms-apple.com.akadns.net
 apple-mapkit.com
 applepay.cdn-apple.com
+applepay-ingestionservice-ext.apple.com
 apple-relay.apple.com
 apps.apple.com
 apps.apple.com.edgekey.net
@@ -349,9 +350,11 @@ edge-056.usuyk1.icloud-content.com
 edge-061.usqas5.icloud-content.com
 edge-061.usuyk1.icloud-content.com
 edge-063.usbos2.icloud-content.com
+edge-064.defra2.icloud-content.com
 edge-064.nlhfd1.icloud-content.com
 edge-066.usbos2.icloud-content.com
 edge-069.nlhfd1.icloud-content.com
+edge-070.defra2.icloud-content.com
 edge-070.usbos2.icloud-content.com
 edge-070.usdal2.icloud-content.com
 edge-071.deber3.icloud-content.com
@@ -400,6 +403,7 @@ edge-120.sesto4.icloud-content.com
 edge-121.sesto4.icloud-content.com
 edge-122.sesto4.icloud-content.com
 edge-126.sesto4.icloud-content.com
+edge-127.defra2.icloud-content.com
 edge-127.dkvib11.icloud-content.com
 edge-127.usuyk1.icloud-content.com
 edge-128.dkvib11.icloud-content.com
@@ -560,6 +564,7 @@ edge-282.sesto4.icloud-content.com
 edge-282.usqas5.icloud-content.com
 edge-283.sesto4.icloud-content.com
 edge-284.sesto4.icloud-content.com
+edge-299.defra2.icloud-content.com
 edge.apple
 edge.icloud-content.com
 edge-itunes-apple.com.akadns.net
@@ -847,7 +852,6 @@ netcts.cdn-apple.com.edgesuite.net
 news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.edgekey.net
-news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -1189,6 +1193,7 @@ register.appattest.apple.com
 r.mzstatic.com
 rn-albert-prod.apple.com
 rn-sq-device.apple.com
+rn-wpc-ae-ingestion-prod.apple.com
 safebrowsing.apple
 safety-alert.apple.com
 safety-alert.apple.com.edgesuite.net
@@ -1278,7 +1283,6 @@ stats.gc-apple.com.akadns.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -1377,7 +1381,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webcourier-vs.push-apple.com.akadns.net
 webproxy.advp.apple.com
@@ -1398,7 +1401,6 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
