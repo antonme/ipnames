@@ -397,6 +397,7 @@ edge-102.defra2.icloud-content.com
 edge-102.usuyk1.icloud-content.com
 edge-104.usdal2.icloud-content.com
 edge-106.deber3.icloud-content.com
+edge-106.usuyk1.icloud-content.com
 edge-110.sesto4.icloud-content.com
 edge-110.uschi7.icloud-content.com
 edge-112.defra2.icloud-content.com
@@ -411,6 +412,7 @@ edge-119.usdal2.icloud-content.com
 edge-120.sesto4.icloud-content.com
 edge-121.sesto4.icloud-content.com
 edge-122.sesto4.icloud-content.com
+edge-122.usuyk1.icloud-content.com
 edge-124.usatl5.icloud-content.com
 edge-126.sesto4.icloud-content.com
 edge-127.defra2.icloud-content.com
@@ -433,6 +435,7 @@ edge-140.deber3.icloud-content.com
 edge-140.usuyk1.icloud-content.com
 edge-141.usuyk1.icloud-content.com
 edge-142.defra2.icloud-content.com
+edge-143.usuyk1.icloud-content.com
 edge-157.sesto4.icloud-content.com
 edge-158.sesto4.icloud-content.com
 edge-159.sesto4.icloud-content.com
@@ -555,6 +558,7 @@ edge-257.sesto4.icloud-content.com
 edge-258.sesto4.icloud-content.com
 edge-259.sesto4.icloud-content.com
 edge-260.sesto4.icloud-content.com
+edge-260.usuyk1.icloud-content.com
 edge-261.sesto4.icloud-content.com
 edge-262.sesto4.icloud-content.com
 edge-263.defra2.icloud-content.com
@@ -757,6 +761,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -777,6 +782,8 @@ init.push.apple.com
 init.push-apple.com.akadns.net
 init-s01st.push.apple.com
 init-s01st.push.apple.com.edgesuite.net
+init.sandbox.push.apple.com
+init-sb.push-apple.com.akadns.net
 internalcheck.apple.com
 invitation.ess.apple.com
 ios-apple.com
@@ -1306,7 +1313,6 @@ stats.gc-apple.com.akadns.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
