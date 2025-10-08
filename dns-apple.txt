@@ -226,6 +226,7 @@ cl5.apple.com
 cl5.apple.com.edgekey.net
 cl5-cdn.origin-apple.com.akadns.net
 classical-api.music.apple.com
+classical-api-music.v.aaplimg.com
 classical.music.apple.com.edgesuite.net
 client-api-cdn.itunes-apple.com.akadns.net
 client-api.itunes.apple.com
@@ -923,7 +924,6 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
-ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-us-lb.apple.com.akadns.net
@@ -1337,7 +1337,6 @@ stats.gc-apple.com.akadns.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
