@@ -226,6 +226,7 @@ cl5.apple.com
 cl5.apple.com.edgekey.net
 cl5-cdn.origin-apple.com.akadns.net
 classical-api.music.apple.com
+classical-api-music.v.aaplimg.com
 classical.music.apple.com.edgesuite.net
 client-api-cdn.itunes-apple.com.akadns.net
 client-api.itunes.apple.com
@@ -1264,6 +1265,7 @@ sas-ew1-pcms.apple.com
 sas.pcms.apple.com
 sb.music.apple.com
 sb-music.itunes-apple.com.akadns.net
+sb-music-row.itunes-apple.com.akadns.net
 se2-cdn.itunes-apple.com.akadns.net
 se2.itunes.apple.com
 se2.itunes.apple.com.edgesuite.net
@@ -1341,7 +1343,6 @@ stats.gc-apple.com.akadns.net
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -1407,6 +1408,7 @@ userpub.itunes-apple.com.akadns.net
 usmia1.icloud-content.com
 us-ne-courier-4.push-apple.com.akadns.net
 us-sandbox-courier-4.push-apple.com.akadns.net
+us-sandbox-courier-vs.push-apple.com.akadns.net
 ussea3.icloud-content.com
 ussjc1.icloud-content.com
 usuyk1.icloud-content.com
@@ -1451,7 +1453,6 @@ wps.v.aaplimg.com
 wu.apple.com.akadns.net
 wu-calculator.apple.com
 wu-mdn.apple.com.akadns.net
-www.airport.us
 www.apple.com
 www.apple.com.cn
 www.apple.com.cn.edgekey.net
@@ -1461,16 +1462,12 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
-www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
-www.itools.info
 www.portal-repair-uat-apple.com
-www.thinkdifferent.us
 xp.apple.com
 xp.apple.com.edgekey.net
 xp-cdn-lb.itunes-apple.com.akadns.net
