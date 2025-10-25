@@ -76783,3 +76783,16 @@ s
 ===anthropic
 
 == Save names archive
+[master 2266b970] auto-update names
+ 4 files changed, 42 insertions(+), 2 deletions(-)
+
+== Resolving names to ipv6
+Sat Oct 25 06:27:32 AM MSK 2025                dns-adobe.txt  >ipv6-resolve-adobe.txt
+Sat Oct 25 07:13:51 AM MSK 2025                dns-anthropic.txt  >ipv6-resolve-anthropic.txt
+Sat Oct 25 07:14:53 AM MSK 2025                dns-apple.txt  >ipv6-resolve-apple.txt
+Sat Oct 25 08:24:04 AM MSK 2025                dns-backblaze.txt  >ipv6-resolve-backblaze.txt
+Sat Oct 25 08:54:56 AM MSK 2025                dns-bing.txt  >ipv6-resolve-bing.txt
+Sat Oct 25 08:57:49 AM MSK 2025                dns-expressvpn.txt  >ipv6-resolve-expressvpn.txt
+Sat Oct 25 09:04:21 AM MSK 2025                dns-facebook.txt  >ipv6-resolve-facebook.txt
+Sat Oct 25 10:11:51 AM MSK 2025                dns-github.txt  >ipv6-resolve-github.txt
+Sat Oct 25 10:22:46 AM MSK 2025                dns-google.txt  >ipv6-resolve-google.txt
