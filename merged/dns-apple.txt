@@ -2393,14 +2393,18 @@ ausyd2.me.icloud-content.com
 ausyd.icloud-content.com
 ausyd.me.icloud-content.com
 auth.apple.com
+auth.apps.apple.com
 auth.books.apple.com
 auth.itunes.apple.com
 auth.me.com
+auth.music.apple.com
 authorize.apple.com
 authorize.music.apple.com
 authorize.music.apple.com.edgekey.net
 authors.apple.com
+auth.podcasts.apple.com
 auth-sandbox.itunes.apple.com
+auth.tv.apple.com
 autodiscover.gh.info.apple.com
 autodiscover.icloud.com.login-us.me
 autodiscover.kapo.tv.apple.com
@@ -3707,6 +3711,7 @@ edge-011.gbmnc1.icloud-content.com
 edge-011.sesto4.icloud-content.com
 edge-012.sesto4.icloud-content.com
 edge-012.usden6.icloud-content.com
+edge-013.defra2.icloud-content.com
 edge-013.mediaedge-150nyc.icloud-content.com
 edge-013.sesto4.icloud-content.com
 edge-013.usuyk1.icloud-content.com
@@ -3727,6 +3732,7 @@ edge-018mediaedge-369.zamrd1.me.icloud-content.com
 edge-018.sesto4.icloud-content.com
 edge-018.usatl5.icloud-content.com
 edge-018.usuqo4.icloud-content.com
+edge-019.defra2.icloud-content.com
 edge-020.jptyo12.icloud-content.com
 edge-020.nlhfd1.icloud-content.com
 edge-020.sesto4.icloud-content.com
@@ -4044,6 +4050,7 @@ edge-102-ic2.sgsin8.icloud-content.com
 edge-102.jposa3.icloud-content.com
 edge-102.usuyk1.icloud-content.com
 edge-103.deber3.icloud-content.com
+edge-103.defra2.icloud-content.com
 edge-103.hkhkg.icloud-content.com
 edge-103.jposa3.icloud-content.com
 edge-103.sesto4.icloud-content.com
@@ -4298,6 +4305,7 @@ edge-162.sesto4.icloud-content.com
 edge-162.twntc1.icloud-content.com
 edge-162.zamrd1.icloud-content.com
 edge-163.deber3.icloud-content.com
+edge-163.defra2.icloud-content.com
 edge-163.jposa3.icloud-content.com
 edge-163.sesto4.icloud-content.com
 edge-163.sgsin8.icloud-content.com
@@ -4343,6 +4351,7 @@ edge-172.sesto4.icloud-content.com
 edge-172.ussea3.icloud-content.com
 edge-172.zamrd1.icloud-content.com
 edge-173.deber3.icloud-content.com
+edge-173.defra2.icloud-content.com
 edge-173.edge-228.uschi7.icloud-content.com
 edge-173.jposa3.icloud-content.com
 edge-173.mediaedge-498detxl.icloud-content.com
@@ -4377,6 +4386,7 @@ edge-178.usuyk1.icloud-content.com
 edge-178.zamrd1.icloud-content.com
 edge-179-010.hkhkg-2.icloud-content.com
 edge-179.deber3.icloud-content.com
+edge-179.defra2.icloud-content.com
 edge-179.sesto4.icloud-content.com
 edge-179.sgsin8.icloud-content.com
 edge-179.uschi7.icloud-content.com
@@ -4755,6 +4765,7 @@ edge-254.mediaedge-496-sgsin.icloud-content.com
 edge-254.sesto4.icloud-content.com
 edge-254.sgsin8.icloud-content.com
 edge-254.zamrd1.icloud-content.com
+edge-255.defra2.icloud-content.com
 edge-255.hkhkg.icloud-content.com
 edge-255.jposa3.icloud-content.com
 edge-255.sesto4.icloud-content.com
@@ -4949,7 +4960,9 @@ edge-294.sesto4.icloud-content.com
 edge-294.sgsin8.icloud-content.com
 edge-294.zamrd1.icloud-content.com
 edge-295.deber3.icloud-content.com
+edge-295.defra2.icloud-content.com
 edge-295.jposa3.icloud-content.com
+edge-295.sesto4.icloud-content.com
 edge-295.sgsin8.icloud-content.com
 edge-295.usdal2.icloud-content.com
 edge-296.dedus1.icloud-content.com
@@ -12072,6 +12085,7 @@ news.apple.com
 news-assets.apple.com
 news-assets.apple.com.edgekey.net
 news-assets-origin.apple.com
+news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-old.apple.com
 news-client-older.apple.com
@@ -20193,6 +20207,8 @@ p34-statici.icloud.com
 p34-streams-china.icloud.com
 p34-ubiquityws.icloud.com
 p35-acsegateway.icloud.com
+p35-buy.itunes.apple.com
+p35-buy-lb.itunes-apple.com.akadns.net
 p35-caldav-china.icloud.com
 p35-caldav.icloud.com
 p35-calendars-china.icloud.com
@@ -24532,6 +24548,7 @@ stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
 stocks-data-service-row.lb-apple.com.akadns.net
+stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline-origin.apple.com
@@ -25776,7 +25793,6 @@ www262.xs4tz.icloud.com
 www2.apple.com
 www2.seminars.apple.com
 www.afl.info.apple.com
-www.airport.us
 www.anat.apple.com
 www.apple.com
 www.apple.com.cn
