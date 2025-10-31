@@ -632,6 +632,7 @@ api.ozon.ru
 api.ozon.ru.cdn.cloudflare.net
 api.plan.adobe.com
 api-pns-sg.tiktok.com.edgekey.net
+api-safari-aaps1b.smoot.apple.com
 api-safari-aeus2b.smoot.apple.com
 api-safari-aeuw1b.smoot.apple.com
 api-safari.smoot.apple.com
@@ -793,6 +794,7 @@ auth-cdn.oaistatic.com
 auth.itunes.apple.com
 auth.music.apple.com
 auth.openai.com
+auth.openai.com.cdn.cloudflare.net
 authorize.music.apple.com.edgekey.net
 auth.podcasts.apple.com
 auth.prod.ims.adobejanus.com
@@ -1870,6 +1872,27 @@ concreterepaircompany-vort-ttp1-asl-us-3.dk
 concreterepaircompany-vort-ttp1-asl-us-3.dz
 concreterepaircompany-vort-ttp1-asl-us-3.ee
 concreterepaircompany-vort-ttp1-asl-us-3.er
+concreterepaircompany-vort-ttp1-asl-us-3.et
+concreterepaircompany-vort-ttp1-asl-us-3.fj
+concreterepaircompany-vort-ttp1-asl-us-3.fk
+concreterepaircompany-vort-ttp1-asl-us-3.ga
+concreterepaircompany-vort-ttp1-asl-us-3.gd
+concreterepaircompany-vort-ttp1-asl-us-3.ge
+concreterepaircompany-vort-ttp1-asl-us-3.gg
+concreterepaircompany-vort-ttp1-asl-us-3.gh
+concreterepaircompany-vort-ttp1-asl-us-3.gi
+concreterepaircompany-vort-ttp1-asl-us-3.gm
+concreterepaircompany-vort-ttp1-asl-us-3.gn
+concreterepaircompany-vort-ttp1-asl-us-3.gp
+concreterepaircompany-vort-ttp1-asl-us-3.gq
+concreterepaircompany-vort-ttp1-asl-us-3.gr
+concreterepaircompany-vort-ttp1-asl-us-3.gs
+concreterepaircompany-vort-ttp1-asl-us-3.gt
+concreterepaircompany-vort-ttp1-asl-us-3.gw
+concreterepaircompany-vort-ttp1-asl-us-3.gy
+concreterepaircompany-vort-ttp1-asl-us-3.hm
+concreterepaircompany-vort-ttp1-asl-us-3.hr
+concreterepaircompany-vort-ttp1-asl-us-3.ht
 concrew.googleapis.com
 config-chr.health.apple.com
 configuration.apple.com
@@ -2762,6 +2785,7 @@ edge-030.defra2.icloud-content.com
 edge-030.usdal2.icloud-content.com
 edge-030.usqas5.icloud-content.com
 edge-031.dedus1.icloud-content.com
+edge-031.defra2.icloud-content.com
 edge-031.dkvib11.icloud-content.com
 edge-031.usuyk1.icloud-content.com
 edge-032.deber3.icloud-content.com
@@ -2799,7 +2823,9 @@ edge-054.nlhfd1.icloud-content.com
 edge-055.defra2.icloud-content.com
 edge-055.dkvib11.icloud-content.com
 edge-056.gbmnc1.icloud-content.com
+edge-056.usqas5.icloud-content.com
 edge-056.usuyk1.icloud-content.com
+edge-057.defra2.icloud-content.com
 edge-058.gbmnc1.icloud-content.com
 edge-058.nlhfd1.icloud-content.com
 edge-060.nlhfd1.icloud-content.com
@@ -2845,6 +2871,7 @@ edge-084.usqas5.icloud-content.com
 edge-085.usbos2.icloud-content.com
 edge-085.uschi7.icloud-content.com
 edge-087.usbos2.icloud-content.com
+edge-088.defra2.icloud-content.com
 edge-088.sesto4.icloud-content.com
 edge-089.deber3.icloud-content.com
 edge-089.usuyk1.icloud-content.com
@@ -2853,6 +2880,7 @@ edge-091.usuyk1.icloud-content.com
 edge-092.nlhfd1.icloud-content.com
 edge-092.sesto4.icloud-content.com
 edge-093.defra2.icloud-content.com
+edge-094.defra2.icloud-content.com
 edge-094.sesto4.icloud-content.com
 edge-095.deber3.icloud-content.com
 edge-095.gbmnc1.icloud-content.com
@@ -2869,6 +2897,7 @@ edge-102.defra2.icloud-content.com
 edge-102.usuyk1.icloud-content.com
 edge-103.deber3.icloud-content.com
 edge-103.defra2.icloud-content.com
+edge-104.defra2.icloud-content.com
 edge-104.usdal2.icloud-content.com
 edge-104.usuyk1.icloud-content.com
 edge-106.deber3.icloud-content.com
@@ -2889,6 +2918,7 @@ edge-117.usatl5.icloud-content.com
 edge-118.gbslo5.icloud-content.com
 edge-119.sesto4.icloud-content.com
 edge-119.usdal2.icloud-content.com
+edge-120.defra2.icloud-content.com
 edge-120.sesto4.icloud-content.com
 edge-121.sesto4.icloud-content.com
 edge-122.sesto4.icloud-content.com
@@ -2911,6 +2941,7 @@ edge-131.dkvib11.icloud-content.com
 edge-131.sesto4.icloud-content.com
 edge-132.defra2.icloud-content.com
 edge-132.dkvib11.icloud-content.com
+edge-135.defra2.icloud-content.com
 edge-135.sesto4.icloud-content.com
 edge-136.defra2.icloud-content.com
 edge-136.usuyk1.icloud-content.com
@@ -2923,7 +2954,9 @@ edge-141.usuyk1.icloud-content.com
 edge-142.defra2.icloud-content.com
 edge-143.defra2.icloud-content.com
 edge-143.usuyk1.icloud-content.com
+edge-144.defra2.icloud-content.com
 edge-150.defra2.icloud-content.com
+edge-156.defra2.icloud-content.com
 edge-157.sesto4.icloud-content.com
 edge-158.sesto4.icloud-content.com
 edge-159.sesto4.icloud-content.com
@@ -3072,6 +3105,7 @@ edge-263.sesto4.icloud-content.com
 edge-264.sesto4.icloud-content.com
 edge-265.sesto4.icloud-content.com
 edge-266.sesto4.icloud-content.com
+edge-266.usqas5.icloud-content.com
 edge-267.sesto4.icloud-content.com
 edge-268.defra2.icloud-content.com
 edge-268.sesto4.icloud-content.com
@@ -3692,9 +3726,11 @@ gc.apple.com
 gc.apple.com.akadns.net
 gcos.adobe.io
 gcs-asia-00002.content-storage-download.googleapis.com
+gcs-asia-00002.content-storage-upload.googleapis.com
 gcs-blue-download-asia.l.googleusercontent.com
 gcs-blue-download-eu.l.googleusercontent.com
 gcs-blue-download-us.l.googleusercontent.com
+gcs-blue-upload-asia.l.googleusercontent.com
 gcs-blue-upload-eu.l.googleusercontent.com
 gcs-blue-upload-us.l.googleusercontent.com
 gcs-download-eu.l.googleusercontent.com
@@ -3906,6 +3942,7 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl-96.ls.apple.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
@@ -4958,6 +4995,7 @@ mmsbackup.pa.googleapis.com
 mn.lazerpenguin.com
 mn-uln.prod.surfshark.com
 mobhwgd.tt.hg0364.com
+mobileapp.apple.com
 mobileapp.apple.com.edgekey.net
 mobileconfiguration-pa.googleapis.com
 mobile.facebook.com
@@ -6708,6 +6746,7 @@ pre-enforcement.googleapis.com
 preprod-voilatile-pa.googleapis.com
 presence-an1.adobe.io
 preview.illustrator.adobe.com
+priceline.com
 primegoogle.com
 primeminister.githubusercontent.com
 prisacom.tt.omtrdc.net
@@ -7082,6 +7121,7 @@ q6xg.adobeaemcloud.com
 q72o.googleapis.com
 q7lv4fbjgz2bqnd2ibdl3u44ewm6nv9.rhuvuysgeu.tt3e17fgq.9blldp.thymm.fi1gij4eedy.9fzaun0fdv.bs3d8swmjwbxl7bpcfblyn5hha.nbfjuf.a.qtzpdshb7pbjnzte0xc.wcps63bkddr0.shofha.online
 q-97.googleapis.com
+qaksffg6knefp0cb3sg0fkcgqh3j34e0.fi
 qal5sh4cly9p08onwp1zfaocbzp9v6doiyvnjcq5dc.ttdyopxvvu8j4g7mnyadjnwtym1vwuf00uapt8nr.b6uyndhfbspolncmlqpc2gbxjvkpnvia.4.epd6i1lik6rqgbarf6rzcs.gdtmyo.shofha.online
 qal9cc-dnsotls-ds.metric.gstatic.com
 qa.lazerpenguin.com
@@ -10364,6 +10404,7 @@ wide-youtube.l.google.com
 widget-sg.tiktokv.com.edgekey.net
 widgets-p-eu.figstatic.com
 wildcard.larksuite.com.ttdns1.com
+wildlifereservessing.tt.omtrdc.net
 withgoogle.com
 wixuh1zm8vdnpcwqfgok1nnx9f81tdsqxtwfww.mta-sts.yigfv6cmyzxjk8bfefy5reni9hx.u4zjm.iv70.cnp2ssio0b8ky.ttgrfpjo4y7oji1.rmls8ccxar07srfi50f40qjhbi50a.ujyxvggvr6v.v24u7lkcj8ujjhzlv.shofha.online
 wlan02.withgoogle.com
