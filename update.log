@@ -78801,3 +78801,41 @@ Fri Nov 21 09:10:28 AM MSK 2025                ext-dns-vpnhosts.txt  >ext-resolv
 Fri Nov 21 09:15:50 AM MSK 2025                ext-dns-youtube.txt  >ext-resolve-youtube.txt
 [master 3e31688b] auto-update ipv4
  16 files changed, 7925 insertions(+), 8269 deletions(-)
+[master 64f73ce1] auto-update merged
+ 19 files changed, 6970 insertions(+), 7103 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Sat Nov 22 06:00:02 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
