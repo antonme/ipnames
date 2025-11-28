@@ -1654,6 +1654,7 @@ amp-api.apps-lb.itunes-apple.com.akadns.net
 amp-api.apps-marketplace.apple.com
 amp-api.books.apple.com
 amp-api.books.apple.com.edgekey.net
+amp-api-books-cdn-lb.itunes-apple.com.akadns.net
 amp-api-books-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
@@ -1981,7 +1982,6 @@ api-siri-ci.smoot.apple.com
 api-siri-euc1a.smoot.apple.com
 api-siri-euw3c.smoot.apple.com
 api-siri-use2b.smoot.apple.com
-api.smoot.apple.cn
 api.smoot.apple.com
 api-sports.cdn-apple.com
 api-spotlight-aapne1a.smoot.apple.com
@@ -3732,6 +3732,7 @@ edge-009.nlhfd1.icloud-content.com
 edge-009.sesto4.icloud-content.com
 edge-010.dkvib11.icloud-content.com
 edge-010.sesto4.icloud-content.com
+edge-010.usbos2.icloud-content.com
 edge-010.usqas5.icloud-content.com
 edge-011.dedus1.icloud-content.com
 edge-011.dkvib11.icloud-content.com
@@ -4040,6 +4041,7 @@ edge-071.uschi7.icloud-content.com
 edge-072-edge-091.uslax2.icloud-content.com
 edge-072.hkhkg.icloud-content.com
 edge-072.sesto4.icloud-content.com
+edge-072.usbos2.icloud-content.com
 edge-073-mediaedge-432.usmes1.me.icloud-content.com
 edge-073.sesto4.icloud-content.com
 edge-073.sgsin8.icloud-content.com
@@ -8205,7 +8207,6 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl-96.ls.apple.com
@@ -24122,7 +24123,6 @@ sm-facade-wfm-prod-usw2.apple.com
 sm-notification-service.apple.com
 sm-notification-service-wfm-prod-use1.apple.com
 sm-notification-service-wfm-prod-usw2.apple.com
-smoot.apple.cn
 smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
@@ -25904,6 +25904,7 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
+weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
