@@ -22,6 +22,7 @@ amp-api.apps.apple.com.edgesuite.net
 amp-api.apps-lb.itunes-apple.com.akadns.net
 amp-api.books.apple.com
 amp-api.books.apple.com.edgekey.net
+amp-api-books-cdn-lb.itunes-apple.com.akadns.net
 amp-api-books-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
@@ -103,7 +104,6 @@ api-safari-aeun1b.smoot.apple.com
 api-safari-aeus2b.smoot.apple.com
 api-safari-aeuw1b.smoot.apple.com
 api-safari.smoot.apple.com
-api.smoot.apple.cn
 api.smoot.apple.com
 api-spotlight-aaps1b.smoot.apple.com
 api-spotlight-aeun1a.smoot.apple.com
@@ -250,7 +250,6 @@ cl5.apple.com
 cl5.apple.com.edgekey.net
 cl5-cdn.origin-apple.com.akadns.net
 classical-api.music.apple.com
-classical-api-music.v.aaplimg.com
 classical.music.apple.com.edgesuite.net
 client-api-cdn.itunes-apple.com.akadns.net
 client-api.itunes.apple.com
@@ -357,6 +356,7 @@ edge-008.usqas5.icloud-content.com
 edge-008.usuyk1.icloud-content.com
 edge-009.nlhfd1.icloud-content.com
 edge-010.dkvib11.icloud-content.com
+edge-010.usbos2.icloud-content.com
 edge-010.usqas5.icloud-content.com
 edge-011.dedus1.icloud-content.com
 edge-011.dkvib11.icloud-content.com
@@ -527,6 +527,7 @@ edge-071.gbslo5.icloud-content.com
 edge-071.nlhfd1.icloud-content.com
 edge-071.usbos2.icloud-content.com
 edge-071.uschi7.icloud-content.com
+edge-072.usbos2.icloud-content.com
 edge-073.usdal2.icloud-content.com
 edge-073.usqas5.icloud-content.com
 edge-075.usbos2.icloud-content.com
@@ -1049,7 +1050,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl-96.ls.apple.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
@@ -1230,7 +1230,6 @@ netcts.cdn-apple.com.edgesuite.net
 news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.edgekey.net
-news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -1650,7 +1649,6 @@ silverbullet-external-ats.itunes.apple.com
 silverbullet-external-ats.itunes-apple.com.akadns.net
 siri.apple.com
 skadnetwork.iad-apple.com.akadns.net
-smoot.apple.cn
 smoot.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
@@ -1803,6 +1801,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webcourier-vs.push-apple.com.akadns.net
 webproxy.advp.apple.com
