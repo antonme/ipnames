@@ -80175,3 +80175,23 @@ s
 ===anthropic
 
 == Save names archive
+[master fad18d29] auto-update names
+ 3 files changed, 42 insertions(+)
+
+== Resolving external names to ipv4
+Fri Dec  5 06:27:28 AM MSK 2025                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Fri Dec  5 06:40:14 AM MSK 2025                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Fri Dec  5 06:40:21 AM MSK 2025                ext-dns-apple.txt  >ext-resolve-apple.txt
+Fri Dec  5 07:08:36 AM MSK 2025                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Fri Dec  5 07:20:59 AM MSK 2025                ext-dns-bing.txt  >ext-resolve-bing.txt
+Fri Dec  5 07:21:50 AM MSK 2025                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Fri Dec  5 08:01:08 AM MSK 2025                ext-dns-github.txt  >ext-resolve-github.txt
+Fri Dec  5 08:11:37 AM MSK 2025                ext-dns-google.txt  >ext-resolve-google.txt
+Fri Dec  5 08:41:13 AM MSK 2025                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Fri Dec  5 08:41:20 AM MSK 2025                ext-dns-openai.txt  >ext-resolve-openai.txt
+Fri Dec  5 08:42:49 AM MSK 2025                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Fri Dec  5 08:43:33 AM MSK 2025                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Fri Dec  5 08:55:05 AM MSK 2025                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Fri Dec  5 09:07:14 AM MSK 2025                ext-dns-twitter.txt  >ext-resolve-twitter.txt
+Fri Dec  5 09:12:24 AM MSK 2025                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
+Fri Dec  5 09:18:19 AM MSK 2025                ext-dns-youtube.txt  >ext-resolve-youtube.txt
