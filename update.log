@@ -80298,3 +80298,41 @@ Sat Dec  6 01:35:05 PM MSK 2025                dns-tunnelbear.txt  >ipv6-resolve
 Sat Dec  6 01:45:59 PM MSK 2025                dns-twitter.txt  >ipv6-resolve-twitter.txt
 Sat Dec  6 01:57:45 PM MSK 2025                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
 Sat Dec  6 01:57:52 PM MSK 2025                dns-youtube.txt  >ipv6-resolve-youtube.txt
+[master 03fd53c3] auto-update ipv6
+ 8 files changed, 2934 insertions(+), 2191 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Sun Dec  7 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
