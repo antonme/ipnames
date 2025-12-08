@@ -55,6 +55,8 @@ api-gateway-cc-prd.infra.adobe.io
 api-gateway-cc-prd-irl1.infra.adobe.io
 api-gateway-cc-prd-jpn3.infra.adobe.io
 api.plan.adobe.com
+api.tv.adobe.com
+api.typekit.com
 apm3-27224.adobeaemcloud.net
 apqa.adobeaemcloud.net
 aps0114.adobeaemcloud.com
@@ -108,6 +110,7 @@ birthdate.adobeaemcloud.com
 bituminoid.adobeaemcloud.net
 bj-o.adobeaemcloud.com
 bjoy.adobeaemcloud.com
+bks.adobe.io
 blue-prod.ans.prod.oobesaas.adobe.com
 bn6s.adobeaemcloud.com
 bn-au-171-3.adobeaemcloud.net
@@ -158,6 +161,7 @@ ccext-cdn.adobecces.com
 ccext-public.adobe.io
 ccext-static.adobecces.com
 cchome.adobe.io
+cchome-prod.adobe.io
 cclibraries-defaults-cdn.adobe.com
 cclibraries-defaults-cdn.adobe.com.edgekey.net
 ccmdls.adobe.com
@@ -214,6 +218,7 @@ commerce.adobe.io
 committeeadmin.adobeaemcloud.com
 community.adobe.com
 community-hubs.adobe.io
+connected-identities.identity.adobe.com
 connect.ffc.adobeoobe.com
 conquering.adobeaemcloud.com
 core312.bccms.adobeaemcloud.net
@@ -252,6 +257,7 @@ data.status.adobe.com
 data.status.adobe.com.edgesuite.net
 data-status.stage.adobe.com
 data-status.stage.adobe.com.edgesuite.net
+data.typekit.net
 dattihp.adobeaemcloud.com
 daviston.adobeaemcloud.com
 dc-api.adobe.io
@@ -448,6 +454,7 @@ id.adobe.com
 id.adobe.com.cdn.cloudflare.net
 identity.adobe.com
 idg.adobe.com
+idg.adobe.io
 ids-proxy.account.adobe.com
 igcum80w74.data.adobedc.net
 iivw.adobeaemcloud.com
@@ -550,6 +557,7 @@ logheaded.adobeaemcloud.net
 loki.cloud.adobe.io
 LPWNgmYOpgYW.adobe.com
 lq2y.adobeaemcloud.net
+lrd.data.adobedc.net
 lth1260.adobeaemcloud.net
 luwz.adobeaemcloud.net
 lxiv.adobeaemcloud.com
@@ -656,6 +664,7 @@ OlbMidjPpLMM.adobe.com
 olwc.adobeaemcloud.com
 omtrdc.net
 omvi.adobeaemcloud.com
+oobe.adobe.com
 oobesaas.adobe.com
 OpdTgjiLLWhT.adobe.com
 oqxf.adobeaemcloud.net
@@ -726,6 +735,7 @@ p.typekit.net
 p.typekit.net-stls-v3.edgesuite.net
 pulpless.adobeaemcloud.com
 pUlVpnNUmURM.adobelogin.com
+pv218qmzox6.prod.cloud.adobe.io
 pv24v41zibm.prod.cloud.adobe.io
 pv2fcqvzl1r.prod.cloud.adobe.io
 pv2l4573ukh.prod.cloud.adobe.io
@@ -853,7 +863,10 @@ stls-wwwimages2.adobe.com-cn.edgesuite.net
 stls-wwwimages.adobe.com-cn.edgesuite.net
 stls-wwwimages.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 stnm.adobeaemcloud.com
+stock.adobe.com
 stock.adobe.io
+stock-graphql-federation-router.adobe.io
+stock-landing-pages.adobe.io
 stock-notifications.astockcdn.net
 streaming-ingest-prod-flex.ethos12-prod-nld2.ethos.adobe.net
 suanluan.adobeaemcloud.net
@@ -908,6 +921,7 @@ u67w.adobeaemcloud.net
 u7h2.adobeaemcloud.com
 u8im.adobeaemcloud.com
 ub4s.adobeaemcloud.com
+ubs.adobe.io
 ubsv.adobeaemcloud.com
 uciw.adobeaemcloud.net
 udps.adobe.com
@@ -982,6 +996,7 @@ wwwimages.adobe.com
 www-live-redirect.adobeaemcloud.com
 www.major-loss-adjuster.localprosite.com
 www-oma1.adobeaemcloud.com
+www.photoshop.com
 www-prod.adobesunbreak.com
 wxf.adobeaemcloud.com
 wylh.adobeaemcloud.net
