@@ -1983,7 +1983,6 @@ api-siri-ci.smoot.apple.com
 api-siri-euc1a.smoot.apple.com
 api-siri-euw3c.smoot.apple.com
 api-siri-use2b.smoot.apple.com
-api.smoot.apple.cn
 api.smoot.apple.com
 api-sports.cdn-apple.com
 api-spotlight-aapne1a.smoot.apple.com
@@ -3708,6 +3707,7 @@ edge-004.usuyk1.icloud-content.com
 edge-005.defra2.icloud-content.com
 edge-005.nlhfd1.icloud-content.com
 edge-005.sesto4.icloud-content.com
+edge-005.usbos2.icloud-content.com
 edge-005.usden6.icloud-content.com
 edge-005.usmes1.icloud-content.com
 edge-006.defra2.icloud-content.com
@@ -3738,6 +3738,7 @@ edge-009.edge-050.usnyc.icloud-content.com
 edge-009.hkhkg.icloud-content.com
 edge-009.nlhfd1.icloud-content.com
 edge-009.sesto4.icloud-content.com
+edge-009.usden6.icloud-content.com
 edge-010.dkvib11.icloud-content.com
 edge-010.sesto4.icloud-content.com
 edge-010.usbos2.icloud-content.com
@@ -3865,6 +3866,7 @@ edge-033.cvws-002.usqas5.icloud-content.com
 edge-033.dkvib11.icloud-content.com
 edge-033.hkhkg.icloud-content.com
 edge-033.sesto4.icloud-content.com
+edge-033.usden6.icloud-content.com
 edge-034.defra2.icloud-content.com
 edge-034.edge-236-3.icloud-content.com
 edge-034.edge-394.icloud-content.com
@@ -4161,6 +4163,7 @@ edge-093.usuyk1.icloud-content.com
 edge-094.defra2.icloud-content.com
 edge-094.hkhkg.icloud-content.com
 edge-094.sesto4.icloud-content.com
+edge-094.usden6.icloud-content.com
 edge-094.zamrd1.icloud-content.com
 edge-095.deber3.icloud-content.com
 edge-095.defra2.icloud-content.com
@@ -8241,6 +8244,7 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl-96.ls.apple.com
@@ -8774,6 +8778,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -24157,7 +24162,6 @@ sm-facade-wfm-prod-usw2.apple.com
 sm-notification-service.apple.com
 sm-notification-service-wfm-prod-use1.apple.com
 sm-notification-service-wfm-prod-usw2.apple.com
-smoot.apple.cn
 smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
@@ -24820,6 +24824,7 @@ stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
 stocks-data-service-row.lb-apple.com.akadns.net
+stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline-origin.apple.com
@@ -26079,6 +26084,7 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
+www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com

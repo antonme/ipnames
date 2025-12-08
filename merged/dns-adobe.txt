@@ -749,6 +749,8 @@ api.showroom.corp.adobe.com
 api.skms.adobe.com
 api.spark.adobe.com
 apitrial.eu1.documents.adobe.com
+api.tv.adobe.com
+api.typekit.com
 api-ui.eda-dev-int.corp.adobe.com
 api-ui.eda-prd-int.corp.adobe.com
 api-ui.eda-stg-int.corp.adobe.com
@@ -1357,6 +1359,7 @@ bjoy.adobeaemcloud.com
 bjs-mid-prod5-cus.campaign.adobe.com
 bjs-mkt-prod4-cus.campaign.adobe.com
 bjs-rt-prod7-cus.campaign.adobe.com
+bks.adobe.io
 bl1-osblock-01.corp.adobe.com
 blackduck.corp.adobe.com
 blakepro.corp.adobe.com
@@ -1796,6 +1799,7 @@ ccf-stage.corp.adobe.com
 ccf-vaultdev.corp.adobe.com
 cchome.adobe.com
 cchome.adobe.io
+cchome-prod.adobe.io
 ccibu-c101.perf.cm-verify.adobe.com
 ccibu-c102.perf.cm-verify.adobe.com
 ccibu-c107.perf.cm-verify.adobe.com
@@ -2367,6 +2371,7 @@ connect.brand.adsl-us.sem.adobe.com
 connect.brand.chdus.sem.adobe.com
 connect.brand.us.sem.adobe.com
 connected-accounts.adobe.com
+connected-identities.identity.adobe.com
 connected-identities-va6.identity-stage.adobe.com
 connect.ffc.adobeoobe.com
 connectpro86502729.na6.acrobat.com
@@ -2723,6 +2728,7 @@ data.status.adobe.com
 data.status.adobe.com.edgesuite.net
 data-status.stage.adobe.com
 data-status.stage.adobe.com.edgesuite.net
+data.typekit.net
 dataupload.na3.documents.adobe.com
 dataweb-eu2.documentsawspreview.adobe.com
 dates-b.corp.adobe.com
@@ -4550,6 +4556,7 @@ identity-mailserver.documents.adobe.com
 identity-okta.services.adobe.com
 identity-stage.adobe.com
 idg.adobe.com
+idg.adobe.io
 id-next-testing.identity-dev.adobe.com
 idnext-testing.identity-dev.adobe.com
 idown.identity.adobe.com
@@ -5468,6 +5475,7 @@ lpvec.adobeconnect.com
 LPWNgmYOpgYW.adobe.com
 lq2y.adobeaemcloud.net
 lragent1.adobe.com
+lrd.data.adobedc.net
 lth1260.adobeaemcloud.net
 lucasfreitas.myportfolio.com
 lucasmagalhaesleiros.myportfolio.com
@@ -7035,6 +7043,7 @@ onlineevents.adobeconnect.com
 onrksm.myportfolio.com
 onstar.myalertsexchange.marketing.adobe.com
 onyx.corp.adobe.com
+oobe.adobe.com
 oobesaas.adobe.com
 oobesaas.mcisqe2.marketing.adobe.com
 opaug.groups.adobe.com
@@ -8381,6 +8390,7 @@ pum.corp.adobe.com
 punnwiantrakoon.myportfolio.com
 pure.corp.adobe.com
 pv1hostmgr.preview.adobeconnect.com
+pv218qmzox6.prod.cloud.adobe.io
 pv24v41zibm.prod.cloud.adobe.io
 pv2fcqvzl1r.prod.cloud.adobe.io
 pv2l4573ukh.prod.cloud.adobe.io
@@ -10263,8 +10273,10 @@ stock.adobe.io
 stock.adobelanding.com
 stock-backoffice.stage.corp.adobe.com
 stockenterprise.adobe.com
+stock-graphql-federation-router.adobe.io
 stock-jp1.bp.documentsawspreview.adobe.com
 stock-ks-vendingtransactions-mq2.marketing.adobe.com
+stock-landing-pages.adobe.io
 stock-na1.documentsgovstage.adobe.com
 stock-notifications.astockcdn.net
 stockphotodesign.myportfolio.com
@@ -11264,6 +11276,7 @@ uat-publishing-preview.experiencecloud.adobe.com
 uat.sslvpn.marketing.adobe.com
 ub4s.adobeaemcloud.com
 ubcm.fileprosite.com
+ubs.adobe.io
 ubs.apps.marketing-assets.adobe.com
 ubs-controller.marketing-assets.adobe.com
 ubsdocker.marketing-assets.adobe.com
@@ -11983,6 +11996,7 @@ www-offers-author.stage.corp.adobe.com
 www-oma1.adobeaemcloud.com
 wwworigin2-du1.adobe.com
 wwworigin-da1.stage.adobe.com
+www.photoshop.com
 www-prod.adobesunbreak.com
 www.raybansunglasseslogo.au1.documents.adobe.com
 www-sandbox.internal.console.primetime.adobe.com
