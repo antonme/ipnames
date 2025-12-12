@@ -80797,3 +80797,41 @@ Thu Dec 11 09:10:12 AM MSK 2025                ext-dns-vpnhosts.txt  >ipv6-ext-r
 Thu Dec 11 09:15:32 AM MSK 2025                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
 [master 7133f6b8] auto-update ipv6
  13 files changed, 5215 insertions(+), 5103 deletions(-)
+[master f32a18ae] auto-update merged
+ 30 files changed, 9049 insertions(+), 8958 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Fri Dec 12 06:00:01 AM MSK 2025
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
