@@ -28,6 +28,7 @@ amp-api-books-cdn-lb.itunes-apple.com.akadns.net
 amp-api-books-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
+amp-api-edge.apps.apple.com.edgesuite.net
 amp-api-edge-cdn-lb.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-edge.music.apple.com
@@ -107,7 +108,6 @@ api-safari-aeun1b.smoot.apple.com
 api-safari-aeus2b.smoot.apple.com
 api-safari-aeuw1b.smoot.apple.com
 api-safari.smoot.apple.com
-api.smoot.apple.cn
 api.smoot.apple.com
 api-spotlight-aaps1b.smoot.apple.com
 api-spotlight-aeun1a.smoot.apple.com
@@ -508,6 +508,7 @@ edge-048.esmad6.icloud-content.com
 edge-048.gbslo5.icloud-content.com
 edge-048.nlhfd1.icloud-content.com
 edge-048.usqas5.icloud-content.com
+edge-048.usuyk1.icloud-content.com
 edge-049.dkvib11.icloud-content.com
 edge-050.defra2.icloud-content.com
 edge-051.defra2.icloud-content.com
@@ -536,6 +537,7 @@ edge-058.nlhfd1.icloud-content.com
 edge-058.usbos2.icloud-content.com
 edge-059.defra2.icloud-content.com
 edge-059.nlhfd1.icloud-content.com
+edge-060.deber3.icloud-content.com
 edge-060.nlhfd1.icloud-content.com
 edge-061.dkvib11.icloud-content.com
 edge-061.usqas5.icloud-content.com
@@ -613,6 +615,7 @@ edge-089.defra2.icloud-content.com
 edge-089.usbos2.icloud-content.com
 edge-089.usuyk1.icloud-content.com
 edge-090.sesto4.icloud-content.com
+edge-091.deber3.icloud-content.com
 edge-091.nlhfd1.icloud-content.com
 edge-091.usuyk1.icloud-content.com
 edge-092.nlhfd1.icloud-content.com
@@ -742,6 +745,7 @@ edge-163.usqas5.icloud-content.com
 edge-164.defra2.icloud-content.com
 edge-164.sesto4.icloud-content.com
 edge-165.sesto4.icloud-content.com
+edge-165.usqas5.icloud-content.com
 edge-166.defra2.icloud-content.com
 edge-166.sesto4.icloud-content.com
 edge-167.sesto4.icloud-content.com
@@ -1170,6 +1174,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -1722,7 +1727,6 @@ silverbullet-external-ats.itunes.apple.com
 silverbullet-external-ats.itunes-apple.com.akadns.net
 siri.apple.com
 skadnetwork.iad-apple.com.akadns.net
-smoot.apple.cn
 smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
