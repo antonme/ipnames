@@ -82768,3 +82768,14 @@ s
 ===anthropic
 
 == Save names archive
+[master 3cfc0b88] auto-update names
+ 5 files changed, 42 insertions(+), 4 deletions(-)
+
+== Resolving names to ipv4
+Wed Dec 31 06:27:18 AM MSK 2025                dns-adobe.txt  >resolve-adobe.txt
+Wed Dec 31 07:23:30 AM MSK 2025                dns-anthropic.txt  >resolve-anthropic.txt
+Wed Dec 31 07:24:52 AM MSK 2025                dns-apple.txt  >resolve-apple.txt
+Wed Dec 31 09:04:57 AM MSK 2025                dns-backblaze.txt  >resolve-backblaze.txt
+Wed Dec 31 09:42:35 AM MSK 2025                dns-bing.txt  >resolve-bing.txt
+Wed Dec 31 09:46:08 AM MSK 2025                dns-expressvpn.txt  >resolve-expressvpn.txt
+Wed Dec 31 09:53:50 AM MSK 2025                dns-facebook.txt  >resolve-facebook.txt
