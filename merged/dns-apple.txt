@@ -1985,6 +1985,7 @@ api-siri-ci.smoot.apple.com
 api-siri-euc1a.smoot.apple.com
 api-siri-euw3c.smoot.apple.com
 api-siri-use2b.smoot.apple.com
+api.smoot.apple.cn
 api.smoot.apple.com
 api-sports.cdn-apple.com
 api-spotlight-aapne1a.smoot.apple.com
@@ -8281,7 +8282,6 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl-96.ls.apple.com
@@ -8518,6 +8518,7 @@ hls-amt-ve.itunes.apple.com
 hls-amt-ve.itunes.apple.com.edgesuite.net
 hls.assets.itunes.com
 hls.itunes.apple.com
+hls.itunes-apple.com.akadns.net
 hls.itunes.apple.com.edgesuite.net
 hls-mslive.itunes.apple.com.edgesuite.net
 hls-slive.itunes.apple.com.edgesuite.net
@@ -8872,6 +8873,7 @@ invitation-qa2.g.apple.com
 ios-apple.com
 iosapps.itunes.apple.com
 iosapps.itunes.apple.com.edgesuite.net
+iosapps.itunes.g.aaplimg.com
 iosdiags.apple.com
 iosdiags-dr-old.apple.com
 iosdiags-mdn.apple.com
@@ -12388,6 +12390,7 @@ news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
 news-assets-origin.apple.com
+news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-old.apple.com
 news-client-older.apple.com
@@ -24204,6 +24207,7 @@ sm-facade-wfm-prod-usw2.apple.com
 sm-notification-service.apple.com
 sm-notification-service-wfm-prod-use1.apple.com
 sm-notification-service-wfm-prod-usw2.apple.com
+smoot.apple.cn
 smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
@@ -25213,6 +25217,7 @@ tokenvalidation.apple.com
 tok-ntp.asia.apple.com
 toksbc01.ccvoice.apple.com
 tokyo-makofde.apple.com
+toolbox.marketingtools.apple.com
 tools.push.apple.com
 toolsupdater.apple.com
 tracker.apple.com
