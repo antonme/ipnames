@@ -86470,3 +86470,41 @@ Fri Feb  6 09:13:18 AM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolv
 Fri Feb  6 09:18:42 AM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
 [master f38cd0e1] auto-update ipv4
  16 files changed, 6488 insertions(+), 5140 deletions(-)
+[master 8680f21c] auto-update merged
+ 21 files changed, 5468 insertions(+), 4440 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Sat Feb  7 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive

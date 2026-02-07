@@ -267,6 +267,7 @@ cl5.apple.com
 cl5.apple.com.edgekey.net
 cl5-cdn.origin-apple.com.akadns.net
 classical-api.music.apple.com
+classical-api-music.v.aaplimg.com
 classical.music.apple.com.edgesuite.net
 client-api-cdn.itunes-apple.com.akadns.net
 client-api.itunes.apple.com
@@ -706,6 +707,7 @@ edge-110.uschi7.icloud-content.com
 edge-110.usuyk1.icloud-content.com
 edge-112.defra2.icloud-content.com
 edge-112.sesto4.icloud-content.com
+edge-112.usuyk1.icloud-content.com
 edge-113.sesto4.icloud-content.com
 edge-114.sesto4.icloud-content.com
 edge-115.sesto4.icloud-content.com
@@ -1051,6 +1053,7 @@ edge.apple
 edge.icloud-content.com
 edge-itunes-apple.com.akadns.net
 email.images.apple.com
+embed.music.apple.com
 entitlements-cdn-row.edge-itunes-apple.com.akadns.net
 entitlements-edge.edge-itunes-apple.com.akadns.net
 entitlements-edge-eu.edge-itunes-apple.com.akadns.net
@@ -1388,6 +1391,7 @@ ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
+ocsp-uat.corp.apple.com
 ocsp-us-lb.apple.com.akadns.net
 odin-signals.apple.com
 odr.itunes.apple.com
@@ -1796,7 +1800,6 @@ smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smp-paymentservices.apple.com
@@ -1836,7 +1839,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -1954,6 +1956,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webcourier-vs.push-apple.com.akadns.net
 webproxy.advp.apple.com
