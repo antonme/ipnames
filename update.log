@@ -86571,3 +86571,41 @@ Sat Feb  7 05:45:10 PM MSK 2026                dns-tunnelbear.txt  >ipv6-resolve
 Sat Feb  7 06:00:00 PM MSK 2026                dns-twitter.txt  >ipv6-resolve-twitter.txt
 Sat Feb  7 06:14:57 PM MSK 2026                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
 Sat Feb  7 06:15:04 PM MSK 2026                dns-youtube.txt  >ipv6-resolve-youtube.txt
+[master 427cee2a] auto-update ipv6
+ 8 files changed, 2194 insertions(+), 2022 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Sun Feb  8 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
