@@ -101,6 +101,7 @@ api-glb-aeus2b.smoot.apple.com
 api-glb-aeuw1b.smoot.apple.com
 api-glb-aeuw3c.smoot.apple.com
 api-glb-asae1b.smoot.apple.com
+api-glb-ause2c.smoot.apple.com
 api-lookup-aapne1a.smoot.apple.com
 api-lookup-aeun1b.smoot.apple.com
 api-lookup-aeus2a.smoot.apple.com
@@ -584,6 +585,7 @@ edge-065.nlhfd1.icloud-content.com
 edge-065.usqas5.icloud-content.com
 edge-065.usuyk1.icloud-content.com
 edge-066.usbos2.icloud-content.com
+edge-066.usmsc2.icloud-content.com
 edge-066.usuyk1.icloud-content.com
 edge-067.nlhfd1.icloud-content.com
 edge-067.usbos2.icloud-content.com
@@ -1244,7 +1246,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -1373,7 +1374,6 @@ news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
-news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -1855,6 +1855,7 @@ stocks-sparkline.apple.com
 store-030.blobstore.apple.com
 store-030-lb.blobstore-apple.com.akadns.net
 store-033.blobstore.apple.com
+store-033-lb.blobstore-apple.com.akadns.net
 store-035.blobstore.apple.com
 store-035-lb.blobstore-apple.com.akadns.net
 store.storeimages.apple.com.akadns.net
@@ -1989,7 +1990,6 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
