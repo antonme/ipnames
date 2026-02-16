@@ -1250,6 +1250,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -1378,6 +1379,7 @@ news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
+news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -1854,7 +1856,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -1975,7 +1976,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webcourier-vs.push-apple.com.akadns.net
 webproxy.advp.apple.com
@@ -1995,7 +1995,6 @@ www-apple-com-cn.v.aaplimg.com
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
-www-apple-com.v.aaplimg.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
