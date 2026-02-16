@@ -87356,3 +87356,41 @@ Sun Feb 15 09:23:27 AM MSK 2026                dns-backblaze.txt  >resolve-backb
 Sun Feb 15 10:04:39 AM MSK 2026                dns-bing.txt  >resolve-bing.txt
 Sun Feb 15 10:08:27 AM MSK 2026                dns-expressvpn.txt  >resolve-expressvpn.txt
 Sun Feb 15 10:16:49 AM MSK 2026                dns-facebook.txt  >resolve-facebook.txt
+[master a3747c46] auto-update merged
+ 28 files changed, 5324 insertions(+), 6382 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Mon Feb 16 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
