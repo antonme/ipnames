@@ -88054,3 +88054,41 @@ Sun Feb 22 05:11:40 PM MSK 2026                dns-tunnelbear.txt  >resolve-tunn
 Sun Feb 22 05:26:00 PM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
 Sun Feb 22 05:40:26 PM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
 Sun Feb 22 05:40:33 PM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
+[master d0762a05] auto-update ipv4
+ 14 files changed, 4990 insertions(+), 3922 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Mon Feb 23 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
