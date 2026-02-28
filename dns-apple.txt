@@ -77,6 +77,8 @@ amp-api.videos.apple.com.edgesuite.net
 a.ns.apple.com
 aod.itunes.apple.com
 aod.itunes.apple.com.edgesuite.net
+aod-ssl.itunes.apple.com
+aod-ssl.itunes-apple.com.akadns.net
 api2.smoot.apple.com
 api-adservices.apple.com
 api.apple-cloudkit.com
@@ -273,7 +275,7 @@ cl5.apple.com
 cl5.apple.com.edgekey.net
 cl5-cdn.origin-apple.com.akadns.net
 classical-api.music.apple.com
-classical-api-music.v.aaplimg.com
+classical.music.apple.com
 classical.music.apple.com.edgesuite.net
 client-api-cdn.itunes-apple.com.akadns.net
 client-api.itunes.apple.com
@@ -1087,6 +1089,7 @@ euc1-wps-prod.apple.com
 eu-central-courier-4.push-apple.com.akadns.net
 eu-central-courier-vs.push-apple.com.akadns.net
 eu-north-courier-4.push-apple.com.akadns.net
+eu-north-courier-vs.push-apple.com.akadns.net
 eu-nw-courier-4.push-apple.com.akadns.net
 euro.apple.com
 europe-apple.com-idsign.in
@@ -1187,7 +1190,6 @@ gspe19-geo-selector.ls2-apple.com.akadns.net
 gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
-gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -1722,6 +1724,8 @@ play-edge.itunes.apple.com.edgesuite.net
 playgrounds-cdn.apple.com
 play.itunes.apple.com
 play.itunes.apple.com.edgesuite.net
+play.music.apple.com
+play-music.itunes-apple.com.akadns.net
 podcasts.apple.com
 podcasts.apple.com.edgekey.net
 podcasts.itunes.apple.com
@@ -1866,7 +1870,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -1923,6 +1926,8 @@ tr.iadsdk.apple.com.akadns.net
 ts.apps-apple.com.akadns.net
 ts.itunes.apple.com
 tv.apple.com
+universal-activity-service.itunes.apple.com
+universal-activity-service.itunes-apple.com.akadns.net
 unlinkability.apple.com
 updates.cdn-apple.com
 updates.cdn-apple.com.akadns.net
@@ -2009,6 +2014,7 @@ www-apple-com-cn.v.aaplimg.com
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
+www-apple-com.v.aaplimg.com
 www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
