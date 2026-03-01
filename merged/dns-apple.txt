@@ -3857,6 +3857,7 @@ edge-026.usbos2.icloud-content.com
 edge-026.usqas5.icloud-content.com
 edge-026.usuqo4.icloud-content.com
 edge-026.zamrd1.icloud-content.com
+edge-027.deber3.icloud-content.com
 edge-027.defra2.icloud-content.com
 edge-027.gbslo5.icloud-content.com
 edge-027.hkhkg.icloud-content.com
@@ -8316,7 +8317,6 @@ gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
 gspe19-ssl-e1248.ls.apple.com
 gspe19-ssl-e185.ls.apple.com
 gspe19-ssl-e95.ls.apple.com
-gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -12938,6 +12938,7 @@ old-mypage.apple.com
 olympus-rest-mr.itunes.apple.com
 onboarding.iad.apple.com
 ondevice-agreements.apple.com
+ondevice-agreements.apple.com.edgekey.net
 one.apple.com
 onepulse.apple.com
 onepulse-stage.apple.com
@@ -20783,6 +20784,8 @@ p38-ubiquityws.icloud.com
 p39-archivews.icloud.com
 p39-availability.icloud.com
 p39-bookmarks.icloud.com
+p39-buy.itunes.apple.com
+p39-buy-lb.itunes-apple.com.akadns.net
 p39-calendars.icloud.com
 p39-ckcoderouter.icloud.com
 p39-ckdatabase.icloud.com
@@ -20876,6 +20879,7 @@ p40-sharedstreams.icloud.com
 p40-smtp.mail.icloud.com
 p40-statici-china.icloud.com
 p40-uploadimagews.icloud.com
+p41-acsegateway.icloud.com
 p41-availability-china.icloud.com
 p41-availability.icloud.com
 p41-caldav-china.icloud.com
@@ -20887,10 +20891,12 @@ p41-ckdatabase.icloud.com
 p41-ckdevice.icloud.com
 p41-ckshare-china.icloud.com
 p41-contacts-china.icloud.com
+p41-contacts.icloud.com
 p41-contactsws.icloud.com
 p41-content-china.icloud.com
 p41-content.icloud.com
 p41-drivews.icloud.com
+p41-escrowproxy.icloud.com
 p41-fmfmail-china.icloud.com
 p41-fmfmobile.icloud.com
 p41-fmipalservice-china.icloud.com
@@ -20914,6 +20920,7 @@ p41-iwnr.icloud.com
 p41-iworkextstore.icloud.com
 p41-iwres.icloud.com
 p41-keyvalueservice.icloud.com
+p41-quota.icloud.com
 p41-remindersws.icloud.com
 p41-setup.icloud.com
 p41-sharedav-china.icloud.com
@@ -22566,6 +22573,7 @@ payments-rtau-service-qa1.apple.com
 payments-saptmsext-dev.apple.com
 payments-upi.apple.com
 pay-static.cdn-apple.com
+pay-static.cdn-apple.com.akamaized.net
 pba0.apple.com
 pba.apple.com
 pbs2i.cdn-apple.com
@@ -24291,6 +24299,7 @@ smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
+smp-device.gcsis-apple.com.akadns.net
 smp-device-lt3.apple.com
 smp-device-lt4.apple.com
 smp-device-qa6.apple.com
@@ -25432,6 +25441,7 @@ updates.cdn-apple.com.akadns.net
 updates.cdn-apple.com.edgesuite.net
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
+updates-http.cdn-apple.com.edgesuite.net
 updgup-193.jptyo-3.icloud-content.com
 upgrade.apple.com
 uploadimagews-ic2.icloud.com
@@ -26075,7 +26085,6 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
