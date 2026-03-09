@@ -136,6 +136,7 @@ apple.co
 apple.com
 apple.com.cn
 apple-dns.net
+applehosted.podcasts.apple.com
 appleid1.idms-apple.com.akadns.net
 appleid.apple.com
 appleid.cdn-apple.com
@@ -161,6 +162,7 @@ apps.mzstatic.com.edgekey.net
 apps.mzstatic.com.g.aaplimg.com
 apps.mzstatic.com-v1.edgesuite.net
 apps-mzstatic-lb.itunes-apple.com.akadns.net
+appstoreconnect.apple.com
 apptrailers.itunes.apple.com
 apptrailers-ssl.itunes.apple.com
 apptrailers-ssl.itunes-apple.com.akadns.net
@@ -191,6 +193,7 @@ bag-cdn-lb.itunes-apple.com.akadns.net
 bag.itunes.apple.com
 bag.itunes.apple.com.edgesuite.net
 basejumper.apple.com
+beta.music.apple.com.edgesuite.net
 big.itunes.apple.com
 b.ns.apple.com
 bookkeeper-cdn.itunes-apple.com.akadns.net
@@ -308,6 +311,7 @@ configuration.apple.com.edgekey.net
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
+contactus.apple.com
 courier-ab-vs.push.apple.com
 courier-ab-vs.push-apple.com.akadns.net
 courier.push.apple.com
@@ -1090,6 +1094,8 @@ edge.icloud-content.com
 edge-itunes-apple.com.akadns.net
 email.images.apple.com
 embed.music.apple.com
+embed.podcasts.apple.com
+embed.podcasts.apple.com.akadns.net
 entitlements-cdn-row.edge-itunes-apple.com.akadns.net
 entitlements-edge.edge-itunes-apple.com.akadns.net
 entitlements-edge-eu.edge-itunes-apple.com.akadns.net
@@ -1204,7 +1210,6 @@ gspe19-geo-selector.ls2-apple.com.akadns.net
 gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
-gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -1753,8 +1758,15 @@ play.itunes.apple.com
 play.itunes.apple.com.edgesuite.net
 play.music.apple.com
 play-music.itunes-apple.com.akadns.net
+podcastconnect.apple.com
+podcasters.apple.com
+podcasters.apple.com.edgekey.net
+podcasters-lb.apple.com.akadns.net
 podcasts.apple.com
 podcasts.apple.com.edgekey.net
+podcastsconnect.apple.com
+podcastsconnect.apple.com.edgekey.net
+podcastsconnect.itunes-apple.com.akadns.net
 podcasts.itunes.apple.com
 podcasts.itunes-apple.com.akadns.net
 podcasts.itunes.apple.com.edgesuite.net
@@ -1841,6 +1853,7 @@ setup.icloud.com
 sf-api-token-service.itunes.apple.com
 sf-api-token-service.itunes.apple.com.edgekey.net
 sf-api-token-service-lb.itunes-apple.com.akadns.net
+sf-saas.cdn-apple.com
 sfss.cdn-apple.com
 sgp-albert-prod.apple.com
 sgp-security-prod.apple.com
@@ -1898,7 +1911,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -1958,6 +1970,8 @@ tv.apple.com
 universal-activity-service.itunes.apple.com
 universal-activity-service.itunes-apple.com.akadns.net
 unlinkability.apple.com
+unpkg.apple.com
+unpkg.ase.apple.com
 updates.cdn-apple.com
 updates.cdn-apple.com.akadns.net
 updates.cdn-apple.com.edgesuite.net
