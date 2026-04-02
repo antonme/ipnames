@@ -66,6 +66,7 @@ amp-api-search-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com.edgekey.net
 amp-api-search-edge.apps.apple.com.edgesuite.net
 amp-api-search-edge.apps-lb.itunes-apple.com.akadns.net
+amp-api-shazam-akam.itunes-apple.com.akadns.net
 amp-api.shazam.apple.com
 amp-api.shazam.apple.com.edgekey.net
 amp-api-updates-apps-akam.itunes-apple.com.akadns.net
@@ -611,6 +612,7 @@ edge-060.deber3.icloud-content.com
 edge-060.nlhfd1.icloud-content.com
 edge-060.usatl5.icloud-content.com
 edge-060.usuyk1.icloud-content.com
+edge-061.deber3.icloud-content.com
 edge-061.dkvib11.icloud-content.com
 edge-061.usqas5.icloud-content.com
 edge-061.usuyk1.icloud-content.com
@@ -842,6 +844,7 @@ edge-143.usuyk1.icloud-content.com
 edge-144.defra2.icloud-content.com
 edge-145.dkvib11.icloud-content.com
 edge-146.dkvib11.icloud-content.com
+edge-146.usatl5.icloud-content.com
 edge-147.defra2.icloud-content.com
 edge-150.defra2.icloud-content.com
 edge-151.dkvib11.icloud-content.com
@@ -1269,7 +1272,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl-96.ls.apple.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
@@ -1940,7 +1942,6 @@ smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smp-device.gcsis-apple.com.akadns.net
@@ -2114,7 +2115,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webcourier.push-apple.com.akadns.net
 webcourier-vs.push-apple.com.akadns.net
