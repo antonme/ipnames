@@ -92931,3 +92931,19 @@ Sun Apr 12 07:32:37 AM MSK 2026                dns-apple.txt  >resolve-apple.txt
 Sun Apr 12 09:35:19 AM MSK 2026                dns-backblaze.txt  >resolve-backblaze.txt
 Sun Apr 12 10:18:14 AM MSK 2026                dns-bing.txt  >resolve-bing.txt
 Sun Apr 12 10:22:03 AM MSK 2026                dns-expressvpn.txt  >resolve-expressvpn.txt
+[master 5fe95338] auto-update merged
+ 26 files changed, 4895 insertions(+), 5747 deletions(-)
+ delete mode 100644 merged/ipv4-expressvpn.cidr
+Sun Apr 12 10:30:29 AM MSK 2026                dns-facebook.txt  >resolve-facebook.txt
+Sun Apr 12 02:36:33 PM MSK 2026                dns-github.txt  >resolve-github.txt
+Sun Apr 12 02:51:22 PM MSK 2026                dns-google.txt  >resolve-google.txt
+Sun Apr 12 04:26:35 PM MSK 2026                dns-huggingface.txt  >resolve-huggingface.txt
+Sun Apr 12 04:27:29 PM MSK 2026                dns-openai.txt  >resolve-openai.txt
+Sun Apr 12 04:34:14 PM MSK 2026                dns-ozon.txt  >resolve-ozon.txt
+Sun Apr 12 04:37:51 PM MSK 2026                dns-pornhub.txt  >resolve-pornhub.txt
+Sun Apr 12 04:41:13 PM MSK 2026                dns-surfshark.txt  >resolve-surfshark.txt
+Sun Apr 12 04:49:09 PM MSK 2026                dns-tiktok.txt  >resolve-tiktok.txt
+Sun Apr 12 06:23:55 PM MSK 2026                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Sun Apr 12 06:37:18 PM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
+Sun Apr 12 06:51:28 PM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Sun Apr 12 06:51:34 PM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
