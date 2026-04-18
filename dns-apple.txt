@@ -572,6 +572,7 @@ edge-042.gbmnc1.icloud-content.com
 edge-042.nlhfd1.icloud-content.com
 edge-042.usbos2.icloud-content.com
 edge-042.usqas5.icloud-content.com
+edge-043.deber3.icloud-content.com
 edge-044.deber3.icloud-content.com
 edge-045.deber3.icloud-content.com
 edge-045.gbmnc1.icloud-content.com
@@ -1225,6 +1226,7 @@ generic-edge.infoapps.apple.com
 genius-3-cdn.lb-apple.com.akadns.net
 genius-3.itunes.apple.com
 genius-3.itunes.apple.com.edgekey.net
+genius-3.itunes.apple.com.edgesuite.net
 genius-download-2.apps-apple.com.akadns.net
 genius-download-2.itunes.apple.com
 genius-download-2.itunes-apple.com.akadns.net
@@ -1779,6 +1781,8 @@ p50-content.icloud.com
 p51-buy.itunes.apple.com
 p51-buy-lb.itunes-apple.com.akadns.net
 p51-content.icloud.com
+p52-buy.itunes.apple.com
+p52-buy-lb.itunes-apple.com.akadns.net
 p52-content.icloud.com
 p53-content.icloud.com
 p54-content.icloud.com
@@ -1825,6 +1829,8 @@ p6-buy-lb.itunes-apple.com.akadns.net
 p71-buy.itunes.apple.com
 p71-buy-lb.itunes-apple.com.akadns.net
 p72-content.icloud.com
+p72-escrowproxy.icloud.com
+p72-fmf.icloud.com
 pancake.apple.com
 pancake.apple.com.edgekey.net
 pancake.apple.com.edgesuite.net
@@ -2019,7 +2025,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -2054,7 +2059,6 @@ swcdn.apple.com.edgesuite.net
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
-swdist.g.aaplimg.com
 swift.lb-apple.com.akadns.net
 swscan.apple.com
 swscan-cdn.apple.com.akadns.net
