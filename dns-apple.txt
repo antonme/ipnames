@@ -1300,6 +1300,7 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl-96.ls.apple.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
@@ -1488,7 +1489,6 @@ news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
-news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -1828,7 +1828,10 @@ p6-buy.itunes-apple.com.akadns.net
 p6-buy-lb.itunes-apple.com.akadns.net
 p71-buy.itunes.apple.com
 p71-buy-lb.itunes-apple.com.akadns.net
+p71-contacts.icloud.com
 p72-acsegateway.icloud.com
+p72-caldav.icloud.com
+p72-contacts.icloud.com
 p72-content.icloud.com
 p72-escrowproxy.icloud.com
 p72-fmf.icloud.com
@@ -2006,6 +2009,7 @@ speedysub-us.edge-itunes-apple.com.akadns.net
 speedysub-us-e.edge-itunes-apple.com.akadns.net
 sp.itunes.apple.com
 sp.itunes.apple.com.edgekey.net
+splunk-hec.apple.com
 sportskit-api.cdn-apple.com
 sps-media.apple.com
 sq-device.apple.com
@@ -2027,7 +2031,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -2158,7 +2161,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webcourier.push-apple.com.akadns.net
 webcourier-vs.push-apple.com.akadns.net
@@ -2183,7 +2185,6 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
