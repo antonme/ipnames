@@ -8400,7 +8400,6 @@ gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
 gspe19-ssl-e1248.ls.apple.com
 gspe19-ssl-e185.ls.apple.com
 gspe19-ssl-e95.ls.apple.com
-gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -8969,7 +8968,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -15188,12 +15186,14 @@ p120-acsegateway.icloud.com
 p120-archichefews.icloud.com
 p120-availability.icloud.com
 p120-bookmarks-china.icloud.com
+p120-caldav.icloud.com
 p120-calendars-china.icloud.com
 p120-calendars.icloud.com
 p120-ckdatabase-china.icloud.com
 p120-ckdatabasews-china.icloud.com
 p120-ckdatabasews.icloud.apple.com
 p120-ckdevice-china.icloud.com
+p120-contacts.icloud.com
 p120-contactsws-china.icloud.com
 p120-contactsws.icloud.com
 p120-content-china.icloud.com
@@ -21595,6 +21595,7 @@ p53-fmip-china.icloud.com
 p53-fmipmail.icloud.com
 p53-fmipmobile.icloud.com
 p53-fmipweb.icloud.com
+p53-imap.mail.me.com
 p53-iwmb0.icloud.com
 p53-iwmb1-china.icloud.com
 p53-iwmb2-china.icloud.com
@@ -25083,7 +25084,6 @@ stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline-origin.apple.com
@@ -26216,7 +26216,6 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
