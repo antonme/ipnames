@@ -1362,7 +1362,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -1495,7 +1494,6 @@ news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
-news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -1579,6 +1577,8 @@ p115-content.icloud.com
 p117-availability.icloud.com
 p117-content.icloud.com
 p117-sharedstreams.icloud.com
+p120-caldav.icloud.com
+p120-contacts.icloud.com
 p120-quota.icloud.com
 p122-acsegateway.icloud.com
 p122-caldav.icloud.com
@@ -1793,6 +1793,7 @@ p52-buy.itunes.apple.com
 p52-buy-lb.itunes-apple.com.akadns.net
 p52-content.icloud.com
 p53-content.icloud.com
+p53-imap.mail.me.com
 p54-content.icloud.com
 p55-content.icloud.com
 p57-content.icloud.com
@@ -2040,7 +2041,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -2170,7 +2170,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webcourier.push-apple.com.akadns.net
 webcourier-vs.push-apple.com.akadns.net
