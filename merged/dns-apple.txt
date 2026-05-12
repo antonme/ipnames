@@ -8433,7 +8433,6 @@ gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
 gspe19-ssl-e1248.ls.apple.com
 gspe19-ssl-e185.ls.apple.com
 gspe19-ssl-e95.ls.apple.com
-gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -9002,6 +9001,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -22064,6 +22064,7 @@ p62-iwres.iwork.icloud.com
 p62-keyvalueservice.icloud.com
 p62-maildomainws.icloud.com
 p62-mccgateway.icloud.com
+p62-mcc.icloud.com
 p62-quota-china.icloud.com
 p62-quota.icloud.com
 p62-setup-apple.uschi7.icloud-content.com
@@ -22538,6 +22539,7 @@ p72-keyvalueservice-china.icloud.com
 p72-mailws.icloud.com
 p72-mccgateway.icloud.com
 p72-mcc.icloud.com
+p72-mobilebackup.icloud.com
 p72-notesws.icloud.com
 p72-quota.icloud.com
 p72-remindersws.icloud.com
@@ -24457,6 +24459,7 @@ smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
+smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smp-device.gcsis-apple.com.akadns.net
@@ -26399,7 +26402,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com

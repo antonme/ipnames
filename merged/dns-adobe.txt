@@ -357,6 +357,7 @@ adobeqa-sn.corp.adobe.com
 adobe-resolver-03.adobe.com
 adobesearch.adobe.io
 adobesearch-atc.adobe.io
+adobesearch-sec-uss.adobe.io
 adobesigntrial.corp.adobe.com
 adobesip.documents.adobe.com
 adobe-sn.corp.adobe.com
@@ -724,6 +725,7 @@ apim.ipaas-np.corp.adobe.com
 apim-ssg.ipaas-np.corp.adobe.com
 api.na1.documents.adobe.com
 api.na2.documents.adobe.com
+api.na4.documents.adobe.com
 api-nautilus.na3.documents.adobe.com
 api.net.adobe.com
 apinew.eu1.documents.adobe.com
@@ -2203,6 +2205,7 @@ cloud-analytics-and-reporting-api-etl.corp.adobe.com
 cloud-analytics-and-reporting-api-etl-dev.corp.adobe.com
 cloudapp-cim-api.experiencecloud.adobe.com
 cloudapp-sso.documents.adobe.com
+cloud-asr.acrobat.com
 clouddashboard.marketing.adobe.com
 cloudefficiency.corp.adobe.com
 cloudfront-53cfd84ce6d49219222e921a.c00.adobe.com
@@ -2488,6 +2491,8 @@ cpcontents.adobe.com
 cpcontents.stage.adobe.com
 cpcontentsstage.adobe.com
 cpde.experiencecloud.adobe.com
+cpdf-legacy-fc.adobe.io
+cpdf-legacy-fc-asr.adobe.io
 cpe-monitoring.corp.adobe.com
 cp.gws.marketing.adobe.com
 cplive.adobe.com
@@ -2518,6 +2523,7 @@ crcn-stage-or1-vip.corp.adobe.com
 create.adobe.com
 createpdf.acrobat.com
 createpdf.adobe.com
+createpdf-asr.acrobat.com
 createpdf-sjc0.adobe.com
 createprosite.com
 creative.adobe.com
@@ -3834,12 +3840,14 @@ fifththird-mid-prod4-cus.campaign.adobe.com
 file.bsinghal.marketing.adobe.com
 file.experiencecloud.adobe.com
 files.acrobat.com
+files-asr.acrobat.com
 fileshare-prod-du1-ext-vip.adobe.com
 fileshare-stage-du1-ext-vip.adobe.com
 fileshare-stage-or1-ext-vip.adobe.com
 fileshare-stage.wip4.adobe.com
 fileshare.wip4.adobe.com
 files-legacy-fc.adobe.io
+files-legacy-fc-asr.adobe.io
 files-migrate.r53.acrobat.com
 filipbaczun.myportfolio.com
 filipzaruba.myportfolio.com
@@ -8494,6 +8502,7 @@ qualtrics-pokemon-go.businesscatalyst.com
 quanticamr.eu2.documents.adobe.com
 quarantine.adobe.com
 quarter-sessions.adobeaemcloud.com
+quick-actions.express.adobe.com
 quinncook.myportfolio.com
 quzhouxingkongqipaiyinzi.adobeaemcloud.com
 qyx2.adobeaemcloud.com
@@ -9501,6 +9510,7 @@ sem-vendors.marketing.adobe.com
 se-mx2.documents.adobe.com
 sena1.vi.documentsawspreview.adobe.com
 send.acrobat.com
+send-asr.acrobat.com
 sender.tokyosmoke.com.cname.campaign.adobe.com
 senniu.adobeaemcloud.net
 senseatelier.myportfolio.com
