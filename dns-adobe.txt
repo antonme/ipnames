@@ -36,6 +36,7 @@ adobelogin-static.prod.ims.adobejanus.com
 adobe.net
 adobesearch.adobe.io
 adobesearch-atc.adobe.io
+adobesearch-sec-uss.adobe.io
 adobetarget.data.adobedc.net
 aepxlg.adobe.com
 agsupdate.adobe.com
@@ -57,6 +58,7 @@ api-gateway-cc-prd.infra.adobe.io
 api-gateway-cc-prd-irl1.infra.adobe.io
 api-gateway-cc-prd-jpn3.infra.adobe.io
 api-gateway-cc-prd-or2.infra.adobe.io
+api.na4.documents.adobe.com
 api.plan.adobe.com
 api.tv.adobe.com
 api.typekit.com
@@ -216,7 +218,9 @@ cjm.adobe.com
 client.messaging.adobe.com
 clio-assets.adobe.com
 clmx.adobeaemcloud.com
+cloud.acrobat.com
 cloud.adobe.io
+cloud-asr.acrobat.com
 clouso.adobeaemcloud.net
 cmeitin.adobeaemcloud.com
 cname.campaign.adobe.com
@@ -250,6 +254,10 @@ cpanel.adobee.cl
 cpanel.ilovephotoshop.com
 cpcalendars.adobesignn.duckdns.org
 cpcontacts.adobegram.com
+cpdf-legacy-fc.adobe.io
+cpdf-legacy-fc-asr.adobe.io
+createpdf.acrobat.com
+createpdf-asr.acrobat.com
 createprosite.com
 creativecloud.adobe.com
 crlog-crcn.adobe.com
@@ -286,6 +294,7 @@ data.typekit.net
 dattihp.adobeaemcloud.com
 daviston.adobeaemcloud.com
 dc-api.adobe.io
+dc-api-v2.adobe.io
 dcdiscovery.adobe.io
 dc-genai-access-provisioning-api.adobe.io
 dcpa.adobeaemcloud.net
@@ -400,8 +409,11 @@ fgih.adobeaemcloud.com
 fh-s225n93.adobeaemcloud.net
 fiaocong.adobeaemcloud.com
 files.acrobat.com
+files-asr.acrobat.com
 files-legacy-fc.adobe.io
+files-legacy-fc-asr.adobe.io
 files-migrate.r53.acrobat.com
+fillsign.acrobat.com
 filmable.adobeaemcloud.com
 firefly-3p.ff.adobe.io
 firefly-acs.adobe.io
@@ -808,6 +820,7 @@ qk1m.adobeaemcloud.com
 QOKRcXKVoVgP.adobe.com
 quabbin.adobeaemcloud.net
 quarter-sessions.adobeaemcloud.com
+quick-actions.express.adobe.com
 quzhouxingkongqipaiyinzi.adobeaemcloud.com
 qyx2.adobeaemcloud.com
 r0fb.adobeaemcloud.net
@@ -864,6 +877,7 @@ sea-kale.adobeaemcloud.net
 search-prod.creativecloud.adobe.com
 secureuk.adobeaemcloud.com
 self-ignite.adobeaemcloud.com
+send-asr.acrobat.com
 senniu.adobeaemcloud.net
 server.messaging.adobe.com
 service.account.adobe.com
