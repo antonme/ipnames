@@ -6,6 +6,7 @@ ab.apple.com.akadns.net
 account.apple.com
 account-stage.apple.com
 acsegateway.icloud.com
+activate.apple.com
 adattributionservice.itunes.apple.com
 aidc.apple.com
 aidc.origin-apple.com.akadns.net
@@ -116,6 +117,7 @@ api-lookup-aeun1b.smoot.apple.com
 api-lookup-aeus2a.smoot.apple.com
 api-lookup-aeuw1b.smoot.apple.com
 api-lookup.smoot.apple.com
+api.music.apple.com
 api-safari-aapne1a.smoot.apple.com
 api-safari-aaps1b.smoot.apple.com
 api-safari-aeun1a.smoot.apple.com
@@ -187,6 +189,7 @@ auth.apps.apple.com
 auth.itunes.apple.com
 auth.link.apple.com
 auth.music.apple.com
+authorize.music.apple.com
 authorize.music.apple.com.edgekey.net
 auth.podcasts.apple.com
 auth.tv.apple.com
@@ -590,6 +593,7 @@ edge-042.nlhfd1.icloud-content.com
 edge-042.usbos2.icloud-content.com
 edge-042.usqas5.icloud-content.com
 edge-043.deber3.icloud-content.com
+edge-043.usuyk1.icloud-content.com
 edge-044.deber3.icloud-content.com
 edge-045.deber3.icloud-content.com
 edge-045.gbmnc1.icloud-content.com
@@ -714,6 +718,7 @@ edge-079.defra2.icloud-content.com
 edge-080.deber3.icloud-content.com
 edge-080.sesto4.icloud-content.com
 edge-080.usbos2.icloud-content.com
+edge-080.usuyk1.icloud-content.com
 edge-081.deber3.icloud-content.com
 edge-081.gbmnc1.icloud-content.com
 edge-081.nlhfd1.icloud-content.com
@@ -820,6 +825,7 @@ edge-112.sesto4.icloud-content.com
 edge-112.usuyk1.icloud-content.com
 edge-113.sesto4.icloud-content.com
 edge-114.sesto4.icloud-content.com
+edge-114.usuyk1.icloud-content.com
 edge-115.sesto4.icloud-content.com
 edge-115.usatl5.icloud-content.com
 edge-116.defra2.icloud-content.com
@@ -926,6 +932,7 @@ edge-168.sesto4.icloud-content.com
 edge-169.defra2.icloud-content.com
 edge-169.hkhkg2.icloud-content.com
 edge-169.sesto4.icloud-content.com
+edge-169.usatl5.icloud-content.com
 edge-169.usqas5.icloud-content.com
 edge-169.usuyk1.icloud-content.com
 edge-170.sesto4.icloud-content.com
@@ -1321,6 +1328,7 @@ gspe19-geo-selector.ls2-apple.com.akadns.net
 gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
+gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -1353,6 +1361,7 @@ guide.apple.com
 guzzoni.apple.com
 help.apple.com
 help-ar.apple.com.edgekey.net
+help-ar.apple.com.edgesuite.net
 help.origin-apple.com.akadns.net
 hkhkg2.icloud-content.com
 hls-amt.itunes.apple.com
@@ -1394,7 +1403,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -1454,6 +1462,7 @@ iwork-events.apple.com
 journal-events.infoapps.apple.com
 js-cdn.music.apple.com
 js-cdn-music-lb.itunes-apple.com.akadns.net
+js-cdn-music-lb-itunes-apple-com.v.aaplimg.com
 keyvalueservice.icloud.com
 km.support.apple.com
 known-issues.apple.com
@@ -1488,6 +1497,7 @@ mask.icloud.com
 ma-sq-device.apple.com
 me.apple-dns.net
 me.com
+mediaauth.apple.com
 media.icloud-content.com
 messaging.metrics.icloud.com
 mesu.apple.com
@@ -1527,6 +1537,7 @@ news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
+news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -2036,7 +2047,6 @@ smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
-smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smp-device.gcsis-apple.com.akadns.net
@@ -2081,7 +2091,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -2090,6 +2099,7 @@ store-033.blobstore.apple.com
 store-033-lb.blobstore-apple.com.akadns.net
 store-035.blobstore.apple.com
 store-035-lb.blobstore-apple.com.akadns.net
+store-037.blobstore.apple.com
 store.storeimages.apple.com.akadns.net
 store.storeimages.cdn-apple.com
 store.storeimages.cdn-apple.com.edgekey.net
@@ -2212,7 +2222,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webcourier.push-apple.com.akadns.net
 webcourier-vs.push-apple.com.akadns.net
