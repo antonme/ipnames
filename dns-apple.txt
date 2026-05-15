@@ -151,6 +151,7 @@ appleid.apple.com
 appleid.cdn-apple.com
 appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.edgekey.net
+appleid-cdn-apple-com.v.aaplimg.com
 appleid.idms-apple.com.akadns.net
 apple-mapkit.com
 applepay.cdn-apple.com
@@ -368,6 +369,7 @@ devimages-cdn.apple.com
 devimages-cdn.origin-apple.com.akadns.net
 diatryma.apple.com
 digital-assets-edge.infoapps.apple.com
+digital-assets-search.infoapps.apple.com
 discussions.apple.com
 discussions.apple.com.edgekey.net
 dkvib11.icloud-content.com
@@ -1063,6 +1065,7 @@ edge-227.nlhfd1.icloud-content.com
 edge-227.sesto4.icloud-content.com
 edge-228.nlhfd1.icloud-content.com
 edge-228.sesto4.icloud-content.com
+edge-229.nlhfd1.icloud-content.com
 edge-229.sesto4.icloud-content.com
 edge-230.nlhfd1.icloud-content.com
 edge-230.sesto4.icloud-content.com
@@ -1106,6 +1109,7 @@ edge-248.sesto4.icloud-content.com
 edge-249.gbslo5.icloud-content.com
 edge-249.sesto4.icloud-content.com
 edge-249.usuyk1.icloud-content.com
+edge-250.defra2.icloud-content.com
 edge-250.sesto4.icloud-content.com
 edge-250.usuyk1.icloud-content.com
 edge-251.sesto4.icloud-content.com
@@ -1330,7 +1334,6 @@ gspe19-geo-selector.ls2-apple.com.akadns.net
 gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
-gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -1348,7 +1351,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl-96.ls.apple.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
@@ -1406,6 +1408,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc-lb.apple.com.akadns.net
@@ -1989,6 +1992,7 @@ rn-albert-prod.apple.com
 rn-sq-device.apple.com
 rn-wpc-ae-ingestion-prod.apple.com
 ropes.apple.com
+safari-extensions.apple.com
 safebrowsing.apple
 safety-alert.apple.com
 safety-alert.apple.com.edgesuite.net
@@ -2094,7 +2098,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 store-030.blobstore.apple.com
@@ -2118,9 +2121,10 @@ su.itunes.apple.com
 su.itunes.apple.com.edgekey.net
 support.apple.com
 support.apple.com.edgekey.net
+support.apple.com.edgesuite.net
 support-china.apple-support.akadns.net
 support-icloud-apple.com
-support-lb.apple-support.akadns.net
+support-lb-row.apple-support.akadns.net
 supportmetrics.apple.com
 support-sp.apple.com
 support-sp.apple.com.edgekey.net
@@ -2131,6 +2135,7 @@ swcdn.apple.com.edgesuite.net
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
+swdist.g.aaplimg.com
 swift.lb-apple.com.akadns.net
 swscan.apple.com
 swscan-cdn.apple.com.akadns.net
@@ -2226,6 +2231,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webcourier.push-apple.com.akadns.net
 webcourier-vs.push-apple.com.akadns.net
