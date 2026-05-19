@@ -1473,7 +1473,6 @@ api-gateway-cc-prd-jpn3.infra.adobe.io
 api-gateway-cc-prd-or2.infra.adobe.io
 api.github.com
 api.github.com.home.setia.ru
-api.githubcopilot.com
 api-glb-aapne1a.smoot.apple.com
 api-glb-aapne1c.smoot.apple.com
 api-glb-aaps1a.smoot.apple.com
@@ -7339,6 +7338,7 @@ edge-102.usuyk1.icloud-content.com
 edge-103.deber3.icloud-content.com
 edge-103.defra2.icloud-content.com
 edge-103.gbmnc1.icloud-content.com
+edge-103.usbos2.icloud-content.com
 edge-103.usuqo4.icloud-content.com
 edge-103.usuyk1.icloud-content.com
 edge-104.defra2.icloud-content.com
@@ -9545,6 +9545,7 @@ gspe19-geo-selector.ls2-apple.com.akadns.net
 gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
+gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -9562,6 +9563,7 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl-96.ls.apple.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
@@ -10790,6 +10792,7 @@ mintly.ttpneonx.xyz
 mir-s3-cdn-cf.behance.net
 misc-anycast.l.google.com
 miulo.githubusercontent.com
+mixpanel.com
 mk6z.googleapis.com
 mk7r.adobeaemcloud.com
 mkcpa.ca.inbound20.ttasia.com
@@ -10993,6 +10996,7 @@ news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
+news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -16836,7 +16840,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 storage.cloud.google.com
@@ -16912,6 +16915,7 @@ support-china-row.apple-support.akadns.net
 support.github.com
 support.google.com
 support-icloud-apple.com
+support-lb-row.apple-support.akadns.net
 supportmetrics.apple.com
 support-sp.apple.com
 support-sp.apple.com.edgekey.net
@@ -16935,6 +16939,7 @@ swcdn.apple.com.edgesuite.net
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
+swdist.g.aaplimg.com
 sweats.overseastheme.com
 sweden2-ca-version-2.expressnetw.com
 sweden-ca-version-2.expressnetw.com
@@ -17810,7 +17815,6 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.as.adobeaemcloud.com
 www.backblaze.com
 www-backblaze-com.webpkgcache.com
