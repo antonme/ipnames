@@ -3198,6 +3198,7 @@ credo.apple.com
 crk-security-prod.apple.com
 crl.apple.com
 crl.apple.com.edgesuite.net
+crl-lb.apple.com.akadns.net
 crl-reno01.apple.com
 croissant.cdn-apple.com
 crt-ec.corp.apple.com
@@ -3886,6 +3887,7 @@ edge-025.hkhkg.icloud-content.com
 edge-025.nlhfd1.icloud-content.com
 edge-025.sesto4.icloud-content.com
 edge-025.sgsin8.icloud-content.com
+edge-025.usatl5.icloud-content.com
 edge-025.usbos2.icloud-content.com
 edge-025.usqas5.icloud-content.com
 edge-026.defra2.icloud-content.com
@@ -4585,6 +4587,7 @@ edge-144.defra2.icloud-content.com
 edge-144.jposa3.icloud-content.com
 edge-144.sesto4.icloud-content.com
 edge-144.sgsin8.icloud-content.com
+edge-144.usatl5.icloud-content.com
 edge-144.zamrd1.icloud-content.com
 edge-145.dkvib11.icloud-content.com
 edge-145.hkhkg.icloud-content.com
@@ -8482,7 +8485,6 @@ gspe72-ssl.ls.apple.com.akamaized.net
 gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl-96.ls.apple.com
@@ -9019,6 +9021,7 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
@@ -24479,6 +24482,7 @@ smoot.apple.com
 smp-device.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
+smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smp-device.gcsis-apple.com.akadns.net
@@ -25343,7 +25347,6 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
-swdist.g.aaplimg.com
 swdlp.apple.com
 swdlp-eg-nlt.apple.com
 swdlp-mdn-nlt.apple.com
@@ -26279,6 +26282,7 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
+weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -26423,6 +26427,7 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www-apple-com.v.aaplimg.com
+www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
