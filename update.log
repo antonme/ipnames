@@ -97542,3 +97542,6 @@ Thu May 28 09:32:16 AM MSK 2026                ext-dns-tiktok.txt  >ipv6-ext-res
 Thu May 28 09:47:37 AM MSK 2026                ext-dns-twitter.txt  >ipv6-ext-resolve-twitter.txt
 Thu May 28 09:53:42 AM MSK 2026                ext-dns-vpnhosts.txt  >ipv6-ext-resolve-vpnhosts.txt
 Thu May 28 10:00:33 AM MSK 2026                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
+[master 0397308a] auto-update merged
+ 49 files changed, 10811 insertions(+), 25041 deletions(-)
+ delete mode 100644 merged/dns-surfshark.txt
