@@ -407,6 +407,7 @@ edge-003.dkvib11.icloud-content.com
 edge-003.gbslo5.icloud-content.com
 edge-003.usbos2.icloud-content.com
 edge-004.dkvib11.icloud-content.com
+edge-004.nlhfd1.icloud-content.com
 edge-004.usuqo4.icloud-content.com
 edge-004.usuyk1.icloud-content.com
 edge-005.deber3.icloud-content.com
@@ -639,6 +640,7 @@ edge-051.dkvib11.icloud-content.com
 edge-052.dkvib11.icloud-content.com
 edge-052.gbmnc1.icloud-content.com
 edge-052.uschi7.icloud-content.com
+edge-052.usqas5.icloud-content.com
 edge-053.deber3.icloud-content.com
 edge-053.dkvib11.icloud-content.com
 edge-053.nlhfd1.icloud-content.com
@@ -1395,7 +1397,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl-96.ls.apple.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
@@ -1513,7 +1514,6 @@ iwork-events.apple.com
 journal-events.infoapps.apple.com
 js-cdn.music.apple.com
 js-cdn-music-lb.itunes-apple.com.akadns.net
-js-cdn-music-lb-itunes-apple-com.v.aaplimg.com
 keyvalueservice.icloud.com
 km.support.apple.com
 known-issues.apple.com
@@ -2148,6 +2148,7 @@ stocks-data-service-row.lb-apple.com.akadns.net
 stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
+stocks-sparkline.apple.com.edgekey.net
 store-030.blobstore.apple.com
 store-030-lb.blobstore-apple.com.akadns.net
 store-033.blobstore.apple.com
@@ -2171,7 +2172,6 @@ support.apple.com
 support.apple.com.edgekey.net
 support.apple.com.edgesuite.net
 support-china.apple-support.akadns.net
-support-china-row.apple-support.akadns.net
 support-icloud-apple.com
 support-lb-row.apple-support.akadns.net
 supportmetrics.apple.com
@@ -2302,8 +2302,6 @@ www-apple-com-cn.v.aaplimg.com
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
-www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.ibook.info
