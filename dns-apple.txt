@@ -1406,7 +1406,6 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
-gspe79-cdn.g.aaplimg.com
 gspe79-ssl-96.ls.apple.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
@@ -1602,6 +1601,7 @@ news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
+news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -2185,6 +2185,7 @@ support.apple.com
 support.apple.com.edgekey.net
 support.apple.com.edgesuite.net
 support-china.apple-support.akadns.net
+support-china-row.apple-support.akadns.net
 support-icloud-apple.com
 support-lb-row.apple-support.akadns.net
 supportmetrics.apple.com
@@ -2197,7 +2198,6 @@ swcdn.apple.com.edgesuite.net
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
-swdist.g.aaplimg.com
 swift.lb-apple.com.akadns.net
 swscan.apple.com
 swscan-cdn.apple.com.akadns.net
