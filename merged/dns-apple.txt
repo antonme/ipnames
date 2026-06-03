@@ -5158,6 +5158,7 @@ edge-238.hkhkg.icloud-content.com
 edge-238.jposa3.icloud-content.com
 edge-238.sesto4.icloud-content.com
 edge-238.usdal2.icloud-content.com
+edge-238.usqas5.icloud-content.com
 edge-238.zamrd1.icloud-content.com
 edge-239.deber3.icloud-content.com
 edge-239.sesto4.icloud-content.com
@@ -9064,9 +9065,11 @@ init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
 init.gc.apple.com
+init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
 init.gc.apple.com.edgesuite.net
 init.gc-lb.apple.com.akadns.net
+init.gc-lb-row.apple.com.akadns.net
 init.itunes.apple.com
 init-kt.apple.com
 init-kt.apple.com.edgekey.net
@@ -25188,6 +25191,7 @@ stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
 stocks-data-service-row.lb-apple.com.akadns.net
+stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline.apple.com.edgekey.net
@@ -25341,6 +25345,7 @@ supportform.apple.com
 support-gs.apple.com
 support-icloud-apple.com
 support.info.apple.com
+support-lb-row.apple-support.akadns.net
 support-lnx.apple.com
 supportmessaging.apple.com
 supportmetrics.apple.com
