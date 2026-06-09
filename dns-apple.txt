@@ -152,7 +152,6 @@ appleid.apple.com
 appleid.cdn-apple.com
 appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.edgekey.net
-appleid-cdn-apple-com.v.aaplimg.com
 appleid.idms-apple.com.akadns.net
 apple-mapkit.com
 applepay.cdn-apple.com
@@ -183,6 +182,7 @@ asa.commerce.apple.com
 asa.commerce.apple.com.edgesuite.net
 assets-mercury.mzstatic.com
 associate.itunes.apple.com
+atlc.apple.com.edgesuite.net
 attester.gateway.icloud.com
 atve.tv.apple.com
 audiocontentdownload.apple.com
@@ -372,6 +372,8 @@ developer.apple.com.akamaized.net
 device-config.pcms.apple.com
 devimages-cdn.apple.com
 devimages-cdn.origin-apple.com.akadns.net
+devstreaming-cdn.apple.com
+devstreaming-cdn.origin-apple.com.akadns.net
 diatryma.apple.com
 digital-assets-edge.infoapps.apple.com
 digital-assets-search.infoapps.apple.com
@@ -1289,6 +1291,7 @@ eu-nw-courier-4.push-apple.com.akadns.net
 euro.apple.com
 europe-apple.com-idsign.in
 events-delivery.apple.com
+events-live.apple.com
 experiments.apple.com
 experiments.apple.com.edgekey.net
 facetime.apple.com
@@ -1391,6 +1394,7 @@ gspe19-geo-selector.ls2-apple.com.akadns.net
 gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
+gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -1465,7 +1469,6 @@ init-cdn.itunes-apple.com.akadns.net
 init-cdn-lb.ess-apple.com.akadns.net
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -1522,6 +1525,7 @@ itunes-cdn.itunes-apple.com.akadns.net
 itunes.com
 itunesconnect.apple.com
 itunesconnect.apple.com.edgekey.net
+itunesevents.apple.com
 itunes-nocookie.com
 itunespartner.apple.com
 iwork-events.apple.com
@@ -2320,7 +2324,6 @@ www.apple.com
 www.apple.com.cn
 www.apple.com.cn.edgekey.net
 www.apple.com.cn.edgekey.net.globalredir.akadns.net
-www-apple-com-cn.v.aaplimg.com
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
