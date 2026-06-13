@@ -11154,6 +11154,7 @@ gspe35-ssl.ls.apple.com.edgekey.net
 gspe72-ssl.ls.apple.com.akamaized.net
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
+gspe79-cdn.g.aaplimg.com
 gspe79-ssl-96.ls.apple.com
 gspe79-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com.edgesuite.net
@@ -12817,7 +12818,6 @@ o5ri.googleapis.com
 o5vj.adobeaemcloud.com
 o731.withgoogle.com
 o8pd.adobeaemcloud.com
-oaistatic.com
 oalm.googleapis.com
 oauth2.googleapis.com
 oauthaccountmanager.googleapis.com
@@ -14397,6 +14397,12 @@ pod-031-2038-08.backblaze.com
 pod-031-2038-09.backblaze.com
 pod-031-2038-10.backblaze.com
 pod-031-2038-11.backblaze.com
+pod-031-2039-00.backblaze.com
+pod-031-2039-04.backblaze.com
+pod-031-2039-05.backblaze.com
+pod-031-2039-07.backblaze.com
+pod-031-2039-08.backblaze.com
+pod-031-2039-10.backblaze.com
 pod-031-2040-00.backblaze.com
 pod-031-2040-01.backblaze.com
 pod-031-2040-02.backblaze.com
@@ -18622,6 +18628,7 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
+stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline.apple.com.edgekey.net
@@ -19466,7 +19473,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
@@ -19618,7 +19624,6 @@ www-apple-com-cn.v.aaplimg.com
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
-www-apple-com.v.aaplimg.com
 www.as.adobeaemcloud.com
 www.backblaze.com
 www-backblaze-com.webpkgcache.com
