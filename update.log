@@ -99116,3 +99116,11 @@ s
 ===anthropic
 
 == Save names archive
+[master c2e3346c] auto-update names
+ 5 files changed, 54 insertions(+), 6 deletions(-)
+
+== Resolving names to ipv6
+Sat Jun 13 06:27:47 AM MSK 2026                dns-adobe.txt  >ipv6-resolve-adobe.txt
+Sat Jun 13 07:36:18 AM MSK 2026                dns-anthropic.txt  >ipv6-resolve-anthropic.txt
+Sat Jun 13 07:38:57 AM MSK 2026                dns-apple.txt  >ipv6-resolve-apple.txt
+Sat Jun 13 09:57:04 AM MSK 2026                dns-backblaze.txt  >ipv6-resolve-backblaze.txt
