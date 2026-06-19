@@ -9,6 +9,7 @@ api-inference.huggingface.co
 api-inference-staging.huggingface.co
 api-staging.autonlp.huggingface.co
 api-staging.autotrain.huggingface.co
+api.support.endpoints.huggingface.co
 autonlp.huggingface.co
 autotrain.huggingface.co
 banana.huggingface.co
@@ -24,6 +25,7 @@ cdn-lfs.huggingface.co
 cdn-lfs-us-1.hf.co
 cdn-lfs-us-1.huggingface.co
 cdn-media.huggingface.co
+cdn-test.huggingface.co
 cdn-thumbnails.huggingface.co
 cdn-uploads.huggingface.co
 collaborative-training-auth.huggingface.co
@@ -39,6 +41,7 @@ discuss.bigscience.huggingface.co
 discuss.huggingface.co
 elasticsearch.huggingface.co
 endpoints.huggingface.co
+eu.cdn-test.huggingface.co
 eu-west-1.aws.endpoints.huggingface.co
 games.huggingface.co
 grafana.huggingface.co
@@ -66,6 +69,7 @@ metrics.autonlp.huggingface.co
 metrics.autotrain.huggingface.co
 metrics-staging.autonlp.huggingface.co
 metrics-staging.autotrain.huggingface.co
+microsoft.huggingface.co
 mongoku.huggingface.co
 moon-ci-docs.huggingface.co
 moon-preprod.huggingface.co
@@ -76,8 +80,10 @@ neuralconvo-ec2.huggingface.co
 neuralconvo.huggingface.co
 personas.huggingface.co
 pickaxe.huggingface.co
+platform.huggingface.co
 preload.tensorboard.huggingface.co
 registry.dell.huggingface.co
+remote-text-encoder-flux-2.huggingface.co
 router.huggingface.co
 spaces.huggingface.co
 staging.api.huggingface.co
@@ -86,11 +92,14 @@ staging.huggingface.co
 status.huggingface.co
 store.huggingface.co
 stork.staging.api.huggingface.co
+support.endpoints.huggingface.co
 sweet.huggingface.co
 tensorboard.huggingface.co
 test-adrien.api-inference.huggingface.co
 thumbnails.huggingface.co
 transformer.huggingface.co
+transformers-ci.huggingface.co
+transformers-ci-traces.huggingface.co
 transformers.huggingface.co
 truebill.status.api-inference.huggingface.co
 ui.autonlp.huggingface.co
@@ -100,6 +109,7 @@ ui-staging.autonlp.huggingface.co
 ui-staging.autotrain.huggingface.co
 uploads.huggingface.co
 uploads-staging.huggingface.co
+us.cdn-test.huggingface.co
 us-east-1.aws.endpoints.huggingface.co
 vqbjqfz3ldd42z6qff3t2h5cr62c5rok._domainkey.huggingface.co
 webchat.huggingface.co
