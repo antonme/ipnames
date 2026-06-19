@@ -39,6 +39,64 @@ echo "==Antifilter.Download names"
 curl https://community.antifilter.download/list/domains.lst >> cache-antifilter.txt
 
 echo
+echo "==Certificate Transparency names (crt.sh)"
+# Apex domains covering every service handled by the filters below. crt.sh
+# returns all subdomains ever certified for each apex; the per-service
+# filter_names regexes then sort them into the right dns-*.txt buckets.
+# Keep this list in sync with those regexes: add a service's domains in both.
+set -l crtsh_apexes \
+	google.com googlevideo.com youtube.com ytimg.com \
+	facebook.com instagram.com fbcdn.net \
+	tiktok.com tiktokv.com tiktokcdn.com bytedance.com \
+	openai.com chatgpt.com oaiusercontent.com \
+	bing.com microsoft.com \
+	twitter.com x.com twimg.com \
+	ozon.ru \
+	github.com githubusercontent.com \
+	apple.com icloud.com mzstatic.com cdn-apple.com \
+	adobe.com behance.net photoshop.com typekit.net frame.io \
+	pornhub.com phncdn.com \
+	backblaze.com \
+	huggingface.co \
+	anthropic.com claude.ai
+
+# Accumulate into a temp file and only replace cache-ct.txt if we actually got
+# names, so a crt.sh outage doesn't wipe the previous run's contribution.
+# Rebuilt fresh (not appended) so the list tracks currently-valid certs only.
+set -l ctnew (mktemp)
+for apex in $crtsh_apexes
+	set -l tmp (mktemp)
+	if curl -f -s --compressed -A "ipnames-crtsh/1.0" \
+			--max-time 90 --retry 2 --retry-delay 5 \
+			"https://crt.sh/?q=%25.$apex&exclude=expired&output=json" -o $tmp
+		# crt.sh serves an HTML error page on overload; only parse real JSON.
+		if jq -e 'type == "array"' $tmp >/dev/null 2>&1
+			# name_value may hold several newline-separated names; common_name
+			# may be null (select drops it). Final dedup happens once below.
+			jq -r '.[] | .name_value, .common_name | select(. != null)' $tmp 2>/dev/null \
+				| tr '[:upper:]' '[:lower:]' \
+				| sed 's/^\*\.//' \
+				| rg -v '[ @*]' \
+				| rg '\.' >> $ctnew
+			echo "  $apex: ok"
+		else
+			echo "  $apex: skipped (no JSON)"
+		end
+	else
+		echo "  $apex: fetch failed"
+	end
+	rm -f $tmp
+	sleep 2
+end
+if test -s $ctnew
+	sort -u $ctnew -o cache-ct.txt
+	echo "  total CT names:" (wc -l < cache-ct.txt)
+else
+	echo "  crt.sh produced nothing; keeping previous cache-ct.txt"
+end
+rm -f $ctnew
+
+echo
 echo "==Extracting names"
 
 filter_names 'google\.com|\.google\.$|googlesyndication|googleapis\.com|gstatic\.com|googleusercontent\.com' 'google' 'yt|you|googlevideo|video|telegram.me\$'
