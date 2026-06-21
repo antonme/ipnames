@@ -893,6 +893,7 @@ cdn.carnival-uk-dev.test.ajo.adobe.com
 cdn.certificate.test.ajo.adobe.com
 cdn.cip.test.ajo.adobe.com
 cdn.cp.adobe.io
+cdn.e2eche2.test.ajo.adobe.com
 cdn.e2e.mail.test.ajo.adobe.com
 cdn.e2eprod.repackageaus5.test.ajo.adobe.com
 cdn.e2eprod.repackagecan2.test.ajo.adobe.com
@@ -1061,6 +1062,8 @@ commercedeveloper-sandbox-static.adobe.com
 commercedeveloper-static.adobe.com
 commerce-stg.adobe.com
 committeeadmin.adobeaemcloud.com
+communication.github.com
+communication.github.com.cname.campaign.adobe.com
 communities.adobe.com
 community.adobe.com
 community-dev.experienceleague.adobe.com
@@ -1819,6 +1822,7 @@ firefly-client-service-prod-va6.adobe.io
 firefly-clio-imaging.adobe.io
 firefly-cliov2.adobe.io
 firefly-data-catalog.corp.adobe.com
+firefly.growth.adobe.com
 firefly.growth-preprod.adobe.com
 firefly-md.adobe.io
 firefly-ps.adobe.io
@@ -1961,6 +1965,7 @@ glucosidase.adobeaemcloud.net
 gm.corp.adobe.com
 gme.corp.adobe.com
 gmii-onyx.corp.adobe.com
+gnexus.corp.adobe.com
 goc-knowledge.corp.adobe.com
 godzilla-api.corp.adobe.com
 go-lambda-at-edge.sandbox.frame.io
@@ -1983,6 +1988,7 @@ grni.adobeaemcloud.com
 grossed.adobeaemcloud.net
 groupshare-stg.corp.adobe.com
 growth.corp.adobe.com
+growthnexus.corp.adobe.com
 gr-prd-test.corp.adobe.com
 grtes1t1.corp.adobe.com
 gsdtriage-usp.corp.adobe.com
@@ -2779,6 +2785,7 @@ next.developer.frame.io
 next.dev.frame.io
 next.frame.io
 next.staging.frame.io
+nexus.corp.adobe.com
 NfQPhfoQKgPS.adobe.com
 nge.corp.adobe.com
 nil9.adobeaemcloud.com
@@ -2809,6 +2816,7 @@ no1010042044058.corp.adobe.com
 no1010042044069.corp.adobe.com
 no1010042044083.corp.adobe.com
 no1010042044140.corp.adobe.com
+no1010042064092.corp.adobe.com
 no1010042064155.corp.adobe.com
 no1010042064204.corp.adobe.com
 no1010042067086.corp.adobe.com
@@ -3781,8 +3789,10 @@ p.typekit.net
 p.typekit.net-stls-v3.edgesuite.net
 pubcerts-stage.licenses.adobe.com
 publisher.addons-dev.adobe.com
+publisher.addons-stage.adobe.com
 pulpless.adobeaemcloud.com
 pulsar.adobe.com
+pulsar-na1r-stg1.services.adobe.com
 pulse.ccx.adobe.com
 pulseinsight.corp.adobe.com
 pUlVpnNUmURM.adobelogin.com
@@ -3797,6 +3807,10 @@ q0jo16uy1r.data.adobedc.net
 q0yb.adobeaemcloud.com
 q5o8.adobeaemcloud.com
 q6xg.adobeaemcloud.com
+qa01.corp.adobe.com
+qa01.exchange.adobe.com
+qa02.corp.adobe.com
+qa02.exchange.adobe.com
 qa-az.fusion.adobe.com
 qa.campaign.adobe.com
 qa.ccos.adobe.com
@@ -3925,6 +3939,8 @@ runscope.corp.adobe.com
 rushinfo.adobe.com
 rx7p.adobeaemcloud.com
 rynf.adobeaemcloud.net
+s2s.addons-dev.adobe.com
+s2s.addons-stage.adobe.com
 s2.spectrum.adobe.com
 s2.spectrum.corp.adobe.com
 s3.arcade-edge-next.sandbox.frame.io
@@ -4206,6 +4222,8 @@ showmethemoney.corp.adobe.com
 shuoqie.adobeaemcloud.net
 sia-stage.corp.adobe.com
 siegert.adobeaemcloud.net
+sign.addons-dev.adobe.com
+sign.addons-stage.adobe.com
 signal-ops.cloud-automation.corp.adobe.com
 sign.corp.adobe.com
 signcsa.experienceleague.adobe.com
@@ -4378,6 +4396,8 @@ slate.qa.corp.adobe.com
 slate-stage.corp.adobe.com
 slate.stage.corp.adobe.com
 slbw.*.dev.adobeaemcloud.com
+sln.addons-dev.adobe.com
+sln.addons-stage.adobe.com
 slp-statics.astockcdn.net
 sm-api.corp.adobe.com
 sm-api-dev.corp.adobe.com
@@ -4865,6 +4885,8 @@ utut-service-api.adobe.com.edgekey.net
 uw2010216124233.corp.adobe.com
 uw2010216124235.corp.adobe.com
 uw2010216124238.corp.adobe.com
+uxp.addons-dev.adobe.com
+uxp.addons-stage.adobe.com
 v120gszvrs.data.adobedc.net
 va10-bpnfw01.corp.adobe.com
 va10-bpnfw02.corp.adobe.com
@@ -5115,6 +5137,8 @@ www.stage2.adobe.com
 www.stage.adobe.com
 www.tia.corp.adobe.com
 wxf.adobeaemcloud.com
+wxp.addons-dev.adobe.com
+wxp.addons-stage.adobe.com
 wylh.adobeaemcloud.net
 wz-.adobeaemcloud.net
 wzbh.adobeaemcloud.com
@@ -5189,3 +5213,5 @@ zoumi.adobeaemcloud.com
 zsh7.adobeaemcloud.net
 zucaizhinengtouzhuruanjian.adobeaemcloud.net
 zugf.adobeaemcloud.net
+zxp.addons-dev.adobe.com
+zxp.addons-stage.adobe.com
