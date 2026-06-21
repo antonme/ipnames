@@ -1351,6 +1351,9 @@ authorization.comshell-cdn.marketing.adobe.com
 authorizedin1.is1.documentsawspreview.adobe.com
 author-logitech-prod-65b.adobecqms.net
 author.marketing.adobe.com
+author-p133643-e1313538.adobeaemcloud.com
+author-p133643-e1313555.adobeaemcloud.com
+author-p133643-e1313602.adobeaemcloud.com
 author-p27556-e127669.adobeaemcloud.com
 author-p43716-e187862.adobeaemcloud.com
 author-qa-a.gtp.adobe.com
@@ -2410,6 +2413,7 @@ cdn-contentviewer.adobe.com
 cdn.cp.adobe.io
 cdn-cuali-na3.vi.documentsawspreview.adobe.com
 cdn.customer-success-apac.adobe.com
+cdn.e2eche2.test.ajo.adobe.com
 cdn.e2e.mail.test.ajo.adobe.com
 cdn.e2eprod.repackageaus5.test.ajo.adobe.com
 cdn.e2eprod.repackagecan2.test.ajo.adobe.com
@@ -2894,6 +2898,8 @@ commsemeastage1.marketing.adobe.com
 comms.thesun.co.uk.cname.campaign.adobe.com
 comms.thetimes.co.uk.cname.campaign.adobe.com
 comms.wireless.radio.cname.campaign.adobe.com
+communication.github.com
+communication.github.com.cname.campaign.adobe.com
 communications.cdq-api.documents.adobe.com
 communications-exchange.documents.adobe.com
 communications.lombard.co.uk.cname.campaign.adobe.com
@@ -4840,6 +4846,7 @@ firefly-data-catalog.corp.adobe.com
 firefly-dev-asml.corp.adobe.com
 firefly-dev-colligo.corp.adobe.com
 firefly-dev.corp.adobe.com
+firefly.growth.adobe.com
 firefly.growth-preprod.adobe.com
 firefly-md.adobe.io
 firefly-path.documents.adobe.com
@@ -5208,6 +5215,7 @@ gmon-sso-sj.corp.adobe.com
 gmreward.gm.com.cname.campaign.adobe.com
 gmsafety.gm.com.cname.campaign.adobe.com
 gmsafinancialservices.co.za.cname.campaign.experiencecloud.adobe.com
+gnexus.corp.adobe.com
 go.adobe.com
 gob-zorgvoormijnkind.na1.documents.adobe.com
 goc-itsupport.corp.adobe.com
@@ -5283,6 +5291,7 @@ groups.adobe.com
 groupshare.corp.adobe.com
 groupshare-stg.corp.adobe.com
 growth.corp.adobe.com
+growthnexus.corp.adobe.com
 gr-prd-test.corp.adobe.com
 grtes1t1.corp.adobe.com
 grtest.corp.adobe.com
@@ -8154,6 +8163,7 @@ next.frame.io
 nextmovearts.myportfolio.com
 next.staging.frame.io
 nexttrucking.na2.documents.adobe.com
+nexus.corp.adobe.com
 nfm-mkt-prod2-1.campaign.adobe.com
 NfQPhfoQKgPS.adobe.com
 nge.corp.adobe.com
@@ -8242,6 +8252,7 @@ no1010042044069.corp.adobe.com
 no1010042044072.corp.adobe.com
 no1010042044083.corp.adobe.com
 no1010042044140.corp.adobe.com
+no1010042064092.corp.adobe.com
 no1010042064155.corp.adobe.com
 no1010042064204.corp.adobe.com
 no1010042065226.corp.adobe.com
@@ -10495,6 +10506,7 @@ public-v2links-stage.adobecc.map.fastly.net
 publish-209.experiencecloud.adobe.com
 publish.adobe.com
 publisher.addons-dev.adobe.com
+publisher.addons-stage.adobe.com
 publishing-catalog-admins.documents.adobe.com
 publishing-catalog.captivateprime.adobe.com
 publishing-catalog.marketing.adobe.com
@@ -10534,7 +10546,9 @@ q0jo16uy1r.data.adobedc.net
 q0yb.adobeaemcloud.com
 q5o8.adobeaemcloud.com
 q6xg.adobeaemcloud.com
+qa01.corp.adobe.com
 qa01.exchange.adobe.com
+qa02.corp.adobe.com
 qa02.corp.marketing.adobe.com
 qa02.exchange.adobe.com
 qa.amc.adobe.com
@@ -11340,6 +11354,8 @@ rynf.adobeaemcloud.net
 s-0559ac5df60bcbc0036cd5bea.c00.adobe.com
 s10g.adobe.com
 s1.aedash.adobe.com
+s2s.addons-dev.adobe.com
+s2s.addons-stage.adobe.com
 s2.spectrum.adobe.com
 s2.spectrum.corp.adobe.com
 s3.arcade-edge-next.sandbox.frame.io
@@ -11951,6 +11967,8 @@ shutterfly.experiencecloud.adobe.com
 sia-stage.corp.adobe.com
 sidc.groups.adobe.com
 siegert.adobeaemcloud.net
+sign.addons-dev.adobe.com
+sign.addons-stage.adobe.com
 sign.adobe.com
 signal-ops.cloud-automation.corp.adobe.com
 sign.corp.adobe.com
@@ -12397,6 +12415,8 @@ slickdeals-mkt-prod1-m.campaign.adobe.com
 slickdeals-mkt-prod1-res.campaign.adobe.com
 slidebuilder.corp.adobe.com
 slidebuilder-qa.corp.adobe.com
+sln.addons-dev.adobe.com
+sln.addons-stage.adobe.com
 slp-statics.astockcdn.net
 sl-uat-ipaas.corp.adobe.com
 sl-uat-ipaasrt.corp.adobe.com
@@ -14186,6 +14206,8 @@ uw2-kevinsmith.marketing.adobe.com
 uw2.ks-invoice-api.experiencecloud.adobe.com
 uw2-shop.marketing.adobe.com
 uwedressler.myportfolio.com
+uxp.addons-dev.adobe.com
+uxp.addons-stage.adobe.com
 uxp.ccps.corp.adobe.com
 uxp.corp.adobe.com
 v120gszvrs.data.adobedc.net
@@ -14891,6 +14913,8 @@ www.wip4.adobe.com
 www.wrap-stg.corp.adobe.com
 wwwww.youthvoices.adobe.com
 wxf.adobeaemcloud.com
+wxp.addons-dev.adobe.com
+wxp.addons-stage.adobe.com
 wylh.adobeaemcloud.net
 wz-.adobeaemcloud.net
 wzbh.adobeaemcloud.com
@@ -15038,5 +15062,7 @@ ztljotljogutn2fmys00odazlwjlnzuty2i0zmexntfindfm.frl-offline.adobe.com
 ztyyngi2njatoty4zc00njdjltk3mtmtmde5mdrjy2nhytg1.frl-offline.adobe.com
 zucaizhinengtouzhuruanjian.adobeaemcloud.net
 zugf.adobeaemcloud.net
+zxp.addons-dev.adobe.com
+zxp.addons-stage.adobe.com
 zygzak.myportfolio.com
 zzzzz.cm-verify.adobe.com
