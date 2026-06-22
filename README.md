@@ -23,7 +23,7 @@ Sites/platforms included: Adobe, Apple, Backblaze, Bing, Facebook, GitHub, Googl
 
 ## Methodology
 
-1. Service FDQNs are collected from available DNS logs and popular site/FDQN lists
+1. Service FDQNs are collected from available DNS logs, popular site/FDQN lists, and Certificate Transparency logs (all subdomains ever certified for each service)
 2. FQDN lists are filtered and updated daily
 3. FQDNs are resolved daily to IPv4 and IPv6 addresses using multiple DNS servers across regions
 4. DNS servers include Google, Cloudflare, AdGuard, Comodo, and my personal custom servers (full list in `servers.txt` and 'servers-ext.txt')
@@ -31,12 +31,20 @@ Sites/platforms included: Adobe, Apple, Backblaze, Bing, Facebook, GitHub, Googl
 
 ## External Sources
 
+Subdomain / FQDN discovery:
+
+- [Certificate Transparency logs (crt.sh)](https://crt.sh/) — all subdomains ever certified for each tracked service
 - [Cloudflare Radar](https://radar.cloudflare.com/)
 - [Cisco Umbrella](https://umbrella-static.s3-us-west-1.amazonaws.com/index.html)
 - [DomCop's Top 10 Million Domains](https://www.domcop.com/top-10-million-websites)
 - [The Majestic Million](https://majestic.com/reports/majestic-million)
 - [OpenINTEL](https://www.openintel.nl/)
 - [WhoisXMLAPI](https://subdomains.whoisxmlapi.com/api)
+
+Live feeds fetched on each run:
+
+- [Surfshark server clusters API](https://api.surfshark.com/v4/server/clusters) — VPN host names
+- [Antifilter.Download](https://community.antifilter.download/list/domains.lst) — domain list
 
 ## Sister repos
 Here's list of another data I use for my router configs:
