@@ -100162,3 +100162,9 @@ Sun Jun 21 12:01:07 PM MSK 2026                dns-tunnelbear.txt  >ipv6-resolve
 Sun Jun 21 12:14:59 PM MSK 2026                dns-twitter.txt  >ipv6-resolve-twitter.txt
 Sun Jun 21 01:12:59 PM MSK 2026                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
 Sun Jun 21 01:13:06 PM MSK 2026                dns-youtube.txt  >ipv6-resolve-youtube.txt
+[master 353afdf8] auto-update ipv6
+ 7 files changed, 8771 insertions(+), 5511 deletions(-)
+Sun Jun 21 09:35:25 PM MSK 2026                dns-backblaze.txt  >resolve-backblaze.txt
+Sun Jun 21 10:22:54 PM MSK 2026                dns-bing.txt  >resolve-bing.txt
+Sun Jun 21 10:28:57 PM MSK 2026                dns-expressvpn.txt  >resolve-expressvpn.txt
+Sun Jun 21 10:37:25 PM MSK 2026                dns-facebook.txt  >resolve-facebook.txt
