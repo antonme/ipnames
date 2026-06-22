@@ -1,7 +1,7 @@
 # Popular Sites/Platforms FQDNs and Resolved IPs
 This repo contains daily updated list of FQDNs and resolved IPs of some popular sites/platforms. Made for my personal needs in routing of some VPNs in my router to fight censure and balkanization of the Internet a little.
 
-Sites/platforms included: Adobe, Apple, Backblaze, Bing, Facebook, GitHub, Google, NordVPN, OpenAI, Ozon, Pornhub, TikTok, Twitter, YouTube
+Sites/platforms included: Adobe, Anthropic/Claude, Apple, Backblaze, Bing, Facebook/Instagram, GitHub, Google, HuggingFace, OpenAI/ChatGPT, Ozon, Pornhub, TikTok, Twitter/X, YouTube, and VPN provider hosts (ExpressVPN, Surfshark, TunnelBear)
 
 ## Repository Structure
 
