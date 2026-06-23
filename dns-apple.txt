@@ -1065,6 +1065,7 @@ configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry.ls.apple.com
+configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -2610,7 +2611,6 @@ gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
 gspe76-staging.ls.apple.com
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-ssl-96.ls.apple.com
 gspe79-ssl.ls.apple.com
@@ -9296,6 +9296,7 @@ sportskit-api.cdn-apple.com
 sps-media-anon.itunes.apple.com
 sps-media.apple.com
 sps-media.aweun1.sbz.apple.com
+sps-media.v.aaplimg.com
 sq-carrier.apple.com
 sq-carrier-cn.apple.com
 sq-carrier-stage.apple.com
@@ -9478,6 +9479,7 @@ support.apple.com
 support.apple.com.edgekey.net
 support.apple.com.edgesuite.net
 support-china.apple-support.akadns.net
+support-china-row.apple-support.akadns.net
 support-gs.apple.com
 support-icloud-apple.com
 support-lb-row.apple-support.akadns.net
@@ -9497,6 +9499,7 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
+swdist.g.aaplimg.com
 swdlp-static.apple.com
 swdownload.apple.com
 swift.lb-apple.com.akadns.net
@@ -9945,7 +9948,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 webcourier.push.apple.com
 webcourier.push-apple.com.akadns.net
 webcourier-vs.push-apple.com.akadns.net
