@@ -2906,6 +2906,7 @@ commsemeastage1.marketing.adobe.com
 comms.thesun.co.uk.cname.campaign.adobe.com
 comms.thetimes.co.uk.cname.campaign.adobe.com
 comms.wireless.radio.cname.campaign.adobe.com
+communication.github.com
 communication.github.com.cname.campaign.adobe.com
 communications.cdq-api.documents.adobe.com
 communications-exchange.documents.adobe.com
@@ -4578,6 +4579,7 @@ eu.vendor-api.marketing.adobe.com
 euwap.experiencecloud.adobe.com
 euwapi.captivateprime.adobe.com
 eu-west-1.dev.frame.io
+eu-west-1.dev.sharedservices.frame.io
 eu-west-1.edge.arcade.dev.frame.io
 eu-west-1.edge.arcade.frame.io
 eu-west-1.edge.arcade.staging.frame.io
@@ -7323,6 +7325,8 @@ mcisqe2.marketing.adobe.com
 m.commsmail.rics.org.cname.campaign.adobe.com
 m.comms.talksport.com.cname.campaign.adobe.com
 m.comms.thetimes.co.uk.cname.campaign.adobe.com
+m.communication.github.com
+m.communication.github.com.cname.campaign.adobe.com
 m.communications.aisinsurance.com.cname.campaign.adobe.com
 m.communications.canadapost-postescanada.ca.cname.campaign.adobe.com
 m.communications.raven.adobe.com
@@ -7801,6 +7805,9 @@ msavlab.adobe.com
 msb.sap-rd5ci.corp.adobe.com
 mscentral-cqmsqe.corp.adobe.com
 mscom-mkt-prod113-4.campaign.adobe.com
+mscom-mkt-prod22-lb.campaign.adobe.com
+mscom-mkt-prod22-m.adobe-campaign.com
+mscom-mkt-prod22-t.adobe-campaign.com
 mscom-mkt-prod3-lb.campaign.adobe.com
 mscom-mkt-prod78-lb.campaign.adobe.com
 mscom-mkt-prod79-lb.campaign.adobe.com
@@ -10839,10 +10846,14 @@ renault-mid-prod2-cus.campaign.adobe.com
 reneebrowncheng.myportfolio.com
 renew-aa-emea.an.adobe.com
 renew-aa-prod-aus.an.adobe.com
+renew-aa-stage-acc.an.adobe.com
 renew-aa-stage.an.adobe.com
 renewangi.cm-verify.adobe.com
 renew-cja-amer.an.adobe.com
+renew-cja-prod-can.an.adobe.com
 renew-cja-prod-che.an.adobe.com
+renew-cja-prod-ind.an.adobe.com
+renew-cja-prod-nld.an.adobe.com
 renew-cja-stage-aec.an.adobe.com
 renew-cja-stage.an.adobe.com
 renewtest1.cm-verify.adobe.com
@@ -11026,6 +11037,8 @@ res.comms.dreamteamfc.com.cname.campaign.solutions.adobe.com
 res.commsmail.rics.org.cname.campaign.adobe.com
 res.comms.talksport.com.cname.campaign.adobe.com
 res.comms.thesun.co.uk.cname.campaign.adobe.com
+res.communication.github.com
+res.communication.github.com.cname.campaign.adobe.com
 res.communication.ipsen.info.cname.campaign.adobe.com
 res.communications.raven.adobe.com
 res.communications.tylbynatwest.com.cname.campaign.adobe.com
@@ -13359,6 +13372,8 @@ tcg4.adobeaemcloud.com
 t-cim-data-quality-qa.marketing.adobe.com
 t.comms.dreamteamfc.com.cname.campaign.adobe.com
 t.commsmail.rics.org.cname.campaign.adobe.com
+t.communication.github.com
+t.communication.github.com.cname.campaign.adobe.com
 t.communication.ipsen.info.cname.campaign.adobe.com
 t.communications.lombard.co.uk.cname.campaign.adobe.com
 t.communications.raven.adobe.com
@@ -14128,10 +14143,17 @@ unravelprod.corp.adobe.com
 unstuckquiz.businesscatalyst.com
 unsubscribe-aa-amer.an.adobe.com
 unsubscribe-aa-emea.an.adobe.com
+unsubscribe-aa-stage-acc.an.adobe.com
 unsubscribe-amer.an.adobe.com
 unsubscribe-cja-apac.an.adobe.com
 unsubscribe-cja-emea.an.adobe.com
+unsubscribe-cja-prod-acc.an.adobe.com
+unsubscribe-cja-prod-aus.an.adobe.com
+unsubscribe-cja-prod-can.an.adobe.com
 unsubscribe-cja-prod-che.an.adobe.com
+unsubscribe-cja-prod-gbr.an.adobe.com
+unsubscribe-cja-prod-ind.an.adobe.com
+unsubscribe-cja-prod-nld.an.adobe.com
 unsubscribe-cja-stage-aec.an.adobe.com
 unsubscribe-cja-stage.an.adobe.com
 unsubscribe-cja-stage-va6.an.adobe.com
