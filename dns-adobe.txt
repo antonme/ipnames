@@ -1725,6 +1725,7 @@ europa.adobe.com
 europa.corp.adobe.com
 eu.staging.frame.io
 eu-west-1.dev.frame.io
+eu-west-1.dev.sharedservices.frame.io
 eu-west-1.edge.arcade.dev.frame.io
 eu-west-1.edge.arcade.frame.io
 eu-west-1.edge.arcade.staging.frame.io
@@ -3935,7 +3936,11 @@ rels.identity.adobe.com
 rels-or2.identity.adobe.com
 rels-va6.identity.adobe.com
 renew-aa-prod-aus.an.adobe.com
+renew-aa-stage-acc.an.adobe.com
+renew-cja-prod-can.an.adobe.com
 renew-cja-prod-che.an.adobe.com
+renew-cja-prod-ind.an.adobe.com
+renew-cja-prod-nld.an.adobe.com
 renew-cja-stage-aec.an.adobe.com
 renga.corp.adobe.com
 renovate.corp.adobe.com
@@ -4895,7 +4900,14 @@ ultimate.corp.adobe.com
 umber-brown.adobeaemcloud.com
 unity.adobe.com
 universalstudios.corp.adobe.com
+unsubscribe-aa-stage-acc.an.adobe.com
+unsubscribe-cja-prod-acc.an.adobe.com
+unsubscribe-cja-prod-aus.an.adobe.com
+unsubscribe-cja-prod-can.an.adobe.com
 unsubscribe-cja-prod-che.an.adobe.com
+unsubscribe-cja-prod-gbr.an.adobe.com
+unsubscribe-cja-prod-ind.an.adobe.com
+unsubscribe-cja-prod-nld.an.adobe.com
 unsubscribe-cja-stage-aec.an.adobe.com
 unsubscribe-cja-stage-va6.an.adobe.com
 unsufficing.adobeaemcloud.net
