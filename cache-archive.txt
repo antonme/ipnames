@@ -7774,10 +7774,10 @@ configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
+configuration.v.aaplimg.com
 confy-github-app.identity.adobe.com
 confy-github-app.identity-stage.adobe.com
 confy.identity.adobe.com
@@ -15798,7 +15798,6 @@ gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
 gspe76-staging.ls.apple.com
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-ssl-96.ls.apple.com
 gspe79-ssl.ls.apple.com
@@ -32685,6 +32684,7 @@ support.apple.com.edgesuite.net
 support-automation.openai.com
 support-automation.openai.com.cdn.cloudflare.net
 support-china.apple-support.akadns.net
+support-china-row.apple-support.akadns.net
 support.endpoints.huggingface.co
 support.enterprise.github.com
 support.github.com
@@ -34349,7 +34349,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
