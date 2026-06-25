@@ -100878,3 +100878,9 @@ Thu Jun 25 10:53:21 AM MSK 2026                ext-dns-youtube.txt  >ipv6-ext-re
 Thu Jun 25 10:55:03 AM MSK 2026                dns-pornhub.txt  >resolve-pornhub.txt
 Thu Jun 25 11:01:01 AM MSK 2026                dns-surfshark.txt  >resolve-surfshark.txt
 Thu Jun 25 11:10:50 AM MSK 2026                dns-tiktok.txt  >resolve-tiktok.txt
+[master eee90c89] auto-update ipv6
+ 10 files changed, 3274 insertions(+), 10218 deletions(-)
+Thu Jun 25 01:08:55 PM MSK 2026                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Thu Jun 25 01:22:19 PM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
+Thu Jun 25 02:18:07 PM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Thu Jun 25 02:18:14 PM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
