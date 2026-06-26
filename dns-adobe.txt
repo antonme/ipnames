@@ -336,7 +336,9 @@ ansible.3di.corp.adobe.com
 ans-longpoll-prod.adobe.io
 ans.oobesaas.adobe.com
 ans.prod.oobesaas.adobe.com
+anuvaad-author.corp.adobe.com
 anuvaad-author-qa.corp.adobe.com
+anuvaad-preview.corp.adobe.com
 anuvaad-preview.qa.corp.adobe.com
 anyware.adobe.com
 anyware.stage.adobe.com
@@ -1335,6 +1337,7 @@ daviston.adobeaemcloud.com
 davros.corp.adobe.com
 dawn.corp.adobe.com
 dawn-stage.corp.adobe.com
+db.3di.corp.adobe.com
 dbld-lab1-analytics1.corp.adobe.com
 dbld-lab1-analytics2.corp.adobe.com
 dbld-lab1-director1.corp.adobe.com
@@ -2083,6 +2086,7 @@ heizidelanqiump4.adobeaemcloud.com
 helios.corp.adobe.com
 helm.corp.adobe.com
 help.behance.net
+help.glaas.corp.adobe.com
 help.glaas-qa.corp.adobe.com
 helpx.adobe.com
 helpx.adobe.com.edgesuite.net
@@ -2197,6 +2201,8 @@ icons.corp.adobe.com
 icv0.adobeaemcloud.com
 id.adobe.com
 id.adobe.com.cdn.cloudflare.net
+idb2.3di.corp.adobe.com
+idb3.3di.corp.adobe.com
 idealab.adobe.com
 ideation.adobe.com
 ideation-stage.adobe.com
@@ -2667,6 +2673,7 @@ mcias-aus5.cloud.adobe.io
 mcias-nld2.cloud.adobe.io
 m.communication.github.com.cname.campaign.adobe.com
 m.communications.raven.adobe.com
+mcp.3di.corp.adobe.com
 mcp.addons-dev.adobe.com
 mcp.addons-stage.adobe.com
 mcpc.corp.adobe.com
@@ -2746,6 +2753,7 @@ mpki.corp.adobe.com
 mpsupport.corp.adobe.com
 mqecc.corp.adobe.com
 mqecc-stage.corp.adobe.com
+mqtt.3di.corp.adobe.com
 mqtt-dev.corp.adobe.com
 mqxi.adobeaemcloud.net
 msavlab.adobe.com
@@ -2842,6 +2850,7 @@ no1010042033212.corp.adobe.com
 no1010042034023.corp.adobe.com
 no1010042035255.corp.adobe.com
 no1010042039236.corp.adobe.com
+no1010042040254.corp.adobe.com
 no1010042041098.corp.adobe.com
 no1010042041110.corp.adobe.com
 no1010042041132.corp.adobe.com
@@ -2887,8 +2896,11 @@ no1010042234095.corp.adobe.com
 no1010042234135.corp.adobe.com
 no1010042234137.corp.adobe.com
 no1010042234139.corp.adobe.com
+no1010042234144.corp.adobe.com
 no1010042234150.corp.adobe.com
 no1010042234159.corp.adobe.com
+no1010042234169.corp.adobe.com
+no1010042234178.corp.adobe.com
 no1010042236028.corp.adobe.com
 no1010042236070.corp.adobe.com
 no1010042236071.corp.adobe.com
@@ -3749,6 +3761,7 @@ podcast.e.adobe.com
 polka.typekit.com
 pores.adobe.io
 portal-campus.corp.adobe.com
+postgress.3di.corp.adobe.com
 postoffice.adobe.com
 postweb.corp.adobe.com
 poweriq.corp.adobe.com
@@ -3874,6 +3887,8 @@ qa.postoffice.adobe.com
 qa.sms.adobe.com
 qa.sophia.corp.adobe.com
 qa.ssocm.corp.adobe.com
+qastudio-dev.corp.adobe.com
+qastudio-stage.corp.adobe.com
 qe41.adobeaemcloud.com
 qe.campaign.adobe.com
 qe-ffc-static-cdn.oobesaas.adobe.com
@@ -4968,6 +4983,7 @@ va10-inetfw01.corp.adobe.com
 va10-inetfw02.corp.adobe.com
 va6.canary.adobe.com
 va6.stage.canary.adobe.com
+vajra-stage.corp.adobe.com
 vanadium-qe-va6.cloud.adobe.io
 vanalytics1.corp.adobe.com
 vanalytics2.corp.adobe.com
