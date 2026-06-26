@@ -3289,6 +3289,7 @@ cert-wallet.apple.com
 cf.iadsdk.apple.com
 cf.iadsdk.apple.com.akadns.net
 cf.iadsdk-stg.apple.com
+cfservices-stage.opsswe.ops.apple.com
 cgi5.training.apple.com
 ch01p00sa.apple.com
 ch01sa-x01.apple.com
@@ -7515,6 +7516,7 @@ facilities-dr.apple.com
 facilityos.dev.srm.redev.apple.com
 facilityos.srm.redev.apple.com
 factory.apple.com
+factoryvision-services-stage.awapne1.sbz.apple.com
 fairchild-am1.apple.com
 falcon-aapse1a.smoot.apple.com
 falcon-aapse1b.smoot.apple.com
@@ -10447,7 +10449,6 @@ jp-vpn.alertmanager.apple.com
 jp-vpn.asia.apple.com
 js-cdn.music.apple.com
 js-cdn-music-lb.itunes-apple.com.akadns.net
-js-cdn-music-lb-itunes-apple-com.v.aaplimg.com
 jsslana.apple.com
 jump.ps.redev.apple.com
 juno-prod-ext.apple.com
@@ -13898,7 +13899,6 @@ news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
 news-assets-origin.apple.com
-news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-old.apple.com
 news-client-older.apple.com
@@ -23403,6 +23403,7 @@ p27-availability-china.icloud.com
 p27-availability.icloud.com
 p27-bookmarks-china.icloud.com
 p27-btmmconduit.connectivity.icloud.com
+p27-buy.itunes.apple.com
 p27-caldav-china.icloud.com
 p27-caldav.icloud.com
 p27-calendars-china.icloud.com
@@ -23537,6 +23538,7 @@ p29-archivews.icloud.com
 p29-availability-china.icloud.com
 p29-availability.icloud.com
 p29-bookmarks-china.icloud.com
+p29-buy.itunes.apple.com
 p29-caldav-china.icloud.com
 p29-caldav.icloud.com
 p29-calendars-china.icloud.com
@@ -24628,6 +24630,7 @@ p37-availability-china.icloud.com
 p37-availability.icloud.com
 p37-bookmarks-china.icloud.com
 p37-bookmarks.icloud.com
+p37-buy.itunes.apple.com
 p37-caldav-china.icloud.com
 p37-caldav.icloud.com
 p37-calendars-china.icloud.com
@@ -24694,6 +24697,7 @@ p38-archivews.icloud.com
 p38-availability-china.icloud.com
 p38-availability.icloud.com
 p38-bookmarks-china.icloud.com
+p38-buy.itunes.apple.com
 p38-caldav-china.icloud.com
 p38-caldav.icloud.com
 p38-calendars-china.icloud.com
@@ -24822,12 +24826,14 @@ p39-statici-china.icloud.com
 p39-streams.icloud.com
 p39-ubiquity-china.icloud.com
 p39-ubiquityws.icloud.com
+p3-buy.itunes.apple.com
 p40-acsegateway.icloud.com
 p40-aolauth.icloud.com
 p40-archivews.icloud.com
 p40-availability-china.icloud.com
 p40-availability.icloud.com
 p40-bookmarks-china.icloud.com
+p40-buy.itunes.apple.com
 p40-caldav-china.icloud.com
 p40-caldav-china-statici-china.icloud.com
 p40-caldav.icloud.com
@@ -24893,6 +24899,7 @@ p41-acsegateway.icloud.com
 p41-archivews.icloud.com
 p41-availability-china.icloud.com
 p41-availability.icloud.com
+p41-buy.itunes.apple.com
 p41-caldav-china.icloud.com
 p41-caldav.icloud.com
 p41-calendars-china.icloud.com
@@ -24965,6 +24972,7 @@ p42-aolauth.icloud.com
 p42-archivews.icloud.com
 p42-availability-china.icloud.com
 p42-availability.icloud.com
+p42-buy.itunes.apple.com
 p42-caldav-china.icloud.com
 p42-caldav.icloud.com
 p42-calendars-china.icloud.com
@@ -25714,6 +25722,7 @@ p53-archivews.icloud.com
 p53-availability-china.icloud.com
 p53-availability.icloud.com
 p53-bookmarks-china.icloud.com
+p53-buy.itunes.apple.com
 p53-caldav-china.icloud.com
 p53-caldav.icloud.com
 p53-calendars-china.icloud.com
@@ -25787,6 +25796,7 @@ p54-availability-china.icloud.com
 p54-availability.icloud.com
 p54-bookmarks-china.icloud.com
 p54-bookmarks.icloud.com
+p54-buy.itunes.apple.com
 p54-caldav-china.icloud.com
 p54-caldav.icloud.com
 p54-calendars-china.icloud.com
@@ -25859,6 +25869,7 @@ p55-availability-china.icloud.com
 p55-availability.icloud.com
 p55-bookmarks-china.icloud.com
 p55-bookmarks.icloud.com
+p55-buy.itunes.apple.com
 p55-caldav-china.icloud.com
 p55-caldav.icloud.com
 p55-calendars-china.icloud.com
@@ -25980,6 +25991,7 @@ p57-archivews.icloud.com
 p57-availability-china.icloud.com
 p57-availability.icloud.com
 p57-bookmarks-china.icloud.com
+p57-buy.itunes.apple.com
 p57-caldav-china.icloud.com
 p57-caldav.icloud.com
 p57-calendars-china.icloud.com
@@ -26183,6 +26195,7 @@ p60-archivews-iwmb7.icloud.com
 p60-availability-china.icloud.com
 p60-availability.icloud.com
 p60-bookmarks.icloud.com
+p60-buy.itunes.apple.com
 p60-caldav-china.icloud.com
 p60-caldav.icloud.com
 p60-calendars-china.icloud.com
@@ -26851,6 +26864,7 @@ p6-staging.itunes.apple.com
 p70-archivews.icloud.com
 p70-availability-china.icloud.com
 p70-availability.icloud.com
+p70-buy.itunes.apple.com
 p70-caldav-china.icloud.com
 p70-caldav.icloud.com
 p70-calendars-china.icloud.com
@@ -27070,8 +27084,10 @@ p78-smtp.mail.icloud.com
 p79-exportws.iwork.apple.com
 p79-imap.mail.icloud.com
 p79-mailws.icloud.com
+p7-buy.itunes.apple.com
 p80-imap.mail.icloud.com
 p84-iwnr.icloud.com
+p8-buy.itunes.apple.com
 p97-archivews.icloud.com
 p97-availability-china.icloud.com
 p97-availability.icloud.com
@@ -30122,6 +30138,7 @@ stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline.apple.com.edgekey.net
 stocks-sparkline.apple.com.edgesuite.net
+stocks-sparkline-lb.apple.com.akadns.net
 stocks-sparkline-origin.apple.com
 store-001.blobstore.apple.com
 store-001-mr.blobstore.apple.com
@@ -30392,6 +30409,7 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
+swdist.g.aaplimg.com
 swdlp.apple.com
 swdlp-eg-nlt.apple.com
 swdlp-mdn-nlt.apple.com
@@ -31559,6 +31577,7 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
+weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -31717,6 +31736,7 @@ www2.apple.com
 www2.seminars.apple.com
 www.ads-apple.com.cn
 www.afl.info.apple.com
+www.airport.us
 www.anat.apple.com
 www.apple.com
 www.apple.com.cn
@@ -31758,6 +31778,7 @@ www.gauravsays.info.apple.com
 www.germany.euro.apple.com
 www.guide.apple.com
 www.holland.euro.apple.com
+www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
@@ -31766,6 +31787,7 @@ www.img1.apple-mapkit.com
 www.info.apple.com
 www.inspectieresultaten.icloud.com
 www.it.nfapeuro.apple.com
+www.itools.info
 www.itunes.com
 www.iworktrialbuy.apple.com
 www.kreasifb.blobstore.apple.com
@@ -31804,6 +31826,7 @@ www.store.apple.com
 wwwsupp2.apple.com
 wwwsupp.apple.com
 www.support.apple.com
+www.thinkdifferent.us
 www.tips.apple.com
 www.trafficexchange.info.apple.com
 www.tsu.blobstore.apple.com
