@@ -3599,7 +3599,6 @@ configuration-carry.ls.apple.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
-configuration.v.aaplimg.com
 connect2.apple.com
 connect2-mdn.apple.com
 connect2-rno.apple.com
@@ -4760,6 +4759,7 @@ edge-066.usbos2.icloud-content.com
 edge-066.usmsc2.icloud-content.com
 edge-066.usuyk1.icloud-content.com
 edge-067.deber3.icloud-content.com
+edge-067.gbslo5.icloud-content.com
 edge-067.hkhkg.icloud-content.com
 edge-067.nlhfd1.icloud-content.com
 edge-067.usbos2.icloud-content.com
@@ -9342,6 +9342,7 @@ gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
 gspe76-staging.ls.apple.com
+gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-ssl-96.ls.apple.com
@@ -10449,6 +10450,7 @@ jp-vpn.alertmanager.apple.com
 jp-vpn.asia.apple.com
 js-cdn.music.apple.com
 js-cdn-music-lb.itunes-apple.com.akadns.net
+js-cdn-music-lb-itunes-apple-com.v.aaplimg.com
 jsslana.apple.com
 jump.ps.redev.apple.com
 juno-prod-ext.apple.com
@@ -13899,6 +13901,7 @@ news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
 news-assets-origin.apple.com
+news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-old.apple.com
 news-client-older.apple.com
@@ -14568,6 +14571,7 @@ osvcomm-prod.prz.apple.com
 osvcomm-ui.apple.com
 osxapps.itunes.apple.com
 osxapps.itunes.apple.com.edgesuite.net
+osxapps.itunes.g.aaplimg.com
 osxapps-ssl.itunes.apple.com
 otocacheit.apple.com
 otocachet.apple.com
@@ -30350,7 +30354,6 @@ support.apple.com.edgekey.net
 support.apple.com.edgesuite.net
 supportb.corp.apple.com
 support-china.apple-support.akadns.net
-support-china-row.apple-support.akadns.net
 supportdownload.apple.com
 supportform.apple.com
 support-gs.apple.com
@@ -30409,7 +30412,6 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
-swdist.g.aaplimg.com
 swdlp.apple.com
 swdlp-eg-nlt.apple.com
 swdlp-mdn-nlt.apple.com
@@ -31577,7 +31579,6 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -31736,7 +31737,6 @@ www2.apple.com
 www2.seminars.apple.com
 www.ads-apple.com.cn
 www.afl.info.apple.com
-www.airport.us
 www.anat.apple.com
 www.apple.com
 www.apple.com.cn
@@ -31778,7 +31778,6 @@ www.gauravsays.info.apple.com
 www.germany.euro.apple.com
 www.guide.apple.com
 www.holland.euro.apple.com
-www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
@@ -31787,7 +31786,6 @@ www.img1.apple-mapkit.com
 www.info.apple.com
 www.inspectieresultaten.icloud.com
 www.it.nfapeuro.apple.com
-www.itools.info
 www.itunes.com
 www.iworktrialbuy.apple.com
 www.kreasifb.blobstore.apple.com
@@ -31826,7 +31824,6 @@ www.store.apple.com
 wwwsupp2.apple.com
 wwwsupp.apple.com
 www.support.apple.com
-www.thinkdifferent.us
 www.tips.apple.com
 www.trafficexchange.info.apple.com
 www.tsu.blobstore.apple.com
