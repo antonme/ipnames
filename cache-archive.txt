@@ -7827,6 +7827,7 @@ configuration-carry.ls.apple.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
+configuration.v.aaplimg.com
 confy-github-app.identity.adobe.com
 confy-github-app.identity-stage.adobe.com
 confy.identity.adobe.com
@@ -15555,6 +15556,7 @@ github.community
 github.github.com
 github.io
 github-releases.githubusercontent.com
+github-stage.corp.adobe.com
 githubusercontent.com
 gitlfs-basic.local.twitter.com
 gitlfs.local.twitter.com
@@ -15600,6 +15602,7 @@ global.bing.com
 global.corp.adobe.com
 globalds.corp.adobe.com
 global.identity.adobe.com
+globalize.corp.adobe.com
 globods1-79.googleapis.com
 glucosidase.adobeaemcloud.net
 gmail-smtp-in.l.google.com
@@ -25724,6 +25727,7 @@ peat.corp.adobe.com
 peat.ethos506-prod-or2.prod.ethos.corp.adobe.com
 peat.ethos506-stage-or2.stage.ethos.corp.adobe.com
 peat-stg.corp.adobe.com
+pe.corp.adobe.com
 pe.lazerpenguin.com
 pe-lim.prod.surfshark.com
 pendo-static-4870941163192320.storage.googleapis.com
@@ -28442,12 +28446,17 @@ remotedesktop.google.com
 remotedesktop-pa.googleapis.com
 remoteprovisioning.googleapis.com
 remote-text-encoder-flux-2.huggingface.co
+renew-aa-prod-acc.an.adobe.com
 renew-aa-prod-aus.an.adobe.com
+renew-aa-prod-nld.an.adobe.com
 renew-aa-stage-acc.an.adobe.com
+renew-cja-prod-aus.an.adobe.com
 renew-cja-prod-can.an.adobe.com
 renew-cja-prod-che.an.adobe.com
+renew-cja-prod-gbr.an.adobe.com
 renew-cja-prod-ind.an.adobe.com
 renew-cja-prod-nld.an.adobe.com
+renew-cja-stage-acc.an.adobe.com
 renew-cja-stage-aec.an.adobe.com
 renga.corp.adobe.com
 renovate.corp.adobe.com
@@ -32860,6 +32869,7 @@ support.google.com
 support-gs.apple.com
 support-icloud-apple.com
 supportinsights.adobe.com
+support-lb-row.apple-support.akadns.net
 supportmetrics.apple.com
 support-monitoring.api.openai.com
 support-sp.apple.com
@@ -33378,6 +33388,7 @@ trustline.ozon.ru
 trust.openai.com
 trust.x.com
 trynow.backblaze.com
+try.photoshop.adobe.com
 ts.apps-apple.com.akadns.net
 tsdp.adobeaemcloud.com
 tse1.mm.bing.net
@@ -33544,6 +33555,7 @@ uds-stg.licenses.adobe.com
 uds-va6.identity.adobe.com
 uds-va6.identity-stage.adobe.com
 uds-weighted.adobe-identity.com
+udvt.pe.corp.adobe.com
 ue1010217243132.corp.adobe.com
 ue1010217243150.corp.adobe.com
 ue1010217243151.corp.adobe.com
@@ -33621,6 +33633,9 @@ unlinkability.apple.com
 unpkg.apple.com
 unpkg.ase.apple.com
 unrancored.withgoogle.com
+unsubscribe-aa-prod-acc.an.adobe.com
+unsubscribe-aa-prod-aus.an.adobe.com
+unsubscribe-aa-prod-nld.an.adobe.com
 unsubscribe-aa-stage-acc.an.adobe.com
 unsubscribe-cja-prod-acc.an.adobe.com
 unsubscribe-cja-prod-aus.an.adobe.com
@@ -33629,6 +33644,7 @@ unsubscribe-cja-prod-che.an.adobe.com
 unsubscribe-cja-prod-gbr.an.adobe.com
 unsubscribe-cja-prod-ind.an.adobe.com
 unsubscribe-cja-prod-nld.an.adobe.com
+unsubscribe-cja-stage-acc.an.adobe.com
 unsubscribe-cja-stage-aec.an.adobe.com
 unsubscribe-cja-stage-va6.an.adobe.com
 unsufficing.adobeaemcloud.net
@@ -34525,6 +34541,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
@@ -34886,6 +34903,7 @@ www.apple.com
 www.apple.com.cn
 www.apple.com.cn.edgekey.net
 www.apple.com.cn.edgekey.net.globalredir.akadns.net
+www-apple-com-cn.v.aaplimg.com
 www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
