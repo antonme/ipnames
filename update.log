@@ -101586,3 +101586,12 @@ Mon Jun 29 09:53:08 AM MSK 2026                ext-dns-openai.txt  >ext-resolve-
 Mon Jun 29 09:55:10 AM MSK 2026                ext-dns-ozon.txt  >ext-resolve-ozon.txt
 Mon Jun 29 09:56:12 AM MSK 2026                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
 Mon Jun 29 10:12:30 AM MSK 2026                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+[master 3fd088cd] auto-update merged
+ 36 files changed, 14342 insertions(+), 17518 deletions(-)
+ create mode 100644 merged/ipv6-pornhub.cidr
+Mon Jun 29 10:30:22 AM MSK 2026                ext-dns-twitter.txt  >ext-resolve-twitter.txt
+Mon Jun 29 10:36:58 AM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
+Mon Jun 29 10:44:51 AM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
+Mon Jun 29 10:47:30 AM MSK 2026                dns-huggingface.txt  >resolve-huggingface.txt
+Mon Jun 29 10:50:41 AM MSK 2026                dns-openai.txt  >resolve-openai.txt
+Mon Jun 29 11:29:55 AM MSK 2026                dns-ozon.txt  >resolve-ozon.txt
