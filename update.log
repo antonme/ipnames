@@ -101567,3 +101567,22 @@ s
 ===anthropic
 
 == Save names archive
+[master 0b2278f3] auto-update names
+ 5 files changed, 96 insertions(+), 1 deletion(-)
+
+== Resolving external names to ipv4
+Mon Jun 29 06:47:14 AM MSK 2026                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Mon Jun 29 07:03:56 AM MSK 2026                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Mon Jun 29 07:04:02 AM MSK 2026                ext-dns-apple.txt  >ext-resolve-apple.txt
+Mon Jun 29 07:23:28 AM MSK 2026                dns-github.txt  >resolve-github.txt
+Mon Jun 29 07:40:32 AM MSK 2026                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Mon Jun 29 07:44:59 AM MSK 2026                dns-google.txt  >resolve-google.txt
+Mon Jun 29 07:58:06 AM MSK 2026                ext-dns-bing.txt  >ext-resolve-bing.txt
+Mon Jun 29 07:59:16 AM MSK 2026                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Mon Jun 29 08:55:49 AM MSK 2026                ext-dns-github.txt  >ext-resolve-github.txt
+Mon Jun 29 09:10:30 AM MSK 2026                ext-dns-google.txt  >ext-resolve-google.txt
+Mon Jun 29 09:53:00 AM MSK 2026                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Mon Jun 29 09:53:08 AM MSK 2026                ext-dns-openai.txt  >ext-resolve-openai.txt
+Mon Jun 29 09:55:10 AM MSK 2026                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Mon Jun 29 09:56:12 AM MSK 2026                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Mon Jun 29 10:12:30 AM MSK 2026                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
