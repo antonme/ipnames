@@ -2438,6 +2438,7 @@ api19-core-useast8.tiktokv.us
 api19-normal-c-alisg.tiktokv.com
 api19-normal-useast5.tiktokv.us
 api19-normal-useast8.tiktokv.us
+api1.corp.adobe.com
 api-20-0-0.twitter.com
 api-2-0-0.twitter.com
 api-21-0-0.twitter.com
@@ -2446,6 +2447,7 @@ api-23-0-0.twitter.com
 api-24-0-0.twitter.com
 api-26-0-0.twitter.com
 api-28-0-0.twitter.com
+api2.corp.adobe.com
 api2.smoot.apple.com
 api-30-0-0.twitter.com
 api-3-0-0.twitter.com
@@ -9306,6 +9308,7 @@ data.money-dev.x.com
 data.money-staging.x.com
 data.money.x.com
 data.news.paypal.com.data.adobedc.net
+data.notifications.campaign.adobe.com
 data.ozon.ru
 data.payments-dev.x.com
 data.payments-prod.x.com
@@ -11754,6 +11757,7 @@ EDBA776D-E139-4AA2-B6DF-EB6F4F9AE7DF-netseer-ipaddr-assoc.xy.fbcdn.net
 EDBA776D-E139-4AA2-B6DF-EB6F4F9AE7DF-netseer-ipaddr-assoc.xz.fbcdn.net
 EDBBE64B-7176-4799-B66F-F9580B570F2E-netseer-ipaddr-assoc.xy.fbcdn.net
 EDBBE64B-7176-4799-B66F-F9580B570F2E-netseer-ipaddr-assoc.xz.fbcdn.net
+edbilling.adobe.com
 EDCE5BFC-BF05-4CEB-8AF2-6C388CB45200-netseer-ipaddr-assoc.xy.fbcdn.net
 EDCE5BFC-BF05-4CEB-8AF2-6C388CB45200-netseer-ipaddr-assoc.xz.fbcdn.net
 EDCEACDA-566F-45E0-AEEF-A758DB2C6F95-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -15964,6 +15968,7 @@ gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-kr-ssl.ls.apple.com
 gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
+gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -16718,6 +16723,7 @@ in.cloud.google.com
 ind.axle.an.adobe.com
 in-del.prod.surfshark.com
 indesign.adobe.com
+index.corp.adobe.com
 india-chennai-ca-version-2.expressnetw.com
 indiaexp.adobe.com
 indiaexpcore1.corp.adobe.com
@@ -17520,6 +17526,8 @@ klam-dev.adobe.com
 klam-dev-api.corp.adobe.com
 klam-dev.corp.adobe.com
 klam-prod.corp.adobe.com
+klam-qa-api.corp.adobe.com
+klam-qa.corp.adobe.com
 klam-sj.corp.adobe.com
 klam-stg-api.corp.adobe.com
 klam-stg.corp.adobe.com
@@ -19275,7 +19283,13 @@ no1sz1.corp.adobe.com
 no1sz1-openstack.corp.adobe.com
 node1.corp.adobe.com
 node2.corp.adobe.com
+node3.corp.adobe.com
+node4.corp.adobe.com
 node-tt9.pool-118-172.dynamic.totinternet.net
+node-x1.corp.adobe.com
+node-x2.corp.adobe.com
+node-x3.corp.adobe.com
+node-x4.corp.adobe.com
 nofd.githubusercontent.com
 noiad.corp.adobe.com
 noicmpub.corp.adobe.com
@@ -19941,11 +19955,15 @@ or1010050168025.corp.adobe.com
 or1010050168047.corp.adobe.com
 or1010050168048.corp.adobe.com
 or1010050168053.corp.adobe.com
+or1010050168054.corp.adobe.com
+or1010050168055.corp.adobe.com
+or1010050168056.corp.adobe.com
 or1010050168061.corp.adobe.com
 or1010050168087.corp.adobe.com
 or1010050168175.corp.adobe.com
 or1010050168177.corp.adobe.com
 or1010050168178.corp.adobe.com
+or1010050168179.corp.adobe.com
 or1010050168189.corp.adobe.com
 or1010050168208.corp.adobe.com
 or1010050168217.corp.adobe.com
@@ -19959,6 +19977,15 @@ or1010050172018.corp.adobe.com
 or1010050172038.corp.adobe.com
 or1010050172043.corp.adobe.com
 or1010050172105.corp.adobe.com
+or1010050172110.corp.adobe.com
+or1010050172112.corp.adobe.com
+or1010050172118.corp.adobe.com
+or1010050172119.corp.adobe.com
+or1010050172120.corp.adobe.com
+or1010050172121.corp.adobe.com
+or1010050172122.corp.adobe.com
+or1010050172126.corp.adobe.com
+or1010050172132.corp.adobe.com
 or1010050172189.corp.adobe.com
 or1010050172218.corp.adobe.com
 or1010050173034.corp.adobe.com
@@ -19974,6 +20001,12 @@ or1010050173217.corp.adobe.com
 or1010050173218.corp.adobe.com
 or1010050173219.corp.adobe.com
 or1010050173224.corp.adobe.com
+or1010050173233.corp.adobe.com
+or1010050173234.corp.adobe.com
+or1010050173235.corp.adobe.com
+or1010050173236.corp.adobe.com
+or1010050173237.corp.adobe.com
+or1010050173241.corp.adobe.com
 or1010050174141.corp.adobe.com
 or1010050174142.corp.adobe.com
 or1010050174143.corp.adobe.com
@@ -27454,6 +27487,7 @@ pull-w5-va01.tiktokrow-cdn.com
 pull-w5-va01.ttlivecdn.com
 pulpless.adobeaemcloud.com
 pulsar.adobe.com
+pulsar-na1r.services.adobe.com
 pulsar-na1r-stg1.services.adobe.com
 pulse.ccx.adobe.com
 pulseinsight.corp.adobe.com
@@ -31910,6 +31944,7 @@ shuaihui.withgoogle.com
 shuiguojidingweiqiyouzhendema.tt588.com
 shuiguojiyafenfa.tt588.com
 shuoqie.adobeaemcloud.net
+sia-dev.corp.adobe.com
 sia-stage.corp.adobe.com
 siegert.adobeaemcloud.net
 sign.addons-dev.adobe.com
@@ -33061,7 +33096,6 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
-swdist.g.aaplimg.com
 swdlp-static.apple.com
 swdownload.apple.com
 sweats.overseastheme.com

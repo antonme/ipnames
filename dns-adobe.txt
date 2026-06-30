@@ -348,6 +348,8 @@ aos.adobe.io
 ap-3gx3324043gt.corp.adobe.com
 ap3.prd.adobeaemcloud.net
 apacexp.adobe.com
+api1.corp.adobe.com
+api2.corp.adobe.com
 api.account.adobe.com
 api.arcade.dev.frame.io
 api.arcade.frame.io
@@ -1323,6 +1325,7 @@ data-governance.adobe.com
 data-governance-dev.adobe.com
 data.gxv.test.ajo.adobe.com
 data.news.paypal.com.data.adobedc.net
+data.notifications.campaign.adobe.com
 data.premierleague.test.ajo.adobe.com
 data.qr.test.ajo.adobe.com
 data.service.paypal.com.data.adobedc.net
@@ -1620,6 +1623,7 @@ eda-udip.corp.adobe.com
 eda-uif.corp.adobe.com
 eda-uif-dev.corp.adobe.com
 eda-uif-stg.corp.adobe.com
+edbilling.adobe.com
 eddore.adobeaemcloud.com
 edex.adobe.com
 edge.adobedc.net
@@ -2293,6 +2297,7 @@ in1.documentsstage.adobe.com
 in.adobe.com
 ind.axle.an.adobe.com
 indesign.adobe.com
+index.corp.adobe.com
 indiaexp.adobe.com
 indiaexpcore1.corp.adobe.com
 indiaexpcore2.corp.adobe.com
@@ -2440,6 +2445,8 @@ klam-dev.adobe.com
 klam-dev-api.corp.adobe.com
 klam-dev.corp.adobe.com
 klam-prod.corp.adobe.com
+klam-qa-api.corp.adobe.com
+klam-qa.corp.adobe.com
 klam-sj.corp.adobe.com
 klam-stg-api.corp.adobe.com
 klam-stg.corp.adobe.com
@@ -2928,6 +2935,12 @@ no1sz1.corp.adobe.com
 no1sz1-openstack.corp.adobe.com
 node1.corp.adobe.com
 node2.corp.adobe.com
+node3.corp.adobe.com
+node4.corp.adobe.com
+node-x1.corp.adobe.com
+node-x2.corp.adobe.com
+node-x3.corp.adobe.com
+node-x4.corp.adobe.com
 noiad.corp.adobe.com
 noicmpub.corp.adobe.com
 noicmsub.corp.adobe.com
@@ -3305,11 +3318,15 @@ or1010050168025.corp.adobe.com
 or1010050168047.corp.adobe.com
 or1010050168048.corp.adobe.com
 or1010050168053.corp.adobe.com
+or1010050168054.corp.adobe.com
+or1010050168055.corp.adobe.com
+or1010050168056.corp.adobe.com
 or1010050168061.corp.adobe.com
 or1010050168087.corp.adobe.com
 or1010050168175.corp.adobe.com
 or1010050168177.corp.adobe.com
 or1010050168178.corp.adobe.com
+or1010050168179.corp.adobe.com
 or1010050168189.corp.adobe.com
 or1010050168208.corp.adobe.com
 or1010050168217.corp.adobe.com
@@ -3323,6 +3340,15 @@ or1010050172018.corp.adobe.com
 or1010050172038.corp.adobe.com
 or1010050172043.corp.adobe.com
 or1010050172105.corp.adobe.com
+or1010050172110.corp.adobe.com
+or1010050172112.corp.adobe.com
+or1010050172118.corp.adobe.com
+or1010050172119.corp.adobe.com
+or1010050172120.corp.adobe.com
+or1010050172121.corp.adobe.com
+or1010050172122.corp.adobe.com
+or1010050172126.corp.adobe.com
+or1010050172132.corp.adobe.com
 or1010050172189.corp.adobe.com
 or1010050172218.corp.adobe.com
 or1010050173034.corp.adobe.com
@@ -3338,6 +3364,12 @@ or1010050173217.corp.adobe.com
 or1010050173218.corp.adobe.com
 or1010050173219.corp.adobe.com
 or1010050173224.corp.adobe.com
+or1010050173233.corp.adobe.com
+or1010050173234.corp.adobe.com
+or1010050173235.corp.adobe.com
+or1010050173236.corp.adobe.com
+or1010050173237.corp.adobe.com
+or1010050173241.corp.adobe.com
 or1010050174141.corp.adobe.com
 or1010050174142.corp.adobe.com
 or1010050174143.corp.adobe.com
@@ -3885,6 +3917,7 @@ publisher.addons-dev.adobe.com
 publisher.addons-stage.adobe.com
 pulpless.adobeaemcloud.com
 pulsar.adobe.com
+pulsar-na1r.services.adobe.com
 pulsar-na1r-stg1.services.adobe.com
 pulse.ccx.adobe.com
 pulseinsight.corp.adobe.com
@@ -4329,6 +4362,7 @@ shijieshidabocaigongsipaiming.adobeaemcloud.net
 shishicaizhuanqianjihuaqun.adobeaemcloud.com
 showmethemoney.corp.adobe.com
 shuoqie.adobeaemcloud.net
+sia-dev.corp.adobe.com
 sia-stage.corp.adobe.com
 siegert.adobeaemcloud.net
 sign.addons-dev.adobe.com
