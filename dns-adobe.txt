@@ -195,6 +195,7 @@ adobelogin.prod.ims.adobejanus.com
 adobelogin-static.prod.ims.adobejanus.com
 adobe.net
 adobeqa-servicenow.corp.adobe.com
+adoberesearchblog.corp.adobe.com
 adobesearch.adobe.io
 adobesearch-atc.adobe.io
 adobesearch-sec-uss.adobe.io
@@ -316,6 +317,7 @@ almuiagent.corp.adobe.com
 almui.corp.adobe.com
 aln6.adobeaemcloud.net
 alpha-cobalt.adobeaemcloud.com
+alpha.premiere-stage.hz.adobe.com
 als.captivate.adobe.com
 amcpricelist.corp.adobe.com
 amcprovisioning.corp.adobe.com
@@ -642,6 +644,7 @@ besh.adobeaemcloud.net
 bestory.adobe.com
 bestwap.adobeaemcloud.com
 beta.captivate.adobe.com
+beta.premiere-stage.hz.adobe.com
 bfp.adobe.com
 bfp.adobe.com.edgesuite.net
 bgtx.adobeaemcloud.com
@@ -683,6 +686,7 @@ bps-il.adobe.io
 brand.frame.io
 brenard.adobeaemcloud.com
 bridge.marketplace.adobe.com
+bridgeway.adobe.com
 bridgeway-stage.corp.adobe.com
 brl-vodka.adobeaemcloud.net
 bs6node01.corp.adobe.com
@@ -792,6 +796,7 @@ cbs-intelligentmatch-prod.corp.adobe.com
 cbs-intelligentmatch-prod.int.adobe.com
 cbsinteractive.data.adobedc.net
 cbs-nonprod.adobe.com
+cbs-nonprod-v2.adobe.com
 cbs-preprod.adobe.com
 cbs-qa.adobe.com
 cbs-stage.adobe.com
@@ -955,6 +960,7 @@ cengya.adobeaemcloud.com
 cent.corp.adobe.com
 cent-dev.corp.adobe.com
 centrum.adobeaemcloud.com
+cerberus-temporal-prod.corp.adobe.com
 cerdi.adobeaemcloud.net
 cf15.adobeaemcloud.net
 cfactivation.adobe.com
@@ -1251,6 +1257,7 @@ csme-workspace.corp.adobe.com
 csme-workspace.staging.corp.adobe.com
 csweek.corp.adobe.com
 cToLWhYRSlNQ.adobe.com
+ctpoc.corp.adobe.com
 cvapi.corp.ethos506-prod-or2.prod.ethos.corp.adobe.com
 cvs.adobe.com
 cxfb.adobeaemcloud.com
@@ -2053,6 +2060,7 @@ gtmaiap1.corp.adobe.com
 gtmaiap2.corp.adobe.com
 gtmaiap3.corp.adobe.com
 gtmaiap.corp.adobe.com
+gtp-activemq.corp.adobe.com
 gtp-activemq-stage.corp.adobe.com
 guluomadoushouchangtupian.adobeaemcloud.com
 guptaa.corp.adobe.com
@@ -2119,6 +2127,7 @@ hendrix360.qe.adobe.com
 hendrix.adobe.com
 hendrix-bluestack.adobe.com
 hendrix-bluestack.prod.adobe.com
+hermes.corp.adobe.com
 hgKWWWmMhPRO.adobe.com
 hgps.adobeaemcloud.com
 hhw8.adobeaemcloud.com
@@ -3298,6 +3307,9 @@ or1010050137156.corp.adobe.com
 or1010050137157.corp.adobe.com
 or1010050137158.corp.adobe.com
 or1010050152235.corp.adobe.com
+or1010050153032.corp.adobe.com
+or1010050153034.corp.adobe.com
+or1010050153036.corp.adobe.com
 or1010050154017.corp.adobe.com
 or1010050154018.corp.adobe.com
 or1010050154101.corp.adobe.com
@@ -3533,12 +3545,17 @@ or1010051087020.corp.adobe.com
 or1010051087026.corp.adobe.com
 or1010051144134.corp.adobe.com
 or1010051144143.corp.adobe.com
+or1010051148139.corp.adobe.com
 or1010051149090.corp.adobe.com
 or1010051149103.corp.adobe.com
 or1010051150188.corp.adobe.com
 or1010051150189.corp.adobe.com
 or1010051151081.corp.adobe.com
 or1010051151124.corp.adobe.com
+or1010051151131.corp.adobe.com
+or1010051151132.corp.adobe.com
+or1010051151133.corp.adobe.com
+or1010051151134.corp.adobe.com
 or1010051166016.corp.adobe.com
 or1010051166017.corp.adobe.com
 or1010051166020.corp.adobe.com
@@ -3844,6 +3861,7 @@ prd.api.maverick.corp.adobe.com
 preferences.frame.io
 preferences.ubs.test.ajo.adobe.com
 premiere.adobe.com
+premiere-stage.hz.adobe.com
 prenv.projectx.corp.adobe.com
 prepaid.corp.adobe.com
 prepaiddev.corp.adobe.com
@@ -4044,6 +4062,7 @@ res.communication.github.com.cname.campaign.adobe.com
 res.communications.raven.adobe.com
 research.adobe.com
 researchcompute.corp.adobe.com
+reseller.adobe.com
 res.messages.adobe.com
 resources.licenses.adobe.com
 resources-stage.licenses.adobe.com
@@ -4107,6 +4126,7 @@ salesaccelerator.adobe.com
 saltit-boot.corp.adobe.com
 saltit-compute.corp.adobe.com
 saltit-dibr.corp.adobe.com
+saltit-lpt.corp.adobe.com
 saltit-mom.corp.adobe.com
 saltit-or1-boot-01.corp.adobe.com
 saltit-or1-boot-02.corp.adobe.com
@@ -4115,6 +4135,7 @@ saltit-or1-compute-02.corp.adobe.com
 saltit-or1-dibr-01.corp.adobe.com
 saltit-or1-dibr-02.corp.adobe.com
 saltit-or1-est-01.corp.adobe.com
+saltit-or1-lpt-02.corp.adobe.com
 saltit-or1-mom-01.corp.adobe.com
 saltit-or1-mom-02.corp.adobe.com
 saltit-or1-plat-01.corp.adobe.com
@@ -4323,6 +4344,7 @@ server.corp.adobe.com
 server.messaging.adobe.com
 service.account.adobe.com
 services.account.adobe.com
+services.adobe.com
 servicesconsole.adobe.com
 services.prod.ims.adobejanus.com
 settings.dev.frame.io
@@ -4658,6 +4680,7 @@ spog-stage.corp.adobe.com
 sp-preprod.auth.adobe.com
 sp-prequal.auth.adobe.com
 squirrel-prenv.hz.adobe.com
+squirrel-stage.hz.adobe.com
 squish.3di.corp.adobe.com
 squish.corp.adobe.com
 srelens.corp.adobe.com
@@ -4678,6 +4701,7 @@ stage.account.adobe.com
 stage.acrobat.adobe.com
 stage.acrobatservices.adobe.com
 stage.adobe.com
+stageadu.adobe.com
 stage.ai.dots.corp.adobe.com
 stage-aqua.adobe.com
 stage.assistant.adobe.com
