@@ -102140,3 +102140,7 @@ Thu Jul  2 10:55:57 AM MSK 2026                ext-dns-vpnhosts.txt  >ipv6-ext-r
 Thu Jul  2 11:03:17 AM MSK 2026                dns-tunnelbear.txt  >resolve-tunnelbear.txt
 Thu Jul  2 11:07:18 AM MSK 2026                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
 Thu Jul  2 11:21:30 AM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
+[master 2f64addf] auto-update ipv6
+ 7 files changed, 10568 insertions(+), 2501 deletions(-)
+Thu Jul  2 12:21:35 PM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Thu Jul  2 12:21:42 PM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
