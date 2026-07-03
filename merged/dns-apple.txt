@@ -3427,7 +3427,6 @@ cl5-stg.ls.apple.com
 claris-filemaker-cloud-test.cdn-apple.com
 clarisftp.apple.com
 classical-api.music.apple.com
-classical-api-music.v.aaplimg.com
 classical.music.apple.com
 classical.music.apple.com.edgesuite.net
 classkit-catalog.apple.com
@@ -3692,6 +3691,7 @@ cpcontacts.br-apple.com
 cptest.siri.apple.com
 crashhelmet.apple.com
 crashwebservices-old.apple.com
+creativeimaging-events.infoapps.apple.com
 credo.apple.com
 crk-security-prod.apple.com
 crl.apple.com
@@ -7516,6 +7516,7 @@ extlor-at.apple.com
 facebook.itunes.com
 facetime.apple.com
 facetime.isoproxy.apple.com
+facheck.apple.com
 facheck.corp.apple.com
 facilities-dr.apple.com
 facilityos.dev.srm.redev.apple.com
@@ -8041,6 +8042,9 @@ gnv.apple.com
 goat.apple.com
 goat-client-prod.g.apple.com
 goat-cloud.hwte.apple.com
+goat-cloud-stage.hwte.apple.com
+goat-stage.apple.com
+goat-stage.g.apple.com
 goa.usqas.me.icloud-content.com
 good-apple.com
 gr-aape1b.smoot.apple.com
@@ -9969,7 +9973,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -10244,6 +10247,7 @@ itunes.apps.apple.com
 itunes.assets.itunes.com.edgekey.net
 itunesca.apple.com
 itunes-cdn.itunes-apple.com.akadns.net
+itunes-cdn-itunes-apple-com.v.aaplimg.com
 itunes.com
 itunesconnect.apple.com
 itunesconnect.apple.com.edgekey.net
@@ -27443,8 +27447,10 @@ pdev.apple.com
 pd-fit.apple.com
 pd-fitness.apple.com
 pd-fptools.apple.com
+pd-gsa-ws-idms1.apple.com
 pd-init.itunes.apple.com
 pd-isq06.apple.com
+pd-isq11.apple.com
 pd-itmsdav.apple.com
 pd-itunes.apple.com
 pd.itunes.apple.com
@@ -27485,11 +27491,13 @@ pds.ess.apple.com
 pds-init.ess.apple.com
 pds-init.ess.apple.com.edgesuite.net
 pd-speedysub.itunes.apple.com
+pd-speedysub.tv.apple.com
 pd-st.itunes.apple.com
 pd-testflight.apple.com
 pd-tv.apple.com
 pd-uts-api.itunes.apple.com
 pd-uts-api-staging.itunes.apple.com
+pd-uts-np-frontend-qa-k8s.itunes.apple.com
 pd-videos.apple.com
 pd-vieworders.apple.com
 pd-xp2.apple.com
@@ -29328,6 +29336,7 @@ signin.apple.com
 signin.info.apple.com
 signtime.awuse1.sbz.apple.com
 signtime.awusw2.sbz.apple.com
+signtime-domain.awuse1.sbz.apple.com
 signtime-staging.awuse1.sbz.apple.com
 signtime-staging.awusw2.sbz.apple.com
 signtime-staging.mdn.sbz.apple.com
@@ -30421,7 +30430,6 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
-swdist.g.aaplimg.com
 swdlp.apple.com
 swdlp-eg-nlt.apple.com
 swdlp-mdn-nlt.apple.com
@@ -31762,7 +31770,6 @@ www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
