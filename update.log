@@ -102647,3 +102647,14 @@ Sun Jul  5 06:48:53 AM MSK 2026                dns-google.txt  >ipv6-resolve-goo
 ===anthropic
 
 == Save names archive
+[master bc0bf98b] auto-update names
+ 11 files changed, 1326 insertions(+), 2673 deletions(-)
+
+== Resolving names to ipv4
+Sun Jul  5 06:54:36 AM MSK 2026                dns-adobe.txt  >resolve-adobe.txt
+Sun Jul  5 09:17:27 AM MSK 2026                dns-huggingface.txt  >ipv6-resolve-huggingface.txt
+Sun Jul  5 09:20:01 AM MSK 2026                dns-openai.txt  >ipv6-resolve-openai.txt
+Sun Jul  5 09:49:24 AM MSK 2026                dns-ozon.txt  >ipv6-resolve-ozon.txt
+Sun Jul  5 09:55:28 AM MSK 2026                dns-pornhub.txt  >ipv6-resolve-pornhub.txt
+Sun Jul  5 10:00:37 AM MSK 2026                dns-surfshark.txt  >ipv6-resolve-surfshark.txt
+Sun Jul  5 10:08:23 AM MSK 2026                dns-tiktok.txt  >ipv6-resolve-tiktok.txt
