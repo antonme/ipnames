@@ -102826,3 +102826,19 @@ s
 ===anthropic
 
 == Save names archive
+[master 806205b5] auto-update names
+ 9 files changed, 924 insertions(+), 224 deletions(-)
+
+== Resolving external names to ipv4
+Mon Jul  6 06:46:52 AM MSK 2026                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Mon Jul  6 07:06:16 AM MSK 2026                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Mon Jul  6 07:06:23 AM MSK 2026                ext-dns-apple.txt  >ext-resolve-apple.txt
+Mon Jul  6 07:50:09 AM MSK 2026                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Mon Jul  6 07:52:40 AM MSK 2026                dns-github.txt  >resolve-github.txt
+Mon Jul  6 08:09:45 AM MSK 2026                dns-google.txt  >resolve-google.txt
+Mon Jul  6 08:11:22 AM MSK 2026                ext-dns-bing.txt  >ext-resolve-bing.txt
+Mon Jul  6 08:12:46 AM MSK 2026                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Mon Jul  6 09:16:37 AM MSK 2026                ext-dns-github.txt  >ext-resolve-github.txt
+Mon Jul  6 09:34:06 AM MSK 2026                ext-dns-google.txt  >ext-resolve-google.txt
+Mon Jul  6 10:26:03 AM MSK 2026                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Mon Jul  6 10:26:12 AM MSK 2026                ext-dns-openai.txt  >ext-resolve-openai.txt
