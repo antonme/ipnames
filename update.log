@@ -102856,3 +102856,9 @@ Mon Jul  6 11:30:22 AM MSK 2026                dns-surfshark.txt  >resolve-surfs
 Mon Jul  6 11:35:51 AM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
 Mon Jul  6 11:41:15 AM MSK 2026                dns-tiktok.txt  >resolve-tiktok.txt
 Mon Jul  6 11:50:33 AM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
+[master 40721fe3] auto-update ipv4
+ 14 files changed, 7212 insertions(+), 12725 deletions(-)
+Mon Jul  6 01:45:43 PM MSK 2026                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Mon Jul  6 01:59:38 PM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
+Mon Jul  6 02:59:25 PM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Mon Jul  6 02:59:32 PM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
