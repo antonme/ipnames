@@ -1334,6 +1334,8 @@ auth.acs360.corp.adobe.com
 auth.adobe.com
 auth-api-flex-stg1.services.adobe.com
 auth-api-i.services.adobe.com
+auth-api-origin.services.adobe.com
+auth-api.services.adobe.com
 auth-api-stg1-i.services.adobe.com
 auth-api-stg1-origin.services.adobe.com
 auth-api-stg1.services.adobe.com
@@ -1348,8 +1350,10 @@ auth-flex-stg1.services.adobe.com
 auth-flex-stg1-si.services.adobe.com
 authhome-depot.marketing.adobe.com
 auth-host.documentsgovstage.adobe.com
+auth-identity.services.adobe.com
 auth-identity-stg1.services.adobe.com
 auth-ip.marketing.adobe.com
+auth-i.services.adobe.com
 auth.kaufland.documents.adobe.com
 auth-light.identity.adobe.com
 auth-light.identity-stage.adobe.com
@@ -1357,8 +1361,10 @@ auth-light-popup.identity-stage.adobe.com
 auth-light-sample.identity.adobe.com
 auth-light-sample.identity-stage.adobe.com
 auth-light-tessera.identity-stage.adobe.com
+auth-or2-internal-control.services.adobe.com
 auth-or2-internal-experiment.services.adobe.com
 auth-or2-i.services.adobe.com
+auth-or2.services.adobe.com
 author-asfyhg.corp.adobe.com
 author-con-c.gtp.adobe.com
 author-con-d.gtp.adobe.com
@@ -1387,6 +1393,7 @@ authrelay.corp.adobe.com
 auth.services.adobe.com
 auth.services.adobe.com.cdn.cloudflare.net
 auth.share.documents.adobe.com
+auth-si.services.adobe.com
 auth.solutions.adobe.com
 auth-staging.adobe.com
 auth-stg1-i.services.adobe.com
@@ -1407,6 +1414,9 @@ auth-ti.services.adobe.com
 authumay261464255923939-authenticate.marketing.adobe.com
 authumay261464255923939.elasticbeanstalk.marketing.adobe.com
 authumay261464255923939.ks.marketing.adobe.com
+auth-va6-internal-control.services.adobe.com
+auth-va6-internal-experiment.services.adobe.com
+auth-va6-i.services.adobe.com
 auth-va6.services.adobe.com
 auth.va7.marketing.adobe.com
 auth.webmail.marketing.adobe.com
@@ -2191,6 +2201,8 @@ cassandra.sds.dev.adobe.com
 cassandra.sds.stg.adobe.com
 cassandra-shared-dev-node.identity-dev.adobe.com
 cassandra-susi2-stg1-node.identity-stage.adobe.com
+cassandra-temporal-prod-node.identity.adobe.com
+cassandra-temporal-stg1-node.identity-stage.adobe.com
 castageccp.corp.adobe.com
 castage.corp.adobe.com
 castagepsm.corp.adobe.com
@@ -2535,6 +2547,7 @@ cedarfair-mid-prod1-lb.campaign.adobe.com
 cedarfair-mid-prod1-res.campaign.adobe.com
 cedarfair-mid-prod1-t.campaign.adobe.com
 cedille.businesscatalyst.com
+ceinnov.corp.adobe.com
 celebrationtest2.businesscatalyst.com
 celestecall.myportfolio.com
 cemexpo.adobe.com
@@ -4082,6 +4095,8 @@ dunamis-ecosystem-dunamis-consent-service-deploy-e-eee168.cloud.adobe.io
 duncangrant.myportfolio.com
 duplessismornay.adobeaemcloud.com
 duvyphotography.myportfolio.com
+dva-coverage.corp.adobe.com
+dva-coverage-stage.corp.adobe.com
 dvadsaprd2.corp.adobe.com
 dvadsastg1.corp.adobe.com
 dvadsastg2.corp.adobe.com
@@ -5868,6 +5883,7 @@ igeo.identity.adobe.com
 igeo.identity-stage.adobe.com
 iggykov2.myportfolio.com
 ignaceduriez.myportfolio.com
+ihub.corp.adobe.com
 iiamerilainen.businesscatalyst.com
 iidasiikaoja.myportfolio.com
 iiq-api.corp.adobe.com
@@ -7252,6 +7268,7 @@ mango-c.corp.adobe.com
 manheim.content.marketing.adobe.com
 manheim.marketing.adobe.com
 mantle-cassandra-client.identity.adobe.com
+mantle-cassandra-client.identity-stage.adobe.com
 mantle-cassandra-node.identity-stage.adobe.com
 mantle-flex.identity.adobe.com
 mantle-flex-or2.identity.adobe.com
@@ -10066,6 +10083,7 @@ paywall.www1.marketing.adobe.com
 pbaas-briefing.corp.adobe.com
 pbaas-briefing.storage.adobe.com
 pbaas-cb-cs-use1a.corp.adobe.com
+pbaas-cs-use1a.corp.adobe.com
 pbaas-overview.corp.adobe.com
 pbis.corp.adobe.com
 pbis-qa.corp.adobe.com
@@ -12113,6 +12131,7 @@ sherlock-lib.corp.adobe.com
 sherlock-lib-stage.corp.adobe.com
 sherlock-ui.corp.adobe.com
 sherlock-ui-stage.corp.adobe.com
+shfe53xeve.data.adobedc.net
 shijieshidabocaigongsipaiming.adobeaemcloud.net
 shinichisugaya.myportfolio.com
 shireen.myportfolio.com
