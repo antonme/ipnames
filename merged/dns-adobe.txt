@@ -2285,6 +2285,7 @@ ccext-public.adobe.io
 ccext-static.adobecces.com
 ccfadmin.corp.adobe.com
 ccfam8-stage.corp.adobe.com
+ccfautoverify.corp.adobe.com
 ccf-control-automation.corp.adobe.com
 ccf-control-automation-dev.corp.adobe.com
 ccf-control-automation-stg.corp.adobe.com
@@ -2539,6 +2540,7 @@ cdn.ubs.test.ajo.adobe.com
 cdn.ultimate-success-emea.test.ajo.adobe.com
 cdn-v1.marketing.adobe.com
 cdn.wunderman-email.cjm.adobe.com
+cdpi-ops.corp.adobe.com
 cdq-api-firewall.marketing.adobe.com
 c-drew-phillips.marketing.adobe.com
 cdw-prod.adobecqms.net
@@ -4517,7 +4519,12 @@ etms-va6.identity.adobe.com
 eTOPghiQKOZU.adobe.com
 ets-dev1-bastion.services.adobe.com
 ets-flow-dev1.services.adobe.com
+ets-flow-stg1.services.adobe.com
 ets-prod-ue-bastion.services.adobe.com
+etsreports-stg1.services.adobe.com
+ets-stg1-bastion.services.adobe.com
+ets-stg1-ue-bastion.services.adobe.com
+ets-stg1-uw-bastion.services.adobe.com
 ets-ui.services.adobe.com
 ets-ui-stg1.services.adobe.com
 eu1.163snapshot.documentsawspreview.adobe.com
@@ -5852,6 +5859,7 @@ identity-dev.adobe.com
 identity.experiencecloud.adobe.com
 identity-mailserver.documents.adobe.com
 identity-okta.services.adobe.com
+identity-okta-stg1.services.adobe.com
 identity-orgs-workers.identity.adobe.com
 identity-stage.adobe.com
 idg.adobe.com
@@ -8050,8 +8058,10 @@ na1e-h.services.adobe.com
 na1.email.documents.adobe.com
 na1e-qa1-internal.services.adobe.com
 na1e.services.adobe.com
+na1e-stg1-internal.services.adobe.com
 na1e-stg1.services.adobe.com
 na1e-stg2-uw1-internal.services.adobe.com
+na1e-stg2-uw1.services.adobe.com
 na1e-ue1-internal.services.adobe.com
 na1.europe-bp.documentsawspreview.adobe.com
 na1e-uw1-internal.services.adobe.com
@@ -11948,6 +11958,8 @@ secret-eu2.documents.adobe.com
 secretshare.corp.adobe.com
 secretshare-dev.corp.adobe.com
 secretshare-testing.corp.adobe.com
+secrets-hygiene.corp.adobe.com
+secrets-radar.corp.adobe.com
 secure.adobesign.com
 secure.adobesignpreview.us
 secure.adobesignstage.us
