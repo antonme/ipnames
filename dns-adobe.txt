@@ -872,6 +872,7 @@ ccext-cdn.adobecces.com
 ccext-public.adobe.io
 ccext-static.adobecces.com
 ccfadmin.corp.adobe.com
+ccfautoverify.corp.adobe.com
 ccf-control-automation.corp.adobe.com
 ccf-control-automation-dev.corp.adobe.com
 ccf-control-automation-stg.corp.adobe.com
@@ -1000,6 +1001,7 @@ cdn.titancert.test.ajo.adobe.com
 cdn.tsbuat.test.ajo.adobe.com
 cdn.ubs.test.ajo.adobe.com
 cdn.ultimate-success-emea.test.ajo.adobe.com
+cdpi-ops.corp.adobe.com
 ceinnov.corp.adobe.com
 cemprende.adobeaemcloud.com
 cengmie.adobeaemcloud.net
@@ -1785,6 +1787,12 @@ ethos.pub.ethos551-prod-va6.ethos.adobe.net
 etlatrueup.corp.adobe.com
 etms-va6.identity.adobe.com
 eTOPghiQKOZU.adobe.com
+ets-flow-stg1.services.adobe.com
+etsreports-stg1.services.adobe.com
+ets-stg1-bastion.services.adobe.com
+ets-stg1-ue-bastion.services.adobe.com
+ets-stg1-uw-bastion.services.adobe.com
+ets-ui-stg1.services.adobe.com
 eu1.cyclone.documentsawspreview.adobe.com
 eu1.documents.adobe.com
 eu1.documentsawspreview.adobe.com
@@ -2307,6 +2315,7 @@ identity.cd.corp.adobe.com
 identity.corp.adobe.com
 identity-dashboard.corp.adobe.com
 identity-dev.adobe.com
+identity-okta-stg1.services.adobe.com
 identity-orgs-workers.identity.adobe.com
 idg.adobe.com
 idg.adobe.io
@@ -2898,6 +2907,10 @@ na1.documentssandbox.adobe.com
 na1.documentssandboxstage.adobe.com
 na1.documentsstage.adobe.com
 na1e-acc.services.adobe.com
+na1e-stg1-internal.services.adobe.com
+na1e-stg1.services.adobe.com
+na1e-stg2-uw1-internal.services.adobe.com
+na1e-stg2-uw1.services.adobe.com
 na1e-uw.services.adobe.com
 na1.p1.documentspreview.adobe.com
 na1.p2.documentspreview.adobe.com
@@ -4412,6 +4425,8 @@ seattle-1.vpn.adobe.com
 secretshare.corp.adobe.com
 secretshare-dev.corp.adobe.com
 secretshare-testing.corp.adobe.com
+secrets-hygiene.corp.adobe.com
+secrets-radar.corp.adobe.com
 secure.adobesignpreview.us
 secure.adobesignstage.us
 securechange.corp.adobe.com
@@ -4435,6 +4450,7 @@ sekhmet-stage.corp.adobe.com
 sekhmet.stage.corp.adobe.com
 sekhmet-stage-or1-vip.corp.adobe.com
 self-ignite.adobeaemcloud.com
+s.email-mobiledx.cjm.adobe.com
 send-asr.acrobat.com
 sendnow.adobe.com
 senniu.adobeaemcloud.net
