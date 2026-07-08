@@ -2539,7 +2539,6 @@ contactretail-pilot-mdn.apple.com
 contactretail-prn.apple.com
 contacts-china-ic3.icloud.com
 contacts-ic2.icloud.com
-contactsws.icloud.com
 content-china-ic1.icloud.com
 content-china-ic2.icloud.com
 contentdelivery02.itunes.apple.com
@@ -2969,7 +2968,6 @@ docs.developer.rd.apple.com
 docs.devpubs.apple.com
 docs.info.apple.com
 documentation.apple.com
-docws-china.icloud.com
 doh.dns.icloud.com
 doh-test.dns.apple.com
 doh-test.dns.icloud.com
@@ -11003,7 +11001,6 @@ p01-docsws-ic1.icloud.com
 p01-docsws-ic3.icloud.com
 p01-docws-ic2.icloud.com
 p01-docws-ic4.icloud.com
-p01-docws.icloud.com
 p01-drivews-ic2.icloud.com
 p01-escrowproxy-china-ic1.icloud.com
 p01-escrowproxy-china-ic2.icloud.com
@@ -11151,7 +11148,6 @@ p02-contacts-ic3.icloud.com
 p02-contactsws-ic1.icloud.com
 p02-contactsws-ic3.icloud.com
 p02-contactsws-ic4.icloud.com
-p02-contactsws.icloud.com
 p02-content-ic1.icloud.com
 p02-content-ic2.icloud.com
 p02-content-ic3.icloud.com
@@ -11304,7 +11300,6 @@ p03-content-ic1.icloud.com
 p03-content-ic3.icloud.com
 p03-content-ic4.icloud.com
 p03-docsws-ic3.icloud.com
-p03-docws.icloud.com
 p03-drivews.icloud.com
 p03-escrowproxy-china-ic1.icloud.com
 p03-feedbackws-ic1.icloud.com
@@ -11450,14 +11445,12 @@ p04-contacts-ic1.icloud.com
 p04-contacts-ic3.icloud.com
 p04-contactsws-ic2.icloud.com
 p04-contactsws-ic3.icloud.com
-p04-contactsws.icloud.com
 p04-content-ic1.icloud.com
 p04-content-ic3.icloud.com
 p04-content-ic4.icloud.com
 p04-contentws.icloud.com
 p04-docsws-ic2-ic3.icloud.com
 p04-docsws-ic2.icloud.com
-p04-docws.icloud.com
 p04-drivews-ic1.icloud.com
 p04-drivews-ic2.icloud.com
 p04-drivews.icloud.com
@@ -11566,7 +11559,6 @@ p04-uploadimagews-ic3.icloud.com
 p04-uploadimagews.icloud.com
 p05-acsegateway.icloud.com
 p05-conduit.connectivity-old.icloud.com
-p05-docws.icloud.com
 p05-drivews.icloud.com
 p05-feedbackws.icloud.com
 p05-fmfmail-china.icloud.com
@@ -11597,7 +11589,6 @@ p05-ubiquity-china.icloud.com
 p05-ubiquityws.icloud.com
 p06-acsegateway.icloud.com
 p06-ckdashboardws.icloud.apple.com
-p06-docws-china.icloud.com
 p06-feedbackws.icloud.com
 p06-fmfmobile-china.icloud.com
 p06-iwmb0-china.icloud.com
@@ -11631,7 +11622,6 @@ p06-ubiquity.icloud.com
 p07-ckdevice.icloud.com
 p07-conduit.connectivity-old.icloud.com
 p07-content-china-iworkpreviewapi-china.icloud.com
-p07-docws-china.icloud.com
 p07-feedbackws.icloud.com
 p07-fmf.icloud.com
 p07-fmfmobile-china.icloud.com
@@ -11665,7 +11655,6 @@ p07-ubiquity-china.icloud.com
 p08-acsegateway.icloud.com
 p08-ckdashboardws.icloud.apple.com
 p08-ckdatabasews.ns3.asia.apple.com
-p08-contactsws.icloud.com
 p08-drivews.icloud.com
 p08-fmf-china.icloud.com
 p08-fmf.icloud.com
@@ -12184,8 +12173,6 @@ p109-ubiquity.icloud.com
 p109-ubiquityws.icloud.com
 p109-uploadimagews-china.icloud.com
 p10-bookmarks-china.icloud.com
-p10-docws-china.icloud.com
-p10-docws.icloud.com
 p10-drivews.icloud.com
 p10-fmf.icloud.com
 p10-fmfweb.icloud.com
@@ -12683,7 +12670,6 @@ p11-ckdashboardws.icloud.apple.com
 p11-ckdevice.icloud.com
 p11-conduit0.icloud.com
 p11-contentws.icloud.com
-p11-docws-china.icloud.com
 p11-feedbackws.icloud.com
 p11-fmfmail-china.icloud.com
 p11-fmfmobile-china.icloud.com
@@ -13149,7 +13135,6 @@ p129-sharedstreams-china.icloud.com
 p129-statici-china.icloud.com
 p12-bookmarks-china.icloud.com
 p12-ckdevice.icloud.com
-p12-contactsws.icloud.com
 p12-feedbackws.icloud.com
 p12-fmip-china.icloud.com
 p12-fmipmail-china.icloud.com
@@ -13632,7 +13617,6 @@ p139-uploadimagews-china.icloud.com
 p13-aolauth.icloud.com
 p13-ckdatabasews-ds.icloud.apple.com
 p13-ckdevice.icloud.com
-p13-contactsws.icloud.com
 p13-drivews.icloud.com
 p13-fmf-china.icloud.com
 p13-fmf.icloud.com
@@ -14104,7 +14088,6 @@ p149-quota-china.icloud.com
 p149-uploadimagews-china.icloud.com
 p14-bookmarks.icloud.com
 p14-contentws.icloud.com
-p14-docws-china.icloud.com
 p14-drivews.icloud.com
 p14-drivews-mobilebackup-china.icloud.com
 p14-fmfmail-china.icloud.com
@@ -15085,8 +15068,6 @@ p16-ckdashboardws.icloud.apple.com
 p16-ckdatabasews-ds.icloud.apple.com
 p16-ckdevice.icloud.com
 p16-conduit.connectivity.icloud.com
-p16-contactsws.icloud.com
-p16-docws-china.icloud.com
 p16-fmfmobile-china.icloud.com
 p16-fmipalservice-china.icloud.com
 p16-fmip.icloud.com
@@ -15720,7 +15701,6 @@ p18-bookmarks.icloud.com
 p18-ckdashboardws.icloud.apple.com
 p18-ckdatabasews-ds.icloud.apple.com
 p18-ckdevice.icloud.com
-p18-contactsws.icloud.com
 p18-contentws.icloud.com
 p18-drivews.icloud.com
 p18-fmfmail-china.icloud.com
@@ -15757,8 +15737,6 @@ p19-bookmarks-china.icloud.com
 p19-bookmarks.icloud.com
 p19-ckdashboardws.icloud.apple.com
 p19-ckdatabasews-ds.icloud.apple.com
-p19-docws-china.icloud.com
-p19-docws.icloud.com
 p19-fmf.icloud.com
 p19-fmfmail-china.icloud.com
 p19-fmfmobile-china.icloud.com
@@ -16014,8 +15992,6 @@ p209-notesws-china.icloud.com
 p209-pushws-china.icloud.com
 p209-sharedstreams-china.icloud.com
 p20-ckdatabasews-ds.icloud.apple.com
-p20-contactsws.icloud.com
-p20-docws.icloud.com
 p20-fmfmobile-china.icloud.com
 p20-fmipmail-china.icloud.com
 p20-imap.mail.icloud.com
@@ -16265,7 +16241,6 @@ p21-acsegateway.icloud.com
 p21-aolauth.icloud.com
 p21-bookmarks.icloud.com
 p21-ckdashboardws.icloud.apple.com
-p21-contactsws.icloud.com
 p21-drivews.icloud.com
 p21-feedbackws.icloud.com
 p21-fmf.icloud.com
@@ -16537,7 +16512,6 @@ p229-ubiquity-china.icloud.com
 p229-uploadimagews-china.icloud.com
 p22-aolauth.icloud.com
 p22-conduit.connectivity.icloud.com
-p22-contactsws.icloud.com
 p22-fmf.icloud.com
 p22-fmfmobile-china.icloud.com
 p22-fmfweb.icloud.com
@@ -16745,9 +16719,7 @@ p238-pushws-china.icloud.com
 p238-sharedav-china.icloud.com
 p238-uploadimagews-china.icloud.com
 p23-bookmarks-china.icloud.com
-p23-contactsws.icloud.com
 p23-contentws.icloud.com
-p23-docws.icloud.com
 p23-fmf-china.icloud.com
 p23-fmfmail-china.icloud.com
 p23-fmfmobile.icloud.com
@@ -16783,7 +16755,6 @@ p23-sharedav.icloud.com
 p24-acsegateway.icloud.com
 p24-aolauth.icloud.com
 p24-ckdevice.icloud.com
-p24-docws.icloud.com
 p24-fmfmobile-china.icloud.com
 p24-fmipalcweb.icloud.com
 p24-fmip.icloud.com
@@ -16812,9 +16783,7 @@ p24-ubiquity.icloud.com
 p25-aolauth.icloud.com
 p25-bookmarks-china.icloud.com
 p25-ckdevice.icloud.com
-p25-contactsws.icloud.com
 p25-contentws.icloud.com
-p25-docws.icloud.com
 p25-fmf-china.icloud.com
 p25-fmf.icloud.com
 p25-fmfweb.icloud.com
@@ -16843,7 +16812,6 @@ p26-aolauth.icloud.com
 p26-btmm.icloud.com
 p26-ckdashboardws.icloud.apple.com
 p26-ckdatabasews-ds.icloud.apple.com
-p26-contactsws.icloud.com
 p26-fmfweb.icloud.com
 p26-fmipalservice-china.icloud.com
 p26-fmipmobile.icloud.com
@@ -16877,7 +16845,6 @@ p27-bookmarks-china.icloud.com
 p27-btmmconduit.connectivity.icloud.com
 p27-ckdevice.icloud.com
 p27-conduit.connectivity.icloud.com
-p27-contactsws.icloud.com
 p27-feedbackws.icloud.com
 p27-fmf-china.icloud.com
 p27-fmf.icloud.com
@@ -16911,8 +16878,6 @@ p28-bookmarks.icloud.com
 p28-calendars-notesws.icloud.com
 p28-ckdashboardws.icloud.apple.com
 p28-contentws.icloud.com
-p28-docws-china.icloud.com
-p28-docws.icloud.com
 p28-drivews.icloud.com
 p28-fmfmail-china.icloud.com
 p28-fmfmobile-china.icloud.com
@@ -17151,8 +17116,6 @@ p309-notesws.icloud.com
 p309-remindersws.icloud.com
 p30-bookmarks.icloud.com
 p30-caldav-iwmb7-china.icloud.com
-p30-docws-china.icloud.com
-p30-docws.icloud.com
 p30-feedbackws.icloud.com
 p30-fmf-china.icloud.com
 p30-fmf.icloud.com
@@ -17197,8 +17160,6 @@ p310-remindersws.icloud.com
 p310-uploadimagews.icloud.com
 p31-ckdashboardws.icloud.apple.com
 p31-conduit.connectivity.icloud.com
-p31-contactsws.icloud.com
-p31-docws.icloud.com
 p31-fmf.icloud.com
 p31-fmip.icloud.com
 p31-fmipmail-china.icloud.com
@@ -17257,9 +17218,7 @@ p33-acsegateway.icloud.com
 p33-bookmarks-china.icloud.com
 p33-ckdatabasews-ds.icloud.apple.com
 p33-conduit.connectivity.icloud.com
-p33-contactsws.icloud.com
 p33-contentws.icloud.com
-p33-docws-china.icloud.com
 p33-drivews.icloud.com
 p33-fmf-china.icloud.com
 p33-fmf.icloud.com
@@ -17295,7 +17254,6 @@ p34-ckdataplatformasews-ds.icloud.apple.com
 p34-ckdevice.icloud.com
 p34-ckdivpn-betaabasews-ds.icloud.apple.com
 p34-contentws.icloud.com
-p34-docws-china.icloud.com
 p34-fmfmobile.icloud.com
 p34-fmip-china.icloud.com
 p34-fmip.icloud.com
@@ -17329,8 +17287,6 @@ p34-ubiquityws.icloud.com
 p35-acsegateway.icloud.com
 p35-ckdatabasews-ds.icloud.apple.com
 p35-contentws.icloud.com
-p35-docws-china.icloud.com
-p35-docws.icloud.com
 p35-fmf-china.icloud.com
 p35-fmf.icloud.com
 p35-fmfmail-china.icloud.com
@@ -17363,7 +17319,6 @@ p36-bookmarks-china.icloud.com
 p36-ckdatabasews-ds.icloud.apple.com
 p36-ckdevice.icloud.com
 p36-contentws.icloud.com
-p36-docws-china.icloud.com
 p36-drivews.icloud.com
 p36-fmf.icloud.com
 p36-fmfmobile.icloud.com
@@ -17434,9 +17389,7 @@ p37-ubiquityws.icloud.com
 p38-aolauth.icloud.com
 p38-bookmarks-china.icloud.com
 p38-ckdevice.icloud.com
-p38-contactsws.icloud.com
 p38-contentws.icloud.com
-p38-docws-china.icloud.com
 p38-drivews.icloud.com
 p38-fmfmail-china.icloud.com
 p38-fmfweb.icloud.com
@@ -17466,9 +17419,6 @@ p38-ubiquity.icloud.com
 p38-ubiquityws.icloud.com
 p39-bookmarks.icloud.com
 p39-ckdatabasews-ds.icloud.apple.com
-p39-contactsws.icloud.com
-p39-docws-china.icloud.com
-p39-docws.icloud.com
 p39-fmf-china.icloud.com
 p39-fmfmail-china.icloud.com
 p39-fmfmobile.icloud.com
@@ -17530,7 +17480,6 @@ p40-statici-china.icloud.com
 p40-uploadimagews.icloud.com
 p41-ckdashboardws.icloud.apple.com
 p41-ckdevice.icloud.com
-p41-contactsws.icloud.com
 p41-drivews.icloud.com
 p41-fmfmail-china.icloud.com
 p41-fmipalservice-china.icloud.com
@@ -17568,7 +17517,6 @@ p41-upp42-iwmb9oadimagews.icloud.com
 p42-aolauth.icloud.com
 p42-ckdashboardws.icloud.apple.com
 p42-ckdevice.icloud.com
-p42-docws.icloud.com
 p42-drivews.icloud.com
 p42-fmfweb.icloud.com
 p42-fmip-china.icloud.com
@@ -17667,7 +17615,6 @@ p45-acsegateway.icloud.com
 p45-aolauth.icloud.com
 p45-bookmarks-china.icloud.com
 p45-ckdevice.icloud.com
-p45-docws-china.icloud.com
 p45-drivews.icloud.com
 p45-fmfmail-china.icloud.com
 p45-fmfmobile-china.icloud.com
@@ -17701,7 +17648,6 @@ p45-ubiquityws.icloud.com
 p45-uploadimagews.icloud.com
 p46-bookmarks-china.icloud.com
 p46-bookmarks.icloud.com
-p46-contactsws.icloud.com
 p46-contentws.icloud.com
 p46-drivews.icloud.com
 p46-fmf-china.icloud.com
@@ -17798,7 +17744,6 @@ p48-uploadimagews.icloud.com
 p49-aolauth.icloud.com
 p49-bookmarks-china.icloud.com
 p49-bookmarks.icloud.com
-p49-contactsws.icloud.com
 p49-contentws.icloud.com
 p49-feedbackws.icloud.com
 p49-fmf.icloud.com
@@ -17831,8 +17776,6 @@ p50-bookmarks-china.icloud.com
 p50-ckdashboardws.icloud.apple.com
 p50-ckdatabasews-ds.icloud.apple.com
 p50-contentws.icloud.com
-p50-docws-china.icloud.com
-p50-docws.icloud.com
 p50-fmf.icloud.com
 p50-fmfmobile-china.icloud.com
 p50-fmfmobile.icloud.com
@@ -17909,9 +17852,7 @@ p51-ubiquityws.icloud.com
 p52-acsegateway.icloud.com
 p52-bookmarks-china.icloud.com
 p52-ckdatabasews-ds.icloud.apple.com
-p52-contactsws.icloud.com
 p52-contentws.icloud.com
-p52-docws-china.icloud.com
 p52-fmf.icloud.com
 p52-fmfmail-china.icloud.com
 p52-fmfmobile.icloud.com
@@ -17944,7 +17885,6 @@ p53-bookmarks-china.icloud.com
 p53-ckdashboardws.icloud.apple.com
 p53-ckdatabasews-ds.icloud.apple.com
 p53-ckdevice.icloud.com
-p53-docws.icloud.com
 p53-feedbackws.icloud.com
 p53-fmf-china.icloud.com
 p53-fmf.icloud.com
@@ -17982,9 +17922,7 @@ p54-acsegateway.icloud.com
 p54-bookmarks-china.icloud.com
 p54-bookmarks.icloud.com
 p54-ckdashboardws.icloud.apple.com
-p54-contactsws.icloud.com
 p54-contentws.icloud.com
-p54-docws-china.icloud.com
 p54-drivews.icloud.com
 p54-fmf-china.icloud.com
 p54-fmfmail-china.icloud.com
@@ -18022,7 +17960,6 @@ p55-aolauth.icloud.com
 p55-bookmarks-china.icloud.com
 p55-bookmarks.icloud.com
 p55-ckdatabasews-ds.icloud.apple.com
-p55-contactsws.icloud.com
 p55-contentws.icloud.com
 p55-feedbackws.icloud.com
 p55-fmip-china.icloud.com
@@ -18110,7 +18047,6 @@ p57-streams.icloud.com
 p58-ckdashboardws.icloud.apple.com
 p58-ckdatabasews-ds.icloud.apple.com
 p58-ckmgmtatabasews.icloumgmt.apple.com
-p58-docws.icloud.com
 p58-drivews.icloud.com
 p58-feedbackws.icloud.com
 p58-fmf-china.icloud.com
@@ -18141,8 +18077,6 @@ p59-aolauth.icloud.com
 p59-bookmarks.icloud.com
 p59-ckdashboardws.icloud.apple.com
 p59-ckdatabasews-ds.icloud.apple.com
-p59-contactsws.icloud.com
-p59-docws-china.icloud.com
 p59-drivews.icloud.com
 p59-feedbackws.icloud.com
 p59-fmfmobile-china.icloud.com
@@ -18183,7 +18117,6 @@ p60-bookmarks.icloud.com
 p60-ckdashboardws.icloud.apple.com
 p60-ckdatabasews-ds.icloud.apple.com
 p60-ckdevice.icloud.com
-p60-docws-china.icloud.com
 p60-fmfmail-china.icloud.com
 p60-fmfmobile-china.icloud.com
 p60-fmfweb.icloud.com
@@ -18225,8 +18158,6 @@ p61-aolauth.icloud.com
 p61-ckdalt-70shboalt-70rdws.icloud.apple.com
 p61-ckdashboardws.icloud.apple.com
 p61-ckdevice.icloud.com
-p61-contactsws.icloud.com
-p61-docws-china.icloud.com
 p61-feedbackws.icloud.com
 p61-fmfmobile-china.icloud.com
 p61-fmip-china.icloud.com
@@ -18278,8 +18209,6 @@ p62-statici.icloud.com
 p62-ubiquity-china.icloud.com
 p63-bookmarks.icloud.com
 p63-ckdatabasews-ds.icloud.apple.com
-p63-docws-china.icloud.com
-p63-docws.icloud.com
 p63-drivews.icloud.com
 p63-fmfmail-china.icloud.com
 p63-fmipmail.icloud.com
@@ -18311,7 +18240,6 @@ p64-acsegateway.icloud.com
 p64-ckdashboardws.icloud.apple.com
 p64-ckdatabasews-ds.icloud.apple.com
 p64-contentws.icloud.com
-p64-docws.icloud.com
 p64-fmfmail-china.icloud.com
 p64-fmfmobile-china.icloud.com
 p64-fmipalservice-china.icloud.com
@@ -18378,8 +18306,6 @@ p65-ubiquity-china.icloud.com
 p66-acsegateway.icloud.com
 p66-bookmarks-china.icloud.com
 p66-ckdevice.icloud.com
-p66-contactsws.icloud.com
-p66-docws-china.icloud.com
 p66-drivews.icloud.com
 p66-fmf-china.icloud.com
 p66-fmf.icloud.com
@@ -18415,7 +18341,6 @@ p66-streams.icloud.com
 p66-uploadimagews.icloud.com
 p67-ckdatabasews-ds.icloud.apple.com
 p67-contentws.icloud.com
-p67-docws.icloud.com
 p67-drivews.icloud.com
 p67-escrowproxy-china-iwmb0.icloud.com
 p67-fmfmail-china.icloud.com
@@ -18444,7 +18369,6 @@ p67-ubiquity.icloud.com
 p67-uploadimagews.icloud.com
 p68-acsegateway.icloud.com
 p68-ckdevice.icloud.com
-p68-docws-china.icloud.com
 p68-drivews.icloud.com
 p68-fmipmail.icloud.com
 p68-geows.icloud.com
@@ -18509,7 +18433,6 @@ p69-sharedstreams-china.icloud.com
 p69-smtp.mail.icloud.com
 p69-statici.icloud.com
 p6-staging.itunes.apple.com
-p70-contactsws.icloud.com
 p70-contentws.icloud.com
 p70-drivews.icloud.com
 p70-feedbackws.icloud.com
@@ -18545,7 +18468,6 @@ p70-statici.icloud.com
 p70-ubiquityws.icloud.com
 p71-bookmarks-china.icloud.com
 p71-ckdatabase-streams.xs4tz.icloud.com
-p71-docws-china.icloud.com
 p71-fmfmobile.icloud.com
 p71-fmipalservice-china.icloud.com
 p71-fmip-china.icloud.com
@@ -18581,7 +18503,6 @@ p72-bookmarks.icloud.com
 p72-ckdashboardws.icloud.apple.com
 p72-ckdatabasews-ds.icloud.apple.com
 p72-ckdevice.icloud.com
-p72-docws-china.icloud.com
 p72-docws.icloud.com
 p72-drivews.icloud.com
 p72-fmfweb.icloud.com
@@ -18672,8 +18593,6 @@ p97-ubiquity.icloud.com
 p97-ubiquityws.icloud.com
 p97-uploadimagews.icloud.com
 p98-ckdashboardws.icloud.apple.com
-p98-contactsws.icloud.com
-p98-docws-china.icloud.com
 p98-drivews.icloud.com
 p98-feedbackws.icloud.com
 p98-fmfmobile.icloud.com
