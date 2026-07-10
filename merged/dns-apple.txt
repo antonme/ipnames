@@ -2413,6 +2413,7 @@ applescript.apple.com
 appleseed.apple.com
 appleseed-beta.apple.com
 appleseed-beta-old.apple.com
+appleseedcdn.apple.com
 appleseedcedar.apple.com
 appleseeddownload.apple.com
 appleseeddownload-stage.apple.com
@@ -3279,6 +3280,7 @@ cds-g.apple.com
 cds-mdn.apple.com
 cds-mdn-sh-pod2.apple.com
 cds-prn-sh-pod1.apple.com
+cds-temp.apple.com.akadns.net
 cds-usw2.apple.com
 cdx-nk11.gc.apple.com
 ce.apple-dns.net
@@ -3458,7 +3460,6 @@ clearmater-dark.apple.com
 click.apple.com
 clickwrap.apple.com
 client-api-cdn.itunes-apple.com.akadns.net
-client-api-cdn-itunes-apple-com.v.aaplimg.com
 client-api.itunes.apple.com
 client-api.itunes.apple.com.edgesuite.net
 clientflow.apple.com
@@ -4872,6 +4873,7 @@ edge-079.defra2.icloud-content.com
 edge-079.usbos2.icloud-content.com
 edge-079.uslax2.icloud-content.com
 edge-080.deber3.icloud-content.com
+edge-080.defra2.icloud-content.com
 edge-080.hkhkg.icloud-content.com
 edge-080.sesto4.icloud-content.com
 edge-080.usbos2.icloud-content.com
@@ -6309,6 +6311,7 @@ edge-331.jposa3.icloud-content.com
 edge-331.sesto4.icloud-content.com
 edge-331.usdal2.icloud-content.com
 edge-332.deber3.icloud-content.com
+edge-332.defra2.icloud-content.com
 edge-332.jposa3.icloud-content.com
 edge-332.sesto4.icloud-content.com
 edge-332.usdal2.icloud-content.com
@@ -6397,6 +6400,7 @@ edge-349.usdal2.icloud-content.com
 edge-349.usqas5.icloud-content.com
 edge-350-098.ussjc1.me.icloud-content.com
 edge-350.deber3.icloud-content.com
+edge-350.defra2.icloud-content.com
 edge-350.jposa3.icloud-content.com
 edge-350.sesto4.icloud-content.com
 edge-350.usdal2.icloud-content.com
@@ -7667,6 +7671,7 @@ flipper.apple.com
 florence-reports.cdn-apple.com
 fmdportal-mdn.apple.com
 fmf-china-ic1.icloud.com
+fmf-china.icloud.com
 fmf-ic2.icloud.com
 fmfmail-china-ic4.icloud.com
 fmfmail-ic3.icloud.com
@@ -10666,6 +10671,7 @@ lgs-ext.apple.com
 lgs-redirect-ext.apple.com
 library-auth.itunes.apple.com
 librarydaap-cdn.lb-apple.com.akadns.net
+librarydaap-cdn-row.lb-apple.com.akadns.net
 librarydaap.itunes.apple.com
 librarydaap.itunes.apple.com.edgekey.net
 ligerexternal-service-amr-mdn.apple.com
@@ -11075,6 +11081,8 @@ marcom-jamf-media.cdn-apple.com
 ma-rdm-prod.apple.com
 margewmm.apple.com
 margewmt.apple.com
+marina.corp.apple.com
+marina.ist.apple.com
 marina-stg.corp.apple.com
 markets.apple.com
 markzd1113.explr.poc.cp.sap.apple.com
@@ -13822,6 +13830,7 @@ mzstorekit.itunes.apple.com
 mzstorekit.itunes.apple.com.edgesuite.net
 mzstorekit.lb-apple.com.akadns.net
 mzstorekit-sb.itunes.apple.com
+mzsupport.apple.com
 n2150440.explr.poc.cp.sap.apple.com
 n301p13.geis.apple.com
 n301p13.geis-px10.apple.com
@@ -14707,6 +14716,7 @@ p01-escrowproxy-china.icloud.com
 p01-escrowproxy.icloud.com
 p01-exportws.iwork.apple.com
 p01-feedbackws-ic3.icloud.com
+p01-feedbackws.icloud.com
 p01-fmf-china-ic3.icloud.com
 p01-fmf-china-ic4.icloud.com
 p01-fmf-china.icloud.com
@@ -14894,7 +14904,9 @@ p02-escrowproxy-ic2.icloud.com
 p02-escrowproxy-ic3.icloud.com
 p02-escrowproxy.icloud.com
 p02-exportws.iwork.apple.com
+p02-feedbackws.icloud.com
 p02-fmf-china-ic2.icloud.com
+p02-fmf-china.icloud.com
 p02-fmf-ic3.icloud.com
 p02-fmf-ic4.icloud.com
 p02-fmf.icloud.com
@@ -15071,6 +15083,8 @@ p03-escrowproxy-china.icloud.com
 p03-escrowproxy.icloud.com
 p03-feedbackws-ic1.icloud.com
 p03-feedbackws-ic3.icloud.com
+p03-feedbackws.icloud.com
+p03-fmf-china.icloud.com
 p03-fmf-ic3.icloud.com
 p03-fmfmobile-china-ic3.icloud.com
 p03-fmfmobile-china-ic4.icloud.com
@@ -15255,8 +15269,10 @@ p04-escrowproxy-china.icloud.com
 p04-escrowproxy.icloud.com
 p04-feedbackws-ic2.icloud.com
 p04-feedbackws-ic3.icloud.com
+p04-feedbackws.icloud.com
 p04-fmf-china-ic1.icloud.com
 p04-fmf-china-ic2.icloud.com
+p04-fmf-china.icloud.com
 p04-fmf-ic2.icloud.com
 p04-fmf-ic3.icloud.com
 p04-fmf.icloud.com
@@ -15392,6 +15408,7 @@ p05-drivews.icloud.com
 p05-escrowproxy-china.icloud.com
 p05-escrowproxy.icloud.com
 p05-feedbackws.icloud.com
+p05-fmf-china.icloud.com
 p05-fmfmail-china.icloud.com
 p05-fmfweb.icloud.com
 p05-fmip-china.icloud.com
@@ -15453,6 +15470,7 @@ p06-drivews.icloud.com
 p06-escrowproxy-china.icloud.com
 p06-escrowproxy.icloud.com
 p06-feedbackws.icloud.com
+p06-fmf-china.icloud.com
 p06-fmfmobile-china.icloud.com
 p06-fmip.icloud.com
 p06-iwmb0-china.icloud.com
@@ -15519,6 +15537,7 @@ p07-drivews.icloud.com
 p07-escrowproxy-china.icloud.com
 p07-escrowproxy.icloud.com
 p07-feedbackws.icloud.com
+p07-fmf-china.icloud.com
 p07-fmf.icloud.com
 p07-fmfmobile-china.icloud.com
 p07-fmfmobile-current.inbom2.icloud-content.com
@@ -15583,6 +15602,7 @@ p08-docws.icloud.com
 p08-drivews.icloud.com
 p08-escrowproxy-china.icloud.com
 p08-escrowproxy.icloud.com
+p08-feedbackws.icloud.com
 p08-fmf-china.icloud.com
 p08-fmf.icloud.com
 p08-fmfmail-china.icloud.com
@@ -15654,6 +15674,7 @@ p09-escrowproxy-china.icloud.com
 p09-escrowproxy.icloud.com
 p09-exportws.iwork.apple.com
 p09-feedbackws.icloud.com
+p09-fmf-china.icloud.com
 p09-fmf.icloud.com
 p09-fmfmobile-china.icloud.com
 p09-fmfmobile.icloud.com
@@ -16311,6 +16332,8 @@ p10-drivews.icloud.com
 p10-escrowproxy-china.icloud.com
 p10-escrowproxy.icloud.com
 p10-exportws.iwork.apple.com
+p10-feedbackws.icloud.com
+p10-fmf-china.icloud.com
 p10-fmf.icloud.com
 p10-fmfweb.icloud.com
 p10-fmipalcweb.icloud.com
@@ -16996,6 +17019,7 @@ p11-escrowproxy-china.icloud.com
 p11-escrowproxy.icloud.com
 p11-exportws.iwork.apple.com
 p11-feedbackws.icloud.com
+p11-fmf-china.icloud.com
 p11-fmfmail-china.icloud.com
 p11-fmfmobile-china.icloud.com
 p11-fmfmobile.icloud.com
@@ -17664,6 +17688,7 @@ p12-escrowproxy-china.icloud.com
 p12-escrowproxy.icloud.com
 p12-exportws.iwork.apple.com
 p12-feedbackws.icloud.com
+p12-fmf-china.icloud.com
 p12-fmip-china.icloud.com
 p12-fmipmail-china.icloud.com
 p12-iwmb1.icloud.com
@@ -18348,6 +18373,7 @@ p13-drivews.icloud.com
 p13-escrowproxy-china.icloud.com
 p13-escrowproxy.icloud.com
 p13-exportws.iwork.apple.com
+p13-feedbackws.icloud.com
 p13-fmf-china.icloud.com
 p13-fmf.icloud.com
 p13-fmfmail-china.icloud.com
@@ -18985,6 +19011,8 @@ p14-drivews-mobilebackup-china.icloud.com
 p14-escrowproxy-china.icloud.com
 p14-escrowproxy.icloud.com
 p14-exportws.iwork.apple.com
+p14-feedbackws.icloud.com
+p14-fmf-china.icloud.com
 p14-fmfmail-china.icloud.com
 p14-fmfmobile-china.icloud.com
 p14-fmip.icloud.com
@@ -19644,6 +19672,8 @@ p15-drivews.icloud.com
 p15-escrowproxy-china.icloud.com
 p15-escrowproxy.icloud.com
 p15-exportws.iwork.apple.com
+p15-feedbackws.icloud.com
+p15-fmf-china.icloud.com
 p15-fmfweb.icloud.com
 p15-fmip-china.icloud.com
 p15-fmipmail.icloud.com
@@ -20278,6 +20308,8 @@ p16-drivews.icloud.com
 p16-escrowproxy-china.icloud.com
 p16-escrowproxy.icloud.com
 p16-exportws.iwork.apple.com
+p16-feedbackws.icloud.com
+p16-fmf-china.icloud.com
 p16-fmfmobile-china.icloud.com
 p16-fmipalservice-china.icloud.com
 p16-fmip.icloud.com
@@ -20918,6 +20950,7 @@ p17-escrowproxy-china.icloud.com
 p17-escrowproxy.icloud.com
 p17-exportws.iwork.apple.com
 p17-feedbackws.icloud.com
+p17-fmf-china.icloud.com
 p17-fmfmail-china.icloud.com
 p17-fmfmobile-china.icloud.com
 p17-fmfmobile.icloud.com
@@ -21655,6 +21688,8 @@ p18-drivews.icloud.com
 p18-escrowproxy-china.icloud.com
 p18-escrowproxy.icloud.com
 p18-exportws.iwork.apple.com
+p18-feedbackws.icloud.com
+p18-fmf-china.icloud.com
 p18-fmfmail-china.icloud.com
 p18-fmfmobile.icloud.com
 p18-fmipalcweb.icloud.com
@@ -21941,6 +21976,8 @@ p19-drivews.icloud.com
 p19-escrowproxy-china.icloud.com
 p19-escrowproxy.icloud.com
 p19-exportws.iwork.apple.com
+p19-feedbackws.icloud.com
+p19-fmf-china.icloud.com
 p19-fmf.icloud.com
 p19-fmfmail-china.icloud.com
 p19-fmfmobile-china.icloud.com
@@ -22313,6 +22350,8 @@ p20-drivews.icloud.com
 p20-escrowproxy-china.icloud.com
 p20-escrowproxy.icloud.com
 p20-exportws.iwork.apple.com
+p20-feedbackws.icloud.com
+p20-fmf-china.icloud.com
 p20-fmfmobile-china.icloud.com
 p20-fmipmail-china.icloud.com
 p20-imap.mail.icloud.com
@@ -22639,6 +22678,7 @@ p21-escrowproxy-china.icloud.com
 p21-escrowproxy.icloud.com
 p21-exportws.iwork.apple.com
 p21-feedbackws.icloud.com
+p21-fmf-china.icloud.com
 p21-fmf.icloud.com
 p21-fmfmobile.icloud.com
 p21-fmip-china.icloud.com
@@ -22984,6 +23024,8 @@ p22-drivews.icloud.com
 p22-escrowproxy-china.icloud.com
 p22-escrowproxy.icloud.com
 p22-exportws.iwork.apple.com
+p22-feedbackws.icloud.com
+p22-fmf-china.icloud.com
 p22-fmf.icloud.com
 p22-fmfmobile-china.icloud.com
 p22-fmfweb.icloud.com
@@ -23264,6 +23306,7 @@ p23-drivews.icloud.com
 p23-escrowproxy-china.icloud.com
 p23-escrowproxy.icloud.com
 p23-exportws.iwork.apple.com
+p23-feedbackws.icloud.com
 p23-fmf-china.icloud.com
 p23-fmfmail-china.icloud.com
 p23-fmfmobile.icloud.com
@@ -23336,6 +23379,8 @@ p24-drivews.icloud.com
 p24-escrowproxy-china.icloud.com
 p24-escrowproxy.icloud.com
 p24-exportws.iwork.apple.com
+p24-feedbackws.icloud.com
+p24-fmf-china.icloud.com
 p24-fmfmobile-china.icloud.com
 p24-fmipalcweb.icloud.com
 p24-fmip.icloud.com
@@ -23404,6 +23449,7 @@ p25-drivews.icloud.com
 p25-escrowproxy-china.icloud.com
 p25-escrowproxy.icloud.com
 p25-exportws.iwork.apple.com
+p25-feedbackws.icloud.com
 p25-fmf-china.icloud.com
 p25-fmf.icloud.com
 p25-fmfweb.icloud.com
@@ -23471,6 +23517,8 @@ p26-drivews.icloud.com
 p26-escrowproxy-china.icloud.com
 p26-escrowproxy.icloud.com
 p26-exportws.iwork.apple.com
+p26-feedbackws.icloud.com
+p26-fmf-china.icloud.com
 p26-fmfweb.icloud.com
 p26-fmipalservice-china.icloud.com
 p26-fmipmobile.icloud.com
@@ -23613,6 +23661,8 @@ p28-drivews.icloud.com
 p28-escrowproxy-china.icloud.com
 p28-escrowproxy.icloud.com
 p28-exportws.iwork.apple.com
+p28-feedbackws.icloud.com
+p28-fmf-china.icloud.com
 p28-fmfmail-china.icloud.com
 p28-fmfmobile-china.icloud.com
 p28-fmfmobile.icloud.com
@@ -23685,6 +23735,7 @@ p29-escrowproxy-china.icloud.com
 p29-escrowproxy.icloud.com
 p29-exportws.iwork.apple.com
 p29-feedbackws.icloud.com
+p29-fmf-china.icloud.com
 p29-fmf.icloud.com
 p29-fmfmail-china.icloud.com
 p29-fmfmobile-china.icloud.com
@@ -24376,6 +24427,8 @@ p31-drivews.icloud.com
 p31-escrowproxy-china.icloud.com
 p31-escrowproxy.icloud.com
 p31-exportws.iwork.apple.com
+p31-feedbackws.icloud.com
+p31-fmf-china.icloud.com
 p31-fmf.icloud.com
 p31-fmip.icloud.com
 p31-fmipmail-china.icloud.com
@@ -24440,6 +24493,8 @@ p32-drivews.icloud.com
 p32-escrowproxy-china.icloud.com
 p32-escrowproxy.icloud.com
 p32-exportws.iwork.apple.com
+p32-feedbackws.icloud.com
+p32-fmf-china.icloud.com
 p32-fmf.icloud.com
 p32-fmfmail-china.icloud.com
 p32-fmfmobile.icloud.com
@@ -24510,6 +24565,7 @@ p33-drivews.icloud.com
 p33-escrowproxy-china.icloud.com
 p33-escrowproxy.icloud.com
 p33-exportws.iwork.apple.com
+p33-feedbackws.icloud.com
 p33-fmf-china.icloud.com
 p33-fmf.icloud.com
 p33-fmfmail-china.icloud.com
@@ -24581,6 +24637,8 @@ p34-drivews.icloud.com
 p34-escrowproxy-china.icloud.com
 p34-escrowproxy.icloud.com
 p34-exportws.iwork.apple.com
+p34-feedbackws.icloud.com
+p34-fmf-china.icloud.com
 p34-fmfmobile.icloud.com
 p34-fmip-china.icloud.com
 p34-fmip.icloud.com
@@ -24652,6 +24710,7 @@ p35-drivews.icloud.com
 p35-escrowproxy-china.icloud.com
 p35-escrowproxy.icloud.com
 p35-exportws.iwork.apple.com
+p35-feedbackws.icloud.com
 p35-fmf-china.icloud.com
 p35-fmf.icloud.com
 p35-fmfmail-china.icloud.com
@@ -24721,6 +24780,8 @@ p36-drivews.icloud.com
 p36-escrowproxy-china.icloud.com
 p36-escrowproxy.icloud.com
 p36-exportws.iwork.apple.com
+p36-feedbackws.icloud.com
+p36-fmf-china.icloud.com
 p36-fmf.icloud.com
 p36-fmfmobile.icloud.com
 p36-fmip.icloud.com
@@ -24794,6 +24855,7 @@ p37-drivews.icloud.com
 p37-escrowproxy-china.icloud.com
 p37-escrowproxy.icloud.com
 p37-exportws.iwork.apple.com
+p37-feedbackws.icloud.com
 p37-fmf-china.icloud.com
 p37-fmf.icloud.com
 p37-fmfmobile-china.icloud.com
@@ -24865,6 +24927,8 @@ p38-drivews.icloud.com
 p38-escrowproxy-china.icloud.com
 p38-escrowproxy.icloud.com
 p38-exportws.iwork.apple.com
+p38-feedbackws.icloud.com
+p38-fmf-china.icloud.com
 p38-fmfmail-china.icloud.com
 p38-fmfweb.icloud.com
 p38-fmip-china.icloud.com
@@ -24927,9 +24991,11 @@ p39-content-china.icloud.com
 p39-content.icloud.com
 p39-docws-china.icloud.com
 p39-docws.icloud.com
+p39-drivews.icloud.com
 p39-escrowproxy-china.icloud.com
 p39-escrowproxy.icloud.com
 p39-exportws.iwork.apple.com
+p39-feedbackws.icloud.com
 p39-fmf-china.icloud.com
 p39-fmfmail-china.icloud.com
 p39-fmfmobile.icloud.com
@@ -25002,6 +25068,8 @@ p40-drivews.icloud.com
 p40-escrowproxy-china.icloud.com
 p40-escrowproxy.icloud.com
 p40-exportws.iwork.apple.com
+p40-feedbackws.icloud.com
+p40-fmf-china.icloud.com
 p40-fmfmail-china.icloud.com
 p40-fmip.icloud.com
 p40-fmipmail-china.icloud.com
@@ -25071,6 +25139,8 @@ p41-drivews.icloud.com
 p41-escrowproxy-china.icloud.com
 p41-escrowproxy.icloud.com
 p41-exportws.iwork.apple.com
+p41-feedbackws.icloud.com
+p41-fmf-china.icloud.com
 p41-fmfmail-china.icloud.com
 p41-fmfmobile.icloud.com
 p41-fmipalservice-china.icloud.com
@@ -25146,6 +25216,8 @@ p42-drivews.icloud.com
 p42-escrowproxy-china.icloud.com
 p42-escrowproxy.icloud.com
 p42-exportws.iwork.apple.com
+p42-feedbackws.icloud.com
+p42-fmf-china.icloud.com
 p42-fmfweb.icloud.com
 p42-fmip-china.icloud.com
 p42-fmip.icloud.com
@@ -25283,6 +25355,8 @@ p44-drivews.icloud.com
 p44-escrowproxy-china.icloud.com
 p44-escrowproxy.icloud.com
 p44-exportws.iwork.apple.com
+p44-feedbackws.icloud.com
+p44-fmf-china.icloud.com
 p44-fmf.icloud.com
 p44-fmfmail-china.icloud.com
 p44-fmfweb.icloud.com
@@ -25354,6 +25428,8 @@ p45-drivews.icloud.com
 p45-escrowproxy-china.icloud.com
 p45-escrowproxy.icloud.com
 p45-exportws.iwork.apple.com
+p45-feedbackws.icloud.com
+p45-fmf-china.icloud.com
 p45-fmfmail-china.icloud.com
 p45-fmfmobile-china.icloud.com
 p45-fmfmobile.icloud.com
@@ -25428,6 +25504,7 @@ p46-drivews.icloud.com
 p46-escrowproxy-china.icloud.com
 p46-escrowproxy.icloud.com
 p46-exportws.iwork.apple.com
+p46-feedbackws.icloud.com
 p46-fmf-china.icloud.com
 p46-fmipalservice-china.icloud.com
 p46-fmip-china.icloud.com
@@ -25492,9 +25569,11 @@ p47-content-china.icloud.com
 p47-content.icloud.com
 p47-docws-china.icloud.com
 p47-docws.icloud.com
+p47-drivews.icloud.com
 p47-escrowproxy-china.icloud.com
 p47-escrowproxy.icloud.com
 p47-exportws.iwork.apple.com
+p47-feedbackws.icloud.com
 p47-fmf-china.icloud.com
 p47-fmfmobile.icloud.com
 p47-fmfweb.icloud.com
@@ -25566,6 +25645,7 @@ p48-escrowproxy-china.icloud.com
 p48-escrowproxy.icloud.com
 p48-exportws.iwork.apple.com
 p48-feedbackws.icloud.com
+p48-fmf-china.icloud.com
 p48-fmfmobile.icloud.com
 p48-fmip-china.icloud.com
 p48-fmipmail.icloud.com
@@ -25629,10 +25709,12 @@ p49-content.icloud.com
 p49-contentws.icloud.com
 p49-docws-china.icloud.com
 p49-docws.icloud.com
+p49-drivews.icloud.com
 p49-escrowproxy-china.icloud.com
 p49-escrowproxy.icloud.com
 p49-exportws.iwork.apple.com
 p49-feedbackws.icloud.com
+p49-fmf-china.icloud.com
 p49-fmf.icloud.com
 p49-fmfmail-china.icloud.com
 p49-fmfmobile-china.icloud.com
@@ -25698,9 +25780,12 @@ p50-content.icloud.com
 p50-contentws.icloud.com
 p50-docws-china.icloud.com
 p50-docws.icloud.com
+p50-drivews.icloud.com
 p50-escrowproxy-china.icloud.com
 p50-escrowproxy.icloud.com
 p50-exportws.iwork.apple.com
+p50-feedbackws.icloud.com
+p50-fmf-china.icloud.com
 p50-fmf.icloud.com
 p50-fmfmobile-china.icloud.com
 p50-fmfmobile.icloud.com
@@ -25780,6 +25865,8 @@ p51-drivews.icloud.com
 p51-escrowproxy-china.icloud.com
 p51-escrowproxy.icloud.com
 p51-exportws.iwork.apple.com
+p51-feedbackws.icloud.com
+p51-fmf-china.icloud.com
 p51-fmf.icloud.com
 p51-fmfweb.icloud.com
 p51-fmipmail-china.icloud.com
@@ -25850,9 +25937,12 @@ p52-content.icloud.com
 p52-contentws.icloud.com
 p52-docws-china.icloud.com
 p52-docws.icloud.com
+p52-drivews.icloud.com
 p52-escrowproxy-china.icloud.com
 p52-escrowproxy.icloud.com
 p52-exportws.iwork.apple.com
+p52-feedbackws.icloud.com
+p52-fmf-china.icloud.com
 p52-fmf.icloud.com
 p52-fmfmail-china.icloud.com
 p52-fmfmobile.icloud.com
@@ -25918,6 +26008,7 @@ p53-content-china.icloud.com
 p53-content.icloud.com
 p53-docws-china.icloud.com
 p53-docws.icloud.com
+p53-drivews.icloud.com
 p53-escrowproxy-china.icloud.com
 p53-escrowproxy.icloud.com
 p53-exportws.iwork.apple.com
@@ -25997,6 +26088,7 @@ p54-drivews.icloud.com
 p54-escrowproxy-china.icloud.com
 p54-escrowproxy.icloud.com
 p54-exportws.iwork.apple.com
+p54-feedbackws.icloud.com
 p54-fmf-china.icloud.com
 p54-fmfmail-china.icloud.com
 p54-fmfmobile.icloud.com
@@ -26067,10 +26159,12 @@ p55-content.icloud.com
 p55-contentws.icloud.com
 p55-docws-china.icloud.com
 p55-docws.icloud.com
+p55-drivews.icloud.com
 p55-escrowproxy-china.icloud.com
 p55-escrowproxy.icloud.com
 p55-exportws.iwork.apple.com
 p55-feedbackws.icloud.com
+p55-fmf-china.icloud.com
 p55-fmip-china.icloud.com
 p55-fmipweb.icloud.com
 p55-geows.icloud.com
@@ -26129,9 +26223,12 @@ p56-content-china.icloud.com
 p56-content.icloud.com
 p56-docws-china.icloud.com
 p56-docws.icloud.com
+p56-drivews.icloud.com
 p56-escrowproxy-china.icloud.com
 p56-escrowproxy.icloud.com
 p56-exportws.iwork.apple.com
+p56-feedbackws.icloud.com
+p56-fmf-china.icloud.com
 p56-fmf.icloud.com
 p56-fmfmail-china.icloud.com
 p56-fmfmobile-china.icloud.com
@@ -26194,6 +26291,7 @@ p57-content-china.icloud.com
 p57-content.icloud.com
 p57-docws-china.icloud.com
 p57-docws.icloud.com
+p57-drivews.icloud.com
 p57-escrowproxy-china.icloud.com
 p57-escrowproxy.icloud.com
 p57-exportws.iwork.apple.com
@@ -26334,6 +26432,7 @@ p59-escrowproxy-china.icloud.com
 p59-escrowproxy.icloud.com
 p59-exportws.iwork.apple.com
 p59-feedbackws.icloud.com
+p59-fmf-china.icloud.com
 p59-fmfmobile-china.icloud.com
 p59-fmfweb.icloud.com
 p59-fmipalservice-china.icloud.com
@@ -26405,9 +26504,12 @@ p60-content-china.icloud.com
 p60-content.icloud.com
 p60-docws-china.icloud.com
 p60-docws.icloud.com
+p60-drivews.icloud.com
 p60-escrowproxy-china.icloud.com
 p60-escrowproxy.icloud.com
 p60-exportws.iwork.apple.com
+p60-feedbackws.icloud.com
+p60-fmf-china.icloud.com
 p60-fmfmail-china.icloud.com
 p60-fmfmobile-china.icloud.com
 p60-fmfweb.icloud.com
@@ -26481,10 +26583,12 @@ p61-content-china.icloud.com
 p61-content.icloud.com
 p61-docws-china.icloud.com
 p61-docws.icloud.com
+p61-drivews.icloud.com
 p61-escrowproxy-china.icloud.com
 p61-escrowproxy.icloud.com
 p61-exportws.iwork.apple.com
 p61-feedbackws.icloud.com
+p61-fmf-china.icloud.com
 p61-fmfmobile-china.icloud.com
 p61-fmip-china.icloud.com
 p61-geows.icloud.com
@@ -26545,6 +26649,8 @@ p62-drivews.icloud.com
 p62-escrowproxy-china.icloud.com
 p62-escrowproxy.icloud.com
 p62-exportws.iwork.apple.com
+p62-feedbackws.icloud.com
+p62-fmf-china.icloud.com
 p62-fmf.icloud.com
 p62-fmfmail-china.icloud.com
 p62-fmfmobile.icloud.com
@@ -26614,6 +26720,8 @@ p63-drivews.icloud.com
 p63-escrowproxy-china.icloud.com
 p63-escrowproxy.icloud.com
 p63-exportws.iwork.apple.com
+p63-feedbackws.icloud.com
+p63-fmf-china.icloud.com
 p63-fmfmail-china.icloud.com
 p63-fmipmail.icloud.com
 p63-iwmb1.icloud.com
@@ -26676,9 +26784,12 @@ p64-content.icloud.com
 p64-contentws.icloud.com
 p64-docws-china.icloud.com
 p64-docws.icloud.com
+p64-drivews.icloud.com
 p64-escrowproxy-china.icloud.com
 p64-escrowproxy.icloud.com
 p64-exportws.iwork.apple.com
+p64-feedbackws.icloud.com
+p64-fmf-china.icloud.com
 p64-fmfmail-china.icloud.com
 p64-fmfmobile-china.icloud.com
 p64-fmipalservice-china.icloud.com
@@ -26748,6 +26859,8 @@ p65-drivews.icloud.com
 p65-escrowproxy-china.icloud.com
 p65-escrowproxy.icloud.com
 p65-exportws.iwork.apple.com
+p65-feedbackws.icloud.com
+p65-fmf-china.icloud.com
 p65-fmfmail-china.icloud.com
 p65-fmfmobile-china.icloud.com
 p65-fmfmobile.icloud.com
@@ -26817,6 +26930,7 @@ p66-drivews.icloud.com
 p66-escrowproxy-china.icloud.com
 p66-escrowproxy.icloud.com
 p66-exportws.iwork.apple.com
+p66-feedbackws.icloud.com
 p66-fmf-china.icloud.com
 p66-fmf.icloud.com
 p66-fmip.icloud.com
@@ -26889,6 +27003,8 @@ p67-escrowproxy-china.icloud.com
 p67-escrowproxy-china-iwmb0.icloud.com
 p67-escrowproxy.icloud.com
 p67-exportws.iwork.apple.com
+p67-feedbackws.icloud.com
+p67-fmf-china.icloud.com
 p67-fmfmail-china.icloud.com
 p67-geows.icloud.com
 p67-imap.mail.icloud.com
@@ -26951,6 +27067,8 @@ p68-drivews.icloud.com
 p68-escrowproxy-china.icloud.com
 p68-escrowproxy.icloud.com
 p68-exportws.iwork.apple.com
+p68-feedbackws.icloud.com
+p68-fmf-china.icloud.com
 p68-fmipmail.icloud.com
 p68-geows.icloud.com
 p68-imap.mail.icloud.com
@@ -27024,6 +27142,8 @@ p69-drivews.icloud.com
 p69-escrowproxy-china.icloud.com
 p69-escrowproxy.icloud.com
 p69-exportws.iwork.apple.com
+p69-feedbackws.icloud.com
+p69-fmf-china.icloud.com
 p69-fmfmobile-china.icloud.com
 p69-fmip-china.icloud.com
 p69-fmip.icloud.com
@@ -27163,9 +27283,12 @@ p71-content-china.icloud.com
 p71-content.icloud.com
 p71-docws-china.icloud.com
 p71-docws.icloud.com
+p71-drivews.icloud.com
 p71-escrowproxy-china.icloud.com
 p71-escrowproxy.icloud.com
 p71-exportws.iwork.apple.com
+p71-feedbackws.icloud.com
+p71-fmf-china.icloud.com
 p71-fmfmobile.icloud.com
 p71-fmipalservice-china.icloud.com
 p71-fmip-china.icloud.com
@@ -27239,6 +27362,8 @@ p72-drivews.icloud.com
 p72-escrowproxy-china.icloud.com
 p72-escrowproxy.icloud.com
 p72-exportws.iwork.apple.com
+p72-feedbackws.icloud.com
+p72-fmf-china.icloud.com
 p72-fmf.icloud.com
 p72-fmfmobile.icloud.com
 p72-fmfweb.icloud.com
@@ -27325,9 +27450,11 @@ p97-content-china.icloud.com
 p97-content.icloud.com
 p97-docws-china.icloud.com
 p97-docws.icloud.com
+p97-drivews.icloud.com
 p97-escrowproxy-china.icloud.com
 p97-escrowproxy.icloud.com
 p97-exportws.iwork.apple.com
+p97-feedbackws.icloud.com
 p97-fmf-china.icloud.com
 p97-fmfmobile-china.icloud.com
 p97-fmfmobile.icloud.com
@@ -27407,6 +27534,7 @@ p98-escrowproxy-china.icloud.com
 p98-escrowproxy.icloud.com
 p98-exportws.iwork.apple.com
 p98-feedbackws.icloud.com
+p98-fmf-china.icloud.com
 p98-fmfmobile.icloud.com
 p98-fmipalservice.icloud.com
 p98-fmipmail.icloud.com
@@ -28563,6 +28691,7 @@ retailmarketing-old.cdn-apple.com
 retailme.apple.com
 retailme-old.apple.com
 retail-old.apple.com
+retail-partner-connect.apple.com
 retail-platform-bridge-prz.apple.com
 retail-pz.cdn-apple.com
 retail-repair.apple.com
@@ -29753,6 +29882,7 @@ spreview-mr.itunes.apple.com
 sps-media-anon.itunes.apple.com
 sps-media.apple.com
 sps-media.aweun1.sbz.apple.com
+sps-media.aweuw1.sbz.apple.com
 sps-media.v.aaplimg.com
 sq-carrier.apple.com
 sq-carrier-cn.apple.com
@@ -30355,7 +30485,6 @@ stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline.apple.com.edgekey.net
@@ -31961,7 +32090,6 @@ www2.apple.com
 www2.seminars.apple.com
 www.ads-apple.com.cn
 www.afl.info.apple.com
-www.airport.us
 www.anat.apple.com
 www.apple.com
 www.apple.com.cn
@@ -32003,7 +32131,6 @@ www.gauravsays.info.apple.com
 www.germany.euro.apple.com
 www.guide.apple.com
 www.holland.euro.apple.com
-www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
@@ -32012,7 +32139,6 @@ www.img1.apple-mapkit.com
 www.info.apple.com
 www.inspectieresultaten.icloud.com
 www.it.nfapeuro.apple.com
-www.itools.info
 www.itunes.com
 www.iworktrialbuy.apple.com
 www.kreasifb.blobstore.apple.com
@@ -32051,7 +32177,6 @@ www.store.apple.com
 wwwsupp2.apple.com
 wwwsupp.apple.com
 www.support.apple.com
-www.thinkdifferent.us
 www.tips.apple.com
 www.trafficexchange.info.apple.com
 www.tsu.blobstore.apple.com
