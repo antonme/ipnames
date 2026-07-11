@@ -16,6 +16,8 @@ ab.identity.adobe.com
 ab.identity-stage.adobe.com
 abo.identity.adobe.com
 abo.identity-stage.adobe.com
+ab-or2.identity.adobe.com
+ab-or2.identity-stage.adobe.com
 abo.services.adobe.com
 abo-stage.services.adobe.com
 abo-va6.identity.adobe.com
@@ -25,6 +27,8 @@ abp-profile-service.adobe.io
 abp-stage.corp.adobe.com
 ab-stg.adobe-identity.com
 abusemailbox.campaign.adobe.com
+ab-va6.identity.adobe.com
+ab-va6.identity-stage.adobe.com
 abZZZkUYlUhU.adobe.com
 acc.appsvc-stage.an.adobe.com
 acc.axle.an.adobe.com
@@ -641,6 +645,7 @@ banyan-dashboard-stage.adobe.com
 banyan-localhost.corp.adobe.com
 basel-1-ext.vpn.adobe.com
 basel-1.vpn.adobe.com
+bast-linux-prd-hb-58.corp.adobe.com
 bast-mac-prd-57.corp.adobe.com
 bast-mac-qa-8.corp.adobe.com
 bast-mac-stg-15.corp.adobe.com
@@ -686,6 +691,7 @@ bhk.adobeaemcloud.com
 bifrost.corp.adobe.com
 bifrost-prod-ew1.adobess.com
 bifrost-prod-ue1.adobess.com
+billing.prd.adobe.com
 bio-ct.adobeaemcloud.com
 birthdate.adobeaemcloud.com
 bituminoid.adobeaemcloud.net
@@ -1003,6 +1009,7 @@ cdn.titancert.test.ajo.adobe.com
 cdn.tsbuat.test.ajo.adobe.com
 cdn.ubs.test.ajo.adobe.com
 cdn.ultimate-success-emea.test.ajo.adobe.com
+cdn.wunderman-email.cjm.adobe.com
 cdpi-ops.corp.adobe.com
 ceinnov.corp.adobe.com
 cemprende.adobeaemcloud.com
@@ -1790,11 +1797,21 @@ ethos.pub.ethos551-prod-va6.ethos.adobe.net
 etlatrueup.corp.adobe.com
 etms-va6.identity.adobe.com
 eTOPghiQKOZU.adobe.com
+ets-dev1-bastion.services.adobe.com
+ets-dev1-ui.services.adobe.com
+ets-dev-ue-bastion.services.adobe.com
+ets-flow-dev1.services.adobe.com
 ets-flow-stg1.services.adobe.com
+ets-pytility-dev1.services.adobe.com
+ets-qa1-bastion.services.adobe.com
+etsreports-dev1.services.adobe.com
+etsreports-qa1.services.adobe.com
 etsreports-stg1.services.adobe.com
 ets-stg1-bastion.services.adobe.com
 ets-stg1-ue-bastion.services.adobe.com
 ets-stg1-uw-bastion.services.adobe.com
+ets-ui-dev1.services.adobe.com
+ets-ui-qa1.services.adobe.com
 ets-ui-stg1.services.adobe.com
 eu1.cyclone.documentsawspreview.adobe.com
 eu1.documents.adobe.com
@@ -1960,6 +1977,7 @@ firefly-md.adobe.io
 firefly-ps.adobe.io
 firefly-stage.corp.adobe.com
 firefly-stage-pr.corp.adobe.com
+firewatch.corp.adobe.com
 fi-rt.adobeaemcloud.net
 flickr-ols.adobe.com
 floscular.adobeaemcloud.net
@@ -2321,6 +2339,8 @@ identity.cd.corp.adobe.com
 identity.corp.adobe.com
 identity-dashboard.corp.adobe.com
 identity-dev.adobe.com
+identity-okta-dev1.services.adobe.com
+identity-okta-qa1.services.adobe.com
 identity-okta-stg1.services.adobe.com
 identity-orgs-workers.identity.adobe.com
 idg.adobe.com
@@ -2913,6 +2933,10 @@ na1.documentssandbox.adobe.com
 na1.documentssandboxstage.adobe.com
 na1.documentsstage.adobe.com
 na1e-acc.services.adobe.com
+na1e-dev1-internal.services.adobe.com
+na1e-dev1.services.adobe.com
+na1e-qa1-internal.services.adobe.com
+na1e-qa1.services.adobe.com
 na1e-stg1-internal.services.adobe.com
 na1e-stg1.services.adobe.com
 na1e-stg2-uw1-internal.services.adobe.com
@@ -3515,6 +3539,7 @@ or1010050225030.corp.adobe.com
 or1010050225031.corp.adobe.com
 or1010050225032.corp.adobe.com
 or1010050225046.corp.adobe.com
+or1010050225058.corp.adobe.com
 or1010050225143.corp.adobe.com
 or1010050225146.corp.adobe.com
 or1010050225153.corp.adobe.com
@@ -3568,6 +3593,8 @@ or1010051061219.corp.adobe.com
 or1010051061225.corp.adobe.com
 or1010051062202.corp.adobe.com
 or1010051062206.corp.adobe.com
+or1010051063017.corp.adobe.com
+or1010051063018.corp.adobe.com
 or1010051066168.corp.adobe.com
 or1010051066170.corp.adobe.com
 or1010051066172.corp.adobe.com
@@ -5015,6 +5042,8 @@ terraform-blabla.identity-stage.adobe.com
 terraform-test.identity-stage.adobe.com
 terrehaute.adobeaemcloud.com
 terrinickerson.myportfolio.com
+tes-stg-cm1.corp.adobe.com
+tes-stg-cm2.corp.adobe.com
 testanam1e.corp.adobe.com
 testapp.adt.corp.adobe.com
 testhost1.corp.adobe.com
@@ -5035,6 +5064,8 @@ thunderclap.adobe.com
 ThZRncnSkQXZ.adobelogin.com
 tia.corp.adobe.com
 tidal-api-sbx.corp.adobe.com
+tidal-api-stg.corp.adobe.com
+tidal-api-stg-new.corp.adobe.com
 tidal.corp.adobe.com
 tidal-prd.corp.adobe.com
 tidalrepo.corp.adobe.com
