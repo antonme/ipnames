@@ -103741,3 +103741,87 @@ s
 
 == Resolving names to ipv6
 Sat Jul 11 06:51:53 AM MSK 2026                dns-adobe.txt  >ipv6-resolve-adobe.txt
+[master 33528b21] auto-update merged
+ 8 files changed, 83 insertions(+), 55833 deletions(-)
+Sat Jul 11 11:33:58 AM MSK 2026                dns-anthropic.txt  >ipv6-resolve-anthropic.txt
+Sat Jul 11 11:40:24 AM MSK 2026                dns-apple.txt  >ipv6-resolve-apple.txt
+Sat Jul 11 08:30:49 PM MSK 2026                dns-backblaze.txt  >ipv6-resolve-backblaze.txt
+Sat Jul 11 09:11:53 PM MSK 2026                dns-bing.txt  >ipv6-resolve-bing.txt
+Sat Jul 11 09:17:17 PM MSK 2026                dns-expressvpn.txt  >ipv6-resolve-expressvpn.txt
+Sat Jul 11 09:25:30 PM MSK 2026                dns-facebook.txt  >ipv6-resolve-facebook.txt
+
+
+
+--------------------------------------------------------------------------------
+Sun Jul 12 06:00:02 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: fetch failed
+  googlevideo.com: ok
+  youtube.com: fetch failed
+  ytimg.com: fetch failed
+  facebook.com: fetch failed
+  instagram.com: ok
+  fbcdn.net: fetch failed
+  tiktok.com: fetch failed
+  tiktokv.com: fetch failed
+  tiktokcdn.com: fetch failed
+  bytedance.com: ok
+  openai.com: ok
+  chatgpt.com: ok
+  oaiusercontent.com: ok
+  bing.com: ok
+  microsoft.com: fetch failed
+  twitter.com: fetch failed
+  x.com: ok
+  twimg.com: ok
+  ozon.ru: fetch failed
+  github.com: fetch failed
+  githubusercontent.com: fetch failed
+  apple.com: fetch failed
+  icloud.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  adobe.com: fetch failed
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: fetch failed
+  pornhub.com: fetch failed
+  phncdn.com: ok
+  backblaze.com: ok
+  huggingface.co: ok
+  anthropic.com: ok
+  claude.ai: ok
+  total CT names: 6485
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
