@@ -327,9 +327,6 @@ agent-adx-datacare-dev.corp.adobe.com
 agent.adx.datacare-dev.corp.adobe.com
 agent.adx.datacare-stage.corp.adobe.com
 agent-adx-datacare-stg.corp.adobe.com
-agent.datacare.adobe.com
-agent.datacare.corp.adobe.com
-agent.datacare-uat.corp.adobe.com
 aginsurance-mid-stage1-lb.campaign.adobe.com
 agiw67.myportfolio.com
 ags000.marketing.adobe.com
@@ -554,7 +551,6 @@ api.corp.documents.adobe.com
 api.da1.documents.adobe.com
 api.das.adobe.com
 api.das-beta.adobe.com
-api.datacare-dev.corp.adobe.com
 api.dme-customer-insights.corp.adobe.com
 apidocs.en.marketing.adobe.com
 apidoc.status.adobe.com
@@ -1793,7 +1789,6 @@ coffe-tube.cdn.documents.adobe.com
 colemanmotion.myportfolio.com
 collab.adobe.com
 collab.experiencecloud.adobe.com
-collab-offsec.adobe.com
 collabsearch.corp.adobe.com
 colligo-integration-results.corp.adobe.com
 collindelade.myportfolio.com
@@ -1830,8 +1825,6 @@ comparision-artemis.corp.adobe.com
 compass-ci.corp.adobe.com
 compass.corp.adobe.com
 compass-dev.corp.adobe.com
-compinternal-dev.corp.adobe.com
-compinternal-stg.corp.adobe.com
 comshell-cdn-sanofi.marketing.adobe.com
 comunemilano-mkt-prod1-cus.campaign.adobe.com
 con-a.adobe.com
@@ -2122,10 +2115,6 @@ dashboardsslvpn.documents.adobe.com
 dashdiscovery-snd.corp.adobe.com
 das-qe.api.corp.adobe.com
 das-qe.corp.adobe.com
-datacare.corp.adobe.com
-datacare-dev.corp.adobe.com
-datacare-nonprod.corp.adobe.com
-datacare-uat.corp.adobe.com
 data-confluence-eu1.documentsawspreview.adobe.com
 data.email-kpn.cjm.adobe.com
 data.email-lightroom.cjm.adobe.com
@@ -2250,7 +2239,6 @@ dev2.help.documents.adobe.com
 dev.60exc-loginims.experiencecloud.adobe.com
 dev.acdcadmin.corp.adobe.com
 dev.an.adobe.com
-dev.automation.substance3d.adobe.com
 dev.awsdashboard.marketing.adobe.com
 dev.captivateprime.adobe.com
 dev-client.dev.messaging.adobe.com
@@ -2726,9 +2714,6 @@ ethos-prod.xd.adobe.com
 etiennechomelin.myportfolio.com
 etihadairways-mkt-prod5-1.campaign.adobe.com
 etlatrueup-dev-588f8593155fd63c56d8cb9a.c00.adobe.com
-etlatrueup-dev.corp.adobe.com
-ets-prod-ue-bastion.services.adobe.com
-ets-ui.services.adobe.com
 eu1.163snapshot.documentsawspreview.adobe.com
 eu11.is1.documentsawspreview.adobe.com
 eu1-207.cyclone.documentsawspreview.adobe.com
@@ -3538,7 +3523,6 @@ identify-feature-flags.corp.adobe.com
 identity-dashboards.corp.adobe.com
 identity.experiencecloud.adobe.com
 identity-mailserver.documents.adobe.com
-identity-okta.services.adobe.com
 identity-stage.adobe.com
 id-next-testing.identity-dev.adobe.com
 idnext-testing.identity-dev.adobe.com
@@ -4241,7 +4225,6 @@ loyalty.kaufland.md.cname.campaign.adobe.com
 loyalty.kaufland.ro.cname.campaign.adobe.com
 loyalty-va.documentsawspreview.adobe.com
 lpar2rrd-local1.corp.adobe.com
-lp.b2bmail.adobe.com
 lp.demo12.demoamericas275.adobe.com
 lp.demo14.demoamericas275.adobe.com
 lp.demo15.demoamericas275.adobe.com
@@ -5138,15 +5121,9 @@ na1.cyclonedev.documentsawspreview.adobe.com
 na1.documentsawsdevops.adobe.com
 na1.documentsdemo.adobe.com
 na1e53cfd84ce6d49219222e921a.c00.adobe.com
-na1e-ccsdk.services.adobe.com
-na1e-ccx.services.adobe.com
 na1e.experiencecloud.adobe.com
-na1e-h.services.adobe.com
 na1.email.documents.adobe.com
-na1e.services.adobe.com
-na1e-ue1-internal.services.adobe.com
 na1.europe-bp.documentsawspreview.adobe.com
-na1e-uw1-internal.services.adobe.com
 na1-events.documentsawspreview.adobe.com
 na1.federatedidbp.documentsawspreview.adobe.com
 na1.ipbp.documentsawspreview.adobe.com
@@ -6168,7 +6145,6 @@ osoyoos.fileprosite.com
 osso.adobe.com
 osso-dev.adobe.com
 otb-mkt-prod1-t.campaign.adobe.com
-ottawa-ssh-out.corp.adobe.com
 ottawa.vpn.c00.adobe.com
 our-stories.myportfolio.com
 outbound-2.adobe.com
@@ -6270,8 +6246,6 @@ pcloud-001.adobe.com
 pdfdemostage.corp.adobe.com
 pdfnow.adobe.io
 pdf-oracle.corp.adobe.com
-pdo-esp-prd.corp.adobe.com
-pdo-esp-stg.corp.adobe.com
 pdxpsai.groups.adobe.com
 pdxria.groups.adobe.com
 peat.ethos53-prod-or2.prod.ethos.corp.adobe.com
@@ -7272,7 +7246,6 @@ robertlinn.businesscatalyst.com
 roberttreedy.myportfolio.com
 rob-in-der-maur-mkt-dev1-1.campaign-demo.adobe.com
 robohelp-2020-update-6.meetus.adobeevents.com
-robohelp.adobe.com
 robynrosenzweig.myportfolio.com
 rodenstockchile.na4.documents.adobe.com
 rodobensadministradora-mkt-prod2-cus.campaign.adobe.com
@@ -7298,8 +7271,6 @@ rotherdesign.myportfolio.com
 roxannaangles.myportfolio.com
 royalenfield-mkt-prod1-t.campaign.adobe.com
 royallondon-rt-prod2-m.campaign.adobe.com
-royalty-dev.corp.adobe.com
-royalty-stg.corp.adobe.com
 roycer924-2.myportfolio.com
 rozbeimages.myportfolio.com
 rpa-cyberark.corp.adobe.com
@@ -8093,7 +8064,6 @@ stage.analytics.adobe.com
 stage-api1.corp.adobe.com
 stage-atds.corp.adobe.com
 stage-atdweb.corp.adobe.com
-stage.automation.substance3d.adobe.com
 stage-careers.captivateprime.adobe.com
 stage.ccmui.adobe.com
 stage-client.stage.messaging.adobe.com
@@ -9748,7 +9718,6 @@ zgzlyzkxytmtodvlmi00mjywltk5otmtmmrjmdfhmmy5mjvh.frl-offline.adobe.com
 zhanadarte.myportfolio.com
 zip2.adobe.com
 zipcy.myportfolio.com
-ziprelease.corp.adobe.com
 zips.myportfolio.com
 zje0zjkwotgtmzgzni00mmq2ltkzotctnwu3zdm0ntk1ytm3.frl-offline.adobe.com
 zjmdesigns.myportfolio.com
