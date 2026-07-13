@@ -104098,3 +104098,20 @@ Mon Jul 13 08:28:40 AM MSK 2026                ext-dns-facebook.txt  >ext-resolv
 Mon Jul 13 08:41:12 AM MSK 2026                dns-google.txt  >resolve-google.txt
 Mon Jul 13 09:43:11 AM MSK 2026                ext-dns-github.txt  >ext-resolve-github.txt
 Mon Jul 13 10:03:53 AM MSK 2026                ext-dns-google.txt  >ext-resolve-google.txt
+[master 328308be] auto-update merged
+ 34 files changed, 13577 insertions(+), 18356 deletions(-)
+ delete mode 100644 merged/ipv4-google.cidr
+Mon Jul 13 11:05:57 AM MSK 2026                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Mon Jul 13 11:06:19 AM MSK 2026                ext-dns-openai.txt  >ext-resolve-openai.txt
+Mon Jul 13 11:11:46 AM MSK 2026                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Mon Jul 13 11:14:46 AM MSK 2026                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Mon Jul 13 11:18:45 AM MSK 2026                dns-huggingface.txt  >resolve-huggingface.txt
+Mon Jul 13 11:22:18 AM MSK 2026                dns-openai.txt  >resolve-openai.txt
+Mon Jul 13 11:53:34 AM MSK 2026                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Mon Jul 13 11:58:19 AM MSK 2026                dns-ozon.txt  >resolve-ozon.txt
+Mon Jul 13 12:04:41 PM MSK 2026                dns-pornhub.txt  >resolve-pornhub.txt
+Mon Jul 13 12:10:02 PM MSK 2026                dns-surfshark.txt  >resolve-surfshark.txt
+Mon Jul 13 12:18:09 PM MSK 2026                dns-tiktok.txt  >resolve-tiktok.txt
+Mon Jul 13 12:18:27 PM MSK 2026                ext-dns-twitter.txt  >ext-resolve-twitter.txt
+Mon Jul 13 12:27:29 PM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
+Mon Jul 13 12:38:44 PM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
