@@ -2691,7 +2691,6 @@ api-gateway-cc-prd-or2.infra.adobe.io
 apigee.google.com
 api.github.com
 api.github.com.home.setia.ru
-api.githubcopilot.com
 api-glb-aapne1a.smoot.apple.com
 api-glb-aapne1c.smoot.apple.com
 api-glb-aaps1a.smoot.apple.com
@@ -7751,6 +7750,7 @@ clerc-dorm-119-94.withgoogle.com
 clfjcrntdt9wh163z2tmjqhkuxu0daiinqb0rru5l4dc7lhjoc.swybiqb.of9fy.vbpbmcigkec2yl2k5t0.qbvne4tqln.jfsqi.ttau8g.m.ppfw8sblf5puxlq.0ce5tydk3wy3essaqup.lhpwppqp.ldyuvuwwhvqm9kcvzhs.gdtmyo.shofha.online
 clgn.withgoogle.com
 click.apple.com
+clickhouse.3di.corp.adobe.com
 click.openai.com
 click.send.x.com
 client-api-cdn.itunes-apple.com.akadns.net
@@ -8598,7 +8598,6 @@ cyberarkrdpgw-new.corp.adobe.com
 cycle2.githubusercontent.com
 cykusmoh.ttfkb.limelights.org
 cy.lazerpenguin.com
-cy-nic.prod.surfshark.com
 c.youtube.com
 cyprus-ca-version-2.expressnetw.com
 cyvw.adobeaemcloud.com
@@ -10921,6 +10920,7 @@ dsglibrary.adobe.com
 dsiva-wdcs.us-central-1q.app.apple.com
 dskat4nykidvtnf6nnm4u19yxopcr9.s8jxtup6uput1.eni0nlz8f0xpvxl79s8pomg.xqssjvftgdzgekcfp.kdjb8iaf8sfebxktke.tthih8odqw9d11ibk53.bx8xlanqvdmgrm.bnzghrqpkglwqqfr3be4.23d2ef.shofha.online
 dsl2-27.googleapis.com
+dslite.adobe.com
 dsn.adobe.com
 dsn-stage.adobe.com
 dsn-test.adobe.com
@@ -13950,11 +13950,13 @@ examadmin.github.com
 examadmin-uat.github.com
 examregistration-api.github.com
 examregistration-uat-api.github.com
+exc-graphql.experience-stage.adobe.com
 exchange.adobe.com
 exchange-assets.adobe.com
 exchangepartners-engage.stage.adobe.com
 exchangepartners.stage.adobe.com
 ex.corp.adobe.com
+exc-unifiedcontent.experience.adobe.com
 exc-unifiedcontent.experience-qa.adobe.com
 exc-unifiedcontent.experience-stage.adobe.com
 execrating.adobeaemcloud.com
@@ -22344,6 +22346,7 @@ mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
 meta-ai-realtime.c10r.facebook.com
 meta-ai-realtime.facebook.com
+metabase.3di.corp.adobe.com
 metallica-bmaas-api.corp.adobe.com
 metallica-bmaas-api-stage.corp.adobe.com
 me-tgd.prod.surfshark.com
@@ -22898,7 +22901,6 @@ news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
-news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -23650,6 +23652,11 @@ or1010050079247.corp.adobe.com
 or1010050079248.corp.adobe.com
 or1010050079249.corp.adobe.com
 or1010050079254.corp.adobe.com
+or1010050082006.corp.adobe.com
+or1010050082010.corp.adobe.com
+or1010050082014.corp.adobe.com
+or1010050082015.corp.adobe.com
+or1010050082016.corp.adobe.com
 or1010050082020.corp.adobe.com
 or1010050082021.corp.adobe.com
 or1010050082022.corp.adobe.com
@@ -23858,6 +23865,8 @@ or1010051066170.corp.adobe.com
 or1010051066172.corp.adobe.com
 or1010051080018.corp.adobe.com
 or1010051080074.corp.adobe.com
+or1010051080207.corp.adobe.com
+or1010051080255.corp.adobe.com
 or1010051081023.corp.adobe.com
 or1010051081092.corp.adobe.com
 or1010051081169.corp.adobe.com
@@ -23875,6 +23884,7 @@ or1010051081204.corp.adobe.com
 or1010051081207.corp.adobe.com
 or1010051081208.corp.adobe.com
 or1010051081210.corp.adobe.com
+or1010051081227.corp.adobe.com
 or1010051081230.corp.adobe.com
 or1010051082015.corp.adobe.com
 or1010051082024.corp.adobe.com
@@ -29811,6 +29821,7 @@ partner.itunes.apple.com
 partnernetwork.apple.com
 partnerportal.anthropic.com
 partnerportal.backblaze.com
+partnerportal-dev.adobe.com
 partner-relay.apple.com
 partners.adobe.com
 partners.developer.apple.com
@@ -31148,6 +31159,7 @@ portal-repair-uat-apple.com
 porter2.github.com
 portugal-ca-version-2.expressnetw.com
 poste9.withgoogle.com
+postgres.3di.corp.adobe.com
 postgress.3di.corp.adobe.com
 postini.corp.google.com
 postman.backblaze.com
@@ -35454,14 +35466,17 @@ saltit-sj1-plat-01.corp.adobe.com
 saltit-sj1-self-01.corp.adobe.com
 saltit-sol.corp.adobe.com
 salutatorily.withgoogle.com
+sam-datahub-stage.corp.adobe.com
 saml.sp.auth.adobe.com
 sammon.adobeaemcloud.net
+sam-raynet-stage.corp.adobe.com
 sams.adobe.com
 sams.corp.adobe.com
 sams-dev.adobe.com
 sams-dev.corp.adobe.com
 sams-job.corp.adobe.com
 sams-job-uat.corp.adobe.com
+sam-smarttrack-stage.corp.adobe.com
 sams-prod.corp.adobe.com
 sams-uat.adobe.com
 sams-uat.corp.adobe.com
@@ -36932,6 +36947,7 @@ stage.acrobatservices.adobe.com
 stage.adobe.com
 stageadu.adobe.com
 stage.ai.dots.corp.adobe.com
+stageapps.prototype.corp.adobe.com
 stage-aqua.adobe.com
 stage.assistant.adobe.com
 stage.at.adobe.com
@@ -37407,7 +37423,6 @@ support.apple.com.edgesuite.net
 support-automation.openai.com
 support-automation.openai.com.cdn.cloudflare.net
 support-china.apple-support.akadns.net
-support-china-row.apple-support.akadns.net
 support.endpoints.huggingface.co
 support.enterprise.github.com
 support.github.com
@@ -39122,7 +39137,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
@@ -39500,6 +39514,7 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
+www.appleiphonecell.com
 www.as.adobeaemcloud.com
 www.backblaze.com
 www-backblaze-com.webpkgcache.com

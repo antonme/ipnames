@@ -1080,6 +1080,7 @@ cisco-as1.adobeaemcloud.net
 cizv.adobeaemcloud.net
 cjm.adobe.com
 cjm.corp.adobe.com
+clickhouse.3di.corp.adobe.com
 client.messaging.adobe.com
 clio.adobe.com
 clio-assets.adobe.com
@@ -1681,6 +1682,7 @@ ds-basis-prod-or1-vip.corp.adobe.com
 ds-basis-stage4-or1-vip.corp.adobe.com
 ds-basis-stage-or1-vip.corp.adobe.com
 dsglibrary.adobe.com
+dslite.adobe.com
 dsn.adobe.com
 dsn-stage.adobe.com
 dsn-test.adobe.com
@@ -1908,11 +1910,13 @@ ew1010219056036.corp.adobe.com
 ew1010219056039.corp.adobe.com
 ew1010219056040.corp.adobe.com
 ewpc-236-58.adobeaemcloud.com
+exc-graphql.experience-stage.adobe.com
 exchange.adobe.com
 exchange-assets.adobe.com
 exchangepartners-engage.stage.adobe.com
 exchangepartners.stage.adobe.com
 ex.corp.adobe.com
+exc-unifiedcontent.experience.adobe.com
 exc-unifiedcontent.experience-qa.adobe.com
 exc-unifiedcontent.experience-stage.adobe.com
 execrating.adobeaemcloud.com
@@ -2900,6 +2904,7 @@ messaging-airflow.stage.cloud-automation.corp.adobe.com
 messaging-api.cloud-automation.corp.adobe.com
 messaging-api.dev.cloud-automation.corp.adobe.com
 messaging-api.stage.cloud-automation.corp.adobe.com
+metabase.3di.corp.adobe.com
 metallica-bmaas-api.corp.adobe.com
 metallica-bmaas-api-stage.corp.adobe.com
 metricinsights.corp.adobe.com
@@ -3465,6 +3470,11 @@ or1010050079247.corp.adobe.com
 or1010050079248.corp.adobe.com
 or1010050079249.corp.adobe.com
 or1010050079254.corp.adobe.com
+or1010050082006.corp.adobe.com
+or1010050082010.corp.adobe.com
+or1010050082014.corp.adobe.com
+or1010050082015.corp.adobe.com
+or1010050082016.corp.adobe.com
 or1010050082020.corp.adobe.com
 or1010050082021.corp.adobe.com
 or1010050082022.corp.adobe.com
@@ -3673,6 +3683,8 @@ or1010051066170.corp.adobe.com
 or1010051066172.corp.adobe.com
 or1010051080018.corp.adobe.com
 or1010051080074.corp.adobe.com
+or1010051080207.corp.adobe.com
+or1010051080255.corp.adobe.com
 or1010051081023.corp.adobe.com
 or1010051081092.corp.adobe.com
 or1010051081169.corp.adobe.com
@@ -3690,6 +3702,7 @@ or1010051081204.corp.adobe.com
 or1010051081207.corp.adobe.com
 or1010051081208.corp.adobe.com
 or1010051081210.corp.adobe.com
+or1010051081227.corp.adobe.com
 or1010051081230.corp.adobe.com
 or1010051082015.corp.adobe.com
 or1010051082024.corp.adobe.com
@@ -3913,6 +3926,7 @@ partner.addons-stage.adobe.com
 partner-author.prod.corp.adobe.com
 partner-author.stage2.corp.adobe.com
 partner-author.stage.corp.adobe.com
+partnerportal-dev.adobe.com
 partners.adobe.com
 partners.stage2.adobe.com
 partners.stage.adobe.com
@@ -4047,6 +4061,7 @@ podcast.e.adobe.com
 polka.typekit.com
 pores.adobe.io
 portal-campus.corp.adobe.com
+postgres.3di.corp.adobe.com
 postgress.3di.corp.adobe.com
 postoffice.adobe.com
 postweb.corp.adobe.com
@@ -4376,14 +4391,17 @@ saltit-sj1-mom-01.corp.adobe.com
 saltit-sj1-plat-01.corp.adobe.com
 saltit-sj1-self-01.corp.adobe.com
 saltit-sol.corp.adobe.com
+sam-datahub-stage.corp.adobe.com
 saml.sp.auth.adobe.com
 sammon.adobeaemcloud.net
+sam-raynet-stage.corp.adobe.com
 sams.adobe.com
 sams.corp.adobe.com
 sams-dev.adobe.com
 sams-dev.corp.adobe.com
 sams-job.corp.adobe.com
 sams-job-uat.corp.adobe.com
+sam-smarttrack-stage.corp.adobe.com
 sams-prod.corp.adobe.com
 sams-uat.adobe.com
 sams-uat.corp.adobe.com
@@ -4945,6 +4963,7 @@ stage.acrobatservices.adobe.com
 stage.adobe.com
 stageadu.adobe.com
 stage.ai.dots.corp.adobe.com
+stageapps.prototype.corp.adobe.com
 stage-aqua.adobe.com
 stage.assistant.adobe.com
 stage.at.adobe.com
