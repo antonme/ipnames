@@ -2171,6 +2171,7 @@ agent.datacare-dev.corp.adobe.com
 agent.datacare-stage.corp.adobe.com
 agent.datacare-uat.corp.adobe.com
 agentgarden.api.openai.com
+agenthub.adobe.com
 agenthub.corp.adobe.com
 agentic-ai.corp.adobe.com
 agentic-ai-dev.corp.adobe.com
@@ -7272,6 +7273,7 @@ cdn1-smallimg.phncdn.com
 cdn2.smoot.apple.com
 cdn.adobeaemcloud.com
 cdn.aem-sites-internal.adobe.com
+cdn.aepcomms.cjm.adobe.com
 cdn.aia.test.ajo.adobe.com
 cdn.ajo-campaigns-e2e-ind2-ultimate.test.ajo.adobe.com
 cdn.americanexpress.test.ajo.adobe.com
@@ -7379,6 +7381,7 @@ cdn.ubs.test.ajo.adobe.com
 cdn.ultimate-success-emea.test.ajo.adobe.com
 cdn-university.apple.com
 cdn-uploads.huggingface.co
+cdn.visitqatar-dev.test.ajo.adobe.com
 cdn-wavemesh.bytedance.com
 cdn.whatsapp.net
 cdn.wunderman-email.cjm.adobe.com
@@ -9844,6 +9847,7 @@ datatransfer.apple.com
 data.tsbuat.test.ajo.adobe.com
 data.typekit.net
 data.ubs.test.ajo.adobe.com
+data.visitqatar-dev.test.ajo.adobe.com
 dattihp.adobeaemcloud.com
 da-twd-5.da.ext.google.com
 da-twd-6.da.ext.google.com
@@ -20368,6 +20372,7 @@ ikaur1-new-wx-1.corp.adobe.com
 ikaur1-wx-1.corp.adobe.com
 ikons.corp.adobe.com
 il.cloud.google.com
+ilcomp7h.corp.adobe.com
 ilcompn0.corp.adobe.com
 ilhfa1-asavpn-fw.euro.apple.com
 ilinks.anthropic.com
@@ -22763,6 +22768,7 @@ myportfolio.com
 mysalescomp-external.apple.com
 mysupport.apple.com
 mysupport-pilot.apple.com
+my.workfront.adobe.com
 mzadattributionservice.itunes.apple.com
 mz.lazerpenguin.com
 mzstatic.com
@@ -23974,6 +23980,9 @@ or1010051085032.corp.adobe.com
 or1010051085100.corp.adobe.com
 or1010051085108.corp.adobe.com
 or1010051085166.corp.adobe.com
+or1010051085169.corp.adobe.com
+or1010051085170.corp.adobe.com
+or1010051085171.corp.adobe.com
 or1010051086153.corp.adobe.com
 or1010051086159.corp.adobe.com
 or1010051086165.corp.adobe.com
@@ -24076,12 +24085,16 @@ or1pam043.corp.adobe.com
 or1pam044.corp.adobe.com
 or1pam081.corp.adobe.com
 or1pam084.corp.adobe.com
+or1sam012.corp.adobe.com
 or1sam047.corp.adobe.com
 or1sam048.corp.adobe.com
 or1sam065.corp.adobe.com
+or1sam072.corp.adobe.com
+or1sam073.corp.adobe.com
 or1sam088.corp.adobe.com
 or1sam101.corp.adobe.com
 or1sam102.corp.adobe.com
+or1sam121.corp.adobe.com
 or1sam127.corp.adobe.com
 or1sam157.corp.adobe.com
 or1sdf005.corp.adobe.com
@@ -31293,6 +31306,7 @@ preview.claude.ai
 preview.illustrator.adobe.com
 preview.prism.openai.com
 previewtool.adobe.com
+preview.workfront.adobe.com
 pr.hz.adobe.com
 primary.stock.stage.adobe.com
 primeai.corp.adobe.com
@@ -35534,9 +35548,11 @@ saltit-sj1-plat-01.corp.adobe.com
 saltit-sj1-self-01.corp.adobe.com
 saltit-sol.corp.adobe.com
 salutatorily.withgoogle.com
+sam-datahub.corp.adobe.com
 sam-datahub-stage.corp.adobe.com
 saml.sp.auth.adobe.com
 sammon.adobeaemcloud.net
+sam-raynet.corp.adobe.com
 sam-raynet-stage.corp.adobe.com
 sams.adobe.com
 sams.corp.adobe.com
@@ -35544,6 +35560,7 @@ sams-dev.adobe.com
 sams-dev.corp.adobe.com
 sams-job.corp.adobe.com
 sams-job-uat.corp.adobe.com
+sam-smarttrack.corp.adobe.com
 sam-smarttrack-stage.corp.adobe.com
 sams-prod.corp.adobe.com
 sams-uat.adobe.com
@@ -35616,8 +35633,14 @@ sap-lp1ap2.corp.adobe.com
 sap-lp1ap3.corp.adobe.com
 sap-lp1ci.corp.adobe.com
 sap-lp1ciro.corp.adobe.com
+sap-md4ci.corp.adobe.com
+sap-md4db.corp.adobe.com
+sap-md5ci.corp.adobe.com
+sap-md5db.corp.adobe.com
 sap-mp1ci.corp.adobe.com
 sap-mp1db.corp.adobe.com
+sap-ms2ci.corp.adobe.com
+sap-ms2db.corp.adobe.com
 sap-otdac1.corp.adobe.com
 sap-otdds1.corp.adobe.com
 sap-otpac1.corp.adobe.com
@@ -37701,6 +37724,7 @@ taoa.devices.resinstaging.io
 tao.adobe.com
 taosheng.adobeaemcloud.com
 tao-stage.adobe.com
+taps-stage.corp.adobe.com
 targetlr.adobe.com
 tarnslaet.xn--google.com
 taskassist-pa.clients6.google.com
@@ -37788,6 +37812,7 @@ test-bigquery.eu.sandbox.google.com
 test-bigquery.us.sandbox.google.com
 test.bytedance.com
 test.devsite.corp.google.com
+testdrive.workfront.adobe.com
 testfamilysafety.bing.com
 testfiltering.pornhub.com
 testflight.apple.com
@@ -39069,6 +39094,7 @@ voicememos-events.apple.com
 voice-search-dev.sandbox.google.com
 voilatile-pa.googleapis.com
 voip.ozon.ru
+voip-taps.corp.adobe.com
 voledevice-pa.googleapis.com
 volume.itunes.apple.com
 volumeitunesprogramdownloadtool.apple.com
@@ -39157,6 +39183,7 @@ w63m9jmarynwjkvyhigublznh.3xqgsi.ttcpyp.uluzqcrxipjk8cuaxf0.8x1mmna62xfiroy.0zsr
 wa2gmk0dr38arposw0nuhprf09yvj9j.productivity.cloud-automation.corp.adobe.com
 waa-pa.clients6.google.com
 waa-pa.googleapis.com
+waf-dashboard.corp.adobe.com
 waicheng.withgoogle.com
 waiweibocaigongsidizhi.googleapis.com
 waldmeister.adobeaemcloud.com

@@ -267,6 +267,7 @@ agent.datacare.corp.adobe.com
 agent.datacare-dev.corp.adobe.com
 agent.datacare-stage.corp.adobe.com
 agent.datacare-uat.corp.adobe.com
+agenthub.adobe.com
 agenthub.corp.adobe.com
 agentic-ai.corp.adobe.com
 agentic-ai-dev.corp.adobe.com
@@ -959,6 +960,7 @@ cd-bot-dev.sharedservices.frame.io
 cdn1.adoberesources.net
 cdn.adobeaemcloud.com
 cdn.aem-sites-internal.adobe.com
+cdn.aepcomms.cjm.adobe.com
 cdn.aia.test.ajo.adobe.com
 cdn.ajo-campaigns-e2e-ind2-ultimate.test.ajo.adobe.com
 cdn.americanexpress.test.ajo.adobe.com
@@ -1030,6 +1032,7 @@ cdn.titancert.test.ajo.adobe.com
 cdn.tsbuat.test.ajo.adobe.com
 cdn.ubs.test.ajo.adobe.com
 cdn.ultimate-success-emea.test.ajo.adobe.com
+cdn.visitqatar-dev.test.ajo.adobe.com
 cdn.wunderman-email.cjm.adobe.com
 cdpi-ops.corp.adobe.com
 cdpi-ops-dev.corp.adobe.com
@@ -1454,6 +1457,7 @@ data.three.test.ajo.adobe.com
 data.tsbuat.test.ajo.adobe.com
 data.typekit.net
 data.ubs.test.ajo.adobe.com
+data.visitqatar-dev.test.ajo.adobe.com
 dattihp.adobeaemcloud.com
 dav.corp.adobe.com
 daviston.adobeaemcloud.com
@@ -2434,6 +2438,7 @@ ij-y.adobeaemcloud.com
 ikaur1-new-wx-1.corp.adobe.com
 ikaur1-wx-1.corp.adobe.com
 ikons.corp.adobe.com
+ilcomp7h.corp.adobe.com
 ilcompn0.corp.adobe.com
 illustrator.adobe.com
 ilovephotoshop.com
@@ -2981,6 +2986,7 @@ myds-hb.corp.adobe.com
 myds-or1-vip.corp.adobe.com
 mydsstg.corp.adobe.com
 myportfolio.com
+my.workfront.adobe.com
 n1.adoberp.com
 n5pt.adobeaemcloud.com
 n6zc.adobeaemcloud.net
@@ -3742,6 +3748,9 @@ or1010051085032.corp.adobe.com
 or1010051085100.corp.adobe.com
 or1010051085108.corp.adobe.com
 or1010051085166.corp.adobe.com
+or1010051085169.corp.adobe.com
+or1010051085170.corp.adobe.com
+or1010051085171.corp.adobe.com
 or1010051086153.corp.adobe.com
 or1010051086159.corp.adobe.com
 or1010051086165.corp.adobe.com
@@ -3833,12 +3842,16 @@ or1pam043.corp.adobe.com
 or1pam044.corp.adobe.com
 or1pam081.corp.adobe.com
 or1pam084.corp.adobe.com
+or1sam012.corp.adobe.com
 or1sam047.corp.adobe.com
 or1sam048.corp.adobe.com
 or1sam065.corp.adobe.com
+or1sam072.corp.adobe.com
+or1sam073.corp.adobe.com
 or1sam088.corp.adobe.com
 or1sam101.corp.adobe.com
 or1sam102.corp.adobe.com
+or1sam121.corp.adobe.com
 or1sam127.corp.adobe.com
 or1sam157.corp.adobe.com
 or1sdf005.corp.adobe.com
@@ -4105,6 +4118,7 @@ prestage.account.adobe.com
 prestage.plan.adobe.com
 preview.illustrator.adobe.com
 previewtool.adobe.com
+preview.workfront.adobe.com
 pr.hz.adobe.com
 primary.stock.stage.adobe.com
 primeai.corp.adobe.com
@@ -4391,9 +4405,11 @@ saltit-sj1-mom-01.corp.adobe.com
 saltit-sj1-plat-01.corp.adobe.com
 saltit-sj1-self-01.corp.adobe.com
 saltit-sol.corp.adobe.com
+sam-datahub.corp.adobe.com
 sam-datahub-stage.corp.adobe.com
 saml.sp.auth.adobe.com
 sammon.adobeaemcloud.net
+sam-raynet.corp.adobe.com
 sam-raynet-stage.corp.adobe.com
 sams.adobe.com
 sams.corp.adobe.com
@@ -4401,6 +4417,7 @@ sams-dev.adobe.com
 sams-dev.corp.adobe.com
 sams-job.corp.adobe.com
 sams-job-uat.corp.adobe.com
+sam-smarttrack.corp.adobe.com
 sam-smarttrack-stage.corp.adobe.com
 sams-prod.corp.adobe.com
 sams-uat.adobe.com
@@ -4449,8 +4466,14 @@ sap-lp1ap2.corp.adobe.com
 sap-lp1ap3.corp.adobe.com
 sap-lp1ci.corp.adobe.com
 sap-lp1ciro.corp.adobe.com
+sap-md4ci.corp.adobe.com
+sap-md4db.corp.adobe.com
+sap-md5ci.corp.adobe.com
+sap-md5db.corp.adobe.com
 sap-mp1ci.corp.adobe.com
 sap-mp1db.corp.adobe.com
+sap-ms2ci.corp.adobe.com
+sap-ms2db.corp.adobe.com
 sap-otdac1.corp.adobe.com
 sap-otdds1.corp.adobe.com
 sap-otpac1.corp.adobe.com
@@ -5121,6 +5144,7 @@ tao2.adobe.com
 tao.adobe.com
 taosheng.adobeaemcloud.com
 tao-stage.adobe.com
+taps-stage.corp.adobe.com
 targetlr.adobe.com
 taskmonster4.corp.adobe.com
 tb4b.adobeaemcloud.com
@@ -5152,6 +5176,7 @@ tes-stg-cm1.corp.adobe.com
 tes-stg-cm2.corp.adobe.com
 testanam1e.corp.adobe.com
 testapp.adt.corp.adobe.com
+testdrive.workfront.adobe.com
 testhost1.corp.adobe.com
 testhost2.corp.adobe.com
 testlbgrsept.corp.adobe.com
@@ -5422,6 +5447,7 @@ vl-videos.corp.adobe.com
 vlwx.adobeaemcloud.com
 VMmNeKnXOfgR.adobelogin.com
 VoaLRXMScfPW.adobe.com
+voip-taps.corp.adobe.com
 voxu.adobeaemcloud.com
 vp9o.adobeaemcloud.com
 vpn.adobe.com
@@ -5473,6 +5499,7 @@ w2ec.adobeaemcloud.net
 w-2k.adobeaemcloud.net
 w4aa025brr.data.adobedc.net
 wa2gmk0dr38arposw0nuhprf09yvj9j.productivity.cloud-automation.corp.adobe.com
+waf-dashboard.corp.adobe.com
 waldmeister.adobeaemcloud.com
 wam.adobe.com
 wanda.corp.adobe.com
