@@ -8274,6 +8274,7 @@ configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry.ls.apple.com
+configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -22507,6 +22508,7 @@ misc.google.com
 misc-sni.google.com
 misc-sni.youtube.com
 miulo.githubusercontent.com
+mixpanel.com
 mj5.corp.adobe.com
 mk6z.googleapis.com
 mk7r.adobeaemcloud.com
@@ -36796,6 +36798,7 @@ smp-device.apple.com
 smp-device-asset-ccs.apple.com
 smp-device-content.apple.com
 smp-device-content.apple.com.edgekey.net
+smp-device-content.g.aaplimg.com
 smp-device-content.lb-apple.com.akadns.net
 smp-device-content-us.lb-apple.com.akadns.net
 smp-device.gcsis-apple.com.akadns.net
@@ -37353,7 +37356,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline.apple.com.edgekey.net
@@ -37484,6 +37486,8 @@ stt-flux-a100.titanium.api.anthropic.com
 stt-flux-a100.titanium-staging.api.anthropic.com
 stt-flux-multi-a100.titanium.api.anthropic.com
 stt-flux-multi-a100.titanium-staging.api.anthropic.com
+stt-flux-multi-chs2.titanium.api.anthropic.com
+stt-flux-multi-chs2.titanium-staging.api.anthropic.com
 stt-flux-multi.titanium.api.anthropic.com
 stt-flux-multi.titanium-staging.api.anthropic.com
 stt-flux.titanium.api.anthropic.com
@@ -39300,6 +39304,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
@@ -39951,6 +39956,7 @@ www.xn--google.com
 www.xn--tt-tmrerfirma-enb.dk
 www.youtube.com
 www.youtube.kellykawase.com
+www.youtube-nocookie.com
 www.youtube.ru
 www.zh-tw.facebook.com.eu.cas.ms
 wxf.adobeaemcloud.com
