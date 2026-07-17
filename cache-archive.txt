@@ -2767,12 +2767,14 @@ api.kodiak.corp.adobe.com
 api-lb-atl.money-dev.x.com
 api-lb-atl.money-staging.x.com
 api-lb-atl.money.x.com
+api-lb-atl.uk.money-dev.x.com
 api-lb.money-dev.x.com
 api-lb.money-staging.x.com
 api-lb.money.x.com
 api-lb-pdx.money-dev.x.com
 api-lb-pdx.money-staging.x.com
 api-lb-pdx.money.x.com
+api-lb.uk.money-dev.x.com
 api-lookup-aapne1a.smoot.apple.com
 api-lookup-aaps1b.smoot.apple.com
 api-lookup-aeun1a.smoot.apple.com
@@ -2867,6 +2869,7 @@ api-test-tools-atl.money-staging.x.com
 api-test-tools.money-dev.x.com
 api-test-tools.money-staging.x.com
 api-test-tools-pdx.money-staging.x.com
+api-test-tools.uk.money-dev.x.com
 api.tiktok.com.edgekey.net
 api.tiktokv.com
 api.tiktokv.com.edgekey.net
@@ -2907,6 +2910,7 @@ api-xcorp.money.x.com
 api-xcorp-pdx.money-dev.x.com
 api-xcorp-pdx.money-staging.x.com
 api-xcorp-pdx.money.x.com
+api-xcorp.uk.money-dev.x.com
 apm3-27224.adobeaemcloud.net
 apne1-acivr-enterprise1-primary-pbz-prod.apple.com
 apne1-acivr-enterprise1-primary-pbz-prod.spbz.apple.com
@@ -23440,6 +23444,7 @@ oac-alpha2.adobe.com
 oac-dev.adobe.com
 oac-qe2.adobe.com
 oac-stage2.adobe.com
+oaistatic.com
 oalm.googleapis.com
 oauth2.googleapis.com
 oauthaccountmanager.googleapis.com
@@ -24223,6 +24228,7 @@ or1pam043.corp.adobe.com
 or1pam044.corp.adobe.com
 or1pam081.corp.adobe.com
 or1pam084.corp.adobe.com
+or1sam004.corp.adobe.com
 or1sam012.corp.adobe.com
 or1sam047.corp.adobe.com
 or1sam048.corp.adobe.com
@@ -35804,6 +35810,8 @@ sap-md4ci.corp.adobe.com
 sap-md4db.corp.adobe.com
 sap-md5ci.corp.adobe.com
 sap-md5db.corp.adobe.com
+sap-ml1ci.corp.adobe.com
+sap-ml1db.corp.adobe.com
 sap-mp1ci.corp.adobe.com
 sap-mp1db.corp.adobe.com
 sap-ms2ci.corp.adobe.com
@@ -37025,6 +37033,7 @@ sopsstg.corp.adobe.com
 sora-cdn.oaistatic.com
 sora.chatgpt.com
 soundtracks.icloud.com
+source.adobe.com
 southafrica-ca-version-2.expressnetw.com
 southamerica.apigee.google.com
 southamerica-east1.cloud.google.com
@@ -37791,7 +37800,6 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
-swdist.g.aaplimg.com
 swdlp-static.apple.com
 swdownload.apple.com
 sweats.overseastheme.com
@@ -38470,6 +38478,7 @@ uklon5-voice-expe2306.euro.apple.com
 uk-london-ca-version-2.expressnetw.com
 uk-lon.prod.surfshark.com
 uk-man.prod.surfshark.com
+uk.money-dev.x.com
 ukraine-ca-version-2.expressnetw.com
 uk.r.prom-qa.sandbox.google.com
 uksi.adobeaemcloud.com
@@ -39410,6 +39419,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
@@ -39787,6 +39797,7 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
+www.appleiphonecell.com
 www.as.adobeaemcloud.com
 www.backblaze.com
 www-backblaze-com.webpkgcache.com
