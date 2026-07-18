@@ -391,6 +391,7 @@ api.datacare-uat.corp.adobe.com
 api.dev.cloud-automation.corp.adobe.com
 api.dev.dxenablementhub.adobe.com
 api.dev.frame.io
+api.dme-customer-insights.corp.adobe.com
 api.dxenablementhub.adobe.com
 api.frame.io
 api-gateway-cc-prd.infra.adobe.io
@@ -423,6 +424,7 @@ app.circle.ci.adobe.com
 app.circle-stg.ci.adobe.com
 app.dev.frame.io
 app.frame.io
+app.handsoff.corp.adobe.com
 applog-be.cr.adobe.com
 applog.cr.adobe.com
 app.renovate.corp.adobe.com
@@ -1631,6 +1633,7 @@ Dispatcher.adobeaemcloud.net
 dlf-dev.corp.adobe.com
 dlf-stg.corp.adobe.com
 dmde-provisioning-dev.corp.adobe.com
+dme-customer-insights.corp.adobe.com
 d.ns.campaign.adobe.com
 dntq.adobeaemcloud.net
 docgen.adobe.com
@@ -2250,6 +2253,7 @@ hana-stage-indx.corp.adobe.com
 hanawebide-hd4.corp.adobe.com
 hanawebide-hs7.corp.adobe.com
 hanawebide-stage.corp.adobe.com
+handsoff.corp.adobe.com
 hangers-on.adobeaemcloud.com
 hariri.adobeaemcloud.com
 harmonydl.adobe.com
@@ -2260,10 +2264,18 @@ hawkeye.corp.adobe.com
 hawkeye-dev.corp.adobe.com
 hawkstgc.corp.adobe.com
 hbc.adobe.io
+hbd-hdp.ipaas.corp.adobe.com
+hbd-rts.corp.adobe.com
+hbd-std.ipaas.corp.adobe.com
 hbgl.adobeaemcloud.net
 hbrcv.adobe.com
 hbrt.adobe.com
 hbrt-or1-ext-vip.adobe.com
+hbu-hdp-a.ipaas.corp.adobe.com
+hbu-hdp-b.ipaas.corp.adobe.com
+hbu-hdp.ipaas.corp.adobe.com
+hbu-rts.corp.adobe.com
+hbu-std.ipaas.corp.adobe.com
 hd4hb-alias1.corp.adobe.com
 hd4hb-alias2.corp.adobe.com
 hd4node01.corp.adobe.com
@@ -2543,7 +2555,10 @@ ip-90-56.adobeaemcloud.com
 ipaasapi-container-sb.corp.adobe.com
 ipaasapi-support-team.corp.adobe.com
 ipaas.corp.adobe.com
+ipaas-dev-hb.corp.adobe.com
 ipaas-ldap-proxy.corp.adobe.com
+ipaasrt-dev-hb.corp.adobe.com
+ipaasrt-uat-hb.corp.adobe.com
 ipassapi.corp.adobe.com
 ipm230server.corp.adobe.com
 ipsk.corp.adobe.com
@@ -3844,6 +3859,7 @@ or1pam081.corp.adobe.com
 or1pam084.corp.adobe.com
 or1sam004.corp.adobe.com
 or1sam012.corp.adobe.com
+or1sam034.corp.adobe.com
 or1sam047.corp.adobe.com
 or1sam048.corp.adobe.com
 or1sam065.corp.adobe.com
@@ -4477,6 +4493,8 @@ sap-mp1ci.corp.adobe.com
 sap-mp1db.corp.adobe.com
 sap-ms2ci.corp.adobe.com
 sap-ms2db.corp.adobe.com
+sap-ms7ci.corp.adobe.com
+sap-ms7db.corp.adobe.com
 sap-otdac1.corp.adobe.com
 sap-otdds1.corp.adobe.com
 sap-otpac1.corp.adobe.com
@@ -4847,9 +4865,12 @@ slate.qa.corp.adobe.com
 slate-stage.corp.adobe.com
 slate.stage.corp.adobe.com
 slbw.*.dev.adobeaemcloud.com
+sl-dev-ipaas.corp.adobe.com
+sl-dev-ipaasrt.corp.adobe.com
 sln.addons-dev.adobe.com
 sln.addons-stage.adobe.com
 slp-statics.astockcdn.net
+sl-uat-ipaas.corp.adobe.com
 sm-api.corp.adobe.com
 sm-api-dev.corp.adobe.com
 sm-api-stage.corp.adobe.com

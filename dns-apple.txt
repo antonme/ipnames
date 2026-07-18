@@ -23,6 +23,7 @@ account.apple.com
 account.appleconnect.apple.com
 accounts.apple.com
 account-stage.apple.com
+accyapi.mdn.spbz.apple.com
 acdownload.apple.com
 acehub.apple.com
 acehub-dev.apple.com
@@ -366,6 +367,8 @@ api-lookup-aeun1a.smoot.apple.com
 api-lookup-aeun1b.smoot.apple.com
 api-lookup-aeus2a.smoot.apple.com
 api-lookup-aeuw1b.smoot.apple.com
+api-lookup-ausw2b.smoot.apple.com
+api-lookup-ausw2c.smoot.apple.com
 api-lookup.smoot.apple.com
 api-manage-broadcast-mr.push.apple.com
 api-manage-broadcast-mr.sandbox.push.apple.com
@@ -401,7 +404,10 @@ api-safari-aeus2b.smoot.apple.com
 api-safari-aeuw1b.smoot.apple.com
 api-safari-ause2a.smoot.apple.com
 api-safari.smoot.apple.com
+api-sba.smoot.apple.com
 api.shazam.apple.com
+api-siri-ausw2b.smoot.apple.com
+api-siri-ausw2c.smoot.apple.com
 api.smoot.apple.com
 api.sports.apple.com
 api-spotlight-aapne1a.smoot.apple.com
@@ -521,6 +527,10 @@ appleseeddownload-stage.apple.com
 appleservices.apple.com
 applesurveysintegrations-st.apple.com
 appleteacher.apple.com
+apple-ticketing-admin-dev.apple.com
+apple-ticketing-admin-dev-stage.msc.sbz.apple.com
+apple-ticketing-admin-uat.apple.com
+apple-ticketing-admin-uat-stage.msc.sbz.apple.com
 apple-ticketing-dev.apple.com
 apple-ticketing-dev-stage.msc.sbz.apple.com
 apple-ticketing-uat.apple.com
@@ -1434,6 +1444,7 @@ edge-024.usbos2.icloud-content.com
 edge-024.usmsc2.icloud-content.com
 edge-025.deber3.icloud-content.com
 edge-025.dedus1.icloud-content.com
+edge-025.defra2.icloud-content.com
 edge-025.nlhfd1.icloud-content.com
 edge-025.usatl5.icloud-content.com
 edge-025.usbos2.icloud-content.com
@@ -2810,7 +2821,9 @@ idmsac-qa-stage.rno.bz.idms.apple.com
 idmsac.rno.spbz.apple.com
 idmsac-stage.apple.com
 idmsa.idms-apple.com.akadns.net
+idmsa-partner.apple.com
 idms-apple.com.akadns.net
+idmsa-uat.apple.com
 idmsauth.corp.apple.com
 ids-carry.isoproxy.apple.com
 ids.isoproxy.apple.com
@@ -3066,7 +3079,6 @@ jptyo5-goobclient-vpn1.apple.com
 jp-vpn.asia.apple.com
 js-cdn.music.apple.com
 js-cdn-music-lb.itunes-apple.com.akadns.net
-js-cdn-music-lb-itunes-apple-com.v.aaplimg.com
 jurassic-events.apple.com
 k.apple.com
 kbase.info.apple.com
@@ -3441,6 +3453,7 @@ ms-api.push.apple.com
 msc-b2bhr-mutualauth.apple.com
 msc-devices-pbz-prod.apple.com
 msc-narrative-ext.apple.com
+msc-wpc-ae-ingestion-prod.apple.com
 mss-in-app-refund-requests.corp.apple.com
 mt-ingestion-service-mr22.itunes.apple.com
 mu-expe2201.euro.apple.com
@@ -9065,6 +9078,7 @@ partiality.itunes.apple.com.edgekey.net
 partnerconnect.apple.com
 partnerconnect-mdn.apple.com
 partnerconnect-rno.apple.com
+partner-gateway-dc-stage.apple.com
 partner.itunes.apple.com
 partnernetwork.apple.com
 partner-relay.apple.com
@@ -9334,6 +9348,26 @@ prod-digital-assets-search.awusw2.sbz.apple.com
 prod-generic-edge.aweuw1.sbz.apple.com
 prod-ias-digital-assets.aweun1.sbz.apple.com
 prod.isoproxy.apple.com
+prod-use1-pod01-broker.apay.apple.com
+prod-use1-pod08-broker.apay.apple.com
+prod-use1-pod09-apay-device-ccs.apay.apple.com
+prod-use1-pod09-broker.apay.apple.com
+prod-use1-pod10-broker.apay.apple.com
+prod-use1-pod11-apple-pay-gateway.apay.apple.com
+prod-use1-pod11-broker.apay.apple.com
+prod-use1-pod11-serviceprovider.apay.apple.com
+prod-use1-pod12-apay-device-ccs.apay.apple.com
+prod-use1-pod12-broker.apay.apple.com
+prod-usw2-pod01-broker.apay.apple.com
+prod-usw2-pod01-partnerservice.apay.apple.com
+prod-usw2-pod01-serviceprovider.apay.apple.com
+prod-usw2-pod01-smp-device.apay.apple.com
+prod-usw2-pod08-broker.apay.apple.com
+prod-usw2-pod09-broker.apay.apple.com
+prod-usw2-pod10-broker.apay.apple.com
+prod-usw2-pod11-broker.apay.apple.com
+prod-usw2-pod11-smp-device.apay.apple.com
+prod-usw2-pod12-broker.apay.apple.com
 profile.ess.apple.com
 profile.ess-apple.com.akadns.net
 profile.gc.apple.com
@@ -9858,6 +9892,8 @@ speed-test.apple.com
 speedtracer.apple.com
 speedybuy.apps.apple.com
 speedybuy.books.apple.com
+speedybuy.commerce-business.apple.com
+speedybuy.commerce-school.apple.com
 speedybuy.itunes.apple.com
 speedybuy.link.apple.com
 speedybuy.music.apple.com
@@ -10072,7 +10108,6 @@ support-china.apple-support.akadns.net
 support-china-row.apple-support.akadns.net
 support-gs.apple.com
 support-icloud-apple.com
-support-lb-row.apple-support.akadns.net
 supportmetrics.apple.com
 support-sp.apple.com
 support-sp.apple.com.edgekey.net
@@ -10591,6 +10626,7 @@ wkms-public-prod.rno.sbz.apple.com
 woolyjumper.sd.apple.com
 wpc.prz.sbz.apple.com
 wpc.rno.sbz.apple.com
+wpjszlgntl-stage.awusw2.shld.apple.com
 wps.apple.com
 wps.v.aaplimg.com
 ws.business.apple.com
