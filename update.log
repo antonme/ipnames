@@ -105107,3 +105107,59 @@ s
 ===anthropic
 
 == Save names archive
+[master 7771db53] auto-update names
+ 14 files changed, 31938 insertions(+), 4967 deletions(-)
+  ytimg.com: ok
+  facebook.com: ok
+  instagram.com: fetch failed
+  fbcdn.net: fetch failed
+  tiktok.com: ok
+  tiktokv.com: fetch failed
+  tiktokcdn.com: fetch failed
+  bytedance.com: ok
+  openai.com: ok
+  chatgpt.com: fetch failed
+  oaiusercontent.com: ok
+  bing.com: ok
+  microsoft.com: fetch failed
+  twitter.com: ok
+  x.com: fetch failed
+  twimg.com: fetch failed
+  ozon.ru: ok
+  github.com: ok
+  githubusercontent.com: ok
+  apple.com: ok
+  icloud.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  adobe.com: ok
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: fetch failed
+  pornhub.com: ok
+  phncdn.com: ok
+  backblaze.com: ok
+  huggingface.co: ok
+  anthropic.com: ok
+  claude.ai: ok
+  total CT names: 14940
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
