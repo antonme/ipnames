@@ -393,6 +393,7 @@ api.dev.dxenablementhub.adobe.com
 api.dev.frame.io
 api.dme-customer-insights.corp.adobe.com
 api.dxenablementhub.adobe.com
+api.fluffyjaws.adobe.com
 api.frame.io
 api-gateway-cc-prd.infra.adobe.io
 api-gateway-cc-prd-irl1.infra.adobe.io
@@ -611,6 +612,7 @@ automation.substance3d.adobe.com
 automationsuite.corp.adobe.com
 automationsuite-dev.corp.adobe.com
 automationsuite-stg.corp.adobe.com
+automationtestresults.corp.adobe.com
 auto-metrics.corp.adobe.com
 autosky-api.adobe.com
 autosky-api.corp.adobe.com
@@ -1055,6 +1057,7 @@ cfWRNdWZlWOQ.adobe.com
 cgen.adobe.com
 cgen-dev.adobe.com
 cgen-stage.adobe.com
+changes-manager-ui.identity.adobe.com
 channelorders2.adobe.com
 channelorders2.stage.adobe.com
 channelorders.adobe.com
@@ -1487,8 +1490,10 @@ dc-genai-access-provisioning-api.adobe.io
 dcmpulse.corp.adobe.com
 dcpa.adobeaemcloud.net
 dcs.adobedc.net
+dd.corp.adobe.com
 dd-dev.corp.adobe.com
 ddlc.adobeaemcloud.com
+dd-stg.corp.adobe.com
 dealintegrity.corp.adobe.com
 dealintegrity-stage.corp.adobe.com
 delegated.identity.adobe.com
@@ -2046,6 +2051,7 @@ firewatch.corp.adobe.com
 fi-rt.adobeaemcloud.net
 flickr-ols.adobe.com
 floscular.adobeaemcloud.net
+fluffyjaws.adobe.com
 fmxt.adobeaemcloud.net
 fonts.adobe.com
 font-services.adobe.io
@@ -2107,6 +2113,7 @@ g11nbotes-kibana-prd.corp.adobe.com
 g11nbot-es-np.corp.adobe.com
 g11n-mcg-dev.corp.adobe.com
 g11n-mcg-stage.corp.adobe.com
+g11n-quality-qa.corp.adobe.com
 g20j.adobeaemcloud.com
 g2bm.adobeaemcloud.com
 g38h.adobeaemcloud.com
@@ -2268,9 +2275,18 @@ hbd-hdp.ipaas.corp.adobe.com
 hbd-rts.corp.adobe.com
 hbd-std.ipaas.corp.adobe.com
 hbgl.adobeaemcloud.net
+hbp-hdp.ipaas.corp.adobe.com
+hbp-std1.ipaas.corp.adobe.com
+hbp-std2.ipaas.corp.adobe.com
+hbp-std3.ipaas.corp.adobe.com
 hbrcv.adobe.com
 hbrt.adobe.com
 hbrt-or1-ext-vip.adobe.com
+hbs-hdp-a.ipaas.corp.adobe.com
+hbs-hdp-b.ipaas.corp.adobe.com
+hbs-hdp.ipaas.corp.adobe.com
+hbs-std-a.ipaas.corp.adobe.com
+hbs-std-b.ipaas.corp.adobe.com
 hbu-hdp-a.ipaas.corp.adobe.com
 hbu-hdp-b.ipaas.corp.adobe.com
 hbu-hdp.ipaas.corp.adobe.com
@@ -2556,9 +2572,18 @@ ipaasapi-container-sb.corp.adobe.com
 ipaasapi-support-team.corp.adobe.com
 ipaas.corp.adobe.com
 ipaas-dev-hb.corp.adobe.com
+ipaas-hb.corp.adobe.com
 ipaas-ldap-proxy.corp.adobe.com
 ipaasrt-dev-hb.corp.adobe.com
+ipaasrt-hb.corp.adobe.com
+ipaasrt-sj.corp.adobe.com
+ipaasrt-stg-hb.corp.adobe.com
+ipaasrt-stg-sj.corp.adobe.com
 ipaasrt-uat-hb.corp.adobe.com
+ipaas-sj.corp.adobe.com
+ipaas-stg-hb.corp.adobe.com
+ipaas-stg-sj.corp.adobe.com
+ipaas-uat-hb.corp.adobe.com
 ipassapi.corp.adobe.com
 ipm230server.corp.adobe.com
 ipsk.corp.adobe.com
@@ -3122,6 +3147,7 @@ no1010042072153.corp.adobe.com
 no1010042075151.corp.adobe.com
 no1010042129211.corp.adobe.com
 no1010042194130.corp.adobe.com
+no1010042224017.corp.adobe.com
 no1010042224020.corp.adobe.com
 no1010042224039.corp.adobe.com
 no1010042224048.corp.adobe.com
@@ -3151,8 +3177,12 @@ no1010042236028.corp.adobe.com
 no1010042236070.corp.adobe.com
 no1010042236071.corp.adobe.com
 no1010042236078.corp.adobe.com
+no1dra102.corp.adobe.com
+no1dra103.corp.adobe.com
+no1swm442.corp.adobe.com
 no1sz1.corp.adobe.com
 no1sz1-openstack.corp.adobe.com
+nocc01.corp.adobe.com
 node1.corp.adobe.com
 node2.corp.adobe.com
 node3.corp.adobe.com
@@ -3547,6 +3577,7 @@ or1010050164097.corp.adobe.com
 or1010050164098.corp.adobe.com
 or1010050164102.corp.adobe.com
 or1010050164105.corp.adobe.com
+or1010050164137.corp.adobe.com
 or1010050164164.corp.adobe.com
 or1010050165216.corp.adobe.com
 or1010050166100.corp.adobe.com
@@ -3839,6 +3870,7 @@ or1010051253214.corp.adobe.com
 or1-bms-ebo.corp.adobe.com
 or1-bms-pme.corp.adobe.com
 or1chidc03.stagechild.adstage.adobe.com
+or1dra063.corp.adobe.com
 or1dra107.corp.adobe.com
 or1dra109.corp.adobe.com
 or1dra411.corp.adobe.com
@@ -3849,6 +3881,7 @@ or1dra855.corp.adobe.com
 or1dra856.corp.adobe.com
 or1dra857.corp.adobe.com
 or1dra858.corp.adobe.com
+or1dra976.corp.adobe.com
 or1d-sevone.corp.adobe.com
 or1d-sevonedi.corp.adobe.com
 or1gam001.corp.adobe.com
@@ -4163,6 +4196,9 @@ prod.ssocm.corp.adobe.com
 productivity.cloud-automation.corp.adobe.com
 productrouter.adobe.com
 prod.wam.adobe.com
+profile-consolidation-service.identity.adobe.com
+profile-consolidation-service-or2.identity.adobe.com
+profile-consolidation-service-va6.identity.adobe.com
 projectclio.adobe.com
 project-hummingbird-hummingbird-websocket-nodejs-de-112831.cloud.adobe.io
 projectknow.corp.adobe.com
@@ -4848,6 +4884,7 @@ sjc-smfw01.corp.adobe.com
 sjcwtcmpub.corp.adobe.com
 sjcwtcmsub1.corp.adobe.com
 sjcwtcmtftp.corp.adobe.com
+sjp-hdp.ipaas.corp.adobe.com
 sjpki-css-1.corp.adobe.com
 sjpki-css-2.corp.adobe.com
 sjpki-css-3.corp.adobe.com
@@ -4856,6 +4893,9 @@ sjpki-css-5.corp.adobe.com
 sjpki-css-6.corp.adobe.com
 sjpki-css-7.corp.adobe.com
 sjpkidev-css-1.corp.adobe.com
+sjp-std1.ipaas.corp.adobe.com
+sjs-std-a.ipaas.corp.adobe.com
+sjs-std-b.ipaas.corp.adobe.com
 sk7i.adobeaemcloud.com
 skms.adobe.com
 sl0z.adobeaemcloud.com
@@ -4867,10 +4907,13 @@ slate.stage.corp.adobe.com
 slbw.*.dev.adobeaemcloud.com
 sl-dev-ipaas.corp.adobe.com
 sl-dev-ipaasrt.corp.adobe.com
+sl-ipaas.corp.adobe.com
 sln.addons-dev.adobe.com
 sln.addons-stage.adobe.com
 slp-statics.astockcdn.net
+sl-stg-ipaas.corp.adobe.com
 sl-uat-ipaas.corp.adobe.com
+sl-uat-ipaasrt.corp.adobe.com
 sm-api.corp.adobe.com
 sm-api-dev.corp.adobe.com
 sm-api-stage.corp.adobe.com
