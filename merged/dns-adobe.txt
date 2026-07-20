@@ -2531,6 +2531,7 @@ cdn-libraries.adobecc.map.fastly.net
 cdn-libraries-stage.adobecc.map.fastly.net
 cdn.mailing.kpn.com.cname.cjm.adobe.com
 cdn.mailing.mcafee.com.cname.cjm.adobe.com
+cdn.mail.stage.halo.adobe.com
 cdn.markadsmal.islandsbanki.is.cname.cjm.adobe.com
 cdn.marketing.cansin.net.cname.cjm.adobe.com
 cdn.mayo.test.ajo.adobe.com
@@ -2877,6 +2878,7 @@ cms-falkor-next.dev.frame.io
 cms-falkor-next.staging.frame.io
 cms.frame.io
 cms.qa.frame.io
+cmsr.corp.adobe.com
 cms.staging.frame.io
 cmstage.corp.adobe.com
 cmt-revere.corp.adobe.com
@@ -3330,6 +3332,7 @@ csdemo2.dmo.adobe.com
 csdemo3.dmo.adobe.com
 csdkapi-policy.adobe.com
 csdkapi-policy.adobe.com.edgekey.net
+csec-stage.corp.adobe.com
 csg-grafana.corp.adobe.com
 csg-grafana-dev.corp.adobe.com
 csg-grafana-sandbox-1.corp.adobe.com
@@ -3561,6 +3564,7 @@ data-governance-dev.adobe.com
 data.gxv.test.ajo.adobe.com
 data-internal-web.captivateprimestage.adobe.com
 data.mail.contentauthenticity.adobe.com
+data-menu.corp.adobe.com
 data.news.paypal.com.data.adobedc.net
 data.notifications.campaign.adobe.com
 data.premierleague.test.ajo.adobe.com
@@ -4712,6 +4716,7 @@ europe-server1.documents.adobe.com
 europe-webmail.experiencecloud.adobe.com
 europewest.aodemea1.marketing-assets.adobe.com
 europewest.mail.experiencecloud.adobe.com
+eusigningservice.adobe.com
 eu.staging.frame.io
 eu.vendor-api.marketing.adobe.com
 euwap.experiencecloud.adobe.com
@@ -5313,6 +5318,7 @@ ghexchange.documents.adobe.com
 gigijpg.myportfolio.com
 gimura.myportfolio.com
 ginabene.myportfolio.com
+gingerbread.corp.adobe.com
 giomartgd.myportfolio.com
 giorgioarmanigroup-mkt-prod1-lb.campaign.adobe.com
 giovannaregaligr46dd.myportfolio.com
@@ -8284,6 +8290,7 @@ na.orion.adobe.com
 naqing.adobeaemcloud.com
 narimanmosharrafa.myportfolio.com
 nashom.adobeaemcloud.net
+nasigningservice.adobe.com
 nasigningservice.dev.adobe.com
 nasmhpd.adobeconnect.com
 na.staging.frame.io
@@ -8860,6 +8867,7 @@ onlineevents.adobeconnect.com
 onrksm.myportfolio.com
 onstar.myalertsexchange.marketing.adobe.com
 onyx.corp.adobe.com
+oob.collab-offsec.adobe.com
 oobe.adobe.com
 oobesaas.adobe.com
 oobesaas.mcisqe2.marketing.adobe.com
@@ -9885,6 +9893,7 @@ or1dra856.corp.adobe.com
 or1dra857.corp.adobe.com
 or1dra858.corp.adobe.com
 or1dra915.corp.adobe.com
+or1dra943.corp.adobe.com
 or1dra976.corp.adobe.com
 or1d-sevone.corp.adobe.com
 or1d-sevonedi.corp.adobe.com
@@ -10712,6 +10721,7 @@ profile-va6.identity.adobe.com
 progrexion.dubc1.marketing.adobe.com
 progrexionffc.marketing.adobe.com
 progrexion.marketing.adobe.com
+project-3s-ams.corp.adobe.com
 projectaero.adobelanding.com
 projectcheckbox.adobe.com
 projectcheckbox-dev.corp.adobe.com
@@ -12098,6 +12108,7 @@ sebastiencaprice.myportfolio.com
 sec06-flashmobile-sjc0.adobe.com
 sec06-flashmobile-stg-sjc0.adobe.com
 seceng-jenkinsrstd.corp.experiencecloud.adobe.com
+sec-nvr.corp.adobe.com
 secret-eu2.documents.adobe.com
 secretshare.corp.adobe.com
 secretshare-dev.corp.adobe.com
@@ -12605,6 +12616,7 @@ sj1dra370.corp.adobe.com
 sj1dra526.corp.adobe.com
 sj1dra589.corp.adobe.com
 sj1dra761.corp.adobe.com
+sj1dra802.corp.adobe.com
 sj1dra878.corp.adobe.com
 sj1dra879.corp.adobe.com
 sj1dra880.corp.adobe.com
@@ -12617,6 +12629,7 @@ sj1gtm001.adobe.com
 sj1gtm004.adobe.com
 sj1gwm384.corp.adobe.com
 sj1gwmx030.corp.adobe.com
+sj1hba120.corp.adobe.com
 sj1hdp011.corp.adobe.com
 sj1hdp088.corp.adobe.com
 sj1hdp250.corp.adobe.com
@@ -12674,6 +12687,8 @@ sjcadodc05.adobenet.global.adobe.com
 sjcadold02.adobenet.global.adobe.com
 sjcatcmsub1.corp.adobe.com
 sjcatcupsvmfovr.jab.corp.adobe.com
+sjcatvcmpub.corp.adobe.com
+sjcc01.corp.adobe.com
 sjcchidc02.stagechild.adstage.adobe.com
 sjcdsgm01.corp.adobe.com
 sjcetcmsub1.corp.adobe.com
@@ -14212,6 +14227,7 @@ transmute-artfy-generic.corp.adobe.com
 transmute.corp.adobe.com
 transmute-editor.corp.adobe.com
 transmute-stage.corp.adobe.com
+transmute-web.corp.adobe.com
 transport-api.na1.documents.adobe.com
 transportassets.documents.adobe.com
 transport.comshell-cdn.marketing.adobe.com

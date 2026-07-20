@@ -105344,3 +105344,21 @@ s
 ===anthropic
 
 == Save names archive
+[master b4f5d928] auto-update names
+ 4 files changed, 84 insertions(+), 8 deletions(-)
+
+== Resolving external names to ipv4
+Mon Jul 20 06:44:53 AM MSK 2026                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Mon Jul 20 07:02:46 AM MSK 2026                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Mon Jul 20 07:02:52 AM MSK 2026                ext-dns-apple.txt  >ext-resolve-apple.txt
+Mon Jul 20 07:43:29 AM MSK 2026                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Mon Jul 20 08:03:26 AM MSK 2026                ext-dns-bing.txt  >ext-resolve-bing.txt
+Mon Jul 20 08:04:45 AM MSK 2026                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Mon Jul 20 09:05:04 AM MSK 2026                ext-dns-github.txt  >ext-resolve-github.txt
+Mon Jul 20 09:22:11 AM MSK 2026                ext-dns-google.txt  >ext-resolve-google.txt
+Mon Jul 20 09:31:50 AM MSK 2026                dns-github.txt  >resolve-github.txt
+Mon Jul 20 09:48:31 AM MSK 2026                dns-google.txt  >resolve-google.txt
+Mon Jul 20 10:07:54 AM MSK 2026                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Mon Jul 20 10:08:02 AM MSK 2026                ext-dns-openai.txt  >ext-resolve-openai.txt
+Mon Jul 20 10:10:16 AM MSK 2026                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Mon Jul 20 10:11:24 AM MSK 2026                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
