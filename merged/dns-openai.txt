@@ -68,6 +68,7 @@ api.g1.services.openai.com
 api.g2.services.openai.com
 api.oaistatsig.com
 api.openai.com
+api.presence.openai.com
 api.prod-primary-aks-scentralus-api-b.api.openai.com
 api-southcentralus-aks.openai.com
 api-staging.openai.com
@@ -587,10 +588,14 @@ gateway.admin-0.api.openai.com
 gateway.ci-android-0.api.openai.com
 gateway.cpe-0.api.openai.com
 gateway.encl-0.api.openai.com
+gateway.encl-11.api.openai.com
 gateway.encl-3.api.openai.com
 gateway.encl-4.api.openai.com
 gateway.encl-5.api.openai.com
 gateway.encl-6.api.openai.com
+gateway.encl-7.api.openai.com
+gateway.encl-8.api.openai.com
+gateway.encl-9.api.openai.com
 gateway.fed-unified-0.api.openai.com
 gateway.fed-unified-1.api.openai.com
 gateway.fed-unified-2.api.openai.com
