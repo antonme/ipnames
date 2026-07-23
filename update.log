@@ -105910,3 +105910,13 @@ Thu Jul 23 11:01:44 AM MSK 2026                ext-dns-vpnhosts.txt  >ipv6-ext-r
 Thu Jul 23 11:18:38 AM MSK 2026                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
 Thu Jul 23 11:53:31 AM MSK 2026                dns-huggingface.txt  >resolve-huggingface.txt
 Thu Jul 23 11:56:00 AM MSK 2026                dns-openai.txt  >resolve-openai.txt
+[master 399ff2eb] auto-update ipv6
+ 7 files changed, 4515 insertions(+), 2068 deletions(-)
+Thu Jul 23 12:24:24 PM MSK 2026                dns-ozon.txt  >resolve-ozon.txt
+Thu Jul 23 12:30:05 PM MSK 2026                dns-pornhub.txt  >resolve-pornhub.txt
+Thu Jul 23 12:35:01 PM MSK 2026                dns-surfshark.txt  >resolve-surfshark.txt
+Thu Jul 23 12:42:04 PM MSK 2026                dns-tiktok.txt  >resolve-tiktok.txt
+Thu Jul 23 02:26:25 PM MSK 2026                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Thu Jul 23 02:38:08 PM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
+Thu Jul 23 03:27:41 PM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Thu Jul 23 03:27:48 PM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
