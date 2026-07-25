@@ -106098,3 +106098,81 @@ Fri Jul 24 09:46:02 AM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolv
 Fri Jul 24 09:52:08 AM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
 [master 6ec20a5a] auto-update ipv4
  14 files changed, 6174 insertions(+), 6611 deletions(-)
+[master 81f9d6cb] auto-update merged
+ 31 files changed, 11754 insertions(+), 10768 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Sat Jul 25 06:00:02 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: ok
+  googlevideo.com: fetch failed
+  youtube.com: ok
+  ytimg.com: ok
+  facebook.com: fetch failed
+  instagram.com: fetch failed
+  fbcdn.net: fetch failed
+  tiktok.com: ok
+  tiktokv.com: ok
+  tiktokcdn.com: ok
+  bytedance.com: ok
+  openai.com: ok
+  chatgpt.com: ok
+  oaiusercontent.com: fetch failed
+  bing.com: fetch failed
+  microsoft.com: fetch failed
+  twitter.com: fetch failed
+  x.com: fetch failed
+  twimg.com: ok
+  ozon.ru: ok
+  github.com: ok
+  githubusercontent.com: ok
+  apple.com: fetch failed
+  icloud.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  adobe.com: ok
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: ok
+  pornhub.com: fetch failed
+  phncdn.com: fetch failed
+  backblaze.com: ok
+  huggingface.co: fetch failed
+  anthropic.com: fetch failed
+  claude.ai: ok
+  total CT names: 11120
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive

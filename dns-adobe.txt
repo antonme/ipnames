@@ -996,6 +996,8 @@ cdn.carnival-uk-dev.test.ajo.adobe.com
 cdn.certificate.test.ajo.adobe.com
 cdn.cip.test.ajo.adobe.com
 cdn.cp.adobe.io
+cdn.digital.adobe.com
+cdn.digitalmedia.adobe.com
 cdn.e2eche2.test.ajo.adobe.com
 cdn.e2e.mail.test.ajo.adobe.com
 cdn.e2eprod.repackageaus5.test.ajo.adobe.com
@@ -1005,12 +1007,15 @@ cdn.e2eprod.repackage.test.ajo.adobe.com
 cdn.e2e.uat08.test.ajo.adobe.com
 cdn.e2e.uat13.test.ajo.adobe.com
 cdn.e2e.uat18.test.ajo.adobe.com
+cdn.e.adobe.com
+cdn.email.adobe.com
 cdn.email-discovery.cjm.adobe.com
 cdn.email-disney.cjm.adobe.com
 cdn.email-kpn.cjm.adobe.com
 cdn.email-lightroom.cjm.adobe.com
 cdn.email-merkle.cjm.adobe.com
 cdn.email-mobiledx.cjm.adobe.com
+cdn.email.podcast.adobe.com
 cdn.employeecommunications.adobe.com
 cdn.etihadpoc.test.ajo.adobe.com
 cdn.experienceleague.adobe.com
@@ -1019,6 +1024,7 @@ cdn-geo-ffc.oobesaas.adobe.com
 cdn.gm.test.ajo.adobe.com
 cdn.gxv.test.ajo.adobe.com
 cdn.ingspain.test.ajo.adobe.com
+cdn.mail.contentauthenticity.adobe.com
 cdn.mail.stage.halo.adobe.com
 cdn.mayo.test.ajo.adobe.com
 cdn.nordstrom.dev.ajo.adobe.com
@@ -1439,6 +1445,7 @@ data.e2eprod.repackagenld2.test.ajo.adobe.com
 data.e2eprod.repackage.test.ajo.adobe.com
 data.e.adobe.com
 data.e.adobe.com.data.adobedc.net
+data.email.adobe.com
 data.emaillpb.adobe.com
 data.email.podcast.adobe.com
 data.employeecommunications.adobe.com
@@ -1934,6 +1941,9 @@ ew1010219056036.corp.adobe.com
 ew1010219056039.corp.adobe.com
 ew1010219056040.corp.adobe.com
 ewpc-236-58.adobeaemcloud.com
+exc-gql-ci.corp.adobe.com
+exc-gql-ci-stage.corp.adobe.com
+exc-graphql.experience-qa.adobe.com
 exc-graphql.experience-stage.adobe.com
 exchange.adobe.com
 exchange-assets.adobe.com
