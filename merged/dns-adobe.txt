@@ -2491,6 +2491,8 @@ cdn-contentviewer.adobe.com
 cdn.cp.adobe.io
 cdn-cuali-na3.vi.documentsawspreview.adobe.com
 cdn.customer-success-apac.adobe.com
+cdn.digital.adobe.com
+cdn.digitalmedia.adobe.com
 cdn.e2eche2.test.ajo.adobe.com
 cdn.e2e.mail.test.ajo.adobe.com
 cdn.e2eprod.repackageaus5.test.ajo.adobe.com
@@ -2500,9 +2502,11 @@ cdn.e2eprod.repackage.test.ajo.adobe.com
 cdn.e2e.uat08.test.ajo.adobe.com
 cdn.e2e.uat13.test.ajo.adobe.com
 cdn.e2e.uat18.test.ajo.adobe.com
+cdn.e.adobe.com
 cdn.edex.adobe.com
 cdn.edm.chowtaifook.com.cname.cjm.adobe.com
 cdn.edm.heartsonfire.com.cname.cjm.adobe.com
+cdn.email.adobe.com
 cdn.email-discovery.cjm.adobe.com
 cdn.email-disney.cjm.adobe.com
 cdn.email.gamma.be.cname.cjm.adobe.com
@@ -2533,6 +2537,7 @@ cdn-invitations-stage.adobecc.map.fastly.net
 cdn.latinamerica.coca-cola.com.cname.cjm.adobe.com
 cdn-libraries.adobecc.map.fastly.net
 cdn-libraries-stage.adobecc.map.fastly.net
+cdn.mail.contentauthenticity.adobe.com
 cdn.mailing.kpn.com.cname.cjm.adobe.com
 cdn.mailing.mcafee.com.cname.cjm.adobe.com
 cdn.mail.stage.halo.adobe.com
@@ -3554,6 +3559,7 @@ data.e2eprod.repackagenld2.test.ajo.adobe.com
 data.e2eprod.repackage.test.ajo.adobe.com
 data.e.adobe.com
 data.e.adobe.com.data.adobedc.net
+data.email.adobe.com
 data.email-kpn.cjm.adobe.com
 data.email-lightroom.cjm.adobe.com
 data.emaillpb.adobe.com
@@ -4778,6 +4784,7 @@ exception.licenses.adobe.com
 exceptions-np.corp.adobe.com
 exc-gql-ci.corp.adobe.com
 exc-gql-ci-stage.corp.adobe.com
+exc-graphql.experience-qa.adobe.com
 exc-graphql.experience-stage.adobe.com
 exchange.adobe.com
 exchange-assets.adobe.com

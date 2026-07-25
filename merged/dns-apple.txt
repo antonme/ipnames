@@ -2091,6 +2091,7 @@ api.itunes.apple.com
 api-kr.apple-mapkit.com
 api-lax.smoot.apple.com
 api-lookup-aapne1a.smoot.apple.com
+api-lookup-aaps1a.smoot.apple.com
 api-lookup-aaps1b.smoot.apple.com
 api-lookup-aapse1c.smoot.apple.com
 api-lookup-aeuc1b.smoot.apple.com
@@ -3632,7 +3633,6 @@ configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -10115,6 +10115,7 @@ invitation-qa2.g.apple.com
 ios-apple.com
 iosapps.itunes.apple.com
 iosapps.itunes.apple.com.edgesuite.net
+iosapps.itunes.g.aaplimg.com
 iosapps-ssl.itunes.apple.com
 iosdiags.apple.com
 iosdiags-dr-old.apple.com
@@ -13988,6 +13989,7 @@ news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
 news-assets-origin.apple.com
+news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-old.apple.com
 news-client-older.apple.com
@@ -30838,7 +30840,6 @@ stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline.apple.com.edgekey.net
@@ -31114,7 +31115,6 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
-swdist.g.aaplimg.com
 swdlp.apple.com
 swdlp-eg-nlt.apple.com
 swdlp-mdn-nlt.apple.com
