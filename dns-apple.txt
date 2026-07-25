@@ -2900,7 +2900,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -2946,6 +2945,7 @@ invitation.gc.apple.com
 ios-apple.com
 iosapps.itunes.apple.com
 iosapps.itunes.apple.com.edgesuite.net
+iosapps.itunes.g.aaplimg.com
 iosapps-ssl.itunes.apple.com
 ipcdn.apple.com
 ipcdn-lb.apple.com.akadns.net
@@ -10356,6 +10356,7 @@ sps-media-anon.itunes.apple.com
 sps-media.apple.com
 sps-media.aweun1.sbz.apple.com
 sps-media.aweuw1.sbz.apple.com
+sps-media.v.aaplimg.com
 sq-carrier.apple.com
 sq-carrier-cn.apple.com
 sq-carrier-stage.apple.com
@@ -10418,7 +10419,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline.apple.com.edgekey.net
