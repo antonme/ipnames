@@ -92,6 +92,8 @@ account.5af9c11b065838b2e163e1ff.c00.adobe.com
 accountablecm.101na1.documents.adobe.com
 account.adobe.com
 account.buick.com.cname.campaign.adobe.com
+accountcapitalization.corp.adobe.com
+accountcapitalization-stage.corp.adobe.com
 account.carbravo.com.cname.campaign.adobe.com
 account.experiencecloud.adobe.com
 account-ftp-eu2.documents.adobe.com
@@ -522,6 +524,7 @@ adx-copilot-stg.corp.adobe.com
 adx-dev.api.adobe.com
 adx-dev.api.corp.adobe.com
 adxdev.api.corp.adobe.com
+adx-dev.apig.corp.adobe.com
 adxdev-dev.api.corp.adobe.com
 adxdev-stage.api.corp.adobe.com
 adxdp.corp.adobe.com
@@ -1290,6 +1293,7 @@ atscse-jenkins-k8s.corp.adobe.com
 atscse-k8s-orjenkins.corp.adobe.com
 atscse-k8s-orjenkins-dashboard.corp.adobe.com
 atscse-k8s-orprod-apiserver.corp.adobe.com
+ats-cxlabs-dev.adobe.com
 atsk8s-jenkins-admin.corp.adobe.com
 atsk8s-jenkins-alertmanager.corp.adobe.com
 atsk8s-jenkins-api.corp.adobe.com
@@ -1653,6 +1657,7 @@ bast-mac-prd-61.corp.adobe.com
 bast-mac-prd-63.corp.adobe.com
 bast-mac-prd-64.corp.adobe.com
 bast-mac-prd-65.corp.adobe.com
+bast-mac-qa-14.corp.adobe.com
 bast-mac-qa-8.corp.adobe.com
 bast-mac-stg-15.corp.adobe.com
 bast-win-prd-hb-011.corp.adobe.com
@@ -1667,6 +1672,7 @@ bast-win-prd-hb-021.corp.adobe.com
 bast-win-prd-hb-022.corp.adobe.com
 bast-win-prd-hb-023.corp.adobe.com
 bast-win-prd-hb-025.corp.adobe.com
+bast-win-qa-hb-145.corp.adobe.com
 bast-win-qa-hb-147.corp.adobe.com
 bast-win-qa-hb-148.corp.adobe.com
 bast-win-stg-hb-143.corp.adobe.com
@@ -3210,6 +3216,7 @@ cpe.corp.adobe.com
 cpe-inventory.corp.adobe.com
 cpe-inventory-test.corp.adobe.com
 cpe-monitoring.corp.adobe.com
+cpe-security-jira-dashboard.corp.adobe.com
 cp.gws.marketing.adobe.com
 cplive.adobe.com
 cp.paas.corp.adobe.com
@@ -4784,6 +4791,7 @@ exception.licenses.adobe.com
 exceptions-np.corp.adobe.com
 exc-gql-ci.corp.adobe.com
 exc-gql-ci-stage.corp.adobe.com
+exc-graphql.experience.adobe.com
 exc-graphql.experience-qa.adobe.com
 exc-graphql.experience-stage.adobe.com
 exchange.adobe.com
@@ -5212,6 +5220,7 @@ g11nbot-es-np.corp.adobe.com
 g11n-mcg-dev.corp.adobe.com
 g11n-mcg-stage.corp.adobe.com
 g11n-otm-stage.corp.adobe.com
+g11n-quality.corp.adobe.com
 g11n-quality-qa.corp.adobe.com
 g20j.adobeaemcloud.com
 g2bm.adobeaemcloud.com
@@ -5373,6 +5382,7 @@ glb-service-aus3.identity.adobe.com
 glb-service-fra8.identity.adobe.com
 glb-service.identity.adobe.com
 glb-service.identity-stage.adobe.com
+glb-service-ind1.identity.adobe.com
 glb-service-irl1c2.identity.adobe.com
 glb-service-irl1.identity.adobe.com
 glb-service-irl1.identity-stage.adobe.com
@@ -5592,6 +5602,7 @@ hariri.adobeaemcloud.com
 harmonydl.adobe.com
 harmonydl-stg.corp.adobe.com
 harvard-esign.na2.documents.adobe.com
+has.corp.adobe.com
 hashilaboratory.myportfolio.com
 hatch-itc.corp.adobe.com
 hawcographicdesign.myportfolio.com
@@ -6183,6 +6194,10 @@ insights-ark-ciprd01.corp.adobe.com
 inspire.adobe.com
 instabuy.myportfolio.com
 int2-ffc-files.corp.adobe.com
+intak.corp.adobe.com
+intake.corp.adobe.com
+intake-dev.corp.adobe.com
+intake-stg.corp.adobe.com
 int.aus3.canary.adobe.com
 integrations.dev.frame.io
 integrations.frame.io
@@ -6306,9 +6321,11 @@ is1-testing.documentsawspreview.adobe.com
 isaanataxacct.na1.documents.adobe.com
 isabellecaron.myportfolio.com
 isb-mkt-prod1-cus.campaign.adobe.com
+isearch-dev.corp.adobe.com
 isearch-elasticsearch-qa01.corp.adobe.com
 isearch-elasticsearch-stg.corp.adobe.com
 isearchprd.corp.adobe.com
+isearch-qa.corp.adobe.com
 isearch-stg.corp.adobe.com
 ise.corp.adobe.com
 isfireworksbetterthanphotoshop.com
@@ -6774,6 +6791,7 @@ lean.lp-techops1-us-east-1.marketing-stage.adobe.com
 leap.corp.adobe.com
 learn.adobe.com
 learn-babi.techops1-us-east-1.marketing-stage.adobe.com
+learncontentportal.adobe.com
 learndownload.adobe.com
 learnearnwin.adobe.com
 learning.adobe.com
@@ -6889,6 +6907,8 @@ license-advisory-dev.corp.adobe.com
 license-advisory-qa.corp.adobe.com
 license-advisory-stage.corp.adobe.com
 license-dev.corp.adobe.com
+licenseiq.corp.adobe.com
+licenseiq-stage.corp.adobe.com
 license-prod.corp.adobe.com
 licenses-au1.documentsstage.adobe.com
 licensesauthumay261464255923939.marketing.adobe.com
@@ -7936,6 +7956,7 @@ mongo.tomcat.documents.adobe.com
 monitoring-alertmanager-dash-hb.corp.adobe.com
 monitoring-blackbox-dash-hb.corp.adobe.com
 monitoring.corp.adobe.com
+monitoring.dots.corp.adobe.com
 monitoring-grafana-dash-hb.corp.adobe.com
 monkey.adobe.com
 monocytosis.adobeaemcloud.net
@@ -8292,6 +8313,8 @@ naexpedge2.adobe.com
 naexpedge2.corp.adobe.com
 na.frame.io
 naidajazmin.myportfolio.com
+named-releases.api.adobe.com
+named-releases.api.corp.adobe.com
 nameiframe.io
 namespace.corp.adobe.com
 nami.adobeconnect.com
@@ -8559,6 +8582,7 @@ no1010042234150.corp.adobe.com
 no1010042234159.corp.adobe.com
 no1010042234169.corp.adobe.com
 no1010042234178.corp.adobe.com
+no1010042234253.corp.adobe.com
 no1010042236012.corp.adobe.com
 no1010042236023.corp.adobe.com
 no1010042236028.corp.adobe.com
@@ -9432,6 +9456,7 @@ or1010050173235.corp.adobe.com
 or1010050173236.corp.adobe.com
 or1010050173237.corp.adobe.com
 or1010050173241.corp.adobe.com
+or1010050173249.corp.adobe.com
 or1010050173250.corp.adobe.com
 or1010050174141.corp.adobe.com
 or1010050174142.corp.adobe.com
@@ -9763,6 +9788,7 @@ or1010051087016.corp.adobe.com
 or1010051087018.corp.adobe.com
 or1010051087020.corp.adobe.com
 or1010051087026.corp.adobe.com
+or1010051087080.corp.adobe.com
 or1010051144134.corp.adobe.com
 or1010051144135.corp.adobe.com
 or1010051144138.corp.adobe.com
@@ -9851,6 +9877,7 @@ or1010051246122.corp.adobe.com
 or1010051246147.corp.adobe.com
 or1010051246149.corp.adobe.com
 or1010051246160.corp.adobe.com
+or1010051247005.corp.adobe.com
 or1010051247007.corp.adobe.com
 or1010051247163.corp.adobe.com
 or1010051248187.corp.adobe.com
@@ -10449,6 +10476,7 @@ podcast.adobe.com
 podcast.e.adobe.com
 pointsoflight.adobeconnect.com
 pokedstudio.prosite.com
+policies.corp.adobe.com
 polka.typekit.com
 polk-schools.businesscatalyst.com
 polonium-fc.corp.adobe.com
@@ -10857,6 +10885,8 @@ pub.projectm.adobe.com
 pubsub-prd.corp.adobe.com
 pulamalanai.na4.documents.adobe.com
 pulpless.adobeaemcloud.com
+pulsar-ab.identity.adobe.com
+pulsar-ab.identity-stage.adobe.com
 pulsar.adobe.com
 pulsar-na1r.services.adobe.com
 pulsar-na1r-stg1.services.adobe.com
@@ -13144,6 +13174,7 @@ stage.gen-ai-director.substance3d.adobe.com
 stage-grab.corp.adobe.com
 stage-grafana-dash-hb.corp.adobe.com
 stage.griffon.adobe.com
+stage.gtmaiap.corp.adobe.com
 stage-hipaa.postoffice.adobe.com
 stage.hz.adobe.com
 stage.ims.adobejanus.com
@@ -13916,6 +13947,7 @@ testlbgrsept.corp.adobe.com
 testlbjul24.corp.adobe.com
 testlbjun25.corp.adobe.com
 testlbjunee.corp.adobe.com
+test-lp-preset.ssb.test.ajo.adobe.com
 testman.corp.adobe.com
 testmom-01.corp.adobe.com
 testmom-rhel8-02.corp.adobe.com
@@ -13957,6 +13989,7 @@ t.gbl.email-ford.com.cname.campaign.adobe.com
 t.gmreward.gm.com.cname.campaign.adobe.com
 t.gmsafety.gm.com.cname.campaign.adobe.com
 t.go.rac.co.uk.cname.campaign.adobe.com
+tgrcautom8.corp.adobe.com
 tgrc.corp.adobe.com
 tguerra.marketing.adobe.com
 thankyou.adobe.com
@@ -14398,6 +14431,7 @@ tzngrafik.myportfolio.com
 u67w.adobeaemcloud.net
 u7h2.adobeaemcloud.com
 u8im.adobeaemcloud.com
+uabdemo.corp.adobe.com
 uabsign.na2.documents.adobe.com
 uat-55b89cab2cf5ff4a3a38b22a.c00.adobe.com
 uat-publishing-preview.experiencecloud.adobe.com
@@ -14821,6 +14855,8 @@ vip-gw.documents.adobe.com
 vip-hv.corp.adobe.com
 vip-hv-dev.corp.adobe.com
 vip-hv-stg.corp.adobe.com
+vipmarketplace.corp.adobe.com
+vipmarketplace-stage.corp.adobe.com
 vip.motorolasolutions.brand-portal.adobe.com
 vip.philipps.marketing.adobe.com
 vipsql.experiencecloud.adobe.com
@@ -14972,7 +15008,10 @@ warpath.corp.adobe.com
 warriors-mkt-prod1-1.campaign.adobe.com
 watchprosite.com
 wavelength.corp.adobe.com
+wcc.corp.adobe.com
+wcc-rd.corp.adobe.com
 wcc-rd-stg.corp.adobe.com
+wcc-stg.corp.adobe.com
 wcg.experiencecloud.adobe.com
 wcmsops.adobe.com
 wcs.adobe.com
@@ -15275,6 +15314,7 @@ www.cake2go.au1.documents.adobe.com
 www.car-loan-income-tax.localprosite.com
 www.ccschools.documents.adobe.com
 www-ccv.adobe.io
+www.create.adobe.com
 www.creative.adobe.com
 www-da1.stage2.adobe.com
 www-da1.stage.adobe.com
@@ -15313,6 +15353,7 @@ www.licenses.adobe.com
 www.linguahub.corp.adobe.com
 www-live-redirect.adobeaemcloud.com
 www.major-loss-adjuster.localprosite.com
+www.makeitcenter.adobe.com
 www.marketing.adobe.com
 www.maxjapan.adobe.com
 www.mdm.marketing.adobe.com
@@ -15347,6 +15388,7 @@ www-stage01.acrobat.adobe.com
 www.stage2.adobe.com
 www.stage.adobe.com
 www.stock.adobe.com
+www.substance3d.adobe.com
 www.symposium.adobe.com
 www.tia.corp.adobe.com
 www.trove-app.corp.adobe.com
