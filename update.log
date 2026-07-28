@@ -106639,3 +106639,115 @@ Mon Jul 27 03:12:07 PM MSK 2026                dns-tunnelbear.txt  >resolve-tunn
 Mon Jul 27 03:23:49 PM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
 Mon Jul 27 04:13:38 PM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
 Mon Jul 27 04:13:45 PM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
+[master 4cbab9cc] auto-update ipv4
+ 12 files changed, 7144 insertions(+), 4725 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Tue Jul 28 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: fetch failed
+  googlevideo.com: fetch failed
+  youtube.com: fetch failed
+  ytimg.com: ok
+  facebook.com: fetch failed
+  instagram.com: fetch failed
+  fbcdn.net: fetch failed
+  tiktok.com: ok
+  tiktokv.com: fetch failed
+  tiktokcdn.com: fetch failed
+  bytedance.com: ok
+  openai.com: ok
+  chatgpt.com: fetch failed
+  oaiusercontent.com: fetch failed
+  bing.com: fetch failed
+  microsoft.com: fetch failed
+  twitter.com: fetch failed
+  x.com: fetch failed
+  twimg.com: fetch failed
+  ozon.ru: ok
+  github.com: ok
+  githubusercontent.com: fetch failed
+  apple.com: fetch failed
+  icloud.com: fetch failed
+  mzstatic.com: ok
+  cdn-apple.com: fetch failed
+
+
+
+--------------------------------------------------------------------------------
+Tue Jul 28 06:27:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  adobe.com: fetch failed
+  behance.net: ok
+  google.com: ok
+  googlevideo.com: ok
+  photoshop.com: fetch failed
+  typekit.net: ok
+  youtube.com: ok
+  frame.io: ok
+  ytimg.com: fetch failed
+  facebook.com: ok
+  instagram.com: fetch failed
+  pornhub.com: ok
+  fbcdn.net: fetch failed
+  phncdn.com: fetch failed
+  tiktok.com: ok
+  tiktokv.com: ok
+  tiktokcdn.com: ok
+  backblaze.com: fetch failed
+  bytedance.com: ok
+  huggingface.co: ok
+  openai.com: ok
+  chatgpt.com: ok
+  oaiusercontent.com: ok
+  anthropic.com: ok
+  bing.com: fetch failed
+  claude.ai: fetch failed
+  total CT names: 1034
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
