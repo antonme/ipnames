@@ -106963,3 +106963,10 @@ s
 ===anthropic
 
 == Save names archive
+[master 98ac7f24] auto-update names
+ 4 files changed, 51 insertions(+)
+
+== Resolving names to ipv4
+Wed Jul 29 06:55:39 AM MSK 2026                dns-adobe.txt  >resolve-adobe.txt
+Wed Jul 29 09:19:49 AM MSK 2026                dns-github.txt  >ipv6-resolve-github.txt
+Wed Jul 29 09:36:57 AM MSK 2026                dns-google.txt  >ipv6-resolve-google.txt
