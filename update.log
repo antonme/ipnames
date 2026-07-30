@@ -107168,3 +107168,15 @@ Thu Jul 30 10:48:59 AM MSK 2026                ext-dns-tiktok.txt  >ipv6-ext-res
 Thu Jul 30 11:13:56 AM MSK 2026                ext-dns-twitter.txt  >ipv6-ext-resolve-twitter.txt
 Thu Jul 30 11:26:56 AM MSK 2026                ext-dns-vpnhosts.txt  >ipv6-ext-resolve-vpnhosts.txt
 Thu Jul 30 11:42:34 AM MSK 2026                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
+[master 7e8c293f] auto-update ipv6
+ 8 files changed, 3508 insertions(+), 4482 deletions(-)
+Thu Jul 30 01:07:45 PM MSK 2026                dns-huggingface.txt  >resolve-huggingface.txt
+Thu Jul 30 01:10:04 PM MSK 2026                dns-openai.txt  >resolve-openai.txt
+Thu Jul 30 01:39:43 PM MSK 2026                dns-ozon.txt  >resolve-ozon.txt
+Thu Jul 30 01:45:26 PM MSK 2026                dns-pornhub.txt  >resolve-pornhub.txt
+Thu Jul 30 01:50:18 PM MSK 2026                dns-surfshark.txt  >resolve-surfshark.txt
+Thu Jul 30 01:57:16 PM MSK 2026                dns-tiktok.txt  >resolve-tiktok.txt
+Thu Jul 30 03:41:22 PM MSK 2026                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Thu Jul 30 03:53:05 PM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
+Thu Jul 30 04:45:03 PM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Thu Jul 30 04:45:10 PM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
