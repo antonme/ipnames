@@ -838,6 +838,8 @@ buy-lb.itunes-apple.com.akadns.net
 buy.link.apple.com
 buylite.apps.apple.com
 buylite.books.apple.com
+buylite.commerce-business.apple.com
+buylite.commerce-school.apple.com
 buylite.edge-itunes-apple.com.akadns.net
 buylite-eu.edge-itunes-apple.com.akadns.net
 buylite.itunes.apple.com
@@ -1109,7 +1111,6 @@ configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -1159,6 +1160,8 @@ cs-callbackservices-usw2-cx03.apple.com
 cs.iadsdk.apple.com
 csig.apple.com
 csig.g.apple.com
+cssubmissions.apple.com
+cssubmissions.apple.com.akadns.net
 cssvc.apple.com
 cssvc-it.apple.com
 cssvc-mdn.apple.com
@@ -1512,6 +1515,7 @@ edge-029.defra2.icloud-content.com
 edge-029.esmad6.icloud-content.com
 edge-029.usbos2.icloud-content.com
 edge-029.uschi7.icloud-content.com
+edge-029.usmsc2.icloud-content.com
 edge-029.usuqo4.icloud-content.com
 edge-030.deber3.icloud-content.com
 edge-030.defra2.icloud-content.com
@@ -1583,6 +1587,7 @@ edge-041.esmad6.icloud-content.com
 edge-041.nlhfd1.icloud-content.com
 edge-041.usmin.icloud-content.com
 edge-041.usqas5.icloud-content.com
+edge-041.usuqo4.icloud-content.com
 edge-041.usuyk1.icloud-content.com
 edge-042.deber3.icloud-content.com
 edge-042.defra2.icloud-content.com
@@ -1797,6 +1802,7 @@ edge-091.usuyk1.icloud-content.com
 edge-092.nlhfd1.icloud-content.com
 edge-092.sesto4.icloud-content.com
 edge-092.usbos2.icloud-content.com
+edge-092.usuqo4.icloud-content.com
 edge-093.deber3.icloud-content.com
 edge-093.defra2.icloud-content.com
 edge-093.gbslo5.icloud-content.com
@@ -11454,6 +11460,7 @@ wwfde-wave.apple.com
 wwidr.corp.apple.com
 www0.info.apple.com
 www.ads-apple.com.cn
+www.airport.us
 www.apple.com
 www.apple.com.cn
 www.apple.com.cn.edgekey.net
@@ -11467,13 +11474,16 @@ www-apple-com.v.aaplimg.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.events.shazam.apple.com
+www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
 www.info.apple.com
+www.itools.info
 www.mzstatic.com
 www.portal-repair-uat-apple.com
 www.support.apple.com
+www.thinkdifferent.us
 xdcvpn.apple.com
 xenia.siri.apple.com
 xml.apple.com

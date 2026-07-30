@@ -106984,3 +106984,113 @@ Wed Jul 29 02:55:31 PM MSK 2026                dns-tunnelbear.txt  >ipv6-resolve
 Wed Jul 29 03:08:19 PM MSK 2026                dns-twitter.txt  >ipv6-resolve-twitter.txt
 Wed Jul 29 04:02:12 PM MSK 2026                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
 Wed Jul 29 04:02:20 PM MSK 2026                dns-youtube.txt  >ipv6-resolve-youtube.txt
+[master 726c5c09] auto-update ipv6
+ 11 files changed, 13613 insertions(+), 10835 deletions(-)
+Wed Jul 29 10:18:07 PM MSK 2026                dns-backblaze.txt  >resolve-backblaze.txt
+Wed Jul 29 11:00:18 PM MSK 2026                dns-bing.txt  >resolve-bing.txt
+Wed Jul 29 11:05:53 PM MSK 2026                dns-expressvpn.txt  >resolve-expressvpn.txt
+Wed Jul 29 11:13:27 PM MSK 2026                dns-facebook.txt  >resolve-facebook.txt
+
+
+
+--------------------------------------------------------------------------------
+Thu Jul 30 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: ok
+  googlevideo.com: ok
+  youtube.com: ok
+  ytimg.com: ok
+  facebook.com: fetch failed
+  instagram.com: fetch failed
+  fbcdn.net: fetch failed
+  tiktok.com: ok
+  tiktokv.com: ok
+  tiktokcdn.com: ok
+  bytedance.com: fetch failed
+  openai.com: fetch failed
+  chatgpt.com: ok
+  oaiusercontent.com: fetch failed
+  bing.com: fetch failed
+  microsoft.com: fetch failed
+  twitter.com: fetch failed
+  x.com: fetch failed
+  twimg.com: fetch failed
+  ozon.ru: fetch failed
+  github.com: ok
+  githubusercontent.com: ok
+  apple.com: ok
+  icloud.com: fetch failed
+  mzstatic.com: fetch failed
+  cdn-apple.com: ok
+  adobe.com: ok
+  behance.net: fetch failed
+  photoshop.com: ok
+  typekit.net: fetch failed
+
+
+
+--------------------------------------------------------------------------------
+Thu Jul 30 06:27:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+  frame.io: ok
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: fetch failed
+  googlevideo.com: ok
+  pornhub.com: fetch failed
+  phncdn.com: fetch failed
+  backblaze.com: ok
+  youtube.com: fetch failed
+  ytimg.com: ok
+  facebook.com: fetch failed
+  instagram.com: fetch failed
+  huggingface.co: ok
+  fbcdn.net: fetch failed
+  tiktok.com: fetch failed
+  tiktokv.com: ok
+  anthropic.com: ok
+  claude.ai: ok
+  total CT names: 9047
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
