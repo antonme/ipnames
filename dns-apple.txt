@@ -1115,7 +1115,6 @@ configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -1334,6 +1333,8 @@ edge-001.gbmnc1.icloud-content.com
 edge-001.gbslo5.icloud-content.com
 edge-001.nlhfd1.icloud-content.com
 edge-001.usatl5.icloud-content.com
+edge-001.usmes1.icloud-content.com
+edge-001.usmia1.icloud-content.com
 edge-001.usqas5.icloud-content.com
 edge-001.usuqo4.icloud-content.com
 edge-002.defra2.icloud-content.com
@@ -1360,12 +1361,14 @@ edge-004.gbslo5.icloud-content.com
 edge-004.nlhfd1.icloud-content.com
 edge-004.uschi7.icloud-content.com
 edge-004.usdal2.icloud-content.com
+edge-004.usden6.icloud-content.com
 edge-004.usuqo4.icloud-content.com
 edge-004.usuyk1.icloud-content.com
 edge-005.deber3.icloud-content.com
 edge-005.defra2.icloud-content.com
 edge-005.nlhfd1.icloud-content.com
 edge-005.usbos2.icloud-content.com
+edge-005.usden6.icloud-content.com
 edge-005.usmes1.icloud-content.com
 edge-005.usqas5.icloud-content.com
 edge-005.usuqo4.icloud-content.com
@@ -1375,6 +1378,8 @@ edge-006.gbmnc1.icloud-content.com
 edge-006.gbslo5.icloud-content.com
 edge-006.usbos2.icloud-content.com
 edge-006.usdal2.icloud-content.com
+edge-006.usden6.icloud-content.com
+edge-006.usmes1.icloud-content.com
 edge-006.usuqo4.icloud-content.com
 edge-006.usuyk1.icloud-content.com
 edge-007.defra2.icloud-content.com
@@ -1382,6 +1387,7 @@ edge-007.dkvib11.icloud-content.com
 edge-007.usbos2.icloud-content.com
 edge-007.uschi7.icloud-content.com
 edge-007.usdal2.icloud-content.com
+edge-007.usmes1.icloud-content.com
 edge-007.usuqo4.icloud-content.com
 edge-007.usuyk1.icloud-content.com
 edge-008.deber3.icloud-content.com
@@ -1391,6 +1397,7 @@ edge-008.gbslo5.icloud-content.com
 edge-008.usatl5.icloud-content.com
 edge-008.uschi7.icloud-content.com
 edge-008.usdal2.icloud-content.com
+edge-008.usden6.icloud-content.com
 edge-008.usmes1.icloud-content.com
 edge-008.usqas5.icloud-content.com
 edge-008.usuqo4.icloud-content.com
@@ -1404,6 +1411,7 @@ edge-009.usmes1.icloud-content.com
 edge-009.usuqo4.icloud-content.com
 edge-010.dkvib11.icloud-content.com
 edge-010.usbos2.icloud-content.com
+edge-010.usmes1.icloud-content.com
 edge-010.usqas5.icloud-content.com
 edge-010.usuqo4.icloud-content.com
 edge-011.deber3.icloud-content.com
@@ -1484,6 +1492,7 @@ edge-020.usatl5.icloud-content.com
 edge-020.usbos2.icloud-content.com
 edge-020.usdal2.icloud-content.com
 edge-020.usmes1.icloud-content.com
+edge-020.usmia1.icloud-content.com
 edge-020.usuqo4.icloud-content.com
 edge-021.deber3.icloud-content.com
 edge-021.dkvib11.icloud-content.com
@@ -1492,6 +1501,8 @@ edge-021.gbslo5.icloud-content.com
 edge-021.nlhfd1.icloud-content.com
 edge-021.usbos2.icloud-content.com
 edge-021.usdal2.icloud-content.com
+edge-021.usden6.icloud-content.com
+edge-021.usmes1.icloud-content.com
 edge-021.usqas5.icloud-content.com
 edge-021.usuqo4.icloud-content.com
 edge-022.deber3.icloud-content.com
@@ -1698,6 +1709,7 @@ edge-050.deber3.icloud-content.com
 edge-050.defra2.icloud-content.com
 edge-050.dkvib11.icloud-content.com
 edge-050.uschi7.icloud-content.com
+edge-050.usmia1.icloud-content.com
 edge-051.deber3.icloud-content.com
 edge-051.defra2.icloud-content.com
 edge-051.dkvib11.icloud-content.com
@@ -1798,6 +1810,7 @@ edge-070.gbmnc1.icloud-content.com
 edge-070.nlhfd1.icloud-content.com
 edge-070.usbos2.icloud-content.com
 edge-070.usdal2.icloud-content.com
+edge-070.usden6.icloud-content.com
 edge-071.deber3.icloud-content.com
 edge-071.gbmnc1.icloud-content.com
 edge-071.gbslo5.icloud-content.com
@@ -1819,9 +1832,11 @@ edge-073.usuyk1.icloud-content.com
 edge-074.deber3.icloud-content.com
 edge-074.usbos2.icloud-content.com
 edge-074.usdal2.icloud-content.com
+edge-074.usden6.icloud-content.com
 edge-075.deber3.icloud-content.com
 edge-075.usbos2.icloud-content.com
 edge-075.uschi7.icloud-content.com
+edge-075.usden6.icloud-content.com
 edge-075.usuyk1.icloud-content.com
 edge-076.deber3.icloud-content.com
 edge-076.defra2.icloud-content.com
@@ -1835,6 +1850,7 @@ edge-077.sesto4.icloud-content.com
 edge-077.usbos2.icloud-content.com
 edge-078.deber3.icloud-content.com
 edge-078.nlhfd1.icloud-content.com
+edge-078.usmia1.icloud-content.com
 edge-078.usuyk1.icloud-content.com
 edge-079.deber3.icloud-content.com
 edge-079.defra2.icloud-content.com
@@ -1844,6 +1860,7 @@ edge-080.defra2.icloud-content.com
 edge-080.gbmnc1.icloud-content.com
 edge-080.sesto4.icloud-content.com
 edge-080.usbos2.icloud-content.com
+edge-080.usden6.icloud-content.com
 edge-080.usuyk1.icloud-content.com
 edge-081.deber3.icloud-content.com
 edge-081.gbmnc1.icloud-content.com
@@ -1858,6 +1875,7 @@ edge-082.usbos2.icloud-content.com
 edge-083.sesto4.icloud-content.com
 edge-083.usbos2.icloud-content.com
 edge-083.uschi7.icloud-content.com
+edge-083.usden6.icloud-content.com
 edge-083.usuyk1.icloud-content.com
 edge-084.deber3.icloud-content.com
 edge-084.defra2.icloud-content.com
@@ -1872,6 +1890,7 @@ edge-085.uschi7.icloud-content.com
 edge-086.defra2.icloud-content.com
 edge-086.nlhfd1.icloud-content.com
 edge-086.usdal2.icloud-content.com
+edge-086.usmia1.icloud-content.com
 edge-086.usuyk1.icloud-content.com
 edge-087.deber3.icloud-content.com
 edge-087.usbos2.icloud-content.com
@@ -1887,6 +1906,7 @@ edge-089.usbos2.icloud-content.com
 edge-089.usuyk1.icloud-content.com
 edge-090.deber3.icloud-content.com
 edge-090.sesto4.icloud-content.com
+edge-090.usden6.icloud-content.com
 edge-091.deber3.icloud-content.com
 edge-091.defra2.icloud-content.com
 edge-091.gbmnc1.icloud-content.com
@@ -2018,6 +2038,7 @@ edge-113.gbmnc1.icloud-content.com
 edge-113.sesto4.icloud-content.com
 edge-113.uschi7.icloud-content.com
 edge-114.sesto4.icloud-content.com
+edge-114.usmia1.icloud-content.com
 edge-114.usuyk1.icloud-content.com
 edge-115.gbmnc1.icloud-content.com
 edge-115.sesto4.icloud-content.com
@@ -2067,10 +2088,12 @@ edge-125.uschi7.icloud-content.com
 edge-126.deber3.icloud-content.com
 edge-126.defra2.icloud-content.com
 edge-126.sesto4.icloud-content.com
+edge-126.usmia1.icloud-content.com
 edge-127.deber3.icloud-content.com
 edge-127.defra2.icloud-content.com
 edge-127.dkvib11.icloud-content.com
 edge-127.usdal2.icloud-content.com
+edge-127.usmia1.icloud-content.com
 edge-127.usuyk1.icloud-content.com
 edge-128.dkvib11.icloud-content.com
 edge-128.sesto4.icloud-content.com
@@ -2092,6 +2115,7 @@ edge-131.sesto4.icloud-content.com
 edge-131.usdal2.icloud-content.com
 edge-132.defra2.icloud-content.com
 edge-132.dkvib11.icloud-content.com
+edge-132.usmia1.icloud-content.com
 edge-133.deber3.icloud-content.com
 edge-133.defra2.icloud-content.com
 edge-133.usuyk1.icloud-content.com
@@ -2321,6 +2345,7 @@ edge-209.uschi7.icloud-content.com
 edge-209.usuyk1.icloud-content.com
 edge-210.gbslo5.icloud-content.com
 edge-210.sesto4.icloud-content.com
+edge-210.usmia1.icloud-content.com
 edge-210.usuyk1.icloud-content.com
 edge-211.sesto4.icloud-content.com
 edge-212.gbslo5.icloud-content.com
@@ -2351,6 +2376,7 @@ edge-222.sesto4.icloud-content.com
 edge-223.sesto4.icloud-content.com
 edge-224.sesto4.icloud-content.com
 edge-224.uschi7.icloud-content.com
+edge-224.usmia1.icloud-content.com
 edge-225.gbslo5.icloud-content.com
 edge-225.sesto4.icloud-content.com
 edge-226.sesto4.icloud-content.com
@@ -2392,6 +2418,7 @@ edge-243.sesto4.icloud-content.com
 edge-243.usdal2.icloud-content.com
 edge-244.gbslo5.icloud-content.com
 edge-244.sesto4.icloud-content.com
+edge-244.usmia1.icloud-content.com
 edge-244.usqas5.icloud-content.com
 edge-245.nlhfd1.icloud-content.com
 edge-245.sesto4.icloud-content.com
@@ -2456,6 +2483,7 @@ edge-263.usuyk1.icloud-content.com
 edge-264.gbslo5.icloud-content.com
 edge-264.sesto4.icloud-content.com
 edge-265.sesto4.icloud-content.com
+edge-265.usmia1.icloud-content.com
 edge-266.sesto4.icloud-content.com
 edge-266.usqas5.icloud-content.com
 edge-266.usuyk1.icloud-content.com
@@ -2465,6 +2493,7 @@ edge-268.sesto4.icloud-content.com
 edge-268.usuyk1.icloud-content.com
 edge-269.gbslo5.icloud-content.com
 edge-269.sesto4.icloud-content.com
+edge-269.usmia1.icloud-content.com
 edge-269.usqas5.icloud-content.com
 edge-269.usuyk1.icloud-content.com
 edge-270.sesto4.icloud-content.com
@@ -11920,7 +11949,6 @@ wwfde-wave.apple.com
 wwidr.corp.apple.com
 www0.info.apple.com
 www.ads-apple.com.cn
-www.airport.us
 www.apple.com
 www.apple.com.cn
 www.apple.com.cn.edgekey.net
@@ -11934,16 +11962,13 @@ www-apple-com.v.aaplimg.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.events.shazam.apple.com
-www.ibook.info
 www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
 www.info.apple.com
-www.itools.info
 www.mzstatic.com
 www.portal-repair-uat-apple.com
 www.support.apple.com
-www.thinkdifferent.us
 xdcvpn.apple.com
 xenia.siri.apple.com
 xml.apple.com
