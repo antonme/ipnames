@@ -109484,3 +109484,8 @@ s
 ===anthropic
 
 == Save names archive
+[master 550ad9e5] auto-update names
+ 5 files changed, 309 insertions(+), 48 deletions(-)
+
+== Resolving names to ipv4
+Wed Aug 12 07:00:11 AM MSK 2026                dns-adobe.txt  >resolve-adobe.txt
