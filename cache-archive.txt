@@ -1801,6 +1801,8 @@ acromon.adobe.com
 acromon.stage.adobe.com
 acropolis.corp.adobe.com
 acrs.adobe.com
+acs-ai-portal.adobe.com
+acs-ai-portal-stage.adobe.com
 acs-autopush.voice.google.com
 acs-dev.voice.google.com
 acsegateway.icloud.com
@@ -2375,6 +2377,7 @@ aem-fragments-stage.adobe.com
 aem-retail-w2-d1-ut.cp.sap.apple.com
 aem-retail-w2-d2-ut.cp.sap.apple.com
 aem-retail-w2-ut.cp.sap.apple.com
+aep-customer-alerts-temporal-stage.corp.adobe.com
 aep-provisioning-temporal-prod.corp.adobe.com
 aep-provisioning-temporal-stg.corp.adobe.com
 aepxlg.adobe.com
@@ -2545,6 +2548,7 @@ ais.adobe.io
 ai-stage2.corp.adobe.com
 ai-stage.corp.adobe.com
 aistudio.google.com
+ai-telemetry.corp.adobe.com
 aiva-dev.corp.adobe.com
 aivadv.corp.adobe.com
 aivaplatform-dev.corp.adobe.com
@@ -3164,6 +3168,7 @@ api.storefront.apple.com
 api-stream.twitter.com
 api-stream.twitter.com.cdn.cloudflare.net
 api.support.endpoints.huggingface.co
+api.sv.adobe.com
 api-test-tools-atl.money-staging.x.com
 api-test-tools.money-dev.x.com
 api-test-tools.money-staging.x.com
@@ -3838,12 +3843,14 @@ auth-or2-internal-control.services.adobe.com
 auth-or2-internal-experiment.services.adobe.com
 auth-or2-i.services.adobe.com
 auth-or2.services.adobe.com
+author.cms.sv.adobe.com
 authorize.music.apple.com
 authorize.music.apple.com.edgekey.net
 author-p133643-e1313538.adobeaemcloud.com
 author-p133643-e1313555.adobeaemcloud.com
 author-p133643-e1313602.adobeaemcloud.com
 authors.apple.com
+author.staging.cms.sv.adobe.com
 auth.podcasts.apple.com
 auth.prod.ims.adobejanus.com
 auth-prod-or2-internal.services.adobe.com
@@ -3877,6 +3884,8 @@ authz.identity.adobe.com
 authz-or2.identity.adobe.com
 authz-va6c2.identity.adobe.com
 authz-va6.identity.adobe.com
+autobot.ai.lb-aws.corp.adobe.com
+autobot.ai.stage.lb-aws.corp.adobe.com
 autobot.corp.adobe.com
 autobot-p-api.corp.adobe.com
 autobot-p.corp.adobe.com
@@ -5279,10 +5288,18 @@ basejumper.apple.com
 basel-1-ext.vpn.adobe.com
 basel-1.vpn.adobe.com
 baseline.google.com
+basel-inetfw02.corp.adobe.com
 ba-sjj.prod.surfshark.com
 bast-linux-prd-hb-58.corp.adobe.com
 bast-mac-prd-57.corp.adobe.com
 bast-mac-prd-58.corp.adobe.com
+bast-mac-prd-59.corp.adobe.com
+bast-mac-prd-60.corp.adobe.com
+bast-mac-prd-61.corp.adobe.com
+bast-mac-prd-62.corp.adobe.com
+bast-mac-prd-63.corp.adobe.com
+bast-mac-prd-64.corp.adobe.com
+bast-mac-prd-65.corp.adobe.com
 bast-mac-qa-14.corp.adobe.com
 bast-mac-qa-8.corp.adobe.com
 bast-mac-stg-15.corp.adobe.com
@@ -7568,15 +7585,26 @@ caps.twitter.com
 caps.x.com
 captionlens.corp.adobe.com
 captivateprime.adobe.com
+captivateprimeapac.adobe.com
 captivateprimebeta.adobe.com
 captivateprimedevcprime46367.adobe.com
+captivateprimeeu.adobe.com
 captivateprimeeubeta.adobe.com
+captivateprimefr.adobe.com
 captivateprimegov.adobe.com
+captivateprimelrs.adobe.com
+captivateprimelrsapac.adobe.com
 captivateprimelrsbeta.adobe.com
+captivateprimelrseu.adobe.com
 captivateprimelrseubeta.adobe.com
+captivateprimelrsfr.adobe.com
 captivateprimelrsgov.adobe.com
+captivateprimelrsqe.adobe.com
+captivateprimelrsstage1.adobe.com
 captivateprimelrsus.adobe.com
 captivateprimeprodcprime46367.adobe.com
+captivateprimeqe.adobe.com
+captivateprimestage1.adobe.com
 captivateprimeus.adobe.com
 captive.adservice.google.com
 captive.adservice.google.com.br
@@ -7767,6 +7795,7 @@ cbf-wsus-1.ad.corp.google.com
 cbf-wsus.corp.google.com
 c.bing.com
 cbp.bytedance.com
+cbs.adobe.com
 cbs-camhms-prod.corp.adobe.com
 cbs-camhms-prod.int.adobe.com
 cbs-dev.adobe.com
@@ -7778,6 +7807,7 @@ cbsinteractive.data.adobedc.net
 cbs-nonprod.adobe.com
 cbs-nonprod-v2.adobe.com
 cbs-preprod.adobe.com
+cbs-prod.adobe.com
 cbs-qa.adobe.com
 cbs-stage.adobe.com
 cbs-uat.adobe.com
@@ -7948,6 +7978,7 @@ ccf624f14872eed5d64c5e72b81393e2.safeframe.googlesyndication.com
 CCF93C27-5E18-474F-81F4-A197FDF0BAC5-netseer-ipaddr-assoc.xy.fbcdn.net
 CCF93C27-5E18-474F-81F4-A197FDF0BAC5-netseer-ipaddr-assoc.xz.fbcdn.net
 ccfadmin.corp.adobe.com
+ccfadmindev2.corp.adobe.com
 ccfadmindev.corp.adobe.com
 ccfautoverify.corp.adobe.com
 ccfautoverify-dev.corp.adobe.com
@@ -7994,6 +8025,7 @@ ccpd.adobe.com
 ccp-lh.googleusercontent.com
 ccprojects.adobe.io
 ccprojects-jpn3.adobe.io
+ccslackintegration.adobe.com
 cct.google
 cctools.corp.adobe.com
 cctypekit.adobe.io
@@ -8227,6 +8259,7 @@ cdn-lfs.huggingface.co
 cdn-lfs-us-1.hf.co
 cdn-lfs-us-1.huggingface.co
 cdn.mail.contentauthenticity.adobe.com
+cdn.mail.halo.adobe.com
 cdn.mail.stage.halo.adobe.com
 cdn.mayo.test.ajo.adobe.com
 cdn-media.huggingface.co
@@ -8875,6 +8908,7 @@ cma-china.itunes-apple.com.akadns.net
 c.mail.google.com
 cma.itunes.apple.com
 cma.itunes-apple.com.akadns.net
+cmc.adobe.com
 cmdpavip.prz.sbz.apple.com
 cmeitin.adobeaemcloud.com
 cmi-airflow-dev.corp.adobe.com
@@ -8890,6 +8924,7 @@ cms.frame.io
 cms.qa.frame.io
 cmsr.corp.adobe.com
 cms.staging.frame.io
+cms.sv.adobe.com
 cmws.iad.apple.com
 cname.campaign.adobe.com
 cn-assets.adobedtm.com.edgekey.net
@@ -9027,6 +9062,7 @@ commercedeveloper-sandbox-static.adobe.com
 commercedeveloper-static.adobe.com
 commercegateway.itunes.apple.com
 commercegateway-sandbox.itunes-apple.com.akadns.net
+commerce-hub.adobe.com
 commerce.itunes.apple.com
 commerce.itunes.apple.com.edgesuite.net
 commerce-stg.adobe.com
@@ -10880,6 +10916,7 @@ datalab.cloud.google.com
 data.lab.money-dev.x.com
 data.lab.payments-dev.x.com
 data.mail.contentauthenticity.adobe.com
+data.mail.halo.adobe.com
 data-menu.corp.adobe.com
 datamixer-pa.googleapis.com
 data.money-dev1.x.com
@@ -11584,6 +11621,7 @@ dev02.ccos.adobe.com
 dev02.ccos-dashboard.adobe.com
 dev02.corp.adobe.com
 dev02.exchange.adobe.com
+dev05.corp.adobe.com
 dev.3dshare.substance3d.adobe.com
 dev.a4u-gateway.corp.adobe.com
 dev.acrobat.adobe.com
@@ -12229,6 +12267,7 @@ dx-partner-author.prod.corp.adobe.com
 dxrama.corp.adobe.com
 dxrama-dev.corp.adobe.com
 dxue.corp.adobe.com
+dxusp-preprocessing.corp.adobe.com
 dyn-149-165-249-198.instageni.iu.edu
 dyn1684.githubusercontent.com
 dyn-199-109-64-71.instageni.nysernet.org
@@ -12569,6 +12608,7 @@ E2E89F13-C83C-4EC6-8018-474F8FE5B14A-netseer-ipaddr-assoc.xz.fbcdn.net
 E2EEED0A-202A-4F1F-8374-6CF6437B8A45-netseer-ipaddr-assoc.xy.fbcdn.net
 E2EEED0A-202A-4F1F-8374-6CF6437B8A45-netseer-ipaddr-assoc.xz.fbcdn.net
 e2e.finance.ozon.ru
+e2ez.corp.adobe.com
 E2F066EF-8CB6-47C5-A57F-DBC97C0FA4EE-netseer-ipaddr-assoc.xy.fbcdn.net
 E2F066EF-8CB6-47C5-A57F-DBC97C0FA4EE-netseer-ipaddr-assoc.xz.fbcdn.net
 e2f24cb457bc3694172b77c7e5ed4ee6.safeframe.googlesyndication.com
@@ -15386,6 +15426,7 @@ egress.gw.us.tiktok.com
 egypt-ca-version-2.expressnetw.com
 eh11.withgoogle.com
 ehd.corp.adobe.com
+ehd-meta.corp.adobe.com
 ehd-stage.corp.adobe.com
 eh.lazerpenguin.com
 eiex.withgoogle.com
@@ -15471,6 +15512,7 @@ endpoints.huggingface.co
 enews.apple.com
 engage.email.frame.io
 engagement.adobe.com
+engagementlens.corp.adobe.com
 engagertc-gateway.ccvoice.apple.com
 enroll.apple.com
 entai-stage.corp.adobe.com
@@ -15597,6 +15639,8 @@ ets-dev-ue-bastion.services.adobe.com
 ets-flow-dev1.services.adobe.com
 ets-flow.services.adobe.com
 ets-flow-stg1.services.adobe.com
+ets.identity.adobe.com
+ets-or2.identity.adobe.com
 ets-prd1-bastion.services.adobe.com
 ets-prod-bastion.services.adobe.com
 ets-prod-ue-bastion.services.adobe.com
@@ -15615,6 +15659,7 @@ ets-ui-qa1.services.adobe.com
 ets-ui.services.adobe.com
 ets-ui-stg1.services.adobe.com
 ets-uw-bastion.services.adobe.com
+ets-va6.identity.adobe.com
 etty2xxdmitp6ku.qu7pssz561xu4awpetx.xwowb3kfc.v1nvi9jsyqzelenioiwyeym9ayei1fgwg.tthih8odqw9d11ibk53.bx8xlanqvdmgrm.bnzghrqpkglwqqfr3be4.23d2ef.shofha.online
 eu1.cyclone.documentsawspreview.adobe.com
 eu1.documents.adobe.com
@@ -21384,6 +21429,8 @@ gemini.corp.adobe.com
 gemini.google.com
 gemini.gstatic.com
 gemini.xn--google.com
+gems.cloudops.adobe.com
+gems.cloudops.corp.adobe.com
 gemstone.corp.adobe.com
 gen-ai-director.substance3d.adobe.com
 genaitest-api.corp.adobe.com
@@ -21392,6 +21439,7 @@ generativeai.google.com
 generativelanguage.googleapis.com
 generic-edge.infoapps.apple.com
 genesis-ai.corp.adobe.com
+genesis.corp.adobe.com
 genie.ai.corp.adobe.com
 genie.corp.adobe.com
 genius-3-cdn.lb-apple.com.akadns.net
@@ -21751,6 +21799,7 @@ growthnexus.corp.adobe.com
 growth-pa.googleapis.com
 growth.x.com
 gr-prd-test.corp.adobe.com
+grteqst.corp.adobe.com
 grtes1t1.corp.adobe.com
 gryllos.devices.resinstaging.io
 gsa.apple.com
@@ -22927,8 +22976,12 @@ institute.anthropic.com
 intak.corp.adobe.com
 intake.corp.adobe.com
 intake-dev.corp.adobe.com
+intake-service.corp.adobe.com
+intake-service.dev.corp.adobe.com
+intake-service.stg.corp.adobe.com
 intake-stg.corp.adobe.com
 int.aus3.canary.adobe.com
+integrations.adobe.com
 integrations.dev.frame.io
 integrations.frame.io
 integrations.staging.frame.io
@@ -23124,6 +23177,7 @@ ir-expe2106.euro.apple.com
 irl1.canary.adobe.com
 irl1.stage.canary.adobe.com
 ir.lazerpenguin.com
+irs-rds-va6.identity-stage.adobe.com
 is1.mzstatic.com
 is1-ssl-int.mzstatic.com
 is1-ssl.mzstatic.com
@@ -23340,6 +23394,7 @@ jotspot-qa08.corp.google.com
 journal-events.infoapps.apple.com
 journeymanager.corp.adobe.com
 journey.pcms.apple.com
+journeys-stage.adobe.com
 jp1.documents.adobe.com
 jp1.documentslocal.adobe.com
 jp.cloud.google.com
@@ -23685,6 +23740,7 @@ ldapsync.sfo2.twitter.com
 ldap.vault.x.com
 ld.corp.google.com
 leader-tweet.scorpiodeal.com
+leap.corp.adobe.com
 learn.chatgpt.com
 learncontentportal.adobe.com
 learn.github.com
@@ -23693,14 +23749,28 @@ learning-author.adobe.com
 learning-author-aws.adobe.com
 learning-aws.adobe.com
 learning-ew1.adobe.com
+learningmanager.adobe.com
+learningmanagerapac.adobe.com
 learningmanagerbeta.adobe.com
+learningmanagereu.adobe.com
 learningmanagereubeta.adobe.com
+learningmanagerfr.adobe.com
+learningmanagerlms.adobe.com
+learningmanagerlrs.adobe.com
+learningmanagerlrsapac.adobe.com
 learningmanagerlrsbeta.adobe.com
+learningmanagerlrseu.adobe.com
 learningmanagerlrseubeta.adobe.com
+learningmanagerlrsfr.adobe.com
+learningmanagerlrslms.adobe.com
+learningmanagerlrsqe.adobe.com
+learningmanagerlrsstage1.adobe.com
 learningmanagerlrsus.adobe.com
 learningmanagernla.adobe.com
 learningmanagernlb.adobe.com
 learningmanagernlc.adobe.com
+learningmanagerqe.adobe.com
+learningmanagerstage1.adobe.com
 learningmanagerus.adobe.com
 learning.ozon.ru
 learning-preview-1.adobe.com
@@ -24217,6 +24287,7 @@ lp.demo8.demoamericas275.adobe.com
 lp.demo9.demoamericas275.adobe.com
 lp.dmillersbdev.journeyusshared.adobe.com
 lp.dmillersb.journeyusshared.adobe.com
+lp.email-kpn.cjm.adobe.com
 lp.email-lightroom.cjm.adobe.com
 lp.email-merkle.cjm.adobe.com
 lp.gxv.test.ajo.adobe.com
@@ -24280,6 +24351,7 @@ lwc-tt.com
 lwqm01xxin4xxcx9nsq0a28xpmxi7fnsdhrfirdufh2ov.1sr2.xgvwmupfgbprmr9dqfuronx1j0hdk8jropqdmrseujwhmhud.qbd9adf.mta-sts.u.tthih8odqw9d11ibk53.bx8xlanqvdmgrm.bnzghrqpkglwqqfr3be4.23d2ef.shofha.online
 lxiv.adobeaemcloud.com
 lxxqqzox6n5gpuesrt667ovcbkwpb4kk-c2r.metric.gstatic.com
+lychee.fde.openai.com
 lycraservice-pa.googleapis.com
 ly.lazerpenguin.com
 lzcnlef.tt.hg9707.com
@@ -24575,6 +24647,7 @@ mcpc.corp.adobe.com
 mcp.dots.corp.adobe.com
 mcp-proxy.anthropic.com
 mcp-proxy-staging.anthropic.com
+mcpscanner.corp.adobe.com
 mcpstudio.corp.adobe.com
 mcpstudio-stg.corp.adobe.com
 mcp-zoom-us.web-sandbox.oaiusercontent.com
@@ -25040,6 +25113,7 @@ myportfolio.com
 mysalescomp-external.apple.com
 mysupport.apple.com
 mysupport-pilot.apple.com
+my.sv.adobe.com
 my.workfront.adobe.com
 mzadattributionservice.itunes.apple.com
 mz.lazerpenguin.com
@@ -25224,6 +25298,7 @@ netseer-ipaddr-assoc.xy.fbcdn.net
 netseer-ipaddr-assoc.xz.fbcdn.net
 networkresponsivetest.icloud.com
 neuralconvo.huggingface.co
+new.cmc.adobe.com
 newdev.facebook.com
 new.express.adobe.com
 newk8sjenkinstest.corp.adobe.com
@@ -25429,6 +25504,7 @@ notifications-ueeshp-pa.googleapis.com
 notify.adobe.io
 no.ttxs5riqumlpcsa121n.tzldhgjgde1vduak4mnuus2t7.xbfney5lf.wvl6rwalboidmh.hwtjgmp4ou.yttpu3.bbibgipegsp.nixnq.sknoa5ivvcevax.23d2ef.shofha.online
 nouvelle-caledonie.githubusercontent.com
+nova.corp.adobe.com
 noyeroverseas.com
 npe3.withgoogle.com
 np-edge-cdn.itunes-apple.com.akadns.net
@@ -26184,6 +26260,7 @@ or1010050225154.corp.adobe.com
 or1010050225156.corp.adobe.com
 or1010050225158.corp.adobe.com
 or1010050225159.corp.adobe.com
+or1010050226148.corp.adobe.com
 or1010050226150.corp.adobe.com
 or1010050226151.corp.adobe.com
 or1010050226152.corp.adobe.com
@@ -26205,6 +26282,7 @@ or1010050229232.corp.adobe.com
 or1010050229233.corp.adobe.com
 or1010050230203.corp.adobe.com
 or1010050230207.corp.adobe.com
+or1010050236010.corp.adobe.com
 or1010050236148.corp.adobe.com
 or1010051033156.corp.adobe.com
 or1010051033157.corp.adobe.com
@@ -26354,6 +26432,7 @@ or1010051243027.corp.adobe.com
 or1010051243217.corp.adobe.com
 or1010051243242.corp.adobe.com
 or1010051244050.corp.adobe.com
+or1010051244110.corp.adobe.com
 or1010051244112.corp.adobe.com
 or1010051245018.corp.adobe.com
 or1010051245028.corp.adobe.com
@@ -26366,15 +26445,19 @@ or1010051246147.corp.adobe.com
 or1010051246149.corp.adobe.com
 or1010051246160.corp.adobe.com
 or1010051247005.corp.adobe.com
+or1010051248112.corp.adobe.com
 or1010051248187.corp.adobe.com
 or1010051249020.corp.adobe.com
 or1010051249063.corp.adobe.com
 or1010051250231.corp.adobe.com
 or1010051251179.corp.adobe.com
+or1010051251216.corp.adobe.com
 or1010051252113.corp.adobe.com
+or1010051252141.corp.adobe.com
 or1010051253004.corp.adobe.com
 or1010051253145.corp.adobe.com
 or1010051253147.corp.adobe.com
+or1010051253171.corp.adobe.com
 or1010051253214.corp.adobe.com
 or11sa-p01.siri.apple.com
 or11sa.siri.apple.com
@@ -26393,6 +26476,7 @@ or1chidc03.stagechild.adstage.adobe.com
 or1dra063.corp.adobe.com
 or1dra107.corp.adobe.com
 or1dra109.corp.adobe.com
+or1dra111.corp.adobe.com
 or1dra411.corp.adobe.com
 or1dra412.corp.adobe.com
 or1dra4179.corp.adobe.com
@@ -33080,6 +33164,7 @@ patentimages.storage.googleapis.com
 patents.google.com
 pawnors.adobeaemcloud.com
 pay.google.com
+payments-dev.corp.adobe.com
 payments-dev.x.com
 payments.facebook.com
 payments.googleapis.com
@@ -33333,6 +33418,7 @@ pe7c.devices.resinstaging.io
 pear.corp.adobe.com
 pear.ethos506-prod-or2.prod.ethos.corp.adobe.com
 pear.ethos506-stage-or2.stage.ethos.corp.adobe.com
+pear.fde.openai.com
 pear-stg.corp.adobe.com
 peat.corp.adobe.com
 peat.ethos506-prod-or2.prod.ethos.corp.adobe.com
@@ -34738,7 +34824,9 @@ projects.x20web-dev.corp.google.com
 projectx.corp.adobe.com
 prolegislative.githubusercontent.com
 prom.corp.google.com
+prometheus-cf.3di.corp.adobe.com
 prometheus-dashboard.corp.adobe.com
+prometheus-sj.3di.corp.adobe.com
 prom-gfe-nightly.sandbox.google.com
 prom-gfe-qa.sandbox.google.com
 prom-nightly-gp.sandbox.google.com
@@ -34853,10 +34941,12 @@ pubcerts-stage.licenses.adobe.com
 publicassets.cdn-apple.com
 publicassets.lb-apple.com.akadns.net
 public.icrowd.apple.com
+publish.cms.sv.adobe.com
 publisher.addons.adobe.com
 publisher.addons-dev.adobe.com
 publisher.addons-stage.adobe.com
 publish.iwork.apple.com
+publish.staging.cms.sv.adobe.com
 publish.twitter.com
 pubsub.clients6.google.com
 pull-a5-gcp01.tiktokcdn.com
@@ -35295,6 +35385,8 @@ qa01.exchange.adobe.com
 qa02.corp.adobe.com
 qa02.exchange.adobe.com
 qa.adz.google.com
+qa.api.sv.adobe.com
+qa.author.sv.adobe.com
 qa-az.fusion.adobe.com
 qa.campaign.adobe.com
 qa.ccos.adobe.com
@@ -35316,6 +35408,7 @@ qa.ssocm.corp.adobe.com
 qastudio-dev.corp.adobe.com
 qastudio-prod.corp.adobe.com
 qastudio-stage.corp.adobe.com
+qa.sv.adobe.com
 qb8g.googleapis.com
 qdci9rqxmpvn4q7jrnusycchwfbzogkptwa3qc4g.gswo7umj1gjuudai.a464rfuzurdw0wnhspnyi8e7.vy2mxxi.touq3olv.g.ttdqh9n1t7ewqgo.0xrlc9.xm2ww7pdyunhtoy15advde5l.qst8ca9mmuqp6ynfdtn9has3gn.shofha.online
 qddm.googleapis.com
@@ -35365,6 +35458,7 @@ quanxunwanghuangguanwangzhi.tt8u.com
 quarter-sessions.adobeaemcloud.com
 query.ess.apple.com
 query.ess-apple.com.akadns.net
+query-service-temporal-prod.corp.adobe.com
 query-wizard.corp.adobe.com
 queue-service-carry.push.apple.com
 queue-service-mr-carry.push.apple.com
@@ -36234,6 +36328,8 @@ relay6-mdn.apple.com
 relay6-rno.apple.com
 relay.apple.com
 relay.asia.apple.com
+relay.corp.adobe.com
+relay-dev.corp.adobe.com
 relay.euro.apple.com
 relay.g.apple.com
 relay-hfd.apple.com
@@ -36242,9 +36338,12 @@ relay-in-ma.apple.com
 relay-in-rn.apple.com
 relay-ma.apple.com
 relay.m.facebook.com---------------returnnow-info.drivethruvideos.com
+relay-qa.corp.adobe.com
 relay-rn.apple.com
 relay-sg.apple.com
+relay-stage.corp.adobe.com
 relay.turbo.itunes.apple.com
+relay-uat.corp.adobe.com
 relay-vib.apple.com
 re.lazerpenguin.com
 release-assets.githubusercontent.com
@@ -39184,6 +39283,8 @@ saleshub.corp.adobe.com
 salesinventoryreporting.apple.com
 salesinventoryreporting-dr.apple.com
 salesinventoryreporting-msc.apple.com
+salessupport.corp.adobe.com
+salesvelocity.adobe.com
 saltit-ase.corp.adobe.com
 saltit-boot.corp.adobe.com
 saltit-compute.corp.adobe.com
@@ -39411,6 +39512,7 @@ sb.tv.apple.com
 sbus2i.apple.com
 s.bytetcdn.com
 scan-agent.corp.adobe.com
+scan-agent.stg.corp.adobe.com
 scanner1.corp.adobe.com
 scanner1.stg.corp.adobe.com
 scanner2.corp.adobe.com
@@ -39434,6 +39536,7 @@ scene7.com
 scgb.googleapis.com
 scgraph.facebook.com
 schaefer-client-only.githubusercontent.com
+schedule.adobe.com
 scholar.google.com
 scholar.l.google.com
 scholarship.bytedance.com
@@ -40282,6 +40385,13 @@ sj1010010109151.corp.adobe.com
 sj1010010109152.corp.adobe.com
 sj1010010150057.corp.adobe.com
 sj1010010150058.corp.adobe.com
+sj1010010150059.corp.adobe.com
+sj1010010150060.corp.adobe.com
+sj1010010150061.corp.adobe.com
+sj1010010150062.corp.adobe.com
+sj1010010150063.corp.adobe.com
+sj1010010150064.corp.adobe.com
+sj1010010150065.corp.adobe.com
 sj1010010150156.corp.adobe.com
 sj1010010151026.corp.adobe.com
 sj1010010201113.corp.adobe.com
@@ -40364,6 +40474,7 @@ sjc-smfw01.corp.adobe.com
 sjcwtcmpub.corp.adobe.com
 sjcwtcmsub1.corp.adobe.com
 sjcwtcmtftp.corp.adobe.com
+sj.k8s.ipaas.corp.adobe.com
 sj.lazerpenguin.com
 sjp-hdp.ipaas.corp.adobe.com
 sjpki-css-1.corp.adobe.com
@@ -40625,6 +40736,8 @@ spectrum-contributions.corp.adobe.com
 spectrum.corp.adobe.com
 spectrum-directus.corp.adobe.com
 spectrum-directus-stage.corp.adobe.com
+spectrum-metrics.corp.adobe.com
+spectrum-metrics-service.corp.adobe.com
 spectrum-pattern-builder.corp.adobe.com
 spectrum-patterns.corp.adobe.com
 spectrum-playground.corp.adobe.com
@@ -40778,6 +40891,7 @@ stage.acrobatservices.adobe.com
 stage.adobe.com
 stageadu.adobe.com
 stage.ai.dots.corp.adobe.com
+stage.api.dots.corp.adobe.com
 stageapps.prototype.corp.adobe.com
 stage-aqua.adobe.com
 stage.assistant.adobe.com
@@ -40793,6 +40907,7 @@ stage.compas.adobe.com
 stage.cxp.adobe.com
 stage-dc.acrobat.adobe.com
 stage.documentservices.adobe.com
+stage.dots.corp.adobe.com
 stage.exchange.adobe.com
 stage.filetransfer.adobe.com
 stage.gen-ai-director.substance3d.adobe.com
@@ -40813,6 +40928,7 @@ stage.plan.adobe.com
 stage.postoffice.adobe.com
 stage.prenv.projectx.corp.adobe.com
 stage.projectx.corp.adobe.com
+stage.schedule.adobe.com
 stage.sms.adobe.com
 stage.sophia.corp.adobe.com
 stage-splash.adobe.com
@@ -40825,7 +40941,10 @@ stage.unity.adobe.com
 stage.wam.adobe.com
 stage-ws.status.adobe.com
 staging-admin.awusw2.sbz.apple.com
+staging.api.sv.adobe.com
+staging.author.sv.adobe.com
 staging.claude.ai
+staging.cms.sv.adobe.com
 staging.dxa.corp.adobe.com
 staging.frame.io
 staging-gateway.awusw2.sbz.apple.com
@@ -40845,6 +40964,7 @@ staging-remote-data-sources.apple.com
 staging-remote-data-sources.apple.com.edgekey.net
 staging.scgraph.facebook.com
 staging-stocks-data-service.apple.com
+staging.sv.adobe.com
 staging.terafab.x.com
 staging.tunnel.anthropic.com
 staging-tvplus.awusw2.sbz.apple.com
@@ -41311,6 +41431,7 @@ suspenderless.adobeaemcloud.net
 suyin.adobeaemcloud.net
 s-v6exp1-ds.metric.gstatic.com
 s-v6exp1-v4.metric.gstatic.com
+sv.adobe.com
 svcscm.rampart001.rampart.facebook.com
 svcscm.rampart002.rampart.facebook.com
 svcscm.rampart003.rampart.facebook.com
@@ -41524,6 +41645,8 @@ tdul.withgoogle.com
 tdweb.twitter.com
 tdweb.x.com
 td.x.com
+teamgenesis.corp.adobe.com
+teamnova.corp.adobe.com
 teamprojects-build.corp.adobe.com
 teams.appleservices.apple.com
 teams.x20web.corp.google.com
@@ -42998,6 +43121,7 @@ wanda.corp.adobe.com
 warpath.corp.adobe.com
 warp-releases.storage.googleapis.com
 watch.x.com
+wavelength.corp.adobe.com
 waveward.githubusercontent.com
 waydj74lh0f1abkyag0esjxe.ttext8ywef5furnin2p.rmrnahhvapbpow.5ks2arwuol3.t7vh9my0mspcv8rbfophl8sxfzan.cncxio5ol.gb3vk.dyu1mjo.wnzvxjse.7erb.gdtmyo.shofha.online
 wayland.apple.com
@@ -43789,12 +43913,15 @@ xc6s.googleapis.com
 xcgy.googleapis.com
 xchange.adobe.com
 xchange-dev239.corp.adobe.com
+xchange-stage.corp.adobe.com
+xcnbvx.corp.adobe.com
 x.com
 x.corp.adobe.com
 xdcvpn.apple.com
 xdevice-api.tiktokv.com
 xdevice-api.tiktokv.com.edgekey.net
 xdevice-boot.tiktokv.com
+xdjiraintegration.adobe.com
 xdrxdpfhfe3.6dxi7772lsyxv8yrqb5hb9ijualgf8rolp9ty.touq3olv.g.ttdqh9n1t7ewqgo.0xrlc9.xm2ww7pdyunhtoy15advde5l.qst8ca9mmuqp6ynfdtn9has3gn.shofha.online
 xehz.adobeaemcloud.com
 xenia.siri.apple.com
