@@ -3692,7 +3692,6 @@ configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -4901,6 +4900,7 @@ edge-050.deber3.icloud-content.com
 edge-050.defra2.icloud-content.com
 edge-050.dkvib11.icloud-content.com
 edge-050.gbmnc1.icloud-content.com
+edge-050.gbslo5.icloud-content.com
 edge-050.hkhkg.icloud-content.com
 edge-050.sesto4.icloud-content.com
 edge-050.uschi7.icloud-content.com
@@ -5055,6 +5055,7 @@ edge-069.sesto4.icloud-content.com
 edge-069.usuyk1.icloud-content.com
 edge-070.defra2.icloud-content.com
 edge-070.gbmnc1.icloud-content.com
+edge-070.gbslo5.icloud-content.com
 edge-070.nlhfd1.icloud-content.com
 edge-070.usbos2.icloud-content.com
 edge-070.usdal2.icloud-content.com
@@ -5257,6 +5258,7 @@ edge-096.usuqo4.icloud-content.com
 edge-097-400.usmia1.me.icloud-content.com
 edge-097.deber3.icloud-content.com
 edge-097.defra2.icloud-content.com
+edge-097.gbslo5.icloud-content.com
 edge-097.jposa3.icloud-content.com
 edge-097.nlhfd1.icloud-content.com
 edge-097.uschi7.icloud-content.com
@@ -5272,6 +5274,7 @@ edge-098.usuyk1.icloud-content.com
 edge-098.zamrd1.icloud-content.com
 edge-099.deber3.icloud-content.com
 edge-099.defra2.icloud-content.com
+edge-099.gbslo5.icloud-content.com
 edge-099.hkhkg.icloud-content.com
 edge-099.jptyo12.icloud-content.com
 edge-099.sesto4.icloud-content.com
@@ -5321,6 +5324,7 @@ edge-103.usdal2.icloud-content.com
 edge-103.usuqo4.icloud-content.com
 edge-103.usuyk1.icloud-content.com
 edge-104.defra2.icloud-content.com
+edge-104.gbslo5.icloud-content.com
 edge-104.jposa3.icloud-content.com
 edge-104.usbos2.icloud-content.com
 edge-104.usdal2.icloud-content.com
@@ -5981,6 +5985,7 @@ edge-202.uschi7.icloud-content.com
 edge-202.usdal2.icloud-content.com
 edge-202.usuyk1.icloud-content.com
 edge-203-023.usqas5.me.icloud-content.com
+edge-203.gbslo5.icloud-content.com
 edge-203.jposa3.icloud-content.com
 edge-203.sesto4.icloud-content.com
 edge-203.uschi7.icloud-content.com
@@ -5994,6 +5999,7 @@ edge-204.sesto4.icloud-content.com
 edge-204.uschi7.icloud-content.com
 edge-204.usdal2.icloud-content.com
 edge-205.deber3.icloud-content.com
+edge-205.gbslo5.icloud-content.com
 edge-205.hkhkg.icloud-content.com
 edge-205.jposa3.icloud-content.com
 edge-205.nlhfd1.icloud-content.com
@@ -9825,7 +9831,6 @@ gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
 gspe19-ssl-e1248.ls.apple.com
 gspe19-ssl-e185.ls.apple.com
 gspe19-ssl-e95.ls.apple.com
-gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -11370,7 +11375,6 @@ londonfx.blog102.apple.com
 lookup-api.apple.com
 lookup-api.apple.com.edgekey.net
 lookup-api.apple.com.edgesuite.net
-lookup-api-apple-com.v.aaplimg.com
 loop.gsp81-kittyhawk-am31-ssl.ls.apple.com
 loop-rn.apple.com
 loper.apple.com
@@ -22327,6 +22331,7 @@ p18-fmipweb.icloud.com
 p18-geows.icloud.com
 p18-iwmb0-china.icloud.com
 p18-iwmb1-china.icloud.com
+p18-iwmb2-china.icloud.com
 p18-iwmb3.icloud.com
 p18-iwmb4.icloud.com
 p18-iwmb5-china.icloud.com
@@ -22731,6 +22736,7 @@ p201-fmip-china.icloud.com
 p201-fmipmail-china.icloud.com
 p201-iwmb0-china.icloud.com
 p201-iwmb1-china.icloud.com
+p201-iwmb2-china.icloud.com
 p201-iwmb-china.icloud.com
 p201-iwres-china.icloud.com
 p201-quota-china.icloud.com
@@ -22758,6 +22764,7 @@ p202-fmfmobile.icloud.com
 p202-fmipmail-china.icloud.com
 p202-iwmb0-china.icloud.com
 p202-iwmb1-china.icloud.com
+p202-iwmb2-china.icloud.com
 p202-iwmb4-china.icloud.com
 p202-iwmb7-china.icloud.com
 p202-iwmb-china.icloud.com
@@ -23341,6 +23348,7 @@ p21-geows.icloud.com
 p21-iwmb0-china.icloud.com
 p21-iwmb0.icloud.com
 p21-iwmb1-china.icloud.com
+p21-iwmb2-china.icloud.com
 p21-iwmb2.icloud.com
 p21-iwmb3.icloud.com
 p21-iwmb4.icloud.com
@@ -23693,6 +23701,7 @@ p22-fmipweb.icloud.com
 p22-geows.icloud.com
 p22-iwmb0-china.icloud.com
 p22-iwmb1-china.icloud.com
+p22-iwmb2-china.icloud.com
 p22-iwmb2.icloud.com
 p22-iwmb3-china.icloud.com
 p22-iwmb5-china.icloud.com
@@ -23983,6 +23992,7 @@ p23-imap.mail.icloud.com
 p23-iwmb0-china.icloud.com
 p23-iwmb1-china.icloud.com
 p23-iwmb1.icloud.com
+p23-iwmb2-china.icloud.com
 p23-iwmb3-china.icloud.com
 p23-iwmb3.icloud.com
 p23-iwmb4-china.icloud.com
@@ -24138,6 +24148,7 @@ p25-geows.icloud.com
 p25-iwmb0-china.icloud.com
 p25-iwmb0.icloud.com
 p25-iwmb1-china.icloud.com
+p25-iwmb2-china.icloud.com
 p25-iwmb2.icloud.com
 p25-iwmb3.icloud.com
 p25-iwmb4-china.icloud.com
@@ -24214,6 +24225,7 @@ p26-imap.mail.me.com
 p26-imap.mail.me.com.akadns.net
 p26-iwmb0-china.icloud.com
 p26-iwmb1-china.icloud.com
+p26-iwmb2-china.icloud.com
 p26-iwmb2.icloud.com
 p26-iwmb3.icloud.com
 p26-iwmb4-china.icloud.com
@@ -24295,6 +24307,7 @@ p27-geows.icloud.com
 p27-iwmb0-china.icloud.com
 p27-iwmb0.icloud.com
 p27-iwmb1-china.icloud.com
+p27-iwmb2-china.icloud.com
 p27-iwmb2.icloud.com
 p27-iwmb3.icloud.com
 p27-iwmb4-china.icloud.com
@@ -24376,6 +24389,7 @@ p28-imap.mail.icloud.com
 p28-iwmb0-china.icloud.com
 p28-iwmb1-china.icloud.com
 p28-iwmb1.icloud.com
+p28-iwmb2-china.icloud.com
 p28-iwmb2.icloud.com
 p28-iwmb3.icloud.com
 p28-iwmb4-china.icloud.com
@@ -24459,6 +24473,7 @@ p29-imap.mail.me.com
 p29-imap.mail.me.com.akadns.net
 p29-iwmb0-china.icloud.com
 p29-iwmb1-china.icloud.com
+p29-iwmb2-china.icloud.com
 p29-iwmb3.icloud.com
 p29-iwmb5.icloud.com
 p29-iwmb6.icloud.com
@@ -25158,6 +25173,7 @@ p31-imap.mail.icloud.com
 p31-iwmb0-china.icloud.com
 p31-iwmb1-china.icloud.com
 p31-iwmb1.icloud.com
+p31-iwmb2-china.icloud.com
 p31-iwmb5-china.icloud.com
 p31-iwmb6.icloud.com
 p31-iwmb7-china.icloud.com
@@ -25232,6 +25248,7 @@ p32-fmipweb.icloud.com
 p32-geows.icloud.com
 p32-iwmb0-china.icloud.com
 p32-iwmb1-china.icloud.com
+p32-iwmb2-china.icloud.com
 p32-iwmb3.icloud.com
 p32-iwmb5.icloud.com
 p32-iwmb6-china.icloud.com
@@ -25308,6 +25325,7 @@ p33-fmipweb.icloud.com
 p33-geows.icloud.com
 p33-iwmb0-china.icloud.com
 p33-iwmb1-china.icloud.com
+p33-iwmb2-china.icloud.com
 p33-iwmb3-china.icloud.com
 p33-iwmb4.icloud.com
 p33-iwmb5.icloud.com
@@ -25386,6 +25404,7 @@ p34-geows.icloud.com
 p34-iwmb0-china.icloud.com
 p34-iwmb1-china.icloud.com
 p34-iwmb1.icloud.com
+p34-iwmb2-china.icloud.com
 p34-iwmb2.icloud.com
 p34-iwmb5-china.icloud.com
 p34-iwmb5.icloud.com
@@ -25466,6 +25485,7 @@ p35-geows.icloud.com
 p35-imap.mail.icloud.com
 p35-iwmb0-china.icloud.com
 p35-iwmb1-china.icloud.com
+p35-iwmb2-china.icloud.com
 p35-iwmb3-china.icloud.com
 p35-iwmb3.icloud.com
 p35-iwmb4-china.icloud.com
@@ -25544,6 +25564,7 @@ p36-imap.mail.icloud.com
 p36-iwmb0-china.icloud.com
 p36-iwmb0.icloud.com
 p36-iwmb1-china.icloud.com
+p36-iwmb2-china.icloud.com
 p36-iwmb3-china.icloud.com
 p36-iwmb3.icloud.com
 p36-iwmb6.icloud.com
@@ -25626,6 +25647,7 @@ p37-geows.icloud.com
 p37-imap.mail.icloud.com
 p37-iwmb0-china.icloud.com
 p37-iwmb1-china.icloud.com
+p37-iwmb2-china.icloud.com
 p37-iwmb3-china.icloud.com
 p37-iwmb3.icloud.com
 p37-iwmb5-china.icloud.com
@@ -26021,6 +26043,7 @@ p42-geows.icloud.com
 p42-iwmb0-china.icloud.com
 p42-iwmb1-china.icloud.com
 p42-iwmb1.icloud.com
+p42-iwmb2-china.icloud.com
 p42-iwmb2.icloud.com
 p42-iwmb3-china.icloud.com
 p42-iwmb4.icloud.com
@@ -26255,6 +26278,7 @@ p45-imap.mail.icloud.com
 p45-iwmb0-china.icloud.com
 p45-iwmb1-china.icloud.com
 p45-iwmb1.icloud.com
+p45-iwmb2-china.icloud.com
 p45-iwmb5-china.icloud.com
 p45-iwmb6-china.icloud.com
 p45-iwmb6.icloud.com
@@ -26335,6 +26359,7 @@ p46-fmipweb.icloud.com
 p46-geows.icloud.com
 p46-iwmb0-china.icloud.com
 p46-iwmb1-china.icloud.com
+p46-iwmb2-china.icloud.com
 p46-iwmb3.icloud.com
 p46-iwmb4-china.icloud.com
 p46-iwmb6-china.icloud.com
@@ -26413,6 +26438,7 @@ p47-geows.icloud.com
 p47-iwmb0-china.icloud.com
 p47-iwmb1-china.icloud.com
 p47-iwmb1.icloud.com
+p47-iwmb2-china.icloud.com
 p47-iwmb2.icloud.com
 p47-iwmb3-china.icloud.com
 p47-iwmb3.icloud.com
@@ -26568,6 +26594,7 @@ p49-geows.icloud.com
 p49-iwmb0-china.icloud.com
 p49-iwmb0.icloud.com
 p49-iwmb1-china.icloud.com
+p49-iwmb2-china.icloud.com
 p49-iwmb2.icloud.com
 p49-iwmb3-china.icloud.com
 p49-iwmb4.icloud.com
@@ -26816,6 +26843,7 @@ p52-geows.icloud.com
 p52-iwmb0-china.icloud.com
 p52-iwmb1-china.icloud.com
 p52-iwmb1.icloud.com
+p52-iwmb2-china.icloud.com
 p52-iwmb2.icloud.com
 p52-iwmb3-china.icloud.com
 p52-iwmb3.icloud.com
@@ -27127,6 +27155,7 @@ p56-imap.mail.icloud.com
 p56-iwmb0-china.icloud.com
 p56-iwmb0.icloud.com
 p56-iwmb1-china.icloud.com
+p56-iwmb2-china.icloud.com
 p56-iwmb3.icloud.com
 p56-iwmb4-china.icloud.com
 p56-iwmb4.icloud.com
@@ -27281,6 +27310,7 @@ p58-imap.mail.icloud.com
 p58-iwmb0-china.icloud.com
 p58-iwmb1-china.icloud.com
 p58-iwmb1.icloud.com
+p58-iwmb2-china.icloud.com
 p58-iwmb3-china.icloud.com
 p58-iwmb4-china.icloud.com
 p58-iwmb8-china.icloud.com
@@ -31055,7 +31085,6 @@ sps-media-anon.itunes.apple.com
 sps-media.apple.com
 sps-media.aweun1.sbz.apple.com
 sps-media.aweuw1.sbz.apple.com
-sps-media.v.aaplimg.com
 sq-carrier.apple.com
 sq-carrier-cn.apple.com
 sq-carrier-it2.apple.com
@@ -31940,7 +31969,6 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
-swdist.g.aaplimg.com
 swdlp.apple.com
 swdlp-eg-nlt.apple.com
 swdlp-mdn-nlt.apple.com
@@ -33114,6 +33142,7 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
+weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -33293,7 +33322,6 @@ www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
