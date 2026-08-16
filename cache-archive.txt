@@ -9449,6 +9449,7 @@ configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry.ls.apple.com
+configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -23164,6 +23165,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -25217,7 +25219,6 @@ misc.google.com
 misc-sni.google.com
 misc-sni.youtube.com
 miulo.githubusercontent.com
-mixpanel.com
 mj5.corp.adobe.com
 mk6z.googleapis.com
 mk7r.adobeaemcloud.com
@@ -25725,6 +25726,7 @@ news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
+news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -42077,7 +42079,6 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
-swdist.g.aaplimg.com
 swdlp-static.apple.com
 swdlp-static.apple.com.edgekey.net
 swdownload.apple.com
@@ -43754,6 +43755,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web12276.adobeaemcloud.net
 web3639.adobeaemcloud.net
 web3685.adobeaemcloud.com
@@ -44463,7 +44465,6 @@ www.xn--google.com
 www.xn--tt-tmrerfirma-enb.dk
 www.youtube.com
 www.youtube.kellykawase.com
-www.youtube-nocookie.com
 www.youtube.ru
 www.zh-tw.facebook.com.eu.cas.ms
 wxf.adobeaemcloud.com
