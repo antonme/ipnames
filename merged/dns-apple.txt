@@ -3692,7 +3692,6 @@ configuration.apple.com
 configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -4970,6 +4969,7 @@ edge-058.usbos2.icloud-content.com
 edge-059.deber3.icloud-content.com
 edge-059.defra2.icloud-content.com
 edge-059.dkvib11.icloud-content.com
+edge-059.gbslo5.icloud-content.com
 edge-059.nlhfd1.icloud-content.com
 edge-059.sesto4.icloud-content.com
 edge-059.usdal2.icloud-content.com
@@ -5397,6 +5397,7 @@ edge-114.sevideosrn.icloud-content.com
 edge-114.usmia1.icloud-content.com
 edge-114.usuyk1.icloud-content.com
 edge-115.gbmnc1.icloud-content.com
+edge-115.gbslo5.icloud-content.com
 edge-115.hkhkg.icloud-content.com
 edge-115.sesto4.icloud-content.com
 edge-115.usatl5.icloud-content.com
@@ -6051,7 +6052,9 @@ edge-212.jposa3.icloud-content.com
 edge-212.sesto4.icloud-content.com
 edge-212.sgsin8.icloud-content.com
 edge-212.usdal2.icloud-content.com
+edge-212.usuyk1.icloud-content.com
 edge-213.deber3.icloud-content.com
+edge-213.gbslo5.icloud-content.com
 edge-213.hkhkg.icloud-content.com
 edge-213.jposa3.icloud-content.com
 edge-213.sesto4.icloud-content.com
@@ -6395,6 +6398,7 @@ edge-265.sesto4.icloud-content.com
 edge-265.sgsin8.icloud-content.com
 edge-265.usmia1.icloud-content.com
 edge-266.deber3.icloud-content.com
+edge-266.gbslo5.icloud-content.com
 edge-266.hkhkg.icloud-content.com
 edge-266.jposa3.icloud-content.com
 edge-266.sesto4.icloud-content.com
@@ -10495,7 +10499,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -31089,7 +31092,6 @@ sps-media-anon.itunes.apple.com
 sps-media.apple.com
 sps-media.aweun1.sbz.apple.com
 sps-media.aweuw1.sbz.apple.com
-sps-media.v.aaplimg.com
 sq-carrier.apple.com
 sq-carrier-cn.apple.com
 sq-carrier-it2.apple.com
@@ -31698,7 +31700,6 @@ stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline.apple.com.edgekey.net
@@ -33314,7 +33315,6 @@ www2.apple.com
 www2.seminars.apple.com
 www.ads-apple.com.cn
 www.afl.info.apple.com
-www.airport.us
 www.anat.apple.com
 www.apple.com
 www.apple.com.cn
