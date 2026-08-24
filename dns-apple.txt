@@ -1,6 +1,7 @@
 a1b8892e-4b87-43c6-a00b-79fd18fb15e6.apple.com
 a1b8892e-4b87-43c6-a00b-79fd18fb15e6.apple.com.v.aaplimg.com
 a1.mzstatic.com
+a1.phobos.apple.com
 a2.mzstatic.com
 a3.mzstatic.com
 a4.mzstatic.com
@@ -309,6 +310,7 @@ aodp-ssl.itunes.apple.com
 aod-ssl.itunes.apple.com
 aod-ssl.itunes-apple.com.akadns.net
 apadmin.corp.apple.com
+apay-cash-wdp-device-prod-pci.apay.apple.com
 apay-cdp-services-cert.apple.com
 apay-cdp-services-lt1.apple.com
 apay-cdp-services-lt2.apple.com
@@ -588,7 +590,6 @@ appleid.cdn-apple.com
 appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.akamaized.net
 appleid.cdn-apple.com.edgekey.net
-appleid-cdn-apple-com.v.aaplimg.com
 appleid.idms-apple.com.akadns.net
 appleid-ut.corp.apple.com
 appleintelligencefeedback.care.apple.com
@@ -1091,6 +1092,7 @@ chat-mmap-xe03.apple.com
 chat-mmap-xe04.apple.com
 chat-mmap-xe05.apple.com
 chat-mmap-xe06.apple.com
+chatsupport.apple.com
 chat-uat.apple.com
 chat-xe00.apple.com
 checkcoverage.apple.com
@@ -1239,7 +1241,6 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -1618,6 +1619,7 @@ edge-018.deber3.icloud-content.com
 edge-018.dkvib11.icloud-content.com
 edge-018.gbmnc1.icloud-content.com
 edge-018.usatl5.icloud-content.com
+edge-018.usbos2.icloud-content.com
 edge-018.usdal2.icloud-content.com
 edge-018.usmes1.icloud-content.com
 edge-018.usmia1.icloud-content.com
@@ -1767,6 +1769,7 @@ edge-034.defra2.icloud-content.com
 edge-034.esmad6.icloud-content.com
 edge-034.gbslo5.icloud-content.com
 edge-034.nlhfd1.icloud-content.com
+edge-034.usbos2.icloud-content.com
 edge-034.uschi7.icloud-content.com
 edge-034.usqas5.icloud-content.com
 edge-034.usuqo4.icloud-content.com
@@ -2026,6 +2029,7 @@ edge-072.usbos2.icloud-content.com
 edge-073.deber3.icloud-content.com
 edge-073.defra2.icloud-content.com
 edge-073.gbmnc1.icloud-content.com
+edge-073.usbos2.icloud-content.com
 edge-073.usdal2.icloud-content.com
 edge-073.usden6.icloud-content.com
 edge-073.usqas5.icloud-content.com
@@ -2193,6 +2197,7 @@ edge-102.deber3.icloud-content.com
 edge-102.defra2.icloud-content.com
 edge-102.gbmnc1.icloud-content.com
 edge-102.gbslo5.icloud-content.com
+edge-102.usbos2.icloud-content.com
 edge-102.uschi7.icloud-content.com
 edge-102.usdal2.icloud-content.com
 edge-102.usmia1.icloud-content.com
@@ -3508,6 +3513,7 @@ ieork1-voice-expe2106.euro.apple.com
 if-mcq1.isoproxy.apple.com
 if-mcq2.isoproxy.apple.com
 iforgot.apple.com
+iforgot.idms-apple.com.akadns.net
 iforgot-partner.apple.com
 if-prod.isoproxy.apple.com
 ifs-cert.apple.com
@@ -11715,6 +11721,7 @@ sha-sq-carrier-stage.sbz.apple.com
 shazam-events.cdn-apple.com
 shazam-insights.cdn-apple.com
 shazam-insights-lb.apple.com.akadns.net
+shield-apay-cash-wdp-device-prod.pci.prod.apay.apple.com.v.aaplimg.com
 shield-magma-ifs-device-prod.pci.prod.apay.apple.com.v.aaplimg.com
 shield-prod-payments-external.pci.prod.apple.com.v.aaplimg.com
 shop-apple.com
@@ -12537,6 +12544,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 webcourier-carry.push.apple.com
 webcourier-cn.push.apple.com
 webcourier.push.apple.com
@@ -12617,7 +12625,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.events.shazam.apple.com
@@ -12626,12 +12633,10 @@ www.icloud.com
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
 www.info.apple.com
-www.itools.info
 www.mac.com
 www.mzstatic.com
 www.portal-repair-uat-apple.com
 www.support.apple.com
-www.thinkdifferent.us
 xdcvpn.apple.com
 xenia.siri.apple.com
 xml.apple.com

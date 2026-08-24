@@ -111481,3 +111481,85 @@ Sun Aug 23 05:38:50 PM MSK 2026                dns-tunnelbear.txt  >ipv6-resolve
 Sun Aug 23 05:51:39 PM MSK 2026                dns-twitter.txt  >ipv6-resolve-twitter.txt
 Sun Aug 23 06:46:27 PM MSK 2026                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
 Sun Aug 23 06:46:34 PM MSK 2026                dns-youtube.txt  >ipv6-resolve-youtube.txt
+[master e5b95afc] auto-update ipv6
+ 13 files changed, 13179 insertions(+), 12954 deletions(-)
+Sun Aug 23 11:44:25 PM MSK 2026                dns-backblaze.txt  >resolve-backblaze.txt
+Mon Aug 24 12:28:27 AM MSK 2026                dns-bing.txt  >resolve-bing.txt
+Mon Aug 24 12:33:57 AM MSK 2026                dns-expressvpn.txt  >resolve-expressvpn.txt
+Mon Aug 24 12:41:29 AM MSK 2026                dns-facebook.txt  >resolve-facebook.txt
+
+
+
+--------------------------------------------------------------------------------
+Mon Aug 24 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: fetch failed
+  googlevideo.com: fetch failed
+  youtube.com: fetch failed
+  ytimg.com: fetch failed
+  facebook.com: fetch failed
+  instagram.com: fetch failed
+  fbcdn.net: fetch failed
+  tiktok.com: fetch failed
+  tiktokv.com: fetch failed
+  tiktokcdn.com: fetch failed
+  bytedance.com: fetch failed
+  openai.com: fetch failed
+  chatgpt.com: fetch failed
+  oaiusercontent.com: fetch failed
+  bing.com: fetch failed
+  microsoft.com: fetch failed
+  twitter.com: fetch failed
+  x.com: fetch failed
+  twimg.com: fetch failed
+  ozon.ru: fetch failed
+  github.com: fetch failed
+  githubusercontent.com: fetch failed
+  apple.com: fetch failed
+  icloud.com: fetch failed
+  mzstatic.com: fetch failed
+  cdn-apple.com: fetch failed
+  adobe.com: fetch failed
+  behance.net: fetch failed
+  photoshop.com: fetch failed
+  typekit.net: fetch failed
+  frame.io: fetch failed
+  pornhub.com: fetch failed
+  phncdn.com: fetch failed
+  backblaze.com: fetch failed
+  huggingface.co: fetch failed
+  anthropic.com: fetch failed
+  claude.ai: fetch failed
+  crt.sh produced nothing; keeping previous cache-ct.txt
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
