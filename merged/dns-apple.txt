@@ -1913,6 +1913,7 @@ aoss.cdn-apple.com
 aosx10.v.phobos.apple.com
 apac-in-ma-qr.push.apple.com
 apadmin.corp.apple.com
+apay-cash-wdp-device-prod-pci.apay.apple.com
 apay-cdp-services-cert.apple.com
 apay-cdp-services-lt1.apple.com
 apay-cdp-services-lt2.apple.com
@@ -3723,7 +3724,6 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -4633,6 +4633,7 @@ edge-018.gbmnc1.icloud-content.com
 edge-018mediaedge-369.zamrd1.me.icloud-content.com
 edge-018.sesto4.icloud-content.com
 edge-018.usatl5.icloud-content.com
+edge-018.usbos2.icloud-content.com
 edge-018.usdal2.icloud-content.com
 edge-018.usmes1.icloud-content.com
 edge-018.usmia1.icloud-content.com
@@ -4813,6 +4814,7 @@ edge-034.esmad6.icloud-content.com
 edge-034.gbslo5.icloud-content.com
 edge-034.nlhfd1.icloud-content.com
 edge-034.sesto4.icloud-content.com
+edge-034.usbos2.icloud-content.com
 edge-034.uschi7.icloud-content.com
 edge-034.usqas5.icloud-content.com
 edge-034.usuqo4.icloud-content.com
@@ -5164,6 +5166,7 @@ edge-073.gbmnc1.icloud-content.com
 edge-073-mediaedge-432.usmes1.me.icloud-content.com
 edge-073.sesto4.icloud-content.com
 edge-073.sgsin8.icloud-content.com
+edge-073.usbos2.icloud-content.com
 edge-073.usdal2.icloud-content.com
 edge-073.usden6.icloud-content.com
 edge-073.usqas5.icloud-content.com
@@ -5394,6 +5397,7 @@ edge-102.gbmnc1.icloud-content.com
 edge-102.gbslo5.icloud-content.com
 edge-102-ic2.sgsin8.icloud-content.com
 edge-102.jposa3.icloud-content.com
+edge-102.usbos2.icloud-content.com
 edge-102.uschi7.icloud-content.com
 edge-102.usdal2.icloud-content.com
 edge-102.usmia1.icloud-content.com
@@ -10533,6 +10537,7 @@ if47.explr.poc.cp.sap.apple.com
 if-mcq1.isoproxy.apple.com
 if-mcq2.isoproxy.apple.com
 iforgot.apple.com
+iforgot.idms-apple.com.akadns.net
 iforgot-nw.apple.com
 iforgot-nwk.apple.com
 iforgot-nwk-s.apple.com
@@ -31095,6 +31100,7 @@ sh-buyiphone9.apple.com
 shelbywm.apple.com
 shield-013-ci.blobshield.apple.com
 shield-aos-stage.apple.com
+shield-apay-cash-wdp-device-prod.pci.prod.apay.apple.com.v.aaplimg.com
 shield-graffiti-int-ucp3.usuqo4.me.icloud-content.com
 shield-magma-ifs-device-prod.pci.prod.apay.apple.com.v.aaplimg.com
 shield-prod-payments-external.pci.prod.apple.com.v.aaplimg.com
@@ -31369,7 +31375,6 @@ sps-media-anon.itunes.apple.com
 sps-media.apple.com
 sps-media.aweun1.sbz.apple.com
 sps-media.aweuw1.sbz.apple.com
-sps-media.v.aaplimg.com
 sq-carrier.apple.com
 sq-carrier-cn.apple.com
 sq-carrier-it2.apple.com
@@ -33432,6 +33437,7 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
+weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -33612,7 +33618,6 @@ www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
@@ -33651,7 +33656,6 @@ www.img1.apple-mapkit.com
 www.info.apple.com
 www.inspectieresultaten.icloud.com
 www.it.nfapeuro.apple.com
-www.itools.info
 www.itunes.com
 www.iworktrialbuy.apple.com
 www.kreasifb.blobstore.apple.com
@@ -33691,7 +33695,6 @@ www.store.apple.com
 wwwsupp2.apple.com
 wwwsupp.apple.com
 www.support.apple.com
-www.thinkdifferent.us
 www.tips.apple.com
 www.trafficexchange.info.apple.com
 www.tsu.blobstore.apple.com
