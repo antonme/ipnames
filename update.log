@@ -111755,3 +111755,81 @@ s
 ===anthropic
 
 == Save names archive
+[master 3ba72636] auto-update names
+ 6 files changed, 340 insertions(+), 6 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Tue Aug 25 06:27:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: fetch failed
+  googlevideo.com: fetch failed
+  youtube.com: fetch failed
+  ytimg.com: fetch failed
+  facebook.com: ok
+  instagram.com: fetch failed
+  fbcdn.net: fetch failed
+  tiktok.com: fetch failed
+  tiktokv.com: fetch failed
+  tiktokcdn.com: fetch failed
+  bytedance.com: fetch failed
+  openai.com: fetch failed
+  chatgpt.com: fetch failed
+  oaiusercontent.com: fetch failed
+  bing.com: ok
+  microsoft.com: fetch failed
+  twitter.com: fetch failed
+  x.com: fetch failed
+  twimg.com: fetch failed
+  ozon.ru: fetch failed
+  github.com: fetch failed
+  githubusercontent.com: ok
+  apple.com: fetch failed
+  icloud.com: fetch failed
+  mzstatic.com: fetch failed
+  cdn-apple.com: fetch failed
+  adobe.com: fetch failed
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: fetch failed
+  frame.io: fetch failed
+  pornhub.com: fetch failed
+  phncdn.com: fetch failed
+  backblaze.com: fetch failed
+  huggingface.co: fetch failed
+  anthropic.com: fetch failed
+  claude.ai: ok
+  total CT names: 202
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
