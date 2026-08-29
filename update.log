@@ -112395,3 +112395,81 @@ Fri Aug 28 09:36:55 AM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolv
 Fri Aug 28 09:43:00 AM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
 [master f9ea2184] auto-update ipv4
  15 files changed, 5629 insertions(+), 5888 deletions(-)
+[master 09e38884] auto-update merged
+ 28 files changed, 10834 insertions(+), 10621 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Sat Aug 29 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: fetch failed
+  googlevideo.com: fetch failed
+  youtube.com: fetch failed
+  ytimg.com: fetch failed
+  facebook.com: fetch failed
+  instagram.com: fetch failed
+  fbcdn.net: fetch failed
+  tiktok.com: fetch failed
+  tiktokv.com: fetch failed
+  tiktokcdn.com: fetch failed
+  bytedance.com: ok
+  openai.com: fetch failed
+  chatgpt.com: fetch failed
+  oaiusercontent.com: fetch failed
+  bing.com: fetch failed
+  microsoft.com: fetch failed
+  twitter.com: fetch failed
+  x.com: fetch failed
+  twimg.com: fetch failed
+  ozon.ru: fetch failed
+  github.com: fetch failed
+  githubusercontent.com: ok
+  apple.com: fetch failed
+  icloud.com: ok
+  mzstatic.com: fetch failed
+  cdn-apple.com: fetch failed
+  adobe.com: fetch failed
+  behance.net: fetch failed
+  photoshop.com: ok
+  typekit.net: fetch failed
+  frame.io: fetch failed
+  pornhub.com: fetch failed
+  phncdn.com: fetch failed
+  backblaze.com: fetch failed
+  huggingface.co: fetch failed
+  anthropic.com: fetch failed
+  claude.ai: ok
+  total CT names: 5030
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
