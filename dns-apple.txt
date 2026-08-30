@@ -1657,6 +1657,7 @@ edge-006.usbos2.icloud-content.com
 edge-006.usdal2.icloud-content.com
 edge-006.usden6.icloud-content.com
 edge-006.usmes1.icloud-content.com
+edge-006.usqas5.icloud-content.com
 edge-006.usuqo4.icloud-content.com
 edge-006.usuyk1.icloud-content.com
 edge-007.defra2.icloud-content.com
@@ -1751,6 +1752,7 @@ edge-016.usuqo4.icloud-content.com
 edge-016.usuyk1.icloud-content.com
 edge-017.deber3.icloud-content.com
 edge-017.defra2.icloud-content.com
+edge-017.dkvib11.icloud-content.com
 edge-017.gbmnc1.icloud-content.com
 edge-017.usbos2.icloud-content.com
 edge-017.uschi7.icloud-content.com
@@ -1867,6 +1869,7 @@ edge-028.gbmnc1.icloud-content.com
 edge-028.gbslo5.icloud-content.com
 edge-028.nlhfd1.icloud-content.com
 edge-028.usbos2.icloud-content.com
+edge-028.usqas5.icloud-content.com
 edge-028.usuyk1.icloud-content.com
 edge-029.deber3.icloud-content.com
 edge-029.defra2.icloud-content.com
@@ -1914,9 +1917,11 @@ edge-033.gbmnc1.icloud-content.com
 edge-033.usbos2.icloud-content.com
 edge-033.uschi7.icloud-content.com
 edge-033.usden6.icloud-content.com
+edge-033.usqas5.icloud-content.com
 edge-033.usuqo4.icloud-content.com
 edge-034.deber3.icloud-content.com
 edge-034.defra2.icloud-content.com
+edge-034.dkvib11.icloud-content.com
 edge-034.esmad6.icloud-content.com
 edge-034.gbslo5.icloud-content.com
 edge-034.nlhfd1.icloud-content.com
@@ -2220,6 +2225,7 @@ edge-075.usbos2.icloud-content.com
 edge-075.uschi7.icloud-content.com
 edge-075.usden6.icloud-content.com
 edge-075.usmia1.icloud-content.com
+edge-075.usqas5.icloud-content.com
 edge-075.usuyk1.icloud-content.com
 edge-076.deber3.icloud-content.com
 edge-076.defra2.icloud-content.com
@@ -2286,6 +2292,7 @@ edge-086.nlhfd1.icloud-content.com
 edge-086.usdal2.icloud-content.com
 edge-086.usden6.icloud-content.com
 edge-086.usmia1.icloud-content.com
+edge-086.usqas5.icloud-content.com
 edge-086.usuyk1.icloud-content.com
 edge-087.deber3.icloud-content.com
 edge-087.usbos2.icloud-content.com
@@ -2558,6 +2565,7 @@ edge-136.usmia1.icloud-content.com
 edge-136.usuyk1.icloud-content.com
 edge-137.deber3.icloud-content.com
 edge-137.defra2.icloud-content.com
+edge-137.dkvib11.icloud-content.com
 edge-137.sesto4.icloud-content.com
 edge-137.usdal2.icloud-content.com
 edge-137.usmia1.icloud-content.com
@@ -2706,6 +2714,7 @@ edge-180.usqas5.icloud-content.com
 edge-180.usuyk1.icloud-content.com
 edge-181.defra2.icloud-content.com
 edge-181.sesto4.icloud-content.com
+edge-181.usqas5.icloud-content.com
 edge-182.defra2.icloud-content.com
 edge-182.sesto4.icloud-content.com
 edge-182.usdal2.icloud-content.com
@@ -3008,6 +3017,7 @@ edge-273.defra2.icloud-content.com
 edge-273.gbslo5.icloud-content.com
 edge-273.sesto4.icloud-content.com
 edge-273.usmia1.icloud-content.com
+edge-273.usqas5.icloud-content.com
 edge-274.gbslo5.icloud-content.com
 edge-274.sesto4.icloud-content.com
 edge-274.usdal2.icloud-content.com
@@ -3850,7 +3860,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -4614,6 +4623,7 @@ news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
+news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -12290,6 +12300,7 @@ srcs-prod-ext.awuse1.sbz.apple.com
 srd-checkin-api.apple.com
 sscache.apple.com
 sscache.apple.com.edgekey.net
+sscache.apple.com.edgesuite.net
 sscacheuat.cdn-apple.com
 ss-cfg.apple.com
 sse-ws.apple.com
@@ -13115,7 +13126,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.events.shazam.apple.com
@@ -13159,6 +13169,7 @@ xvpn-hse.apple.com
 xvpn-ph.apple.com
 yosemite.isoproxy.apple.com
 z4m4rjctn1q7vihta.apple.com
+z4m4rjctn1q7vihta.apple.com.edgesuite.net
 zamrd1.icloud-content.com
 zmc-use-d-s1.ccvoice.apple.com
 zmc-use-d-s2.ccvoice.apple.com

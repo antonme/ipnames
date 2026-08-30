@@ -12703,6 +12703,7 @@ dev.corp.adobe.com
 dev.cxp.adobe.com
 devday.corp.adobe.com
 devday.openai.com
+dev-days.github.com
 dev.documentservices.adobe.com
 dev.dxenablementhub.adobe.com
 develocity.api.openai.com
@@ -15138,6 +15139,7 @@ edge-006.usbos2.icloud-content.com
 edge-006.usdal2.icloud-content.com
 edge-006.usden6.icloud-content.com
 edge-006.usmes1.icloud-content.com
+edge-006.usqas5.icloud-content.com
 edge-006.usuqo4.icloud-content.com
 edge-006.usuyk1.icloud-content.com
 edge-007.defra2.icloud-content.com
@@ -15232,6 +15234,7 @@ edge-016.usuqo4.icloud-content.com
 edge-016.usuyk1.icloud-content.com
 edge-017.deber3.icloud-content.com
 edge-017.defra2.icloud-content.com
+edge-017.dkvib11.icloud-content.com
 edge-017.gbmnc1.icloud-content.com
 edge-017.usbos2.icloud-content.com
 edge-017.uschi7.icloud-content.com
@@ -15348,6 +15351,7 @@ edge-028.gbmnc1.icloud-content.com
 edge-028.gbslo5.icloud-content.com
 edge-028.nlhfd1.icloud-content.com
 edge-028.usbos2.icloud-content.com
+edge-028.usqas5.icloud-content.com
 edge-028.usuyk1.icloud-content.com
 edge-029.deber3.icloud-content.com
 edge-029.defra2.icloud-content.com
@@ -15395,9 +15399,11 @@ edge-033.gbmnc1.icloud-content.com
 edge-033.usbos2.icloud-content.com
 edge-033.uschi7.icloud-content.com
 edge-033.usden6.icloud-content.com
+edge-033.usqas5.icloud-content.com
 edge-033.usuqo4.icloud-content.com
 edge-034.deber3.icloud-content.com
 edge-034.defra2.icloud-content.com
+edge-034.dkvib11.icloud-content.com
 edge-034.esmad6.icloud-content.com
 edge-034.gbslo5.icloud-content.com
 edge-034.nlhfd1.icloud-content.com
@@ -15701,6 +15707,7 @@ edge-075.usbos2.icloud-content.com
 edge-075.uschi7.icloud-content.com
 edge-075.usden6.icloud-content.com
 edge-075.usmia1.icloud-content.com
+edge-075.usqas5.icloud-content.com
 edge-075.usuyk1.icloud-content.com
 edge-076.deber3.icloud-content.com
 edge-076.defra2.icloud-content.com
@@ -15767,6 +15774,7 @@ edge-086.nlhfd1.icloud-content.com
 edge-086.usdal2.icloud-content.com
 edge-086.usden6.icloud-content.com
 edge-086.usmia1.icloud-content.com
+edge-086.usqas5.icloud-content.com
 edge-086.usuyk1.icloud-content.com
 edge-087.deber3.icloud-content.com
 edge-087.usbos2.icloud-content.com
@@ -16039,6 +16047,7 @@ edge-136.usmia1.icloud-content.com
 edge-136.usuyk1.icloud-content.com
 edge-137.deber3.icloud-content.com
 edge-137.defra2.icloud-content.com
+edge-137.dkvib11.icloud-content.com
 edge-137.sesto4.icloud-content.com
 edge-137.usdal2.icloud-content.com
 edge-137.usmia1.icloud-content.com
@@ -16187,6 +16196,7 @@ edge-180.usqas5.icloud-content.com
 edge-180.usuyk1.icloud-content.com
 edge-181.defra2.icloud-content.com
 edge-181.sesto4.icloud-content.com
+edge-181.usqas5.icloud-content.com
 edge-182.defra2.icloud-content.com
 edge-182.sesto4.icloud-content.com
 edge-182.usdal2.icloud-content.com
@@ -16489,6 +16499,7 @@ edge-273.defra2.icloud-content.com
 edge-273.gbslo5.icloud-content.com
 edge-273.sesto4.icloud-content.com
 edge-273.usmia1.icloud-content.com
+edge-273.usqas5.icloud-content.com
 edge-274.gbslo5.icloud-content.com
 edge-274.sesto4.icloud-content.com
 edge-274.usdal2.icloud-content.com
@@ -17080,7 +17091,6 @@ eoa-migration-service-va6.identity.adobe.com
 eoa-migration-service-va6.identity-stage.adobe.com
 ep1.adtrafficquality.google
 ep1.facebook.com
-ep2.adtrafficquality.google
 ep2.facebook.com
 ep7.facebook.com
 epdb.adobeaemcloud.com
@@ -24567,7 +24577,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -27214,6 +27223,7 @@ news-app-events.apple.com
 news-assets.apple.com
 news-assets.apple.com.akamaized.net
 news-assets.apple.com.edgekey.net
+news-assets.v.aaplimg.com
 news-client.apple.com
 news-client-search.apple.com
 news-edge.apple.com
@@ -37471,11 +37481,16 @@ pull-flv-w77-va01.tiktokcdn.com
 pull-g5-tt03.tiktokcdn.com
 pull-g5-tt04.tiktokcdn.com
 pull-hls-f77-gcp01.tiktokcdn.com
+pull-hls-f77-sg01.fcdn.eu.tiktokcdn.com
 pull-hls-f77-sg01.tiktokcdn.com
+pull-hls-f77-tt01-tt03.fcdn.eu.tiktokcdn.com
+pull-hls-f77-tt03.fcdn.eu.tiktokcdn.com
+pull-hls-f77-tt03.fcdn.us.tiktokcdn.com
 pull-hls-f77-va01.tiktokcdn.com
 pull-hls-l77-admin-gcp01.tiktokcdn.com
 pull-hls-l77-admin-sg01.tiktokcdn.com
 pull-hls-l77-admin-va01.tiktokcdn.com
+pull-hls-l77-gcp01.eu.tiktokcdn.com
 pull-hls-l77-gcp01.tiktokcdn.com
 pull-hls-l77-va01.tiktokcdn.com
 pull-lls-l10-sg01.tiktokcdn.com
@@ -39085,6 +39100,8 @@ rr1.sn-4g5ednrl.googlevideo.com
 rr1---sn-4g5ednrl.googlevideo.com
 rr1---sn-4g5ednrs.googlevideo.com
 rr1---sn-4g5ednrz.googlevideo.com
+rr1.sn-4g5edns6.googlevideo.com
+rr1---sn-4g5edns6.googlevideo.com
 rr1---sn-4g5edns7.googlevideo.com
 rr1.sn-4g5ednsd.googlevideo.com
 rr1---sn-4g5ednsd.googlevideo.com
@@ -39737,6 +39754,7 @@ rr2.sn-aigzrnz7.googlevideo.com
 rr2---sn-aigzrnz7.googlevideo.com
 rr2.sn-aigzrnze.googlevideo.com
 rr2---sn-aigzrnze.googlevideo.com
+rr2.sn-aj4g55-5v.googlevideo.com
 rr2---sn-aj4g55-5v.googlevideo.com
 rr2.sn-aj4g55-5w.googlevideo.com
 rr2---sn-aj4g55-5w.googlevideo.com
@@ -40219,6 +40237,8 @@ rr3.sn-aigl6nzs.googlevideo.com
 rr3---sn-aigl6nzs.googlevideo.com
 rr3---sn-aigzrnld.googlevideo.com
 rr3---sn-aigzrnsz.googlevideo.com
+rr3.sn-aj4g55-5o.googlevideo.com
+rr3---sn-aj4g55-5o.googlevideo.com
 rr3.sn-aj4g55-5t.googlevideo.com
 rr3---sn-aj4g55-5t.googlevideo.com
 rr3.sn-aj4g55-5v.googlevideo.com
@@ -40233,6 +40253,7 @@ rr3.sn-aj5go5-5i.c.youtube.com
 rr3---sn-aj5go5-5i.c.youtube.com
 rr3.sn-aj5go5-5i.googlevideo.com
 rr3---sn-aj5go5-5i.googlevideo.com
+rr3.sn-aj5goc-5j.googlevideo.com
 rr3---sn-aj5goc-5j.googlevideo.com
 rr3.sn-ajab55-55.googlevideo.com
 rr3---sn-ajab55-55.googlevideo.com
@@ -40752,6 +40773,7 @@ rr4.sn-aj5go5-5i.c.youtube.com
 rr4---sn-aj5go5-5i.c.youtube.com
 rr4.sn-aj5go5-5i.googlevideo.com
 rr4---sn-aj5go5-5i.googlevideo.com
+rr4.sn-aj5goc-5j.googlevideo.com
 rr4---sn-aj5goc-5j.googlevideo.com
 rr4.sn-aj5ua5-59.googlevideo.com
 rr4---sn-aj5ua5-59.googlevideo.com
@@ -43383,6 +43405,7 @@ srilanka-ca-version-2.expressnetw.com
 sr.lazerpenguin.com
 sscache.apple.com
 sscache.apple.com.edgekey.net
+sscache.apple.com.edgesuite.net
 sscacheuat.cdn-apple.com
 ss-cfg.apple.com
 sse-ws.apple.com
@@ -43632,7 +43655,6 @@ stats.wilson.pdxs.twitter.com
 stats.wilson.pdxv.twitter.com
 stats.wilson.pdxx.twitter.com
 stats.wilson.sfo2.twitter.com
-stat.tech.euronews.com
 status.adobe.com
 status.adobe.com.edgesuite.net
 status.anthropic.com
@@ -44779,6 +44801,7 @@ ujge.adobeaemcloud.com
 ujjbtctdmrec1qjs57fum4h3lqwbs1rpkmuo1.9zteofjhhurrf44o3ow.hzmoyv8xeyx6u0fwqd.tttajy2xsjxf.w.vsj0bfytmx.otowwnyppksu3lvhwp.u.bnzghrqpkglwqqfr3be4.23d2ef.shofha.online
 uk-1-docklands-ca-version-2.expressnetw.com
 uk2k.googleapis.com
+uk-admin.money-staging.x.com
 uk-admin.money.x.com
 uk-any.money-dev.x.com
 uk-any.money-staging.x.com
@@ -46185,6 +46208,7 @@ ws.extranet.ozon.ru
 ws.finance.ozon.ru
 ws.flex-courier.ozon.ru
 ws.global-university.ozon.ru
+ws.help.github.com
 ws.lazerpenguin.com
 wslh.adobeaemcloud.com
 ws.lp.ozon.ru
@@ -46259,7 +46283,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.as.adobeaemcloud.com
 www.autodiscover.ord.ozon.ru
 www.backblaze.com
@@ -46826,6 +46849,7 @@ z1so.githubusercontent.com
 z38-.withgoogle.com
 z47.googleapis.com
 z4m4rjctn1q7vihta.apple.com
+z4m4rjctn1q7vihta.apple.com.edgesuite.net
 z4ol.withgoogle.com
 z6ac.adobeaemcloud.net
 z6td.googleapis.com
