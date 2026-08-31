@@ -112743,3 +112743,81 @@ Mon Aug 31 02:01:32 AM MSK 2026                dns-backblaze.txt  >resolve-backb
 Mon Aug 31 02:53:17 AM MSK 2026                dns-bing.txt  >resolve-bing.txt
 Mon Aug 31 02:59:47 AM MSK 2026                dns-expressvpn.txt  >resolve-expressvpn.txt
 Mon Aug 31 03:08:29 AM MSK 2026                dns-facebook.txt  >resolve-facebook.txt
+[master 8fd691a1] auto-update ipv6
+ 17 files changed, 14180 insertions(+), 5848 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Mon Aug 31 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: fetch failed
+  googlevideo.com: fetch failed
+  youtube.com: fetch failed
+  ytimg.com: ok
+  facebook.com: fetch failed
+  instagram.com: ok
+  fbcdn.net: fetch failed
+  tiktok.com: fetch failed
+  tiktokv.com: fetch failed
+  tiktokcdn.com: fetch failed
+  bytedance.com: fetch failed
+  openai.com: fetch failed
+  chatgpt.com: ok
+  oaiusercontent.com: fetch failed
+  bing.com: ok
+  microsoft.com: fetch failed
+  twitter.com: fetch failed
+  x.com: fetch failed
+  twimg.com: fetch failed
+  ozon.ru: fetch failed
+  github.com: fetch failed
+  githubusercontent.com: fetch failed
+  apple.com: ok
+  icloud.com: fetch failed
+  mzstatic.com: fetch failed
+  cdn-apple.com: fetch failed
+  adobe.com: fetch failed
+  behance.net: fetch failed
+  photoshop.com: fetch failed
+  typekit.net: fetch failed
+  frame.io: fetch failed
+  pornhub.com: ok
+  phncdn.com: ok
+  backblaze.com: ok
+  huggingface.co: fetch failed
+  anthropic.com: fetch failed
+  claude.ai: fetch failed
+  total CT names: 3270
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
