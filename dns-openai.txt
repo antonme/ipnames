@@ -85,6 +85,7 @@ discord.verify.openai.com
 discuss.openai.com
 eastus2.privatelink.api.openai.com
 edge.chatgpt.com
+edge.unified-101.api.openai.com
 edge.unified-107.api.openai.com
 edge.unified-119.api.openai.com
 edge.unified-11.api.openai.com
@@ -222,6 +223,7 @@ gateway.encl-7.api.openai.com
 gateway.encl-8.api.openai.com
 gateway.encl-9.api.openai.com
 gateway.fdemt-0.api.openai.com
+gateway.fdemt-1.api.openai.com
 gateway.fed-unified-0.api.openai.com
 gateway.fed-unified-1.api.openai.com
 gateway.fed-unified-2.api.openai.com
@@ -249,6 +251,7 @@ gateway.uapi-1.api.openai.com
 gateway.uchat-0.api.openai.com
 gateway.uchat-1.api.openai.com
 gateway.unified-0.api.openai.com
+gateway.unified-102.api.openai.com
 gateway.unified-103.api.openai.com
 gateway.unified-104.api.openai.com
 gateway.unified-105.api.openai.com
@@ -336,6 +339,7 @@ gateway.unified-183.api.openai.com
 gateway.unified-184.api.openai.com
 gateway.unified-185.api.openai.com
 gateway.unified-186.api.openai.com
+gateway.unified-187.api.openai.com
 gateway.unified-188.api.openai.com
 gateway.unified-189.api.openai.com
 gateway.unified-18.api.openai.com
@@ -491,7 +495,6 @@ mtls.auth.openai.com
 nb-chatgpt.com
 nori.api.openai.com
 nori-webhooks.api.openai.com
-oaistatic.com
 observability-webhook.api.openai.com
 ogimg.chatgpt.com
 okchatgpt.com
