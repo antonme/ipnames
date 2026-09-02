@@ -113096,3 +113096,87 @@ s
 
 == Resolving names to ipv6
 Tue Sep  1 06:45:55 AM MSK 2026                dns-adobe.txt  >ipv6-resolve-adobe.txt
+[master d9a93d98] auto-update merged
+ 23 files changed, 8366 insertions(+), 62518 deletions(-)
+Tue Sep  1 12:40:39 PM MSK 2026                dns-anthropic.txt  >ipv6-resolve-anthropic.txt
+Tue Sep  1 12:47:44 PM MSK 2026                dns-apple.txt  >ipv6-resolve-apple.txt
+Wed Sep  2 12:06:33 AM MSK 2026                dns-backblaze.txt  >ipv6-resolve-backblaze.txt
+Wed Sep  2 12:50:47 AM MSK 2026                dns-bing.txt  >ipv6-resolve-bing.txt
+Wed Sep  2 12:56:22 AM MSK 2026                dns-expressvpn.txt  >ipv6-resolve-expressvpn.txt
+Wed Sep  2 01:03:48 AM MSK 2026                dns-facebook.txt  >ipv6-resolve-facebook.txt
+
+
+
+--------------------------------------------------------------------------------
+Wed Sep  2 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: fetch failed
+  googlevideo.com: fetch failed
+  youtube.com: fetch failed
+  ytimg.com: fetch failed
+  facebook.com: fetch failed
+  instagram.com: fetch failed
+  fbcdn.net: fetch failed
+  tiktok.com: ok
+  tiktokv.com: fetch failed
+  tiktokcdn.com: fetch failed
+  bytedance.com: fetch failed
+  openai.com: fetch failed
+  chatgpt.com: fetch failed
+  oaiusercontent.com: fetch failed
+  bing.com: fetch failed
+  microsoft.com: fetch failed
+  twitter.com: fetch failed
+  x.com: fetch failed
+  twimg.com: fetch failed
+  ozon.ru: fetch failed
+  github.com: fetch failed
+  githubusercontent.com: fetch failed
+  apple.com: ok
+  icloud.com: ok
+  mzstatic.com: fetch failed
+  cdn-apple.com: fetch failed
+  adobe.com: fetch failed
+  behance.net: fetch failed
+  photoshop.com: fetch failed
+  typekit.net: fetch failed
+  frame.io: fetch failed
+  pornhub.com: fetch failed
+  phncdn.com: ok
+  backblaze.com: ok
+  huggingface.co: ok
+  anthropic.com: fetch failed
+  claude.ai: fetch failed
+  total CT names: 8147
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive

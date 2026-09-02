@@ -1435,7 +1435,6 @@ acivr-odin-datasync3-pbz.corp.apple.com
 acivr-parrot1-primary-pbz.apple.com
 acivr-parrot4-primary-pbz.apple.com
 acivr-profile1-primary-pbz.apple.com
-acivr-profile3-secondary-pbz.corp.apple.com
 acivr-profile4-primary-pbz.apple.com
 acivr-profile4-secondary.apple.com
 acivr-sentinels3-ingress.apple.com
@@ -1776,9 +1775,6 @@ apne1-acivr-enterprise4-primary-pbz-stage.spbz.apple.com
 apne1-acivr-mlq3-primary-pbz-stage.spbz.apple.com
 apne1-acivr-mlq3-secondary-pbz-stage.awapne1.shld.apple.com
 apne1-acivr-mlq4-primary-pbz-stage.spbz.apple.com
-apne1-acivr-profile3-secondary-pbz-stage.apple.com
-apne1-acivr-profile3-secondary-pbz-stage.spbz.apple.com
-apne1-acivr-profile4-secondary-pbz-stage.apple.com
 apne1-acivr-textserver3-primary-pbz-stage.apple.com
 apne1-acivr-ufd1-primary-pbz-prod.apple.com
 apne1-prod-weather-data-service-eks-prod.apple.com
@@ -1875,7 +1871,6 @@ apse1-acivr-enterprise4-primary-pbz-stage.apple.com
 apse1-acivr-mlq1-primary-pbz-prod.apple.com
 apse1-acivr-mlq3-primary-pbz-stage.spbz.apple.com
 apse1-acivr-mlq3-secondary-pbz-stage.awapse1.shld.apple.com
-apse1-acivr-profile3-secondary-pbz-stage.spbz.apple.com
 apse1-acivr-ufd1-primary-pbz-prod.spbz.apple.com
 apse1-albert.apple.com
 apse1-mjolnir-dl.apple.com
@@ -3011,7 +3006,6 @@ edge-035.hkhkg.icloud-content.com
 edge-035.sesto4.icloud-content.com
 edge-035.zamrd1.icloud-content.com
 edge-037.hkhkg.icloud-content.com
-edge-037.usuyk1.icloud-content.com
 edge-038.hkhkg.icloud-content.com
 edge-039.hkhkg.icloud-content.com
 edge-039.sesto4.icloud-content.com
@@ -3685,7 +3679,6 @@ edge-252.hkhkg.icloud-content.com
 edge-252.jposa3.icloud-content.com
 edge-252.sgsin8.icloud-content.com
 edge-253.hkhkg.icloud-content.com
-edge-253.usuyk1.icloud-content.com
 edge-253.zamrd1.icloud-content.com
 edge-254.deber3.icloud-content.com
 edge-254.hkhkg.icloud-content.com
@@ -4928,8 +4921,6 @@ euc1-acivr-mlq3-primary-pbz-stage.spbz.apple.com
 euc1-acivr-mlq3-secondary-pbz-stage.corp.apple.com
 euc1-acivr-mlq4-secondary-pbz-stage.apple.com
 euc1-acivr-profile3-primary-pbz-stage.spbz.apple.com
-euc1-acivr-profile3-secondary-pbz-stage.apple.com
-euc1-acivr-profile4-secondary-pbz-stage.spbz.apple.com
 euc1-acivr-ufd1-primary-pbz-prod.apple.com
 euc1-makofde-uat.apple.com
 euc1-test-r2-sh-all-bz-prod.apple.com
@@ -4947,7 +4938,6 @@ euw1-acivr-mlq3-secondary-pbz-stage.corp.apple.com
 euw1-acivr-mlq4-primary-pbz-stage.apple.com
 euw1-acivr-mlq4-primary-pbz-stage.spbz.apple.com
 euw1-acivr-mlq4-secondary-pbz-stage.apple.com
-euw1-acivr-profile3-secondary-pbz-stage.apple.com
 euw1-ckdashboardws.icloud.apple.com
 euw1csp48-ssl-e1524.ls.apple.com
 euw1-mjolnir-dl.apple.com
@@ -20391,9 +20381,6 @@ use1-acivr-mlq3-secondary-pbz-stage.corp.apple.com
 use1-acivr-mlq4-primary-pbz-stage.apple.com
 use1-acivr-mlq4-secondary-pbz-stage.apple.com
 use1-acivr-mlq4-secondary-pbz-stage.spbz.apple.com
-use1-acivr-profile3-secondary-pbz-stage.apple.com
-use1-acivr-profile3-secondary-pbz-stage.spbz.apple.com
-use1-acivr-profile4-secondary-pbz-stage.apple.com
 use1-acivr-ufd1-primary-pbz-prod.apple.com
 use1-ahflex-isc.apple.com
 use1a.mobileapp.apple.com
@@ -20569,9 +20556,6 @@ usw2-acivr-mlq4-primary-pbz-stage.spbz.apple.com
 usw2-acivr-mlq4-secondary-pbz-stage.spbz.apple.com
 usw2-acivr-profile3-primary-pbz-stage.apple.com
 usw2-acivr-profile3-primary-pbz-stage.spbz.apple.com
-usw2-acivr-profile3-secondary-pbz-stage.apple.com
-usw2-acivr-profile3-secondary-pbz-stage.spbz.apple.com
-usw2-acivr-profile4-secondary-pbz-stage.spbz.apple.com
 usw2-acivr-profile-wiremock3-pbz-stage.apple.com
 usw2-acivr-sentinels1-ingress-prod.apple.com
 usw2-acivr-textserver3-primary-pbz-stage.apple.com
