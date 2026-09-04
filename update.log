@@ -113461,3 +113461,17 @@ Thu Sep  3 10:10:32 AM MSK 2026                ext-dns-tiktok.txt  >ipv6-ext-res
 Thu Sep  3 10:29:07 AM MSK 2026                ext-dns-twitter.txt  >ipv6-ext-resolve-twitter.txt
 Thu Sep  3 10:36:05 AM MSK 2026                ext-dns-vpnhosts.txt  >ipv6-ext-resolve-vpnhosts.txt
 Thu Sep  3 10:44:58 AM MSK 2026                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
+[master 196e11de] auto-update ipv6
+ 4 files changed, 2009 insertions(+), 812 deletions(-)
+Thu Sep  3 06:40:52 PM MSK 2026                dns-github.txt  >resolve-github.txt
+Thu Sep  3 06:57:02 PM MSK 2026                dns-google.txt  >resolve-google.txt
+Thu Sep  3 09:21:15 PM MSK 2026                dns-huggingface.txt  >resolve-huggingface.txt
+Thu Sep  3 09:23:37 PM MSK 2026                dns-openai.txt  >resolve-openai.txt
+Thu Sep  3 09:55:15 PM MSK 2026                dns-ozon.txt  >resolve-ozon.txt
+Thu Sep  3 10:03:04 PM MSK 2026                dns-pornhub.txt  >resolve-pornhub.txt
+Thu Sep  3 10:08:10 PM MSK 2026                dns-surfshark.txt  >resolve-surfshark.txt
+Thu Sep  3 10:15:20 PM MSK 2026                dns-tiktok.txt  >resolve-tiktok.txt
+Fri Sep  4 12:03:07 AM MSK 2026                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Fri Sep  4 12:15:02 AM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
+Fri Sep  4 01:09:58 AM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Fri Sep  4 01:10:06 AM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
