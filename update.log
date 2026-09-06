@@ -113981,3 +113981,20 @@ s
 
 == Resolving names to ipv4
 Sun Sep  6 06:42:54 AM MSK 2026                dns-adobe.txt  >resolve-adobe.txt
+[master 490e19c1] auto-update merged
+ 13 files changed, 31425 insertions(+), 18962 deletions(-)
+Sun Sep  6 01:06:28 PM MSK 2026                dns-anthropic.txt  >resolve-anthropic.txt
+Sun Sep  6 01:14:44 PM MSK 2026                dns-apple.txt  >resolve-apple.txt
+Sun Sep  6 03:24:53 PM MSK 2026                dns-github.txt  >ipv6-resolve-github.txt
+Sun Sep  6 03:43:48 PM MSK 2026                dns-google.txt  >ipv6-resolve-google.txt
+Sun Sep  6 06:34:14 PM MSK 2026                dns-huggingface.txt  >ipv6-resolve-huggingface.txt
+Sun Sep  6 06:37:01 PM MSK 2026                dns-openai.txt  >ipv6-resolve-openai.txt
+Sun Sep  6 07:13:49 PM MSK 2026                dns-ozon.txt  >ipv6-resolve-ozon.txt
+Sun Sep  6 07:22:35 PM MSK 2026                dns-pornhub.txt  >ipv6-resolve-pornhub.txt
+Sun Sep  6 07:28:27 PM MSK 2026                dns-surfshark.txt  >ipv6-resolve-surfshark.txt
+Sun Sep  6 07:36:48 PM MSK 2026                dns-tiktok.txt  >ipv6-resolve-tiktok.txt
+Sun Sep  6 09:39:44 PM MSK 2026                dns-tunnelbear.txt  >ipv6-resolve-tunnelbear.txt
+Sun Sep  6 09:53:40 PM MSK 2026                dns-twitter.txt  >ipv6-resolve-twitter.txt
+Sun Sep  6 10:55:44 PM MSK 2026                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
+Sun Sep  6 10:55:51 PM MSK 2026                dns-youtube.txt  >ipv6-resolve-youtube.txt
+Mon Sep  7 02:20:45 AM MSK 2026                dns-backblaze.txt  >resolve-backblaze.txt
