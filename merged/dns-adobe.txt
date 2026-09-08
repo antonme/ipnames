@@ -2552,6 +2552,7 @@ cdn.app.brand-portal.adobe.com
 cdn.articles.ringcentral.com.cname.cjm.adobe.com
 cdn.auditor.adobe.com
 cdnauthentication.documents.adobe.com
+cdn.b2bdeep.test.ajo.adobe.com
 cdn.b2bmail.adobe.com
 cdn.basic.marketing.adobe.com
 cdn.batch-accenture.test.ajo.adobe.com
@@ -2630,6 +2631,7 @@ cdn-invitations-stage.adobecc.map.fastly.net
 cdn.latinamerica.coca-cola.com.cname.cjm.adobe.com
 cdn-libraries.adobecc.map.fastly.net
 cdn-libraries-stage.adobecc.map.fastly.net
+cdn.madhuv2.test.ajo.adobe.com
 cdn.mail.contentauthenticity.adobe.com
 cdn.mail.halo.adobe.com
 cdn.mailing.kpn.com.cname.cjm.adobe.com
@@ -5217,6 +5219,7 @@ flashmobileportal.stage.adobe.com
 flashrtloc.corp.adobe.com
 flatironbid.na1.documents.adobe.com
 flex-brasil.groups.adobe.com
+flex-global-admin-console-stage.adobe.com
 flexorg.wip3.adobe.com
 flexwiki.adobe.com
 flickr-ols.adobe.com
@@ -5556,6 +5559,7 @@ glb-service-va6.identity.adobe.com
 glb-service-va6.identity-stage.adobe.com
 globalad.corp.adobe.com
 global-admin-console.adobe.com
+global-admin-console-stage.adobe.com
 global.corp.adobe.com
 globalds.corp.adobe.com
 global.identity.adobe.com
@@ -5897,6 +5901,7 @@ help.typekit.com
 helpx.adobe.com
 helpx.adobe.com.edgesuite.net
 helpx-audit.corp.adobe.com
+helpx-audit-old.corp.adobe.com
 helpxauditservice-stage.corp.adobe.com
 helpx-audit-stage.corp.adobe.com
 helpxauditstage.corp.adobe.com
@@ -5931,6 +5936,8 @@ hhw8.adobeaemcloud.com
 highstreetliving.na2.documents.adobe.com
 hilbrandbos.myportfolio.com
 hinakogoto.myportfolio.com
+hindsight.campaign.adobe.com
+hindsight.corp.adobe.com
 hippolyta.acc.axle-stage.an.adobe.com
 hippolyta.aec.axle-stage.an.adobe.com
 hipster.adobe.com
@@ -6312,6 +6319,7 @@ inbound-smtp-2.adobe.com
 inbrowserediting.adobe.com
 inc.experiencecloud.adobe.com
 incontextediting.adobe.com
+ind1.canary.adobe.com
 ind.appsvc.an.adobe.com
 ind.axle.an.adobe.com
 indd.adobe.com
@@ -6422,6 +6430,7 @@ internal.staging.frame.io
 internal.xd.adobe.com
 int.ethos53-prod-or2.prod.ethos.corp.adobe.com
 int.fra8.canary.adobe.com
+int.ind1.canary.adobe.com
 intinfo.marketing.adobe.com
 int.irl1.canary.adobe.com
 int.irl1.stage.canary.adobe.com
@@ -15183,6 +15192,8 @@ van-lc1-west.corp.marketing.adobe.com
 van-lc2-east.corp.adobe.com
 van-search1-west.corp.adobe.com
 van-search2-west.corp.adobe.com
+vantage.campaign.adobe.com
+vantage.corp.adobe.com
 vantage-dev.corp.adobe.com
 vapor.frame.io
 vapor-storybook.frame.io
@@ -15792,7 +15803,6 @@ wwwimages.adobe.com
 wwwimages.stage2.adobe.com
 wwwimages.stage.adobe.com
 www.inspire.adobe.com
-www.italia.it
 www.knowledgemanagement.experiencecloud.adobe.com
 www.korea.adobe.com
 www.latinamerica.adobe.com
