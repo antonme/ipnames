@@ -1,3 +1,5 @@
+
+
 # Popular Sites/Platforms FQDNs and Resolved IPs
 This repo contains daily updated list of FQDNs and resolved IPs of some popular sites/platforms. Made for my personal needs in routing of some VPNs in my router to fight censure and balkanization of the Internet a little.
 
@@ -20,6 +22,7 @@ Sites/platforms included: Adobe, Anthropic/Claude, Apple, Backblaze, Bing, Faceb
 - `full-update.fish`: Script for full cycle update
 - `names-from-cache.fish`: Filters FQDNs from available logs
 - `presolve*.fish`: Scripts to resolve IPs from FQDNs
+- `utils/*.py`: Python utility scripts for IP range conversion, CIDR merging, and ARIN WHOIS queries
 
 ## Methodology
 
