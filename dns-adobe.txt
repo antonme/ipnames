@@ -1102,6 +1102,7 @@ cdn.aia.test.ajo.adobe.com
 cdn.ajo-campaigns-e2e-ind2-ultimate.test.ajo.adobe.com
 cdn.americanexpress.test.ajo.adobe.com
 cdn.ankit.test.ajo.adobe.com
+cdn.b2bdeep.test.ajo.adobe.com
 cdn.b2bmail.adobe.com
 cdn.batch-accenture.test.ajo.adobe.com
 cdn.batch-ajocampaignoutbound.test.ajo.adobe.com
@@ -1152,6 +1153,7 @@ cdn-geo-ffc.oobesaas.adobe.com
 cdn.gm.test.ajo.adobe.com
 cdn.gxv.test.ajo.adobe.com
 cdn.ingspain.test.ajo.adobe.com
+cdn.madhuv2.test.ajo.adobe.com
 cdn.mail.contentauthenticity.adobe.com
 cdn.mail.halo.adobe.com
 cdn.mail.stage.halo.adobe.com
@@ -2286,6 +2288,7 @@ firefly-stage.corp.adobe.com
 firefly-stage-pr.corp.adobe.com
 firewatch.corp.adobe.com
 fi-rt.adobeaemcloud.net
+flex-global-admin-console-stage.adobe.com
 flickr-ols.adobe.com
 floscular.adobeaemcloud.net
 fluffyjaws.adobe.com
@@ -2435,6 +2438,7 @@ glb-service-va6.identity.adobe.com
 glb-service-va6.identity-stage.adobe.com
 globalad.corp.adobe.com
 global-admin-console.adobe.com
+global-admin-console-stage.adobe.com
 global.corp.adobe.com
 globalds.corp.adobe.com
 global.identity.adobe.com
@@ -2571,6 +2575,7 @@ help.glaas-qa.corp.adobe.com
 helpx.adobe.com
 helpx.adobe.com.edgesuite.net
 helpx-audit.corp.adobe.com
+helpx-audit-old.corp.adobe.com
 helpxauditservice-stage.corp.adobe.com
 helpx-audit-stage.corp.adobe.com
 helpxauditstage.corp.adobe.com
@@ -2587,6 +2592,8 @@ heshmati.corp.adobe.com
 hgKWWWmMhPRO.adobe.com
 hgps.adobeaemcloud.com
 hhw8.adobeaemcloud.com
+hindsight.campaign.adobe.com
+hindsight.corp.adobe.com
 hippolyta.acc.axle-stage.an.adobe.com
 hippolyta.aec.axle-stage.an.adobe.com
 hl2rcv.adobe.com
@@ -2800,6 +2807,7 @@ imss-stage.corp.adobe.com
 in1.documents.adobe.com
 in1.documentsstage.adobe.com
 in.adobe.com
+ind1.canary.adobe.com
 ind.appsvc.an.adobe.com
 ind.axle.an.adobe.com
 indd.adobe.com
@@ -2851,6 +2859,7 @@ internal.eu-west-1.dev.frame.io
 internal.frame.io
 internal.staging.frame.io
 int.fra8.canary.adobe.com
+int.ind1.canary.adobe.com
 int.irl1.canary.adobe.com
 int.irl1.stage.canary.adobe.com
 int.jpn3.canary.adobe.com
@@ -6183,6 +6192,8 @@ van-lc1-west.corp.adobe.com
 van-lc2-east.corp.adobe.com
 van-search1-west.corp.adobe.com
 van-search2-west.corp.adobe.com
+vantage.campaign.adobe.com
+vantage.corp.adobe.com
 vantage-dev.corp.adobe.com
 vapor.frame.io
 vapor-storybook.frame.io
@@ -6411,7 +6422,6 @@ wwwimages.adobe.com
 wwwimages.stage2.adobe.com
 wwwimages.stage.adobe.com
 www.inspire.adobe.com
-www.italia.it
 www.linguahub.corp.adobe.com
 www-live-redirect.adobeaemcloud.com
 www.major-loss-adjuster.localprosite.com
