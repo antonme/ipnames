@@ -83,6 +83,13 @@ acivr-asapp4-secondary-pbz-stage.awuse1.spbz.apple.com
 acivr-asapp4-secondary-pbz-stage.awusw2.spbz.apple.com
 acivr-cds1-primary-pbz.corp.apple.com
 acivr-cds3-primary-pbz.corp.apple.com
+acivr-cds3-secondary-pbz.corp.apple.com
+acivr-cds3-secondary-pbz-stage.awapne1.spbz.apple.com
+acivr-cds3-secondary-pbz-stage.awapse1.spbz.apple.com
+acivr-cds3-secondary-pbz-stage.aweuc1.spbz.apple.com
+acivr-cds3-secondary-pbz-stage.aweuw1.spbz.apple.com
+acivr-cds3-secondary-pbz-stage.awuse1.spbz.apple.com
+acivr-cds3-secondary-pbz-stage.awusw2.spbz.apple.com
 acivr-enterprise1-primary-pbz.corp.apple.com
 acivr-enterprise1-secondary-pbz.corp.apple.com
 acivr-enterprise3-primary-pbz.corp.apple.com
@@ -97,6 +104,7 @@ acivr-mlq1-primary-pbz.awuse1.spbz.apple.com
 acivr-mlq1-primary-pbz.awusw2.spbz.apple.com
 acivr-mlq1-primary-pbz.corp.apple.com
 acivr-mlq1-secondary-pbz.corp.apple.com
+acivr-mlq3-secondary-pbz.corp.apple.com
 acivr-odin-datasync1-primary-pbz.corp.apple.com
 acivr-odin-datasync1-secondary-pbz.corp.apple.com
 acivr-parrot1-primary-pbz.corp.apple.com
@@ -106,6 +114,7 @@ acivr-parrot3-secondary-pbz.corp.apple.com
 acivr-parrot4-primary-pbz.corp.apple.com
 acivr-profile1-primary-pbz.corp.apple.com
 acivr-profile1-secondary-pbz.corp.apple.com
+acivr-profile3-primary-pbz.corp.apple.com
 acivr-profile3-secondary-pbz.corp.apple.com
 acivr-profile4-primary-pbz.corp.apple.com
 acivr-profile4-secondary-pbz.corp.apple.com
@@ -364,16 +373,20 @@ apay-identityservice-qa4.apple.com
 apay-identityservice-qa5.apple.com
 apay-identityservice-qa6.apple.com
 apay-identityservice-qa.apple.com
+apay-partner-api.apple.com
 apay-partner-api-bz.apple.com
 apay-partner-api-cert.apple.com
+apay-partner-api-dr.apple.com
 apay-partner-api-lt.apple.com
 apay-partner-api-lt-bz.apple.com
 apay-partner-api-lt-dr.apple.com
 apay-partner-api-lt-ext.apple.com
 apay-partner-api-lt-mdn.apple.com
 apay-partner-api-lt-rno.apple.com
+apay-partner-api-mdn.apple.com
 apay-partner-api-pat.apple.com
 apay-partner-api-preprod-bz.apple.com
+apay-partner-api-prz.apple.com
 apay-partner-api-qa.apple.com
 apay-partner-api-qa-bz.apple.com
 apay-partner-api-qa-dr.apple.com
@@ -527,6 +540,7 @@ api-safari-aeun1a.smoot.apple.com
 api-safari-aeun1b.smoot.apple.com
 api-safari-aeus2b.smoot.apple.com
 api-safari-aeuw1b.smoot.apple.com
+api-safari-asae1b.smoot.apple.com
 api-safari-ause2a.smoot.apple.com
 api-safari.smoot.apple.com
 api-sba.smoot.apple.com
@@ -543,6 +557,7 @@ api-spotlight-aeun1b.smoot.apple.com
 api-spotlight-aeus2a.smoot.apple.com
 api-spotlight-aeus2b.smoot.apple.com
 api-spotlight-aeuw1b.smoot.apple.com
+api-spotlight-asae1b.smoot.apple.com
 api-spotlight-ause2a.smoot.apple.com
 api-spotlight-ausw2c.smoot.apple.com
 api-spotlight.smoot.apple.com
@@ -567,6 +582,8 @@ apne1-acivr-enterprise4-secondary-pbz-stage.apple.com
 apne1-acivr-enterprise4-secondary-pbz-stage.spbz.apple.com
 apne1-acivr-mlq1-secondary-pbz-prod.apple.com
 apne1-acivr-mlq1-secondary-pbz-prod.spbz.apple.com
+apne1-acivr-mlq3-secondary-pbz-stage.awapne1.shld.apple.com
+apne1-acivr-mlq3-secondary-pbz-stage.corp.apple.com
 apne1-acivr-odin-datasync1-primary-pbz-prod.apple.com
 apne1-acivr-odin-datasync1-primary-pbz-prod.spbz.apple.com
 apne1-acivr-odin-datasync1-secondary-pbz-prod.apple.com
@@ -585,6 +602,8 @@ apne1-acivr-profile1-primary-pbz-prod.apple.com
 apne1-acivr-profile1-primary-pbz-prod.spbz.apple.com
 apne1-acivr-profile1-secondary-pbz-prod.apple.com
 apne1-acivr-profile1-secondary-pbz-prod.spbz.apple.com
+apne1-acivr-profile3-primary-pbz-stage.apple.com
+apne1-acivr-profile3-primary-pbz-stage.spbz.apple.com
 apne1-acivr-profile3-secondary-pbz-stage.apple.com
 apne1-acivr-profile3-secondary-pbz-stage.spbz.apple.com
 apne1-acivr-profile4-primary-pbz-stage.apple.com
@@ -788,6 +807,8 @@ apse1-acivr-enterprise4-secondary-pbz-stage.apple.com
 apse1-acivr-enterprise4-secondary-pbz-stage.spbz.apple.com
 apse1-acivr-mlq1-secondary-pbz-prod.apple.com
 apse1-acivr-mlq1-secondary-pbz-prod.spbz.apple.com
+apse1-acivr-mlq3-secondary-pbz-stage.awapse1.shld.apple.com
+apse1-acivr-mlq3-secondary-pbz-stage.corp.apple.com
 apse1-acivr-odin-datasync1-primary-pbz-prod.apple.com
 apse1-acivr-odin-datasync1-primary-pbz-prod.spbz.apple.com
 apse1-acivr-odin-datasync1-secondary-pbz-prod.apple.com
@@ -806,6 +827,8 @@ apse1-acivr-profile1-primary-pbz-prod.apple.com
 apse1-acivr-profile1-primary-pbz-prod.spbz.apple.com
 apse1-acivr-profile1-secondary-pbz-prod.apple.com
 apse1-acivr-profile1-secondary-pbz-prod.spbz.apple.com
+apse1-acivr-profile3-primary-pbz-stage.apple.com
+apse1-acivr-profile3-primary-pbz-stage.spbz.apple.com
 apse1-acivr-profile3-secondary-pbz-stage.apple.com
 apse1-acivr-profile3-secondary-pbz-stage.spbz.apple.com
 apse1-acivr-profile4-primary-pbz-stage.apple.com
@@ -855,6 +878,9 @@ aries.apple.com
 aries.cdn-apple.com
 artifacts.atlas.apple.com
 artists.apple.com
+asa-alicloud.alcnb.sbz.apple.com
+asa-alicloud.alcns.sbz.apple.com
+asa-alicloud.g.apple.com
 asa.commerce.apple.com
 asa.commerce.apple.com.edgesuite.net
 asa-retailt.apple.com
@@ -2995,6 +3021,7 @@ edge-225.gbslo5.icloud-content.com
 edge-225.sesto4.icloud-content.com
 edge-225.usuyk1.icloud-content.com
 edge-226.sesto4.icloud-content.com
+edge-226.usuyk1.icloud-content.com
 edge-227.gbslo5.icloud-content.com
 edge-227.nlhfd1.icloud-content.com
 edge-227.sesto4.icloud-content.com
@@ -3353,6 +3380,8 @@ euc1-acivr-enterprise4-secondary-pbz-stage.apple.com
 euc1-acivr-enterprise4-secondary-pbz-stage.spbz.apple.com
 euc1-acivr-mlq1-secondary-pbz-prod.apple.com
 euc1-acivr-mlq1-secondary-pbz-prod.spbz.apple.com
+euc1-acivr-mlq3-secondary-pbz-stage.aweuc1.shld.apple.com
+euc1-acivr-mlq3-secondary-pbz-stage.corp.apple.com
 euc1-acivr-odin-datasync1-primary-pbz-prod.apple.com
 euc1-acivr-odin-datasync1-primary-pbz-prod.spbz.apple.com
 euc1-acivr-odin-datasync1-secondary-pbz-prod.apple.com
@@ -3371,6 +3400,8 @@ euc1-acivr-profile1-primary-pbz-prod.apple.com
 euc1-acivr-profile1-primary-pbz-prod.spbz.apple.com
 euc1-acivr-profile1-secondary-pbz-prod.apple.com
 euc1-acivr-profile1-secondary-pbz-prod.spbz.apple.com
+euc1-acivr-profile3-primary-pbz-stage.apple.com
+euc1-acivr-profile3-primary-pbz-stage.spbz.apple.com
 euc1-acivr-profile3-secondary-pbz-stage.apple.com
 euc1-acivr-profile3-secondary-pbz-stage.spbz.apple.com
 euc1-acivr-profile4-primary-pbz-stage.apple.com
@@ -3430,6 +3461,8 @@ euw1-acivr-enterprise4-secondary-pbz-stage.apple.com
 euw1-acivr-enterprise4-secondary-pbz-stage.spbz.apple.com
 euw1-acivr-mlq1-secondary-pbz-prod.apple.com
 euw1-acivr-mlq1-secondary-pbz-prod.spbz.apple.com
+euw1-acivr-mlq3-secondary-pbz-stage.aweuw1.shld.apple.com
+euw1-acivr-mlq3-secondary-pbz-stage.corp.apple.com
 euw1-acivr-odin-datasync1-primary-pbz-prod.apple.com
 euw1-acivr-odin-datasync1-primary-pbz-prod.spbz.apple.com
 euw1-acivr-odin-datasync1-secondary-pbz-prod.apple.com
@@ -3448,6 +3481,8 @@ euw1-acivr-profile1-primary-pbz-prod.apple.com
 euw1-acivr-profile1-primary-pbz-prod.spbz.apple.com
 euw1-acivr-profile1-secondary-pbz-prod.apple.com
 euw1-acivr-profile1-secondary-pbz-prod.spbz.apple.com
+euw1-acivr-profile3-primary-pbz-stage.apple.com
+euw1-acivr-profile3-primary-pbz-stage.spbz.apple.com
 euw1-acivr-profile3-secondary-pbz-stage.apple.com
 euw1-acivr-profile3-secondary-pbz-stage.spbz.apple.com
 euw1-acivr-profile4-primary-pbz-stage.apple.com
@@ -3530,6 +3565,7 @@ factoryvision-services-stage.awapne1.sbz.apple.com
 familyws.icloud.apple.com
 fba.apple.com
 fbs.smoot.apple.com
+fcs-keys-priv-prod.corp.apple.com
 fcs-keys-pub-prod.cdn-apple.com
 fds.apple.com
 fe.apple-dns.net
@@ -4234,6 +4270,9 @@ jpt-expe3322.apple.com
 jpt-expe3322-int.asia.apple.com
 jpt-expe3323.apple.com
 jpt-expe3323-int.asia.apple.com
+jpt-vc3204.apac.vvs.apple.com
+jpt-vc3205.apac.vvs.apple.com
+jpt-vc3206.apac.vvs.apple.com
 jptyo5-3pclient-vpn1.asia.apple.com
 jptyo5-3pclient-vpn.asia.apple.com
 jptyo5-corpclient-vpn11.asia.apple.com
@@ -4587,6 +4626,7 @@ ma-ipcdn-prod.apple.com
 manage.apple.com
 manage-ask.apple.com
 manage-ask-st.apple.com
+manage-cert-services.taptopay.apple.com
 manage-dr.apple.com
 manage-services.taptopay.apple.com
 manage-st.apple.com
@@ -11681,6 +11721,7 @@ prism.apple.com
 prism-cert.apple.com
 prism-device.apple.com
 prism-device-cert.apple.com
+privacy.apple.com
 privatelink-dev-cp.apple.com
 privatelink-splunk.btp.sap.apple.com
 privatelink-splunk-nonprod.btp.sap.apple.com
@@ -11785,6 +11826,7 @@ prod-usw2-pod01-serviceprovider.apay.apple.com
 prod-usw2-pod01-smp-device.apay.apple.com
 prod-usw2-pod01-trustprovider.apay.apple.com
 prod-usw2-pod01-tsm.apay.apple.com
+prod-usw2-pod08-apay-device-ccs.apay.apple.com
 prod-usw2-pod08-apple-pay-gateway.apay.apple.com
 prod-usw2-pod08-broker.apay.apple.com
 prod-usw2-pod08-creditservices.apay.apple.com
@@ -12215,14 +12257,21 @@ secure7.storeint.apple.com
 secure7.storeint.apple.com.cn
 secure7.www.apple.com.cn
 secure8.epp.apple.com
+secure8.epp.apple.com.cn
 secure8.store.apple.com
 secure8.storeint.apple.com
+secure8.storeint.apple.com.cn
+secure8.www.apple.com.cn
 secure9.epp.apple.com
+secure9.epp.apple.com.cn
 secure9.store.apple.com
 secure9.storeint.apple.com
+secure9.storeint.apple.com.cn
+secure9.www.apple.com.cn
 secure-appldnld.apple.com
 secure-appldnld.apple.com.edgekey.net
 secure.epp.apple.com
+secure.epp.apple.com.cn
 secure.ma-platform-ce01.apple.com.cn
 secure.ma-platform-ce02.apple.com.cn
 secure.ma-platform-ce03.apple.com.cn
@@ -12242,6 +12291,7 @@ securemvt.apple.com.cn
 secure.store.apple.com
 secure.store.gcsis-apple.com.akadns.net
 secure.storeint.apple.com
+secure.storeint.apple.com.cn
 secure.ucp3-epp.apple.com
 secure.ucp3-store.apple.com
 secure.ucp3-storeint.apple.com
@@ -12258,6 +12308,7 @@ secure.ucp7-epp.apple.com
 secure.ucp7-store.apple.com
 secure.ucp7-storeint.apple.com
 secure.www.apple.com
+secure.www.apple.com.cn
 security.apple.com
 seed-chickadee.smoot.apple.com
 seed-dejavu.siri.apple.com
@@ -12652,6 +12703,7 @@ store-994-qs.blobstore.apple.com
 store.apple.com
 storefront.apple.com
 storeint.apple.com
+storeint.apple.com.cn
 storelt.apple.com
 store.mzstatic.com
 store.storeimages.apple.com.akadns.net
@@ -12895,6 +12947,8 @@ use1-acivr-enterprise4-secondary-pbz-stage.apple.com
 use1-acivr-enterprise4-secondary-pbz-stage.spbz.apple.com
 use1-acivr-mlq1-secondary-pbz-prod.apple.com
 use1-acivr-mlq1-secondary-pbz-prod.spbz.apple.com
+use1-acivr-mlq3-secondary-pbz-stage.awuse1.shld.apple.com
+use1-acivr-mlq3-secondary-pbz-stage.corp.apple.com
 use1-acivr-odin-datasync1-primary-pbz-prod.apple.com
 use1-acivr-odin-datasync1-primary-pbz-prod.spbz.apple.com
 use1-acivr-odin-datasync1-secondary-pbz-prod.apple.com
@@ -12913,6 +12967,8 @@ use1-acivr-profile1-primary-pbz-prod.apple.com
 use1-acivr-profile1-primary-pbz-prod.spbz.apple.com
 use1-acivr-profile1-secondary-pbz-prod.apple.com
 use1-acivr-profile1-secondary-pbz-prod.spbz.apple.com
+use1-acivr-profile3-primary-pbz-stage.apple.com
+use1-acivr-profile3-primary-pbz-stage.spbz.apple.com
 use1-acivr-profile3-secondary-pbz-stage.apple.com
 use1-acivr-profile3-secondary-pbz-stage.spbz.apple.com
 use1-acivr-profile4-primary-pbz-stage.apple.com
@@ -13069,6 +13125,8 @@ usw2-acivr-enterprise4-secondary-pbz-stage.apple.com
 usw2-acivr-enterprise4-secondary-pbz-stage.spbz.apple.com
 usw2-acivr-mlq1-secondary-pbz-prod.apple.com
 usw2-acivr-mlq1-secondary-pbz-prod.spbz.apple.com
+usw2-acivr-mlq3-secondary-pbz-stage.awusw2.shld.apple.com
+usw2-acivr-mlq3-secondary-pbz-stage.corp.apple.com
 usw2-acivr-odin-datasync1-primary-pbz-prod.apple.com
 usw2-acivr-odin-datasync1-primary-pbz-prod.spbz.apple.com
 usw2-acivr-odin-datasync1-secondary-pbz-prod.apple.com
@@ -13087,6 +13145,8 @@ usw2-acivr-profile1-primary-pbz-prod.apple.com
 usw2-acivr-profile1-primary-pbz-prod.spbz.apple.com
 usw2-acivr-profile1-secondary-pbz-prod.apple.com
 usw2-acivr-profile1-secondary-pbz-prod.spbz.apple.com
+usw2-acivr-profile3-primary-pbz-stage.apple.com
+usw2-acivr-profile3-primary-pbz-stage.spbz.apple.com
 usw2-acivr-profile3-secondary-pbz-stage.apple.com
 usw2-acivr-profile3-secondary-pbz-stage.spbz.apple.com
 usw2-acivr-profile4-primary-pbz-stage.apple.com
@@ -13349,7 +13409,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.events.shazam.apple.com

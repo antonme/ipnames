@@ -297,6 +297,7 @@ aecpricelist-dev.corp.adobe.com
 aecpricelist-stg.corp.adobe.com
 aeee.corp.adobe.com
 aem-agent-reports.corp.adobe.com
+aem-api.accor.com
 aemcs-workspace.adobe.com
 aem-data-advisory.corp.adobe.com
 aem-data-advisory-stage.corp.adobe.com
@@ -490,6 +491,8 @@ api.typekit.com
 api-v2.dev.frame.io
 api-v2.frame.io
 apm3-27224.adobeaemcloud.net
+apo2.cloudops.adobe.com
+apo.cloudops.adobe.com
 apo-prod.adobe.io
 app.cci-ghec.ci.adobe.com
 app-cdn.stage2.adobe.com
@@ -978,6 +981,13 @@ caseic.adobeaemcloud.net
 casper-soar.corp.adobe.com
 cassandra-temporal-prod-node.identity.adobe.com
 cassandra-temporal-stg1-node.identity-stage.adobe.com
+castageccplb.corp.adobe.com
+castage.corp.adobe.com
+castagepsm.corp.adobe.com
+castagevault.corp.adobe.com
+castgvltdr.corp.adobe.com
+castgvltn1.corp.adobe.com
+castgvltn2.corp.adobe.com
 castor.corp.adobe.com
 cba-digital.adobecqms.net
 cbc.corp.adobe.com
@@ -1538,6 +1548,7 @@ cyberark.amp.corp.adobe.com
 cyberark-dev.corp.adobe.com
 cyberarkrdpgw.corp.adobe.com
 cyberarkrdpgw-new.corp.adobe.com
+cyberark-stage.corp.adobe.com
 cyvw.adobeaemcloud.com
 d04e.adobeaemcloud.com
 d0-e.adobeaemcloud.com
@@ -2947,6 +2958,10 @@ jinshapingtaichuzu.adobeaemcloud.com
 jira.adobe.com
 jira.archive.corp.adobe.com
 jira.corp.adobe.com
+jiracorp.corp.adobe.com
+jiracorp.dev2.corp.adobe.com
+jiracorp.dev.corp.adobe.com
+jiracorp.stage.corp.adobe.com
 jira.dev2.corp.adobe.com
 jira.dev.corp.adobe.com
 jm.customer-success-apac.adobe.com
@@ -4139,7 +4154,11 @@ or1010051033156.corp.adobe.com
 or1010051033157.corp.adobe.com
 or1010051060066.corp.adobe.com
 or1010051060086.corp.adobe.com
+or1010051060125.corp.adobe.com
+or1010051060192.corp.adobe.com
+or1010051060193.corp.adobe.com
 or1010051060199.corp.adobe.com
+or1010051060211.corp.adobe.com
 or1010051060237.corp.adobe.com
 or1010051060251.corp.adobe.com
 or1010051060252.corp.adobe.com
@@ -4147,6 +4166,11 @@ or1010051060253.corp.adobe.com
 or1010051060254.corp.adobe.com
 or1010051060255.corp.adobe.com
 or1010051061000.corp.adobe.com
+or1010051061005.corp.adobe.com
+or1010051061006.corp.adobe.com
+or1010051061007.corp.adobe.com
+or1010051061009.corp.adobe.com
+or1010051061051.corp.adobe.com
 or1010051061085.corp.adobe.com
 or1010051061128.corp.adobe.com
 or1010051061175.corp.adobe.com
@@ -4948,6 +4972,8 @@ rhodium-gc.corp.adobe.com
 rhodium-ir.corp.adobe.com
 rhodium-kr.corp.adobe.com
 rise.corp.adobe.com
+rise-dev.corp.adobe.com
+rise-stage.corp.adobe.com
 rkd7.adobeaemcloud.com
 rng.corp.adobe.com
 ro3khhss53fpi5tev3idv90wnkn9j1i.status.cloud-automation.corp.adobe.com
@@ -5468,6 +5494,7 @@ sj1010010246208.corp.adobe.com
 sj1010010247112.corp.adobe.com
 sj1010010247150.corp.adobe.com
 sj1010010248220.corp.adobe.com
+sj1010010249102.corp.adobe.com
 sj1010010249117.corp.adobe.com
 sj1010010250035.corp.adobe.com
 sj1010010250182.corp.adobe.com
@@ -5793,6 +5820,7 @@ static-cdn-geo-ffc.oobesaas.adobe.com
 static-fonts.adobe.com
 static.genstudio.adobe.com
 static.genstudio.stage.adobe.com
+static-p46175-e229011.adobeaemcloud.com
 static-p53839-e349852.adobeaemcloud.com
 stats.adobe.com
 stats-api.3di.corp.adobe.com
