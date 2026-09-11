@@ -114887,3 +114887,10 @@ s
 ===anthropic
 
 == Save names archive
+[master ec7f2811] auto-update names
+ 4 files changed, 88 insertions(+)
+
+== Resolving external names to ipv4
+Fri Sep 11 06:36:47 AM MSK 2026                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Fri Sep 11 06:53:02 AM MSK 2026                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Fri Sep 11 06:53:08 AM MSK 2026                ext-dns-apple.txt  >ext-resolve-apple.txt
