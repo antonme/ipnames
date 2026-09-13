@@ -526,6 +526,7 @@ adsl.db.documents.adobe.com
 adsldfskmamkdfsamkadsmads.cm-verify.adobe.com
 adsl.imap.experiencecloud.adobe.com
 adsl-vendors.experiencecloud.adobe.com
+adssuse12.corp.adobe.com
 adsync-flex-va6.identity.adobe.com
 adsync-va6.identity.adobe.com
 adtag.primetime.adobe.com
@@ -545,6 +546,7 @@ adx-copilot-dev.corp.adobe.com
 adx-copilot-insight-dev.corp.adobe.com
 adx-copilot-insight-stg.corp.adobe.com
 adx-copilot-stg.corp.adobe.com
+adx.corp.adobe.com
 adx-dev.api.adobe.com
 adx-dev.api.corp.adobe.com
 adxdev.api.corp.adobe.com
@@ -567,6 +569,7 @@ adx-prd.api.adobe.com
 adx-stage.api.adobe.com
 adx-stage.api.corp.adobe.com
 adx-stg.apig.corp.adobe.com
+adx-stg.corp.adobe.com
 adx-ta-dev.corp.adobe.com
 adx-uat-test.corp.adobe.com
 adx-uat-test-stg.corp.adobe.com
@@ -727,6 +730,7 @@ ak5q.adobeaemcloud.com
 akamai-akamai.documents.adobe.com
 akamai-client.adobe.com
 akamai.experiencecloud.adobe.com
+akamai-swupmf-origin.wip4.adobe.com
 akamai-test-cname.marketing.adobe.com
 akamai-test.edge.documents.adobe.com
 akamai-test.experiencecloud.adobe.com
@@ -1698,6 +1702,7 @@ basic.upload.documents.adobe.com
 bast-linux-prd-hb-041.corp.adobe.com
 bast-linux-prd-hb-045.corp.adobe.com
 bast-linux-prd-hb-58.corp.adobe.com
+bast-linux-qa-hb-134.corp.adobe.com
 bast-linux-qa-hb-135.corp.adobe.com
 bast-linux-qa-hb-137.corp.adobe.com
 bast-mac-prd-19.corp.adobe.com
@@ -1918,6 +1923,7 @@ blueprint-testing.identity-dev.adobe.com
 blue-prod.ans.prod.oobesaas.adobe.com
 blue-server.messaging.adobe.com
 bmaas.corp.adobe.com
+bmaas-dev.corp.adobe.com
 bmaas-stg.corp.adobe.com
 bmajcher.myportfolio.com
 bmwag-mid-prod1.campaign.adobe.com
@@ -2956,6 +2962,7 @@ cloud-asr.acrobat.com
 cloudcity.corp.adobe.com
 clouddashboard.marketing.adobe.com
 cloudefficiency.corp.adobe.com
+cloudefficiency-new.corp.adobe.com
 cloudeng.adobe.com
 cloudfront-53cfd84ce6d49219222e921a.c00.adobe.com
 cloudfrontedge.experiencecloud.adobe.com
@@ -4472,6 +4479,8 @@ eda-ui-stg-7.corp.adobe.com
 eda-ui-stg-8.corp.adobe.com
 eda-ui-stg-9.corp.adobe.com
 eda-ui-stg-v2.corp.adobe.com
+edaw.corp.adobe.com
+edaw-stg.corp.adobe.com
 edbilling.adobe.com
 eddore.adobeaemcloud.com
 edelia-mkt-stage2-cus.campaign.adobe.com
@@ -5027,6 +5036,7 @@ experimentation.corp.adobe.com
 exphub.corp.adobe.com
 exportpdf.adobe.com
 express.adobe.com
+expressassistant.adobe.com
 express-assistant-evals.corp.adobe.com
 express-brand-migration.adobe.io
 express-embed.adobe.com
@@ -5894,6 +5904,8 @@ health.email.elsevierhealth.com.cname.campaign.adobe.com
 heap.corp.adobe.com
 heartandarmor.stock.stage.adobe.com
 heartland-collective.na2.documents.adobe.com
+hedwig.corp.adobe.com
+hedwig-stg.corp.adobe.com
 heizidelanqiump4.adobeaemcloud.com
 helgohary.myportfolio.com
 helios.corp.adobe.com
@@ -5972,6 +5984,7 @@ hlm-dev.tse.corp.adobe.com
 hlm-stage.tse.corp.adobe.com
 hlm.tse.corp.adobe.com
 hmann1991.myportfolio.com
+hmbg-inetfw01.corp.adobe.com
 hmc.adobe.com
 hnOVSgWTOZVY.adobe.com
 ho168guojiyulecheng.adobeaemcloud.com
@@ -6310,6 +6323,7 @@ imss.corp.adobe.com
 imss-dev.corp.adobe.com
 imss-flex.corp.adobe.com
 imss-flex-stage.corp.adobe.com
+ims-sms-moxy.services.adobe.com
 imss-stage.corp.adobe.com
 in1.157.bp.documentsawspreview.adobe.com
 in1.200vi.documentsawspreview.adobe.com
@@ -6820,6 +6834,7 @@ kbauth.corp.adobe.com
 kcs.corp.adobe.com
 kcvideocore.groups.adobe.com
 keirametriz2.corp.adobe.com
+keirametriz.corp.adobe.com
 keirametriz-stage.corp.adobe.com
 kellyishikawa.myportfolio.com
 kenholstein.myportfolio.com
@@ -7990,8 +8005,10 @@ messaging-sso.documents.adobe.com
 messaging.unlvtickets.com.cname.campaign.adobe.com
 messenger.adobe.com
 metabase.3di.corp.adobe.com
+metallica-api.corp.adobe.com
 metallica-bmaas-api.corp.adobe.com
 metallica-bmaas-api-stage.corp.adobe.com
+metallica.corp.adobe.com
 metric-58e29838636d730c75c170e2.c00.adobe.com
 metric.experiencecloud.adobe.com
 metricinsights.corp.adobe.com
@@ -9273,6 +9290,8 @@ or1010050072097.corp.adobe.com
 or1010050072108.corp.adobe.com
 or1010050072119.corp.adobe.com
 or1010050072122.corp.adobe.com
+or1010050072123.corp.adobe.com
+or1010050072124.corp.adobe.com
 or1010050076041.corp.adobe.com
 or1010050076058.corp.adobe.com
 or1010050076060.corp.adobe.com
@@ -9363,6 +9382,9 @@ or1010050077251.corp.adobe.com
 or1010050077252.corp.adobe.com
 or1010050077253.corp.adobe.com
 or1010050078008.corp.adobe.com
+or1010050078012.corp.adobe.com
+or1010050078013.corp.adobe.com
+or1010050078019.corp.adobe.com
 or1010050078022.corp.adobe.com
 or1010050078029.corp.adobe.com
 or1010050078033.corp.adobe.com
@@ -9557,6 +9579,9 @@ or1010050082020.corp.adobe.com
 or1010050082021.corp.adobe.com
 or1010050082022.corp.adobe.com
 or1010050082023.corp.adobe.com
+or1010050082027.corp.adobe.com
+or1010050082028.corp.adobe.com
+or1010050082029.corp.adobe.com
 or1010050091008.corp.adobe.com
 or1010050091011.corp.adobe.com
 or1010050103016.corp.adobe.com
@@ -10646,6 +10671,7 @@ pc13-193.adobeaemcloud.net
 pc20-86.adobeaemcloud.com
 pc3028.adobeaemcloud.com
 pcloud-001.adobe.com
+pdamail.adobe.com
 pdc-dev-a.corp.adobe.com
 pdc-dev-f.corp.adobe.com
 pdc-dev-k.corp.adobe.com
@@ -11220,6 +11246,7 @@ prueba-internal-eu2.documentsawspreview.adobe.com
 prueba.pro-eu2.documentsawspreview.adobe.com
 psa.corp.adobe.com
 psavoir.myportfolio.com
+psc-emea.adobe.com
 pscoverity.corp.adobe.com
 pscoverity-jenkins.corp.adobe.com
 ps-dash.corp.adobe.com
@@ -11455,6 +11482,7 @@ rank-mid-prod1-1.campaign.adobe.com
 rank-mid-prod1-res.campaign.adobe.com
 rank-mid-prod1-t.campaign.adobe.com
 rank-rt-prod2-m.campaign.adobe.com
+rap.corp.adobe.com
 raquelcordeiro.myportfolio.com
 raracraft.captivateprime.adobe.com
 ra-sanjose-3.adobe.com
@@ -11536,6 +11564,7 @@ region-vpn.documents.adobe.com
 register.digital.adobe.com
 registrarship.adobeaemcloud.com
 re-jenkins.corp.adobe.com
+relayauth.corp.adobe.com
 relay.corp.adobe.com
 relay-dev.corp.adobe.com
 relay-lean.techops1-us-east-1.marketing-stage.adobe.com
@@ -12298,6 +12327,7 @@ sandrinefourrier.myportfolio.com
 sanflashcisco.groups.adobe.com
 sanjose-1-ext.vpn.adobe.com
 sanjose-1.vpn.adobe.com
+sanjose-cp-portal.corp.adobe.com
 sanjose-fe-cp-portal.corp.adobe.com
 sanjose.vpn.adobe.com
 sankethy.myportfolio.com
@@ -12602,6 +12632,7 @@ seastore1.sea.adobe.com
 seastore.sea.adobe.com
 seattle-1-ext.vpn.adobe.com
 seattle-1.vpn.adobe.com
+seattle-cp-portal.corp.adobe.com
 seattleflash.groups.adobe.com
 sebastianderedas.myportfolio.com
 sebastiencaprice.myportfolio.com
@@ -12946,7 +12977,9 @@ sj1010010074037.corp.adobe.com
 sj1010010076014.corp.adobe.com
 sj1010010076024.corp.adobe.com
 sj1010010076030.corp.adobe.com
+sj1010010076031.corp.adobe.com
 sj1010010076033.corp.adobe.com
+sj1010010076037.corp.adobe.com
 sj1010010076038.corp.adobe.com
 sj1010010100106.corp.adobe.com
 sj1010010100140.corp.adobe.com
@@ -14938,6 +14971,7 @@ typecgi-du1.adobe.com
 typecgi-sjc0.adobe.com
 typekit.com
 typekit.net
+typhon-dev.corp.adobe.com
 tysonfoods.na2.documents.adobe.com
 tzngrafik.myportfolio.com
 u67w.adobeaemcloud.net
@@ -15884,6 +15918,7 @@ www.marketing.adobe.com
 www.maxjapan.adobe.com
 www.mdm.marketing.adobe.com
 www-misc-origin.adobe.com
+www-misc-origin.stage.adobe.com
 www-mkt.documents.adobe.com
 www-mm-du1.adobe.com
 www-mm.wip4.adobe.com
