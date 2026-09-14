@@ -115418,3 +115418,17 @@ s
 
 == Resolving external names to ipv4
 Mon Sep 14 06:39:15 AM MSK 2026                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+[master 0494d92c] auto-update ipv6
+ 3 files changed, 2569 insertions(+), 4777 deletions(-)
+Mon Sep 14 07:06:40 AM MSK 2026                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Mon Sep 14 07:06:47 AM MSK 2026                ext-dns-apple.txt  >ext-resolve-apple.txt
+Mon Sep 14 07:43:57 AM MSK 2026                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Mon Sep 14 08:02:49 AM MSK 2026                ext-dns-bing.txt  >ext-resolve-bing.txt
+Mon Sep 14 08:04:06 AM MSK 2026                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Mon Sep 14 09:00:42 AM MSK 2026                ext-dns-github.txt  >ext-resolve-github.txt
+Mon Sep 14 09:17:04 AM MSK 2026                ext-dns-google.txt  >ext-resolve-google.txt
+Mon Sep 14 10:03:06 AM MSK 2026                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Mon Sep 14 10:03:13 AM MSK 2026                ext-dns-openai.txt  >ext-resolve-openai.txt
+Mon Sep 14 10:05:26 AM MSK 2026                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Mon Sep 14 10:06:32 AM MSK 2026                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Mon Sep 14 10:24:07 AM MSK 2026                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
