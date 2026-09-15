@@ -115605,3 +115605,8 @@ s
 ===anthropic
 
 == Save names archive
+[master ea781c6b] auto-update names
+ 5 files changed, 262 insertions(+), 28 deletions(-)
+
+== Resolving names to ipv6
+Tue Sep 15 06:40:26 AM MSK 2026                dns-adobe.txt  >ipv6-resolve-adobe.txt
