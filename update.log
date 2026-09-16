@@ -115612,3 +115612,87 @@ s
 Tue Sep 15 06:40:26 AM MSK 2026                dns-adobe.txt  >ipv6-resolve-adobe.txt
 [master aa04489f] auto-update ipv4
  3 files changed, 2870 insertions(+), 27646 deletions(-)
+[master fb992193] auto-update merged
+ 21 files changed, 8802 insertions(+), 33392 deletions(-)
+Tue Sep 15 01:13:43 PM MSK 2026                dns-anthropic.txt  >ipv6-resolve-anthropic.txt
+Tue Sep 15 01:21:47 PM MSK 2026                dns-apple.txt  >ipv6-resolve-apple.txt
+Wed Sep 16 02:53:29 AM MSK 2026                dns-backblaze.txt  >ipv6-resolve-backblaze.txt
+Wed Sep 16 03:46:05 AM MSK 2026                dns-bing.txt  >ipv6-resolve-bing.txt
+Wed Sep 16 03:52:37 AM MSK 2026                dns-expressvpn.txt  >ipv6-resolve-expressvpn.txt
+Wed Sep 16 04:01:31 AM MSK 2026                dns-facebook.txt  >ipv6-resolve-facebook.txt
+
+
+
+--------------------------------------------------------------------------------
+Wed Sep 16 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: ok
+  googlevideo.com: ok
+  youtube.com: ok
+  ytimg.com: ok
+  facebook.com: ok
+  instagram.com: ok
+  fbcdn.net: ok
+  tiktok.com: ok
+  tiktokv.com: ok
+  tiktokcdn.com: ok
+  bytedance.com: ok
+  openai.com: ok
+  chatgpt.com: ok
+  oaiusercontent.com: ok
+  bing.com: ok
+  microsoft.com: fetch failed
+  twitter.com: fetch failed
+  x.com: ok
+  twimg.com: ok
+  ozon.ru: ok
+  github.com: ok
+  githubusercontent.com: ok
+  apple.com: ok
+  icloud.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  adobe.com: ok
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: fetch failed
+  pornhub.com: ok
+  phncdn.com: ok
+  backblaze.com: ok
+  huggingface.co: ok
+  anthropic.com: ok
+  claude.ai: ok
+  total CT names: 17374
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
