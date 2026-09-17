@@ -115963,3 +115963,7 @@ Thu Sep 17 07:09:33 AM MSK 2026                ext-dns-apple.txt  >ipv6-ext-reso
 Thu Sep 17 08:21:26 AM MSK 2026                ext-dns-backblaze.txt  >ipv6-ext-resolve-backblaze.txt
 Thu Sep 17 08:58:28 AM MSK 2026                ext-dns-bing.txt  >ipv6-ext-resolve-bing.txt
 Thu Sep 17 09:00:53 AM MSK 2026                ext-dns-facebook.txt  >ipv6-ext-resolve-facebook.txt
+[master ce4f6fa1] auto-update ipv6
+ 7 files changed, 4882 insertions(+), 6161 deletions(-)
+Thu Sep 17 10:03:15 AM MSK 2026                ext-dns-github.txt  >ipv6-ext-resolve-github.txt
+Thu Sep 17 10:20:51 AM MSK 2026                ext-dns-google.txt  >ipv6-ext-resolve-google.txt
