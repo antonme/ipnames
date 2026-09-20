@@ -151,12 +151,14 @@ acoedemo.corp.adobe.com
 acom-analystbot-ah-engagement.corp.adobe.com
 acom-analystbot-ahome.corp.adobe.com
 acom-analystbot-ai.corp.adobe.com
+acom-analystbot-atlas.corp.adobe.com
 acom-analystbot-cno.corp.adobe.com
 acom-analystbot-tno.corp.adobe.com
 acom-analystbot-toppages.corp.adobe.com
 acom-bots-1.corp.adobe.com
 acom-data-gov.corp.adobe.com
 acom-gh-policy.corp.adobe.com
+acompgmstudio.corp.adobe.com
 a.corp.adobe.com
 ac.pandora.com.cname.campaign.solutions.adobe.com
 acpc-brands-ai.corp.adobe.com
@@ -3668,6 +3670,7 @@ dasdadadsasa.dawkasdjdajscksad.cm-verify.adobe.com
 dashanalytics.corp.adobe.com
 dashapi-prod-vip-or1.corp.adobe.com
 dashboard.kodiak.corp.adobe.com
+dashboard.or.k8s.ipaas.corp.adobe.com
 dashboard.renovate.corp.adobe.com
 dashboardsslvpn.documents.adobe.com
 dashdiscovery-beta.corp.adobe.com
@@ -4152,6 +4155,7 @@ dmde-provisioning-dev.corp.adobe.com
 dme-customer-insights.corp.adobe.com
 dmeroadmap.corp.adobe.com
 dmu-hana.corp.adobe.com
+dmu-hana-stage.corp.adobe.com
 dmu-new-test.cm-verify.adobe.com
 dnmcgi.documents.adobe.com
 dnmcredit.documents.adobe.com
@@ -5304,6 +5308,7 @@ florina-leela.myportfolio.com
 floscular.adobeaemcloud.net
 flow.corp.adobe.com
 fluffyjaws.adobe.com
+fluid.or.k8s.ipaas.corp.adobe.com
 flymogi.lightroom.adobe.com
 fmsdemo.dmo.adobe.com
 fmsexamples.stage.adobe.com
@@ -6608,10 +6613,14 @@ irl1.canary.adobe.com
 irl1.stage.canary.adobe.com
 irobin23.myportfolio.com
 irphotoshop.com
+irs-or2.identity.adobe.com
+irs-or2.identity-stage.adobe.com
 irs-rds-or2.identity.adobe.com
 irs-rds-or2.identity-stage.adobe.com
 irs-rds-va6.identity.adobe.com
 irs-rds-va6.identity-stage.adobe.com
+irs-va6.identity.adobe.com
+irs-va6.identity-stage.adobe.com
 iryna-melnyk.myportfolio.com
 is1100.documentsawspreview.adobe.com
 is1-170.documentsawspreview.adobe.com
@@ -7251,6 +7260,7 @@ license-dev.corp.adobe.com
 licenseiq.corp.adobe.com
 licenseiq-stage.corp.adobe.com
 license-prod.corp.adobe.com
+licenses.adobe.com
 licenses-au1.documentsstage.adobe.com
 licensesauthumay261464255923939.marketing.adobe.com
 licenses.bbs.experiencecloud.adobe.com
@@ -8334,6 +8344,7 @@ monitoring-blackbox-dash-hb.corp.adobe.com
 monitoring.corp.adobe.com
 monitoring.dots.corp.adobe.com
 monitoring-grafana-dash-hb.corp.adobe.com
+monitor.or.k8s.ipaas.corp.adobe.com
 monkey.adobe.com
 monocytosis.adobeaemcloud.net
 monoprice-mkt-prod1-lb.campaign.adobe.com
@@ -10550,6 +10561,7 @@ orgonevr.myportfolio.com
 orgs-groups-workers.identity.adobe.com
 origin-5489fbc3d35d38f41c7106be.c00.adobe.com
 orion.adobe.com
+or.k8s.ipaas.corp.adobe.com
 or.k8s.np.ipaas.corp.adobe.com
 or-mango-stg-27055-ssl.corp.adobe.com
 oroneview.corp.adobe.com
@@ -11659,6 +11671,7 @@ relay-qa.corp.adobe.com
 relay-stage.corp.adobe.com
 relay-uat.corp.adobe.com
 relay.vault.marketing.adobe.com
+release-notes-sc.corp.adobe.com
 releasetoggles.corp.adobe.com
 releasetoggles-prometheus.corp.adobe.com
 releasetoggles-stg.corp.adobe.com
@@ -12638,6 +12651,8 @@ sbtf.adobeaemcloud.com
 s-builder.documents.adobe.com
 sbx.an.adobe.com
 sbx.mta-sts.captivateprime.adobe.com
+scaleops-agent.cloudeng.adobe.com
+scaleops.cloudeng.adobe.com
 scampillo-rtd.shop.v3.dev.na2.documents.adobe.com
 scan1.corp.adobe.com
 scan1.dev.corp.adobe.com
@@ -12737,6 +12752,7 @@ secretshare-dev.corp.adobe.com
 secretshare-dr.corp.adobe.com
 secretshare-testing.corp.adobe.com
 secrets-hygiene.corp.adobe.com
+secrets.kodiak.corp.adobe.com
 secrets-radar.corp.adobe.com
 secure.adobesign.com
 secure.adobesignpreview.us
