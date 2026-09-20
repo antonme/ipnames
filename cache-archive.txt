@@ -10696,7 +10696,6 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -11005,7 +11004,6 @@ crs.be-migrate.qa.corp.adobe.com
 crs.cr.adobe.com
 crs.fe-migrate.prod.adobe.com
 crs.fe-migrate.qa.corp.adobe.com
-cr-sjn.prod.surfshark.com
 crt-ec.apple.com
 crt-pod1-smp-device.apple.com
 crt-smp-device.apple.com
@@ -26986,6 +26984,7 @@ gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-kr-ssl.ls.apple.com
 gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
+gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -30191,6 +30190,7 @@ misc.google.com
 misc-sni.google.com
 misc-sni.youtube.com
 miulo.githubusercontent.com
+mixpanel.com
 mizbanfa.net--google.com
 mj5.corp.adobe.com
 mk6z.googleapis.com
@@ -41436,6 +41436,7 @@ pod-031-2046-16.backblaze.com
 pod-031-2046-17.backblaze.com
 pod-031-2046-18.backblaze.com
 pod-031-2046-19.backblaze.com
+pod-031-2047-00.backblaze.com
 pod-031-2047-04.backblaze.com
 pod-031-2047-05.backblaze.com
 pod-031-2047-09.backblaze.com
@@ -51458,6 +51459,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 weaver.adobe.com
 web12276.adobeaemcloud.net
 web2www.m.facebook.com---------------returnnow-info.drivethruvideos.com
