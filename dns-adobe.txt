@@ -77,11 +77,13 @@ acn.addons-stage.adobe.com
 acom-analystbot-ah-engagement.corp.adobe.com
 acom-analystbot-ahome.corp.adobe.com
 acom-analystbot-ai.corp.adobe.com
+acom-analystbot-atlas.corp.adobe.com
 acom-analystbot-cno.corp.adobe.com
 acom-analystbot-tno.corp.adobe.com
 acom-analystbot-toppages.corp.adobe.com
 acom-bots-1.corp.adobe.com
 acom-data-gov.corp.adobe.com
+acompgmstudio.corp.adobe.com
 a.corp.adobe.com
 acpc-brands-ai.corp.adobe.com
 acpc-relative-ci.corp.adobe.com
@@ -1615,6 +1617,7 @@ dareai-wiki-mcp-qa.corp.adobe.com
 dashanalytics.corp.adobe.com
 dashapi-prod-vip-or1.corp.adobe.com
 dashboard.kodiak.corp.adobe.com
+dashboard.or.k8s.ipaas.corp.adobe.com
 dashboard.renovate.corp.adobe.com
 dashdiscovery-beta.corp.adobe.com
 dashdiscovery.corp.adobe.com
@@ -1907,6 +1910,7 @@ dlf-stg.corp.adobe.com
 dmde-provisioning-dev.corp.adobe.com
 dme-customer-insights.corp.adobe.com
 dmu-hana.corp.adobe.com
+dmu-hana-stage.corp.adobe.com
 d.ns.campaign.adobe.com
 dntq.adobeaemcloud.net
 docgen.adobe.com
@@ -2385,6 +2389,7 @@ flex-global-admin-console-stage.adobe.com
 flickr-ols.adobe.com
 floscular.adobeaemcloud.net
 fluffyjaws.adobe.com
+fluid.or.k8s.ipaas.corp.adobe.com
 fmxt.adobeaemcloud.net
 fonts.adobe.com
 fonts-dev3.adobe.com
@@ -3025,10 +3030,14 @@ iqpl.adobeaemcloud.net
 ir90.adobeaemcloud.com
 irl1.canary.adobe.com
 irl1.stage.canary.adobe.com
+irs-or2.identity.adobe.com
+irs-or2.identity-stage.adobe.com
 irs-rds-or2.identity.adobe.com
 irs-rds-or2.identity-stage.adobe.com
 irs-rds-va6.identity.adobe.com
 irs-rds-va6.identity-stage.adobe.com
+irs-va6.identity.adobe.com
+irs-va6.identity-stage.adobe.com
 isearch-dev.corp.adobe.com
 isearch-qa.corp.adobe.com
 isearchstg.corp.adobe.com
@@ -3267,6 +3276,7 @@ license-advisory-qa.corp.adobe.com
 license-advisory-stage.corp.adobe.com
 licenseiq.corp.adobe.com
 licenseiq-stage.corp.adobe.com
+licenses.adobe.com
 licensing2.adobe.com
 licensing.adobe.com
 lightroom.adobe.com
@@ -3534,6 +3544,7 @@ m.messages.adobe.com
 mobile-scorecard-builder.an.adobe.com
 moderator.stock.adobe.com
 monitoring.dots.corp.adobe.com
+monitor.or.k8s.ipaas.corp.adobe.com
 monocytosis.adobeaemcloud.net
 monza.corp.adobe.com
 monzashare.corp.adobe.com
@@ -4631,6 +4642,7 @@ orders.adobe.io
 orders.stage.adobe.com
 oreades.adobeaemcloud.com
 orgs-groups-workers.identity.adobe.com
+or.k8s.ipaas.corp.adobe.com
 or.k8s.np.ipaas.corp.adobe.com
 or-mango-stg-27055-ssl.corp.adobe.com
 orpki-css-1.corp.adobe.com
@@ -5108,6 +5120,7 @@ relay-dev.corp.adobe.com
 relay-qa.corp.adobe.com
 relay-stage.corp.adobe.com
 relay-uat.corp.adobe.com
+release-notes-sc.corp.adobe.com
 releasetoggles.corp.adobe.com
 releasetoggles-prometheus.corp.adobe.com
 rels-flex.identity.adobe.com
@@ -5459,6 +5472,8 @@ sbom.corp.adobe.com
 sbom.kodiak.corp.adobe.com
 sboms.corp.adobe.com
 sbtf.adobeaemcloud.com
+scaleops-agent.cloudeng.adobe.com
+scaleops.cloudeng.adobe.com
 scan-agent.corp.adobe.com
 scan-agent.stg.corp.adobe.com
 scanner1.corp.adobe.com
@@ -5504,6 +5519,7 @@ secretshare-dev.corp.adobe.com
 secretshare-dr.corp.adobe.com
 secretshare-testing.corp.adobe.com
 secrets-hygiene.corp.adobe.com
+secrets.kodiak.corp.adobe.com
 secrets-radar.corp.adobe.com
 secure.adobesignpreview.us
 secure.adobesignsandboxstage.com
