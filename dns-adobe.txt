@@ -595,6 +595,7 @@ asset-videos.corp.adobe.com
 assistant.adobe.com
 assistant.adobe.io
 assure.stg.corp.adobe.com
+asterix-fe.commerce-hub.adobe.com
 astockcdn.net
 at.adobe.com
 atii.adobeaemcloud.net
@@ -1602,6 +1603,7 @@ cscservicedr.adobe.com
 csdkapi-policy.adobe.com
 csdkapi-policy.adobe.com.edgekey.net
 csec-stage.corp.adobe.com
+csinsights.adobe.com
 csis2.adobeaemcloud.com
 csme-workspace.corp.adobe.com
 csme-workspace.staging.corp.adobe.com
@@ -1617,6 +1619,7 @@ cxfb.adobeaemcloud.com
 cxlive.corp.adobe.com
 cxlive-stage.corp.adobe.com
 cxnx.adobeaemcloud.net
+cxo-cogs.corp.adobe.com
 cxp.adobe.com
 cxuq.adobeaemcloud.com
 cy84.adobeaemcloud.com
@@ -1640,6 +1643,8 @@ dareai-agent-webhook-qa.corp.adobe.com
 dareai-slack-coordinator-qa.corp.adobe.com
 dareai-slack-processor-qa.corp.adobe.com
 dareai-wiki-mcp-qa.corp.adobe.com
+dart-azure-gateway.corp.adobe.com
+dart-azure-gateway-stg.corp.adobe.com
 dashanalytics.corp.adobe.com
 dashapi-prod-vip-or1.corp.adobe.com
 dashboard.kodiak.corp.adobe.com
@@ -2724,6 +2729,8 @@ hendrix360.qe.adobe.com
 hendrix.adobe.com
 hendrix-bluestack.adobe.com
 hendrix-bluestack.prod.adobe.com
+hendrix-bluestack.stage.adobe.com
+hendrix.stage.adobe.com
 hermes.corp.adobe.com
 hermes-stage.corp.adobe.com
 heshmati.corp.adobe.com
@@ -2983,6 +2990,7 @@ inside-author.corp.adobe.com
 inside-author.dev.corp.adobe.com
 inside-author-pub.corp.adobe.com
 inside-author.stage.corp.adobe.com
+insidechat.adobe.com
 insidechat-stage.adobe.com
 inside.corp.adobe.com
 inside.dev.corp.adobe.com
@@ -4910,6 +4918,7 @@ postgress.3di.corp.adobe.com
 postoffice.adobe.com
 postweb.corp.adobe.com
 poweriq.corp.adobe.com
+pphosted.adobe.com
 pps.adobe.io
 pps.adobelogin.com
 pps-dev.adobelogin.com
@@ -5216,6 +5225,8 @@ reportbuilder-stage.an.adobe.com
 reporting-api-collector.sandbox.frame.io
 reportportal.corp.adobe.com
 reportportal-test.corp.adobe.com
+reportpulse.corp.adobe.com
+reportpulse-stg.corp.adobe.com
 reports-stage.touchstone.corp.adobe.com
 reports.touchstone.corp.adobe.com
 repository-attribution.kodiak.corp.adobe.com
@@ -5262,6 +5273,7 @@ rpa-api-dev.corp.adobe.com
 rpmail.adobeaemcloud.com
 rrc4aftaiz.data.adobedc.net
 rryan-l.corp.adobe.com
+rsvp.corp.adobe.com
 rt-alg-3-te-1-1-0-3003.or1.ne.adobe.net
 ruanxing.adobeaemcloud.com
 rulecraft-ai.corp.adobe.com
@@ -5664,6 +5676,7 @@ sign.corp.adobe.com
 signcsa.experienceleague.adobe.com
 signcsa.experienceleague.stage.adobe.com
 sign-dev.corp.adobe.com
+signjp.corp.adobe.com
 sign-prod.corp.adobe.com
 sign-prod-or1-vip.corp.adobe.com
 sign-qa.corp.adobe.com
