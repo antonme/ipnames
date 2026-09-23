@@ -116954,3 +116954,81 @@ s
 ===anthropic
 
 == Save names archive
+[master e4731a4a] auto-update names
+ 16 files changed, 32771 insertions(+), 4301 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Wed Sep 23 06:27:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: ok
+  googlevideo.com: ok
+  youtube.com: ok
+  ytimg.com: ok
+  facebook.com: ok
+  instagram.com: ok
+  fbcdn.net: ok
+  tiktok.com: ok
+  tiktokv.com: ok
+  tiktokcdn.com: fetch failed
+  bytedance.com: ok
+  openai.com: fetch failed
+  chatgpt.com: ok
+  oaiusercontent.com: fetch failed
+  bing.com: ok
+  microsoft.com: fetch failed
+  twitter.com: ok
+  x.com: ok
+  twimg.com: ok
+  ozon.ru: ok
+  github.com: fetch failed
+  githubusercontent.com: ok
+  apple.com: ok
+  icloud.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  adobe.com: ok
+  behance.net: fetch failed
+  photoshop.com: fetch failed
+  typekit.net: fetch failed
+  frame.io: fetch failed
+  pornhub.com: ok
+  phncdn.com: ok
+  backblaze.com: ok
+  huggingface.co: ok
+  anthropic.com: ok
+  claude.ai: ok
+  total CT names: 17465
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
