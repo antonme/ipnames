@@ -226,6 +226,10 @@ baremetal-tenancy-broker.local.twitter.com
 baremetal-tenancy-broker.memx.twitter.com
 baremetal-tenancy-broker.memy.twitter.com
 binaries.local.twitter.com
+bootserv.local.twitter.com
+bootserv.memx.twitter.com
+bootserv.memy.twitter.com
+bootserv.memz.twitter.com
 b.r06.twtrdns.net
 b.r07.twtrdns.net
 b.u06.twtrdns.net
@@ -249,6 +253,7 @@ cgit.twitter.biz
 chatman-replay-us-east-1.pscp.tv
 chat-ws.x.com
 click.send.x.com
+click.send.x.com.cdn.cloudflare.net
 communitynotes.x.com
 compute.atla.twitter.com
 compute-ipam.pdxa.twitter.com
@@ -655,9 +660,11 @@ prod-fastly-eu-west-1.video.pscp.tv
 prod-fastly-us-east-1.video.pscp.tv
 prod-fastly-us-west-1.video.pscp.tv
 prod-fastly-us-west-2.video.pscp.tv
+prod.unute.x.com
 prod.xmidm.x.com
 proofpoint.x.com
 pro.twitter.com
+pro.twitter.com.cdn.cloudflare.net
 pro.x.com
 pro.x.com.cdn.cloudflare.net
 proxsee-cf.pscp.tv
@@ -707,6 +714,7 @@ puppetserver.sfo3.twitter.com
 puppetserver.sin1.twitter.com
 puppetserver.smf1.twitter.com
 puppetserver.smfc-it.twitter.biz
+puppetserver.smfc-it.twitter.biz.cdn.cloudflare.net
 puppetserver.smfc.twitter.com
 puppetserver.smfv.twitter.com
 puppetserver.syd2.twitter.com
@@ -812,6 +820,7 @@ staging.ipmi.wilson.pdxa.twitter.com
 staging.ipmi.wilson.pdxc.twitter.com
 staging.ipmi.wilson.sfo2.twitter.com
 staging.terafab.x.com
+staging.unute.x.com
 stardock.atla.twitter.com
 stardock-canary.atla.twitter.com
 stardock-canary.local.twitter.com
@@ -1041,6 +1050,7 @@ xai-wilson.memx.twitter.com
 xai-wilson.memy.twitter.com
 xai-wlm.memx.twitter.com
 x.com
+xmidm.x.com
 xpat-api.money-dev.x.com
 xpat-api.money-staging.x.com
 xpat-api.payments-dev.x.com
