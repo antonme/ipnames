@@ -480,6 +480,7 @@ api-edge.apps.apple.com.edgekey.net
 api-edge.apps-lb.itunes-apple.com.akadns.net
 api.edu.apple.com
 api.ent.apple.com
+api.eval.sbox.trustinsights.services.apple.com
 api-feeds.apps.apple.com
 api-feeds.fitness.apple.com
 api-feeds.tv.apple.com
@@ -558,6 +559,7 @@ api-sba.smoot.apple.com
 api.shazam.apple.com
 api-siri-ausw2b.smoot.apple.com
 api-siri-ausw2c.smoot.apple.com
+api-siri-prod.apple.com
 api.smoot.apple.com
 api.sports.apple.com
 api-spotlight-aapne1a.smoot.apple.com
@@ -1439,6 +1441,7 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
+configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -3926,6 +3929,7 @@ gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-kr-ssl.ls.apple.com
 gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
+gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -13430,6 +13434,12 @@ pr3-bomgar-lapp03.apple.com
 pr-dropbear-adc-v2-pbz-prod.apple.com
 pr-dropbear-adc-v2-pbz-prod.spbz.apple.com
 prd-usw2-requestattribution-iad.apple.com
+preauth.apple.com
+preauth-cx01.apple.com
+preauth-cx03.apple.com
+preauth-cx04.apple.com
+preauth-cx05.apple.com
+preauth-offline.apple.com
 presidio.apple.com
 presidio-dr.apple.com
 presidio-prod.apple.com
@@ -13932,6 +13942,7 @@ sb-music.itunes-apple.com.akadns.net
 sb-music-row.itunes-apple.com.akadns.net
 sb.tv.apple.com
 sbus2i.apple.com
+schedulingoptions.retail.apple.com
 school.apple.com
 school.apple.com.edgekey.net
 sdbr-cust-prod.mdn.sbz.apple.com
@@ -14239,6 +14250,7 @@ solve-ext.awuse1.sbz.apple.com
 solve-ext.awusw2.sbz.apple.com
 solve.mdn.sbz.apple.com
 solve.prz.sbz.apple.com
+so.retail.apple.com
 soundtracks.icloud.com
 sp-cdn.itunes-apple.com.akadns.net
 specialtyideas.corp.apple.com
@@ -15079,6 +15091,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web-carry.push.apple.com
 webcourier-carry.push.apple.com
 webcourier-cn.push.apple.com
