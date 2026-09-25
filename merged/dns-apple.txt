@@ -1934,6 +1934,7 @@ anger-management.tv.apple.com
 a.ns.apple.com
 aod.itunes.apple.com
 aod.itunes.apple.com.edgesuite.net
+aod.itunes.g.aaplimg.com
 aodp.assets.itunes.com
 aodp.itunes.apple.com
 aodp-ssl.itunes.apple.com
@@ -2138,6 +2139,7 @@ api-escher-uat-amp.apple.com
 api-euc1b.smoot.apple.com
 api-euw1b.smoot.apple.com
 api-euw1c.smoot.apple.com
+api.eval.sbox.trustinsights.services.apple.com
 api-feeds.apps.apple.com
 api-feeds.fitness.apple.com
 api-feeds.tv.apple.com
@@ -2300,6 +2302,7 @@ api-siri-ausw2c.smoot.apple.com
 api-siri-ci.smoot.apple.com
 api-siri-euc1a.smoot.apple.com
 api-siri-euw3c.smoot.apple.com
+api-siri-prod.apple.com
 api-siri-use2b.smoot.apple.com
 api.smoot.apple.com
 api.sports.apple.com
@@ -11150,7 +11153,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -30897,6 +30899,12 @@ prd-imply.dedus.icloud-content.com
 pr-dropbear-adc-v2-pbz-prod.apple.com
 pr-dropbear-adc-v2-pbz-prod.spbz.apple.com
 prd-usw2-requestattribution-iad.apple.com
+preauth.apple.com
+preauth-cx01.apple.com
+preauth-cx03.apple.com
+preauth-cx04.apple.com
+preauth-cx05.apple.com
+preauth-offline.apple.com
 prepare.icloud.com
 presidio.apple.com
 presidio-dr.apple.com
@@ -32347,6 +32355,7 @@ schedulemanager-mdn.apple.com
 schedulemanager-t.apple.com
 schedulemanager-temp.apple.com
 schedulemanager-uat.apple.com
+schedulingoptions.retail.apple.com
 school.apple.com
 school.apple.com.edgekey.net
 schoolbt.apple.com
@@ -32978,6 +32987,7 @@ solve.prz.sbz.apple.com
 sonar1-at.apple.com
 sonar-at.apple.com
 sonos-music-cloud.itunes.apple.com
+so.retail.apple.com
 soundtracks.icloud.com
 source.apple.com
 soyresponsable.apple.com
@@ -33051,7 +33061,6 @@ sps-media-anon.itunes.apple.com
 sps-media.apple.com
 sps-media.aweun1.sbz.apple.com
 sps-media.aweuw1.sbz.apple.com
-sps-media.v.aaplimg.com
 sq-carrier.apple.com
 sq-carrier-cn.apple.com
 sq-carrier-it2.apple.com
@@ -33944,6 +33953,7 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
+swdist.g.aaplimg.com
 swdlp.apple.com
 swdlp-eg-nlt.apple.com
 swdlp-mdn-nlt.apple.com
@@ -35178,6 +35188,7 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
+weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
