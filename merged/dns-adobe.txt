@@ -1049,6 +1049,7 @@ apiportal-np.or.k8s.np.ipaas.corp.adobe.com
 apiportal-np-ssg.or.k8s.np.ipaas.corp.adobe.com
 apiportal.or.k8s.ipaas.corp.adobe.com
 apiportal-ssg.or.k8s.ipaas.corp.adobe.com
+api.post.adobe.com
 apip-prod-or1-vip.adobe.com
 apip.qa2.corp.adobe.com
 apip.qa.corp.adobe.com
@@ -2260,6 +2261,7 @@ cancerresearchuk-rt-prod2-res.campaign.adobe.com
 candy-automation.marketing.adobe.com
 candylab.124.marketing.adobe.com
 candy.marketing.adobe.com
+ca-new.corp.adobe.com
 can.experiencecloud.adobe.com
 canhenha.myportfolio.com
 can.intsvcs.an.adobe.com
@@ -3627,6 +3629,7 @@ cyberark.corp.adobe.com
 cyberark-dev.corp.adobe.com
 cyberarklab.corp.adobe.com
 cyberarkpsm.corp.adobe.com
+cyberarkpsm.wipc.adobe.com
 cyberarkrdpgw.corp.adobe.com
 cyberarkrdpgw-new.corp.adobe.com
 cyberark-stage.corp.adobe.com
@@ -6813,6 +6816,7 @@ johnferguson.prosite.com
 johnnygarcea.myportfolio.com
 johnskead.myportfolio.com
 join.adobe.com
+joinsights-glass.corp.adobe.com
 joinsights-glass-stage.corp.adobe.com
 jo-insights-proxy-stage.corp.adobe.com
 joinus.adobeevents.com
@@ -7117,6 +7121,8 @@ lbaas-vip-us-west-or1010051002062.corp.adobe.com
 lbaas-vip-us-west-or1010051002066.corp.adobe.com
 lbaas-vip-us-west-or1010051002093.corp.adobe.com
 lbaas-vip-us-west-or1010051002095.corp.adobe.com
+lbaas-vip-us-west-sj2010010098047.corp.adobe.com
+lbaas-vip-us-west-sj2010010098048.corp.adobe.com
 lbapr15.corp.adobe.com
 lbapr16.corp.adobe.com
 lbapr17.corp.adobe.com
@@ -9029,7 +9035,9 @@ no1010042234176.corp.adobe.com
 no1010042234178.corp.adobe.com
 no1010042234253.corp.adobe.com
 no1010042236012.corp.adobe.com
+no1010042236013.corp.adobe.com
 no1010042236023.corp.adobe.com
+no1010042236025.corp.adobe.com
 no1010042236028.corp.adobe.com
 no1010042236029.corp.adobe.com
 no1010042236039.corp.adobe.com
@@ -9828,6 +9836,7 @@ or1010050168146.corp.adobe.com
 or1010050168159.corp.adobe.com
 or1010050168161.corp.adobe.com
 or1010050168165.corp.adobe.com
+or1010050168168.corp.adobe.com
 or1010050168169.corp.adobe.com
 or1010050168170.corp.adobe.com
 or1010050168171.corp.adobe.com
@@ -9890,12 +9899,14 @@ or1010050173034.corp.adobe.com
 or1010050173035.corp.adobe.com
 or1010050173052.corp.adobe.com
 or1010050173114.corp.adobe.com
+or1010050173124.corp.adobe.com
 or1010050173129.corp.adobe.com
 or1010050173131.corp.adobe.com
 or1010050173132.corp.adobe.com
 or1010050173136.corp.adobe.com
 or1010050173173.corp.adobe.com
 or1010050173181.corp.adobe.com
+or1010050173195.corp.adobe.com
 or1010050173204.corp.adobe.com
 or1010050173205.corp.adobe.com
 or1010050173208.corp.adobe.com
@@ -10369,6 +10380,7 @@ or1010051247007.corp.adobe.com
 or1010051247163.corp.adobe.com
 or1010051248049.corp.adobe.com
 or1010051248112.corp.adobe.com
+or1010051248122.corp.adobe.com
 or1010051248187.corp.adobe.com
 or1010051248218.corp.adobe.com
 or1010051249020.corp.adobe.com
@@ -11398,6 +11410,9 @@ psdportal-sj-stg.corp.adobe.com
 pshopqa.adobe.com
 psm-aws-ew1.corp.adobe.com
 psm-aws-ue1.corp.adobe.com
+psm-aws-uw2.corp.adobe.com
+psm-azr-use-1.corp.adobe.com
+psmdirect.corp.adobe.com
 psmdirect.wipc.adobe.com
 ps-pure.corp.adobe.com
 ps-tower.corp.adobe.com
@@ -11454,7 +11469,9 @@ pulsar-na1r-dev.services.adobe.com
 pulsar-na1r.services.adobe.com
 pulsar-na1r-stg1.services.adobe.com
 pulse.ccx.adobe.com
+pulse.corp.adobe.com
 pulseinsight.corp.adobe.com
+pulse-stg.corp.adobe.com
 pUlVpnNUmURM.adobelogin.com
 pum.corp.adobe.com
 punnwiantrakoon.myportfolio.com
@@ -12841,6 +12858,8 @@ sedge-design.myportfolio.com
 see.myportfolio.com
 se-eu1.documentspreview.adobe.com
 see-wv-a278.corp.adobe.com
+see-wv-a289.corp.adobe.com
+see-wv-a391.corp.adobe.com
 sejer-mid-prod1-lb.campaign.adobe.com
 sejer-mid-prod1-t.campaign.adobe.com
 sekhmet-argocd.corp.adobe.com
@@ -12914,6 +12933,7 @@ services.mx01.marketing.adobe.com
 service.sodeliciousdairyfree.com.cname.campaign.adobe.com
 services-owa.documents.adobe.com
 services.prod.ims.adobejanus.com
+servicesre.corp.adobe.com
 services.stage.dots.corp.adobe.com
 servicestaging.marketing.adobe.com
 service.thesun.co.uk.cname.campaign.adobe.com
@@ -13156,6 +13176,8 @@ sj1010010104007.corp.adobe.com
 sj1010010104008.corp.adobe.com
 sj1010010108006.corp.adobe.com
 sj1010010108012.corp.adobe.com
+sj1010010108018.corp.adobe.com
+sj1010010108034.corp.adobe.com
 sj1010010108045.corp.adobe.com
 sj1010010108052.corp.adobe.com
 sj1010010108062.corp.adobe.com
@@ -13163,6 +13185,7 @@ sj1010010108071.corp.adobe.com
 sj1010010108074.corp.adobe.com
 sj1010010108076.corp.adobe.com
 sj1010010108110.corp.adobe.com
+sj1010010108125.corp.adobe.com
 sj1010010108155.corp.adobe.com
 sj1010010108157.corp.adobe.com
 sj1010010108158.corp.adobe.com
@@ -14912,6 +14935,9 @@ to.adobe.com
 todds-plm-san-test.corp.adobe.com
 todds-plm-test-cert.corp.adobe.com
 tods-mkt-prod1-cus.campaign.adobe.com
+tokenintel.cloudeng.adobe.com
+tokenintel-install.cloudeng.adobe.com
+tokenintel-telemetry.cloudeng.adobe.com
 tokens.storage.dev.frame.io
 tokens.storage.frame.io
 tokens.storage.staging.frame.io
