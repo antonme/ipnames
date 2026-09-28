@@ -117947,3 +117947,9 @@ Mon Sep 28 12:18:49 PM MSK 2026                ext-dns-huggingface.txt  >ext-res
 Mon Sep 28 12:19:04 PM MSK 2026                ext-dns-openai.txt  >ext-resolve-openai.txt
 Mon Sep 28 12:22:49 PM MSK 2026                ext-dns-ozon.txt  >ext-resolve-ozon.txt
 Mon Sep 28 12:24:57 PM MSK 2026                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+[master b9805564] auto-update ipv6
+ 6 files changed, 3083 insertions(+), 360 deletions(-)
+Mon Sep 28 12:44:25 PM MSK 2026                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Mon Sep 28 01:03:43 PM MSK 2026                ext-dns-twitter.txt  >ext-resolve-twitter.txt
+Mon Sep 28 01:11:08 PM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
+Mon Sep 28 01:20:08 PM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
