@@ -1492,6 +1492,7 @@ AADF6BBA-9304-4D6A-B300-F2E5723728E3-netseer-ipaddr-assoc.xy.fbcdn.net
 AADF6BBA-9304-4D6A-B300-F2E5723728E3-netseer-ipaddr-assoc.xz.fbcdn.net
 aadityaoverseasconsultant.com
 aadsync.services.adobe.com
+aadsync-stage.services.adobe.com
 AAE58B5F-574D-4DBA-AF08-CED4A718B4B7-netseer-ipaddr-assoc.xy.fbcdn.net
 AAE58B5F-574D-4DBA-AF08-CED4A718B4B7-netseer-ipaddr-assoc.xz.fbcdn.net
 AAE635D9-DD92-4996-94D8-EAD26D527C78-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -2936,11 +2937,13 @@ aivaplatform-dev.corp.adobe.com
 ai.ytimg.com
 ajax.googleapis.com
 ajo.corp.adobe.com
+ajo-e2e.corp.adobe.com
 ajo-edge.corp.adobe.com
 ajo-journeys.aep-mtls.adobe.com
 ajo-journeys-stage.aep-mtls.adobe.com
 ajo-loyalty.aep-mtls.adobe.com
 ajo-loyalty-stage.aep-mtls.adobe.com
+ajo-security.corp.adobe.com
 ajo-sms.aep-mtls.adobe.com
 ajo-sms-stage.aep-mtls.adobe.com
 ak5q.adobeaemcloud.com
@@ -3246,6 +3249,7 @@ apacexp.adobe.com
 apac-marketing.tiktok.com
 apa.corp.adobe.com
 apadmin.corp.apple.com
+apa.np.corp.adobe.com
 apay-cash-wdp-device-prod-pci.apay.apple.com
 apay-cdp-saf-services.apple.com
 apay-cdp-saf-services-cert.apple.com
@@ -3868,7 +3872,6 @@ appleid.cdn-apple.com
 appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.akamaized.net
 appleid.cdn-apple.com.edgekey.net
-appleid-cdn-apple-com.v.aaplimg.com
 appleid.idms-apple.com.akadns.net
 appleid-ut.corp.apple.com
 appleid-ut.corp.trbo.apple.com
@@ -6270,6 +6273,7 @@ bast-win-prd-hb-023.corp.adobe.com
 bast-win-prd-hb-025.corp.adobe.com
 bast-win-qa-hb-145.corp.adobe.com
 bast-win-qa-hb-146.corp.adobe.com
+bast-win-stg-hb-139.corp.adobe.com
 bast-win-stg-hb-143.corp.adobe.com
 bast-win-stg-hb-146.corp.adobe.com
 bast-win-stg-hb-153.corp.adobe.com
@@ -7163,6 +7167,7 @@ blrhp01.corp.adobe.com
 blrsol1zone2.corp.adobe.com
 blueberry.fde.openai.com
 bluedeck.corp.adobe.com
+blueprint-cassandra-client.identity-dev.adobe.com
 blueprints.iad.apple.com
 blue-prod.ans.prod.oobesaas.adobe.com
 blvgbeuh.ovslegodl.sched.ovscdns.com
@@ -8986,6 +8991,8 @@ ca-new.corp.adobe.com
 can.intsvcs.an.adobe.com
 c.anthropic.com
 canvas.adobe.com
+caobudget.corp.adobe.com
+caobudget-stg.corp.adobe.com
 caometrics.corp.adobe.com
 caometrics-stage.corp.adobe.com
 cao-v2.corp.adobe.com
@@ -10870,7 +10877,6 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -28573,6 +28579,8 @@ grbu.googleapis.com
 grc.corp.adobe.com
 gr.corp.adobe.com
 greece-ca-version-2.expressnetw.com
+greenlight.corp.adobe.com
+greenlight-stage.corp.adobe.com
 grid13.githubusercontent.com
 gridai.corp.adobe.com
 gridai-dev.corp.adobe.com
@@ -28585,8 +28593,10 @@ grni.adobeaemcloud.com
 grok.x.com
 grossed.adobeaemcloud.net
 group.itunes.apple.com
+group-projection.identity.adobe.com
 group-projection.identity-stage.adobe.com
 group-projection-or2.identity-stage.adobe.com
+group-projection-va6.identity.adobe.com
 group-projection-va6.identity-stage.adobe.com
 groups-alv.google.com
 groups.google.com
@@ -28691,7 +28701,6 @@ gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-kr-ssl.ls.apple.com
 gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
-gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -29373,6 +29382,7 @@ identity-okta-qa1.services.adobe.com
 identity-okta.services.adobe.com
 identity-okta-stg1.services.adobe.com
 identity-orgs-workers.identity.adobe.com
+identity-stage.adobe.com
 identitytoolkit.googleapis.com
 ides-pat-external.apple.com
 idg.adobe.com
@@ -30303,6 +30313,8 @@ joei.githubusercontent.com
 join.adobe.com
 joinedanthropic.com
 joinsights-glass.corp.adobe.com
+joinsights-glass-prod1.corp.adobe.com
+joinsights-glass-prod2.corp.adobe.com
 joinsights-glass-stage.corp.adobe.com
 jo-insights-proxy-stage.corp.adobe.com
 joinus.adobeevents.com
@@ -30657,6 +30669,7 @@ lbapr17.corp.adobe.com
 lb.lazerpenguin.com
 lbmvco1to7c2em5pg7rv0vq0becq4vad.bing
 LBMVCO1TO7C2EM5PG7RV0VQ0BECQ4VAD.bing
+lbth17apr1.corp.adobe.com
 lbth17apr.corp.adobe.com
 lbtst24.corp.adobe.com
 lcaas-metrics.corp.adobe.com
@@ -31742,6 +31755,7 @@ mcp.addons-dev.adobe.com
 mcp.addons-stage.adobe.com
 mcpc.corp.adobe.com
 mcp.dots.corp.adobe.com
+mcp.identity.adobe.com
 mcp.money-dev.x.com
 mcp.money-staging.x.com
 mcp.money.x.com
@@ -31754,6 +31768,7 @@ mcpstudio.corp.adobe.com
 mcpstudio-sandbox.corp.adobe.com
 mcpstudio-stg.corp.adobe.com
 mcp.uts.tv.apple.com
+mcp-va6.identity.adobe.com
 mcp-zoom-us.web-sandbox.oaiusercontent.com
 mcs16-normal-no1a.tiktokw.eu
 mcs16-normal-no1a.tiktokw.eu.edgesuite.net
@@ -32251,6 +32266,7 @@ mysalescomp-external.apple.com
 mysupport.apple.com
 mysupport-pilot.apple.com
 my.sv.adobe.com
+mytestvs.corp.adobe.com
 my.workfront.adobe.com
 mzadattributionservice.itunes.apple.com
 mz.lazerpenguin.com
@@ -33668,6 +33684,7 @@ or1010051241072.corp.adobe.com
 or1010051241204.corp.adobe.com
 or1010051242018.corp.adobe.com
 or1010051242072.corp.adobe.com
+or1010051242101.corp.adobe.com
 or1010051242150.corp.adobe.com
 or1010051243027.corp.adobe.com
 or1010051243217.corp.adobe.com
@@ -33811,6 +33828,7 @@ or32sa-c03.siri.apple.com
 or32sa-c04.siri.apple.com
 or5q.googleapis.com
 ora-.googleapis.com
+orbit.corp.adobe.com
 orbit-stg.corp.adobe.com
 orca-dev.ethos.corp.adobe.com
 orca.ethos.corp.adobe.com
@@ -43737,10 +43755,12 @@ pod-031-2046-17.backblaze.com
 pod-031-2046-18.backblaze.com
 pod-031-2046-19.backblaze.com
 pod-031-2047-00.backblaze.com
+pod-031-2047-01.backblaze.com
 pod-031-2047-02.backblaze.com
 pod-031-2047-04.backblaze.com
 pod-031-2047-05.backblaze.com
 pod-031-2047-06.backblaze.com
+pod-031-2047-07.backblaze.com
 pod-031-2047-09.backblaze.com
 pod-031-2047-10.backblaze.com
 pod-031-2047-11.backblaze.com
@@ -43913,6 +43933,7 @@ privacysandbox.google.com
 private.api.openai.com
 private-attribution.us.tiktokv.com
 private-attribution.us.tiktokv.com.edgekey.net
+private.bytegeo-v.akadns.net
 privatelink-dev-cp.apple.com
 privatelink-splunk.btp.sap.apple.com
 privatelink-splunk-nonprod.btp.sap.apple.com
@@ -50634,6 +50655,7 @@ siegert.adobeaemcloud.net
 sign.addons.adobe.com
 sign.addons-dev.adobe.com
 sign.addons-stage.adobe.com
+signal.corp.adobe.com
 signaler-pa.clients6.google.com
 signaler-pa.googleapis.com
 signaler-pa.youtube.com
@@ -52005,6 +52027,7 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
+swdist.g.aaplimg.com
 swdlp-static.apple.com
 swdlp-static.apple.com.edgekey.net
 swdownload.apple.com
@@ -52563,7 +52586,6 @@ tt.ttarget.ru
 ttv014145034.ttv.ne.jp
 ttv157248215.ttv.ne.jp
 ttv186054054.ttv.ne.jp
-ttv.ne.jp
 ttv-ns3t.ttv.ne.jp
 ttv-ns4t.ttv.ne.jp
 ttwid-va.byteoversea.com
@@ -53904,6 +53926,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 weaver.adobe.com
 web12276.adobeaemcloud.net
 web2www.m.facebook.com---------------returnnow-info.drivethruvideos.com
