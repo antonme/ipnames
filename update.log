@@ -117927,3 +117927,16 @@ Mon Sep 28 06:30:04 AM MSK 2026                dns-twitter.txt  >ipv6-resolve-tw
 ===anthropic
 
 == Save names archive
+[master d25eff63] auto-update names
+ 9 files changed, 1630 insertions(+), 94 deletions(-)
+
+== Resolving external names to ipv4
+Mon Sep 28 06:39:19 AM MSK 2026                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Mon Sep 28 07:06:27 AM MSK 2026                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Mon Sep 28 07:06:39 AM MSK 2026                ext-dns-apple.txt  >ext-resolve-apple.txt
+Mon Sep 28 07:41:42 AM MSK 2026                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
+Mon Sep 28 07:41:51 AM MSK 2026                dns-youtube.txt  >ipv6-resolve-youtube.txt
+Mon Sep 28 08:07:21 AM MSK 2026                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Mon Sep 28 08:39:17 AM MSK 2026                ext-dns-bing.txt  >ext-resolve-bing.txt
+Mon Sep 28 08:41:27 AM MSK 2026                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Mon Sep 28 10:15:56 AM MSK 2026                ext-dns-github.txt  >ext-resolve-github.txt

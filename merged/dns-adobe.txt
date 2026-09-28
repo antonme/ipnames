@@ -722,11 +722,13 @@ aivadv.corp.adobe.com
 aivaplatform-dev.corp.adobe.com
 aizntech.myportfolio.com
 ajo.corp.adobe.com
+ajo-e2e.corp.adobe.com
 ajo-edge.corp.adobe.com
 ajo-journeys.aep-mtls.adobe.com
 ajo-journeys-stage.aep-mtls.adobe.com
 ajo-loyalty.aep-mtls.adobe.com
 ajo-loyalty-stage.aep-mtls.adobe.com
+ajo-security.corp.adobe.com
 ajoshowcase.adobe.com
 ajo-sms.aep-mtls.adobe.com
 ajo-sms-stage.aep-mtls.adobe.com
@@ -968,6 +970,7 @@ apac.in1.p7.documentsawsperf.adobe.com
 apac.marketing-assets.adobe.com
 apa.corp.adobe.com
 apac-vendor.marketing.adobe.com
+apa.np.corp.adobe.com
 ap.creative.adobe.com
 ap.doc.html.storyapp-stage.adobe.com
 ap.doc.story-prod.adobe.com
@@ -1762,6 +1765,7 @@ bast-win-qa-hb-145.corp.adobe.com
 bast-win-qa-hb-146.corp.adobe.com
 bast-win-qa-hb-147.corp.adobe.com
 bast-win-qa-hb-148.corp.adobe.com
+bast-win-stg-hb-139.corp.adobe.com
 bast-win-stg-hb-143.corp.adobe.com
 bast-win-stg-hb-146.corp.adobe.com
 bast-win-stg-hb-153.corp.adobe.com
@@ -2270,6 +2274,8 @@ can.experiencecloud.adobe.com
 canhenha.myportfolio.com
 can.intsvcs.an.adobe.com
 canvas.adobe.com
+caobudget.corp.adobe.com
+caobudget-stg.corp.adobe.com
 caometrics.corp.adobe.com
 caometrics-stage.corp.adobe.com
 cao-prod.adobemsbasic.com
@@ -5764,6 +5770,8 @@ greatplainsha.na2.documents.adobe.com
 greatplainshanginx.na2.documents.adobe.com
 greatplainsha.production.na2.documents.adobe.com
 greenframe.io
+greenlight.corp.adobe.com
+greenlight-stage.corp.adobe.com
 green-prod.ans.prod.oobesaas.adobe.com
 greinatalia.myportfolio.com
 greyzone.prosite.com
@@ -5775,6 +5783,7 @@ griffon.adobe.com
 grni.adobeaemcloud.com
 grossed.adobeaemcloud.net
 groupebarriere-mid-prod1-cus.campaign.adobe.com
+group-projection.identity.adobe.com
 group-projection.identity-stage.adobe.com
 group-projection-or2.identity-stage.adobe.com
 group-projection-va6.identity.adobe.com
@@ -6826,6 +6835,8 @@ johnnygarcea.myportfolio.com
 johnskead.myportfolio.com
 join.adobe.com
 joinsights-glass.corp.adobe.com
+joinsights-glass-prod1.corp.adobe.com
+joinsights-glass-prod2.corp.adobe.com
 joinsights-glass-stage.corp.adobe.com
 jo-insights-proxy-stage.corp.adobe.com
 joinus.adobeevents.com
@@ -7140,6 +7151,7 @@ lbr-creative-prod.ccmui.adobe.com
 lbr-creative-prod-ew1.ccmui.adobe.com
 lbtest1.corp.adobe.com
 lbtest2.corp.adobe.com
+lbth17apr1.corp.adobe.com
 lbth17apr.corp.adobe.com
 lbtst24.corp.adobe.com
 lcaas-metrics.corp.adobe.com
@@ -7997,10 +8009,12 @@ mcp.addons-dev.adobe.com
 mcp.addons-stage.adobe.com
 mcpc.corp.adobe.com
 mcp.dots.corp.adobe.com
+mcp.identity.adobe.com
 mcpscanner.corp.adobe.com
 mcpstudio.corp.adobe.com
 mcpstudio-sandbox.corp.adobe.com
 mcpstudio-stg.corp.adobe.com
+mcp-va6.identity.adobe.com
 mcs.odin.adobe.com
 mc.troweprice.com.cname.campaign.adobe.com
 md-connector.corp.adobe.com
@@ -8589,6 +8603,7 @@ mysql09.documents.adobe.com
 mysql09-media.experiencecloud.adobe.com
 mysqlws.documents.adobe.com
 my.sv.adobe.com
+mytestvs.corp.adobe.com
 mythiya.myportfolio.com
 my.workfront.adobe.com
 mza1yje1mtytztdknc00mdgylthknjetnja4mzqynje1mtc1.frl-offline.adobe.com
@@ -10358,6 +10373,7 @@ or1010051241155.corp.adobe.com
 or1010051241204.corp.adobe.com
 or1010051242018.corp.adobe.com
 or1010051242072.corp.adobe.com
+or1010051242101.corp.adobe.com
 or1010051242150.corp.adobe.com
 or1010051243027.corp.adobe.com
 or1010051243044.corp.adobe.com
@@ -10600,6 +10616,7 @@ or-asm1-stg.corp.adobe.com
 or-asm2-stg.corp.adobe.com
 or-banana-stg-27043-ssl.corp.adobe.com
 or-banana-stg-27043-ssl.corp.c00.adobe.com
+orbit.corp.adobe.com
 orbit-stg.corp.adobe.com
 orca-dev.ethos.corp.adobe.com
 orca.ethos.corp.adobe.com
@@ -13064,6 +13081,7 @@ sign.addons.adobe.com
 sign.addons-dev.adobe.com
 sign.addons-stage.adobe.com
 sign.adobe.com
+signal.corp.adobe.com
 signal-ops-airflow-dev.cloud-automation.corp.adobe.com
 signal-ops.cloud-automation.corp.adobe.com
 sign.corp.adobe.com
