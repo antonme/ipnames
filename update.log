@@ -118117,3 +118117,12 @@ s
 ===anthropic
 
 == Save names archive
+[master 0dc9e56f] auto-update names
+ 7 files changed, 90 insertions(+), 7 deletions(-)
+
+== Resolving names to ipv6
+Tue Sep 29 06:41:01 AM MSK 2026                dns-adobe.txt  >ipv6-resolve-adobe.txt
+Tue Sep 29 07:59:17 AM MSK 2026                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Tue Sep 29 08:13:38 AM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
+Tue Sep 29 09:18:57 AM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Tue Sep 29 09:19:04 AM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
