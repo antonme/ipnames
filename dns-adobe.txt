@@ -83,7 +83,9 @@ acom-analystbot-cno.corp.adobe.com
 acom-analystbot-tno.corp.adobe.com
 acom-analystbot-toppages.corp.adobe.com
 acom-bots-1.corp.adobe.com
+acom-cq.corp.adobe.com
 acom-data-gov.corp.adobe.com
+acom-india-cq.corp.adobe.com
 acompgmstudio.corp.adobe.com
 a.corp.adobe.com
 acpc-brands-ai.corp.adobe.com
@@ -629,6 +631,7 @@ atsk8s-jenkins-api.corp.adobe.com
 atsk8s-jenkins.corp.adobe.com
 atsk8s-jenkins-dashboard.corp.adobe.com
 ats-k8s-stg-apiserver.corp.adobe.com
+atsmehub.corp.adobe.com
 ats-sb.adobe.com
 atsx.adobe.com
 au1.documents.adobe.com
@@ -640,6 +643,7 @@ aug-student-141-224-206-156.adobeaemcloud.com
 aug-student-141-224-206-87.adobeaemcloud.com
 aup.adobe.com
 aup.ai.adobe.com
+aupappstore.adobe.com
 aupdeppage.azr4896.adobeitc.com
 aupdeppage.corp.adobe.com
 aura.corp.adobe.com
@@ -1435,6 +1439,7 @@ commercedeveloper-sandbox-api.adobe.com
 commercedeveloper-sandbox-static.adobe.com
 commercedeveloper-static.adobe.com
 commerce-hub.adobe.com
+commerce.observability.corp.adobe.com
 commerce-stg.adobe.com
 commit.corp.adobe.com
 committeeadmin.adobeaemcloud.com
@@ -1512,6 +1517,7 @@ console-stage.ans.corp.adobe.com
 consult.cloudeng.adobe.com
 consult-dev.cloudeng.adobe.com
 content.adobe.com
+content-compass-scoring.adobe.com
 content-compass-summit.adobe.com
 contentserver.adobe.com
 contexter.corp.adobe.com
@@ -1522,6 +1528,7 @@ control-x.corp.adobe.com
 cookbooks.cloudops.adobe.com
 cookbooks.cloudops.corp.adobe.com
 cooper-curator.paas.corp.adobe.com
+cop.adobe.com
 core312.bccms.adobeaemcloud.net
 core-hb.mw-stg.corp.adobe.com
 core-mw-hb.gtp.corp.adobe.com
@@ -1767,6 +1774,7 @@ data.three.test.ajo.adobe.com
 data.tsbuat.test.ajo.adobe.com
 data.typekit.net
 data.ubs.test.ajo.adobe.com
+data.ups.test.ajo.adobe.com
 data.visitqatar-dev.test.ajo.adobe.com
 dattihp.adobeaemcloud.com
 dav.corp.adobe.com
@@ -1919,6 +1927,8 @@ dev.pulsar.adobe.com
 devqa.exchange.adobe.com
 dev-research-site.corp.adobe.com
 dev.schedule.adobe.com
+devserver.protopack-web.adt.corp.adobe.com
+devserver.protopack-web-dev.adt.corp.adobe.com
 dev.sharedservices.frame.io
 dev.short-url.postoffice.adobe.com
 dev.skms.adobe.com
@@ -1975,6 +1985,7 @@ dntq.adobeaemcloud.net
 docgen.adobe.com
 docker.3di.corp.adobe.com
 docs.adobe.com
+docs.styx.adobe.com
 documentcloud.adobe.com
 documentcloud.adobe.com.i.edgekey.net
 documents.adobe.com
@@ -1987,6 +1998,7 @@ documentslocal.adobe.com
 documentssandbox.adobe.com
 documentssandboxstage.adobe.com
 documentsstage.adobe.com
+dominion.corp.adobe.com
 dorhawk.adobeaemcloud.com
 dots.corp.adobe.com
 dots-services.corp.adobe.com
@@ -2856,6 +2868,7 @@ hud-middleware-dev.corp.adobe.com
 hud-middleware-prod.corp.adobe.com
 hud-middleware-stage.corp.adobe.com
 hunanshenglanqiudui.adobeaemcloud.net
+huntmetrics.corp.adobe.com
 hyperion.corp.adobe.com
 hyperion-gw-ap-northeast-1.hyperiongw.qe.campaign.adobe.com
 hyperion-gw-ap-southeast-1.hyperiongw.qe.campaign.adobe.com
@@ -2904,6 +2917,7 @@ icommstage.corp.adobe.com
 icommtest.corp.adobe.com
 icon-finder.corp.adobe.com
 icons.corp.adobe.com
+icon-search.corp.adobe.com
 icv0.adobeaemcloud.com
 id.adobe.com
 id.adobe.com.cdn.cloudflare.net
@@ -3622,6 +3636,7 @@ metrics.signals-gw.adobe.com
 mftstg.adobe.com
 mftstg.corp.adobe.com
 mhbb.adobeaemcloud.com
+mhp270xjmlc1kmsvra0g0jvp0g07np5.proxy.dev.cloud-automation.corp.adobe.com
 mianpao.adobeaemcloud.net
 milg.adobeaemcloud.com
 milo.adobe.com.edgesuite.net
@@ -3683,6 +3698,7 @@ mscom-mkt-prod78-lb.campaign.adobe.com
 mscom-mkt-prod79-lb.campaign.adobe.com
 mscom-mkt-prod8-lb.campaign.adobe.com
 mss-support.corp.adobe.com
+mta.cjm.adobe.com
 mta.dev.cjm.adobe.com
 mtls-service.aep-mtls.adobe.com
 mtls-service-customer-mirror.aep-mtls.adobe.com
@@ -4502,6 +4518,7 @@ or1010051080074.corp.adobe.com
 or1010051080207.corp.adobe.com
 or1010051080255.corp.adobe.com
 or1010051081023.corp.adobe.com
+or1010051081087.corp.adobe.com
 or1010051081092.corp.adobe.com
 or1010051081169.corp.adobe.com
 or1010051081171.corp.adobe.com
@@ -4567,6 +4584,7 @@ or1010051085169.corp.adobe.com
 or1010051085170.corp.adobe.com
 or1010051085171.corp.adobe.com
 or1010051086085.corp.adobe.com
+or1010051086116.corp.adobe.com
 or1010051086153.corp.adobe.com
 or1010051086159.corp.adobe.com
 or1010051086165.corp.adobe.com
@@ -5097,6 +5115,8 @@ prometheus-dashboard.corp.adobe.com
 prometheus-sj.3di.corp.adobe.com
 promotion.frame.io
 protobasidiomycetes.adobeaemcloud.net
+protopack-web.adt.corp.adobe.com
+protopack-web-dev.adt.corp.adobe.com
 prototyping.corp.adobe.com
 proven.corp.adobe.com
 provisioner.ethos11-prod-nld2.ethos.adobe.net
@@ -5107,6 +5127,7 @@ provisioninghub-dev.corp.adobe.com
 provisioninghub-nprod.corp.adobe.com
 provisioninghub-qa.corp.adobe.com
 provisioninghub-stg.corp.adobe.com
+proxy.dev.cloud-automation.corp.adobe.com
 psc-emea.adobe.com
 pscoverity.corp.adobe.com
 pscoverity-jenkins.corp.adobe.com
@@ -5147,6 +5168,7 @@ pulse.corp.adobe.com
 pulseinsight.corp.adobe.com
 pulse-stg.corp.adobe.com
 pUlVpnNUmURM.adobelogin.com
+pure.corp.adobe.com
 pv218qmzox6.prod.cloud.adobe.io
 pv24v41zibm.prod.cloud.adobe.io
 pv2fcqvzl1r.prod.cloud.adobe.io
@@ -5711,6 +5733,8 @@ services.adobe.com
 servicesconsole.adobe.com
 services.prod.ims.adobejanus.com
 servicesre.corp.adobe.com
+session.protopack-web.adt.corp.adobe.com
+session.protopack-web-dev.adt.corp.adobe.com
 settings.dev.frame.io
 settings.frame.io
 settings.staging.frame.io
@@ -5897,6 +5921,7 @@ sj1010010244120.corp.adobe.com
 sj1010010244152.corp.adobe.com
 sj1010010244229.corp.adobe.com
 sj1010010245224.corp.adobe.com
+sj1010010246052.corp.adobe.com
 sj1010010246069.corp.adobe.com
 sj1010010246153.corp.adobe.com
 sj1010010246208.corp.adobe.com
@@ -5906,6 +5931,7 @@ sj1010010247150.corp.adobe.com
 sj1010010248220.corp.adobe.com
 sj1010010249102.corp.adobe.com
 sj1010010249117.corp.adobe.com
+sj1010010249133.corp.adobe.com
 sj1010010250035.corp.adobe.com
 sj1010010250182.corp.adobe.com
 sj1010010251110.corp.adobe.com
@@ -6907,6 +6933,7 @@ www.moonlight-stage.adobe.com
 www-oma1.adobeaemcloud.com
 www.photoshop.com
 www-prod.adobesunbreak.com
+www.proxy.dev.cloud-automation.corp.adobe.com
 www.ryuvision.adobe.com
 www.sherlock-be.corp.adobe.com
 www.sherlock-be-stage.corp.adobe.com
