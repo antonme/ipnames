@@ -1441,6 +1441,7 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
+configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -3406,6 +3407,7 @@ edge-316.usdal2.icloud-content.com
 edge-317.defra2.icloud-content.com
 edge-319.defra2.icloud-content.com
 edge-322.defra2.icloud-content.com
+edge-324.defra2.icloud-content.com
 edge-327.defra2.icloud-content.com
 edge-328.defra2.icloud-content.com
 edge-329.defra2.icloud-content.com
@@ -3994,7 +3996,6 @@ gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
 gspe76-staging.ls.apple.com
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-kr-ssl.ls.apple.com
 gspe79-ssl-96.ls.apple.com
@@ -4715,7 +4716,6 @@ login-partner-connect-uat.apple.com
 lookup-api.apple.com
 lookup-api.apple.com.edgekey.net
 lookup-api.apple.com.edgesuite.net
-lookup-api-apple-com.v.aaplimg.com
 ls2-apple.com.akadns.net
 ls.advp.apple.com
 ls.apple.com
@@ -5058,6 +5058,7 @@ ocsp2.apple.com.edgekey.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
 ocsp.apple.com
 ocsp-lb.apple.com.akadns.net
 ocsp-uat.corp.apple.com
