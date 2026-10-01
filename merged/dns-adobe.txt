@@ -571,6 +571,7 @@ adxmgmt-stage.api.corp.adobe.com
 adxmlops.corp.adobe.com
 adxmlops-dev.corp.adobe.com
 adxmlops-stg.corp.adobe.com
+adx-platform-stg.corp.adobe.com
 adx-prd.api.adobe.com
 adx-stage.api.adobe.com
 adx-stage.api.corp.adobe.com
@@ -915,6 +916,7 @@ annikalotter.myportfolio.com
 annotate.fonts.adobe.com
 annotate-staging.fonts.adobe.com
 anonymous.adobe.com
+ans.adobe.com
 a.ns.campaign.adobe.com
 a.ns.cjm.adobe.com
 ansible.3di.corp.adobe.com
@@ -1088,6 +1090,7 @@ api-v1.eda-stg-int.corp.adobe.com
 api-v2.dev.frame.io
 api-v2.eda-prd-int.corp.adobe.com
 api-v2.frame.io
+api.whiskeyjack.corp.adobe.com
 apkool.documents.adobe.com
 apm3-27224.adobeaemcloud.net
 apmidia.myportfolio.com
@@ -2099,6 +2102,7 @@ bucket-alpha.p7.documentsawsperf.adobe.com
 bucket.forumna1.bp.documentsawspreview.adobe.com
 bucketmotorolasolutions.brand-portal.adobe.com
 buffalo.whois.captivateprime.adobe.com
+bugathon.prod.test.ajo.adobe.com
 bugbase.adobe.com
 bugbase.stage.adobe.com
 bugs.adobe.com
@@ -2621,6 +2625,7 @@ cdn.batch-uhg.test.ajo.adobe.com
 cdn.batch-ulta.test.ajo.adobe.com
 cdn.batch-wunderman.test.ajo.adobe.com
 cdn.bloomingdales.test.ajo.adobe.com
+cdn.bugathon.prod.test.ajo.adobe.com
 cdn.candidatesexp.adobe.com
 cdn.carnival-uk-dev.test.ajo.adobe.com
 cdn.cdp.sandbox.wine.cname.cjm.adobe.com
@@ -3407,6 +3412,7 @@ cpe.corp.adobe.com
 cpe-inventory.corp.adobe.com
 cpe-inventory-test.corp.adobe.com
 cpe-monitoring.corp.adobe.com
+cpe-security-dashboard.corp.adobe.com
 cpe-security-jira-dashboard.corp.adobe.com
 cp.gws.marketing.adobe.com
 cplive.adobe.com
@@ -3961,6 +3967,7 @@ demoamericas275.c00.adobe.com
 demoamericas275.experiencecloud.adobe.com
 demo-author.adobe.com
 demo-bigip.experiencecloud.adobe.com
+democat.corp.adobe.com
 demo-dbmseu1.documentsawspreview.adobe.com
 demo-dev.adobe.com
 demo-dev-author.adobe.com
@@ -4034,6 +4041,7 @@ dev.adlsvlab.adobe.com
 dev.adobeaemcloud.com
 dev.adobe.com
 dev.an.adobe.com
+dev.ans.adobe.com
 dev.api.cloud-mgmt.corp.adobe.com
 dev.api.maverick.corp.adobe.com
 devapps.corp.adobe.com
@@ -6381,6 +6389,7 @@ ikaur1-wx-1.corp.adobe.com
 ikons.corp.adobe.com
 ilcomp27.corp.adobe.com
 ilcomp29.corp.adobe.com
+ilcomp77.corp.adobe.com
 ilcomp7h.corp.adobe.com
 ilcomp7j.corp.adobe.com
 ilcompe3.corp.adobe.com
@@ -10476,6 +10485,8 @@ or1dra411.corp.adobe.com
 or1dra412.corp.adobe.com
 or1dra4179.corp.adobe.com
 or1dra451.corp.adobe.com
+or1dra511.corp.adobe.com
+or1dra511.storage.adobe.com
 or1dra837.corp.adobe.com
 or1dra838.corp.adobe.com
 or1dra839.corp.adobe.com
@@ -11315,6 +11326,7 @@ prod.adobeccstatic.com
 prod.adobe-prod-ui.map.fastly.net
 prod.adobe-prod-view.map.fastly.net
 prod.adobe-stage-view.map.fastly.net
+prod.ans.adobe.com
 prod.assistant.adobe.com
 prod.ccos.adobe.com
 prod.ccos-dashboard.adobe.com
@@ -13617,6 +13629,7 @@ smb-na.adobe.com
 smcccd.na1.documents.adobe.com
 smgcreative.prosite.com
 smjh.adobeaemcloud.com
+smoke-test1.vibe-deployer.corp.adobe.com
 sms.adobe.com
 sms-cuc.e2eprod.repackageaus5.test.ajo.adobe.com
 sms-cuc.e2eprod.repackagecan2.test.ajo.adobe.com
@@ -13838,6 +13851,7 @@ squirrel.adobeconnect.com
 squirrel-prenv.hz.adobe.com
 squirrel-pre-prod.hz.adobe.com
 squirrel-stage.hz.adobe.com
+squirreltools.corp.adobe.com
 squish.3di.corp.adobe.com
 squish.corp.adobe.com
 srelens.corp.adobe.com
@@ -13902,6 +13916,7 @@ stage.aemmobile.adobe.com
 stage.ai.dots.corp.adobe.com
 stage.amc.adobe.com
 stage.analytics.adobe.com
+stage.ans.adobe.com
 stage-api1.corp.adobe.com
 stage.api.dots.corp.adobe.com
 stage.api.dotsinside.corp.adobe.com
@@ -14648,6 +14663,7 @@ temperature.corp.adobe.com
 templatemanager.adobe.com
 temporal-api-va6-int.identity.adobe.com
 temporal-api-va6-int.identity-stage.adobe.com
+temporal.dots.corp.adobe.com
 t.em.schwinnfitness.com.cname.campaign.adobe.com
 t.enews.dove.ca.cname.campaign.adobe.com
 t.enews.stb.gov.sg.cname.campaign.adobe.com
@@ -15633,6 +15649,7 @@ vhpdfwd5wd01.rise.corp.adobe.com
 vibe-deployer.corp.adobe.com
 vibe-deployer-dev.corp.adobe.com
 vibe-deployer-stg.corp.adobe.com
+vibe-smoke-test1.sites.corp.adobe.com
 vicommunity.documentsawspreview.adobe.com
 victoirejoncheray.myportfolio.com
 victorchaidez.myportfolio.com
@@ -15944,6 +15961,7 @@ whatsmycloudspend-stg.adobe.com
 whatsmycloudspend-stg.corp.adobe.com
 whats-my-home-worth.myportfolio.com
 whirlpool-rt-prod2-lb.campaign.adobe.com
+whiskeyjack.corp.adobe.com
 whitchurchstouffville.fileprosite.com
 whitehouse-design.myportfolio.com
 whm-get.marketing.adobe.com
@@ -16224,6 +16242,7 @@ www.symposium.adobe.com
 www.tia.corp.adobe.com
 www.trove-app.corp.adobe.com
 wwww.adobe.com
+www.whiskeyjack.corp.adobe.com
 www.wip4.adobe.com
 www.wrap-stg.corp.adobe.com
 wwwww.youthvoices.adobe.com

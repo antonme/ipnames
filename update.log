@@ -118465,3 +118465,19 @@ Thu Oct  1 06:33:36 AM MSK 2026                dns-facebook.txt  >resolve-facebo
 ===anthropic
 
 == Save names archive
+[master 092b7cfb] auto-update names
+ 14 files changed, 1322 insertions(+), 1070 deletions(-)
+
+== Resolving external names to ipv6
+Thu Oct  1 06:39:41 AM MSK 2026                ext-dns-adobe.txt  >ipv6-ext-resolve-adobe.txt
+Thu Oct  1 07:05:22 AM MSK 2026                ext-dns-anthropic.txt  >ipv6-ext-resolve-anthropic.txt
+Thu Oct  1 07:05:31 AM MSK 2026                ext-dns-apple.txt  >ipv6-ext-resolve-apple.txt
+Thu Oct  1 08:02:53 AM MSK 2026                ext-dns-backblaze.txt  >ipv6-ext-resolve-backblaze.txt
+Thu Oct  1 08:21:41 AM MSK 2026                dns-tunnelbear.txt  >ipv6-resolve-tunnelbear.txt
+Thu Oct  1 08:33:00 AM MSK 2026                ext-dns-bing.txt  >ipv6-ext-resolve-bing.txt
+Thu Oct  1 08:35:00 AM MSK 2026                ext-dns-facebook.txt  >ipv6-ext-resolve-facebook.txt
+Thu Oct  1 08:38:14 AM MSK 2026                dns-twitter.txt  >ipv6-resolve-twitter.txt
+Thu Oct  1 09:52:54 AM MSK 2026                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
+Thu Oct  1 09:53:02 AM MSK 2026                dns-youtube.txt  >ipv6-resolve-youtube.txt
+Thu Oct  1 10:00:32 AM MSK 2026                ext-dns-github.txt  >ipv6-ext-resolve-github.txt
+Thu Oct  1 10:26:29 AM MSK 2026                ext-dns-google.txt  >ipv6-ext-resolve-google.txt
