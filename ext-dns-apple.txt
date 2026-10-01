@@ -1425,7 +1425,6 @@ acivr-enterprise3-primary-pbz.apple.com
 acivr-enterprise4-primary-pbz.apple.com
 acivr-enterprise4-secondary-pbz.apple.com
 acivr-mlq1-secondary-pbz.apple.com
-acivr-mlq3-primary-pbz.corp.apple.com
 acivr-mlq4-primary-pbz.apple.com
 acivr-odin-datasync1-primary-pbz.apple.com
 acivr-odin-datasync3-pbz.corp.apple.com
@@ -1765,7 +1764,6 @@ apne1-acivr-d01-secondary-pbz-prod.spbz.apple.com
 apne1-acivr-d032-primary-pbz-stage.spbz.apple.com
 apne1-acivr-d032-secondary-pbz-stage.apple.com
 apne1-acivr-d04-secondary-pbz-stage.spbz.apple.com
-apne1-acivr-mlq3-primary-pbz-stage.spbz.apple.com
 apne1-acivr-textserver3-primary-pbz-stage.apple.com
 apne1-acivr-ufd1-primary-pbz-prod.apple.com
 apne1-prod-weather-data-service-eks-prod.apple.com
@@ -1858,7 +1856,6 @@ apse1-acivr-d04-primary-pbz-stage.spbz.apple.com
 apse1-acivr-d04-secondary-pbz-stage.spbz.apple.com
 apse1-acivr-datasync3-pbz-stage.spbz.apple.com
 apse1-acivr-mlq1-primary-pbz-prod.apple.com
-apse1-acivr-mlq3-primary-pbz-stage.spbz.apple.com
 apse1-acivr-ufd1-primary-pbz-prod.spbz.apple.com
 apse1-albert.apple.com
 apse1-mjolnir-dl.apple.com
@@ -4900,8 +4897,6 @@ euc1-acivr-d032-primary-pbz-stage.spbz.apple.com
 euc1-acivr-d032-secondary-pbz-stage.spbz.apple.com
 euc1-acivr-d04-primary-pbz-stage.spbz.apple.com
 euc1-acivr-d04-secondary-pbz-stage.apple.com
-euc1-acivr-mlq3-primary-pbz-stage.apple.com
-euc1-acivr-mlq3-primary-pbz-stage.spbz.apple.com
 euc1-acivr-mlq4-secondary-pbz-stage.apple.com
 euc1-acivr-ufd1-primary-pbz-prod.apple.com
 euc1-makofde-uat.apple.com
@@ -9644,7 +9639,6 @@ mobilebackup-china-ic1.icloud.com
 mobilebackup-china-ic3.icloud.com
 mobilebackup-ic2.icloud.com
 mobilebackup-ic4.icloud.com
-mobilecmd.apple.com
 mobile-ist.apple.com
 mobile-ist-uat.apple.com
 mobileitc-mdn-sh.apple.com
@@ -10097,7 +10091,6 @@ mx-in-mdn.apple.com
 mx-in-rno.apple.com
 my101642491.explr.poc.cp.sap.apple.com
 myaccess-a-old.apple.com
-myaccess.apple.com
 myaccess-as-a.corp.apple.com
 myaccess-as-b.corp.apple.com
 myaccess-b-old.apple.com
@@ -18698,8 +18691,6 @@ sleepy.apple.com
 slg.apple.com
 smb.apple.com
 smb-stg.apple.com
-sm-cal.apple.com
-sm-calendar-facade-prod-use1.apple.com
 smp-device-lt3.apple.com
 smp-device-lt4.apple.com
 smp-device-qa6.apple.com
@@ -19340,7 +19331,6 @@ storeimages.apple.com
 storeimages.apple.com.edgekey.net
 storeimages.cdn-apple.com
 storeimages-test.cdn-apple.com
-storepass.apple.com
 store-payment-service-mac-b-narrative.shgcn.ext.pos.apple.com
 storepreview.itunes.apple.com
 storeqa-gidget.apple.com
@@ -19706,9 +19696,6 @@ use1-ahflex-isc.apple.com
 use1a.mobileapp.apple.com
 use1a-mobilecmd.apple.com
 use1.apple.com
-use1b-chat.mmap.apple.com
-use1b-storepass.apple.com
-use1b-web.mmap.apple.com
 use1-caffemacs-pube-ext-prod.apple.com
 use1-data-development-appattest-prod.apple.com
 use1-deviceactivations-prod.apple.com
@@ -19726,8 +19713,6 @@ use1-video.apple.com
 use1-weather-map-prod.apple.com
 use1-websitereview-prod.apple.com
 use1-wwfde-ftp.apple.com
-use2a-chat.mmap.apple.com
-use2a.mobileapp.apple.com
 use2-appleweb-origin-uat.apple.com
 use2-makofde-uat.apple.com
 use2-osvcomm-dr.apple.com
@@ -19859,7 +19844,6 @@ usuqo4-perf.hkhkg-4.icloud-content.com
 usuqo4-perf.icloud-content.com
 usuqo4-perf.me.icloud-content.com
 usuyk1.me.icloud-content.com
-usw2a-chat.mmap.apple.com
 usw2-acivr-d01-primary-pbz-prod.apple.com
 usw2-acivr-d01-secondary-pbz-prod.spbz.apple.com
 usw2-acivr-d032-primary-pbz-stage.spbz.apple.com
@@ -19869,21 +19853,15 @@ usw2-acivr-d04-secondary-pbz-stage.apple.com
 usw2-acivr-d0-wiremock3-pbz-stage.spbz.apple.com
 usw2-acivr-datasync3-pbz-stage.spbz.apple.com
 usw2-acivr-mlq4-secondary-pbz-stage.spbz.apple.com
-usw2-acivr-profile-wiremock3-pbz-stage.apple.com
 usw2-acivr-sentinels1-ingress-prod.apple.com
 usw2-acivr-textserver3-primary-pbz-stage.apple.com
 usw2-acivr-ufd1-primary-pbz-prod.apple.com
 usw2-acivr-ufd1-primary-pbz-prod.spbz.apple.com
-usw2a.mobileapp.apple.com
 usw2a.mobileapp-shield.apple.com
-usw2a-mobilecmd.apple.com
 usw2as.mobileapp.apple.com
 usw2-aws-scim-business-qa3.apple.com
-usw2b.commerce.apple.com
 usw2-blob-qa-test.apple.com
 usw2-blob-research-prod.apple.com
-usw2b-mobilecmd.apple.com
-usw2b-web.mmap.apple.com
 usw2-caffemacs-legacy-prodw-pub-cert.apple.com
 usw2-caffemacs-pubw01-prod.apple.com
 usw2-caffemacs-pubw-ext-prod.apple.com

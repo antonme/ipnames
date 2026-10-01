@@ -66,6 +66,8 @@ checkpoints-eu.files.openai.com
 ci-webhooks.api.openai.com
 click.openai.com
 coconut.fde.openai.com
+codex-cloud-backend.chatgpt.com
+codex-cloud-environments.chatgpt.com
 codex-portals.api.openai.com
 codex-portals.gateway.unified-209.api.openai.com
 codex-portals.gateway.unified-212.api.openai.com
@@ -511,6 +513,7 @@ mtls.auth.openai.com
 nb-chatgpt.com
 nori.api.openai.com
 nori-webhooks.api.openai.com
+oaistatic.com
 observability-webhook.api.openai.com
 ogimg.chatgpt.com
 okchatgpt.com
