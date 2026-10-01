@@ -3270,7 +3270,6 @@ anyware.adobe.com
 anyware.stage.adobe.com
 aod.itunes.apple.com
 aod.itunes.apple.com.edgesuite.net
-aod.itunes.g.aaplimg.com
 aodp.itunes.apple.com
 aodp-ssl.itunes.apple.com
 aod-ssl.itunes.apple.com
@@ -4053,6 +4052,7 @@ apps-sj.ci.corp.adobe.com
 appstoreconnect.apple.com
 appsvc.an.adobe.com
 appsvc-stage.an.adobe.com
+apptocloud.net
 apptrailers.itunes.apple.com
 apptrailers-ssl.itunes.apple.com
 apptrailers-ssl.itunes-apple.com.akadns.net
@@ -11009,7 +11009,6 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -16652,6 +16651,7 @@ edge-010.usuqo4.icloud-content.com
 edge-010.usuyk1.icloud-content.com
 edge-011.deber3.icloud-content.com
 edge-011.dedus1.icloud-content.com
+edge-011.defra2.icloud-content.com
 edge-011.dkvib11.icloud-content.com
 edge-011.gbmnc1.icloud-content.com
 edge-011.nlhfd1.icloud-content.com
@@ -17166,6 +17166,7 @@ edge-062.usmia1.icloud-content.com
 edge-062.usqas5.icloud-content.com
 edge-062.usuyk1.icloud-content.com
 edge-063.deber3.icloud-content.com
+edge-063.defra2.icloud-content.com
 edge-063.usbos2.icloud-content.com
 edge-063.uschi7.icloud-content.com
 edge-063.usdal2.icloud-content.com
@@ -17776,6 +17777,7 @@ edge-166.usqas5.icloud-content.com
 edge-167.defra2.icloud-content.com
 edge-167.sesto4.icloud-content.com
 edge-167.usqas5.icloud-content.com
+edge-168.defra2.icloud-content.com
 edge-168.sesto4.icloud-content.com
 edge-168.usqas5.icloud-content.com
 edge-168.usuyk1.icloud-content.com
@@ -18277,6 +18279,7 @@ edge-283.usdal2.icloud-content.com
 edge-283.usmia1.icloud-content.com
 edge-283.usqas5.icloud-content.com
 edge-284.sesto4.icloud-content.com
+edge-286.defra2.icloud-content.com
 edge-287.defra2.icloud-content.com
 edge-287.sesto4.icloud-content.com
 edge-288.defra2.icloud-content.com
@@ -18327,6 +18330,7 @@ edge-313.defra2.icloud-content.com
 edge-314.defra2.icloud-content.com
 edge-315.defra2.icloud-content.com
 edge-315.usdal2.icloud-content.com
+edge-316.defra2.icloud-content.com
 edge-316.usdal2.icloud-content.com
 edge-317.defra2.icloud-content.com
 edge-318.defra2.icloud-content.com
@@ -29301,6 +29305,7 @@ globalds.corp.adobe.com
 global.identity.adobe.com
 globalize.corp.adobe.com
 globods1-79.googleapis.com
+gls.byteoversea.net
 glucosidase.adobeaemcloud.net
 gmail-smtp-in.l.google.com
 gm.corp.adobe.com
@@ -29677,6 +29682,7 @@ gtmaiap1.corp.adobe.com
 gtmaiap2.corp.adobe.com
 gtmaiap3.corp.adobe.com
 gtmaiap.corp.adobe.com
+gtm.byteoversea.net
 gtm-innovation.api.openai.com
 gtp-activemq.corp.adobe.com
 gtp-activemq-stage.corp.adobe.com
@@ -29735,6 +29741,8 @@ h5games-dev.corp.google.com
 h5games-prod.corp.google.com
 h5games-staging.corp.google.com
 h5player.bytedance.com
+h5player.bytedance.com.queniusz.com
+h5player.bytedance.com.w.cdngslb.com
 h6n1.devices.resinstaging.io
 h9hz.adobeaemcloud.net
 hackearinstagram.com
@@ -30044,6 +30052,7 @@ hostmaster.ttpifa.com
 hostmaster.ttrip-outpost.site
 hostmaster.tweetyourbrand.com
 hostmaster.www.twitterussian.freehst.com
+host.ttk.ru
 hotapi16-normal-alisg.tiktokv.com
 hotapi16-normal-alisg.tiktokv.com.edgekey.net
 hotapi16-normal-useast1a.tiktokv.com
@@ -30425,6 +30434,7 @@ iltcl1-corpclient-vpn.euro.apple.com
 iltcl1-dcvpnclient-vpn11.euro.apple.com
 il-tlv.prod.surfshark.com
 imagebuilder.adobe.com
+image-cache-alisg.byteoversea.net
 imagefactory.corp.adobe.com
 imagefactory-qa.corp.adobe.com
 imageinfo.adobe.com
@@ -30485,6 +30495,7 @@ imss-stage.corp.adobe.com
 im-ws-sg.tiktok.com
 im-ws.tiktok.com
 im-ws.tiktok.com.edgesuite.net
+im-ws.tiktok.com.ttdns2.com
 in1.documents.adobe.com
 in1.documentsstage.adobe.com
 in.adobe.com
@@ -30550,6 +30561,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -32859,7 +32871,6 @@ misc.google.com
 misc-sni.google.com
 misc-sni.youtube.com
 miulo.githubusercontent.com
-mixpanel.com
 mizbanfa.net--google.com
 mj5.corp.adobe.com
 mk6z.googleapis.com
@@ -32892,7 +32903,6 @@ mm.lazerpenguin.com
 mm-nyt.prod.surfshark.com
 mmsbackup.pa.googleapis.com
 mmw.apple.com
-mmx-ds.cdn.whatsapp.net
 mn.apple.com
 mn.lazerpenguin.com
 mn-uln.prod.surfshark.com
@@ -33814,7 +33824,6 @@ oac-dev.adobe.com
 oac-qe2.adobe.com
 oac-stage2.adobe.com
 oae.ttweb.net
-oaistatic.com
 oalm.googleapis.com
 oauth2.googleapis.com
 oauthaccountmanager.googleapis.com
@@ -34813,6 +34822,7 @@ origin-discussions-kr.apple.com
 origin-discussions-kr-dr.apple.com
 origin-discussions-us.apple.com
 origin.gateway.icloud.com
+origin.image-cache-alisg-v3.sg-central.byteglb.com
 origin.image-cache-clover.no1a.tiktoklb.eu
 origin-info-mdn.apple.com
 origin-info-prn.apple.com
@@ -45827,6 +45837,7 @@ qk1m.adobeaemcloud.com
 qkbm.githubusercontent.com
 q-l7.googleapis.com
 qm29el3k.ovslegodl.sched.ovscdns.com
+QM5PLTVGT58OIDCQEQD26CJMR2UPIFSL.bing
 qnfe.githubusercontent.com
 qoexsj-dnsotls-ds.metric.gstatic.com
 QOKRcXKVoVgP.adobe.com
@@ -52547,7 +52558,6 @@ static-p46175-e229011.adobeaemcloud.com
 static-p53839-e349852.adobeaemcloud.com
 static-send.openai.com
 static-sjc3-1.xx.fbcdn.net
-statics.moonshot.cn.volcgslb.com
 staticxx.facebook.com
 static.xx.fbcdn.net
 static-zrh1-1.xx.fbcdn.net
@@ -53261,6 +53271,7 @@ tgrc.corp.adobe.com
 tg-tt.com
 thailand-ca-version-2.expressnetw.com
 thaka.bing.com
+thaka.bing.com.edgekey.net
 thankyou.backblaze.com
 th.bing.com
 th.bing.com.cdn.cloudflare.net
@@ -53306,7 +53317,6 @@ tidewater.preview.claude.ai
 tikgenie.corp.adobe.com
 tiktok.bytedance.map.fastly.net
 tiktok.freeflow.sched.ovscdns.net
-tiktok.tv
 tiktokv.com
 tiktokvn.top
 time1.google.com
@@ -53552,9 +53562,12 @@ ts.itunes.apple.com
 t-stg.mail.adobe.com
 t-stgtrigger.email.adobe.com
 ts.withgoogle.com
+*.ttennis.nl
 t.tiktok.com.edgesuite.net
 tt.lazerpenguin.com
 ttlivecdn.com
+ttn.ne.jp
+ttob.ru
 ttoverseaus.net
 ttplugins.ttpsdk.info
 ttranlate.xn--google.com
@@ -54569,6 +54582,7 @@ vb-webmail-pbz-prod.spbz.apple.com
 vbydadro3hojnxew97gqscg2njnxlkuh.olekoffsekjully.tt3cptqeu5ue.kerifqfdbmnly6ndgelt2ixqqs8t6.dstf.z.zgyfq2jbz.jgpfcoa3tdww.yfefkm.hwws4atd7eoqmim.wcps63bkddr0.shofha.online
 vc3akeetggry.qwwglwxipm4ssyj.3c0ux0.ttati217ptcwp4gyi6bj9jlfo5ig3ejw8kssotaondnmj5.ogjox3xu.t.hwws4atd7eoqmim.wcps63bkddr0.shofha.online
 vcf.bing.com
+vcf-dns.bing.com.cdn.cloudflare.net
 vc.lazerpenguin.com
 vc-no1-mgmt-sz1.corp.adobe.com
 vc-no1-sz1.corp.adobe.com
@@ -54948,7 +54962,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 weaver.adobe.com
 web12276.adobeaemcloud.net
 web2www.m.facebook.com---------------returnnow-info.drivethruvideos.com
