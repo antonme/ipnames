@@ -118677,3 +118677,10 @@ Fri Oct  2 09:59:47 AM MSK 2026                dns-tunnelbear.txt  >resolve-tunn
 Fri Oct  2 10:08:39 AM MSK 2026                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
 Fri Oct  2 10:14:43 AM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
 Fri Oct  2 10:26:10 AM MSK 2026                ext-dns-twitter.txt  >ext-resolve-twitter.txt
+[master 2c2f7882] auto-update merged
+ 49 files changed, 19614 insertions(+), 22413 deletions(-)
+ delete mode 100644 merged/ipv4-twitter.cidr
+Fri Oct  2 10:33:07 AM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
+Fri Oct  2 10:41:08 AM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
+Fri Oct  2 11:24:46 AM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Fri Oct  2 11:24:56 AM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
