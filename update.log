@@ -118684,3 +118684,5 @@ Fri Oct  2 10:33:07 AM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolv
 Fri Oct  2 10:41:08 AM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
 Fri Oct  2 11:24:46 AM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
 Fri Oct  2 11:24:56 AM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
+[master e26ce59b] auto-update ipv4
+ 7 files changed, 3911 insertions(+), 4263 deletions(-)
