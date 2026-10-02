@@ -11,7 +11,6 @@ aamt.apple.com
 aamtinternal.apple.com
 aaplimg.com
 ab.apple.com.akadns.net
-ab-apple-com.v.aaplimg.com
 acam.apple.com
 acaminternal.apple.com
 acaminternal-mdn.apple.com
@@ -1463,6 +1462,7 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
+configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -2412,6 +2412,7 @@ edge-073.usden6.icloud-content.com
 edge-073.usqas5.icloud-content.com
 edge-073.usuyk1.icloud-content.com
 edge-074.deber3.icloud-content.com
+edge-074.defra2.icloud-content.com
 edge-074.gbslo5.icloud-content.com
 edge-074.usbos2.icloud-content.com
 edge-074.usdal2.icloud-content.com
@@ -2524,6 +2525,7 @@ edge-089.usbos2.icloud-content.com
 edge-089.usqas5.icloud-content.com
 edge-089.usuyk1.icloud-content.com
 edge-090.deber3.icloud-content.com
+edge-090.defra2.icloud-content.com
 edge-090.gbmnc1.icloud-content.com
 edge-090.nlhfd1.icloud-content.com
 edge-090.sesto4.icloud-content.com
@@ -3463,6 +3465,7 @@ edge-295.sesto4.icloud-content.com
 edge-295.usdal2.icloud-content.com
 edge-296.defra2.icloud-content.com
 edge-296.sesto4.icloud-content.com
+edge-297.defra2.icloud-content.com
 edge-297.sesto4.icloud-content.com
 edge-298.defra2.icloud-content.com
 edge-298.sesto4.icloud-content.com
@@ -3511,11 +3514,13 @@ edge-332.defra2.icloud-content.com
 edge-333.defra2.icloud-content.com
 edge-334.defra2.icloud-content.com
 edge-335.defra2.icloud-content.com
+edge-336.defra2.icloud-content.com
 edge-337.defra2.icloud-content.com
 edge-338.defra2.icloud-content.com
 edge-339.defra2.icloud-content.com
 edge-341.defra2.icloud-content.com
 edge-342.defra2.icloud-content.com
+edge-344.defra2.icloud-content.com
 edge-345.defra2.icloud-content.com
 edge-346.defra2.icloud-content.com
 edge-347.defra2.icloud-content.com
@@ -4088,6 +4093,7 @@ gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-kr-ssl.ls.apple.com
 gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
+gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -4324,7 +4330,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -5183,6 +5188,7 @@ oc.apple.com
 ocservice.apple.com
 ocsp2.apple.com
 ocsp2.apple.com.edgekey.net
+ocsp2.apple.com.edgesuite.net
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
 ocsp2-us-lb.apple.com.akadns.net
@@ -14558,7 +14564,6 @@ stg-smp-paymentservices.apple.com
 stix.apple.com
 stix-partner-ui-use1.apple.com
 stix-partner-ui-usw2.apple.com
-stls-migration.v.aaplimg.com
 stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
@@ -14745,6 +14750,7 @@ tempo-api-int-v2.bswe.apple.com
 test167.kip.apple.com
 testflight.apple.com
 testflight.apple.com.edgekey.net
+testflight.apple.com.edgesuite.net
 test-wwfde-ftp.apple.com
 test-wwfde-http.apple.com
 test-wwfde-udp.apple.com
@@ -15326,6 +15332,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web-carry.push.apple.com
 webcourier-carry.push.apple.com
 webcourier-cn.push.apple.com
