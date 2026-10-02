@@ -118653,3 +118653,27 @@ Fri Oct  2 06:30:03 AM MSK 2026                dns-openai.txt  >resolve-openai.t
 ===anthropic
 
 == Save names archive
+[master ac5303e4] auto-update names
+ 8 files changed, 2673 insertions(+), 502 deletions(-)
+
+== Resolving external names to ipv4
+Fri Oct  2 06:49:28 AM MSK 2026                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Fri Oct  2 07:05:23 AM MSK 2026                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Fri Oct  2 07:05:31 AM MSK 2026                ext-dns-apple.txt  >ext-resolve-apple.txt
+Fri Oct  2 07:10:07 AM MSK 2026                dns-ozon.txt  >resolve-ozon.txt
+Fri Oct  2 07:20:06 AM MSK 2026                dns-pornhub.txt  >resolve-pornhub.txt
+Fri Oct  2 07:26:38 AM MSK 2026                dns-surfshark.txt  >resolve-surfshark.txt
+Fri Oct  2 07:35:47 AM MSK 2026                dns-tiktok.txt  >resolve-tiktok.txt
+Fri Oct  2 07:39:32 AM MSK 2026                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Fri Oct  2 07:57:33 AM MSK 2026                ext-dns-bing.txt  >ext-resolve-bing.txt
+Fri Oct  2 07:58:44 AM MSK 2026                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Fri Oct  2 08:49:34 AM MSK 2026                ext-dns-github.txt  >ext-resolve-github.txt
+Fri Oct  2 09:05:02 AM MSK 2026                ext-dns-google.txt  >ext-resolve-google.txt
+Fri Oct  2 09:48:53 AM MSK 2026                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Fri Oct  2 09:49:00 AM MSK 2026                ext-dns-openai.txt  >ext-resolve-openai.txt
+Fri Oct  2 09:51:04 AM MSK 2026                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Fri Oct  2 09:52:09 AM MSK 2026                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Fri Oct  2 09:59:47 AM MSK 2026                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Fri Oct  2 10:08:39 AM MSK 2026                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Fri Oct  2 10:14:43 AM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
+Fri Oct  2 10:26:10 AM MSK 2026                ext-dns-twitter.txt  >ext-resolve-twitter.txt
