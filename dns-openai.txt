@@ -33,6 +33,7 @@ auth.openai.com.cdn.cloudflare.net
 avocado.fde.openai.com
 aw.api.openai.com
 bbva-iat.mtls.presence.openai.com
+bbva.proxy.staging-presence.openai.com
 beta.api.openai.com
 beta.openai.com
 blog.openai.com
@@ -69,8 +70,13 @@ coconut.fde.openai.com
 codex-cloud-backend.chatgpt.com
 codex-cloud-environments.chatgpt.com
 codex-portals.api.openai.com
+codex-portals.gateway.unified-208.api.openai.com
 codex-portals.gateway.unified-209.api.openai.com
+codex-portals.gateway.unified-210.api.openai.com
+codex-portals.gateway.unified-211.api.openai.com
 codex-portals.gateway.unified-212.api.openai.com
+codex-portals.gateway.unified-213.api.openai.com
+codex-portals.gateway.unified-215.api.openai.com
 community.openai.com
 connector_693864f100e4819093e6ed9b651239f1.web-sandbox.oaiusercontent.com
 connector-openai-deep-research.web-sandbox.oaiusercontent.com
@@ -513,6 +519,7 @@ mtls.auth.openai.com
 nb-chatgpt.com
 nori.api.openai.com
 nori-webhooks.api.openai.com
+oaistatic.com
 observability-webhook.api.openai.com
 ogimg.chatgpt.com
 okchatgpt.com

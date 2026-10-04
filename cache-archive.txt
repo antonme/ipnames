@@ -1024,6 +1024,8 @@ a7220688-d6a2-4790-b9ad-d7e74619b30c-netseer-ipaddr-assoc.xz.fbcdn.net
 A722D965-B25F-41CD-816C-DDBB9AE09F80-netseer-ipaddr-assoc.xz.fbcdn.net
 A7261AD3-CDA2-44F4-98C8-971E75326A88-netseer-ipaddr-assoc.xy.fbcdn.net
 A7261AD3-CDA2-44F4-98C8-971E75326A88-netseer-ipaddr-assoc.xz.fbcdn.net
+A727864C-A7EE-4682-A91A-ACD898DA14E8-netseer-ipaddr-assoc.xy.fbcdn.net
+A727864C-A7EE-4682-A91A-ACD898DA14E8-netseer-ipaddr-assoc.xz.fbcdn.net
 a72d987d-25d5-48d2-a030-93d5dc964d24-netseer-ipaddr-assoc.xz.fbcdn.net
 A731A89C-1D68-4414-B612-92FFE64FCDB5-netseer-ipaddr-assoc.xy.fbcdn.net
 A731A89C-1D68-4414-B612-92FFE64FCDB5-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -2015,6 +2017,12 @@ acivr-cds3-secondary-pbz-stage.aweuc1.spbz.apple.com
 acivr-cds3-secondary-pbz-stage.aweuw1.spbz.apple.com
 acivr-cds3-secondary-pbz-stage.awuse1.spbz.apple.com
 acivr-cds3-secondary-pbz-stage.awusw2.spbz.apple.com
+acivr-datasync3-secondary-pbz-stage.awapne1.spbz.apple.com
+acivr-datasync3-secondary-pbz-stage.awapse1.spbz.apple.com
+acivr-datasync3-secondary-pbz-stage.aweuc1.spbz.apple.com
+acivr-datasync3-secondary-pbz-stage.aweuw1.spbz.apple.com
+acivr-datasync3-secondary-pbz-stage.awuse1.spbz.apple.com
+acivr-datasync3-secondary-pbz-stage.awusw2.spbz.apple.com
 acivr-enterprise1-primary-pbz.corp.apple.com
 acivr-enterprise1-secondary-pbz.corp.apple.com
 acivr-enterprise3-primary-pbz.corp.apple.com
@@ -2035,6 +2043,7 @@ acivr-mlq3-secondary-pbz.corp.apple.com
 acivr-mlq4-primary-pbz.corp.apple.com
 acivr-odin-datasync1-primary-pbz.corp.apple.com
 acivr-odin-datasync1-secondary-pbz.corp.apple.com
+acivr-odin-datasync3-secondary-pbz.corp.apple.com
 acivr-parrot1-primary-pbz.corp.apple.com
 acivr-parrot1-secondary-pbz.corp.apple.com
 acivr-parrot3-primary-pbz.corp.apple.com
@@ -3152,7 +3161,9 @@ amp-api.books.apple.com
 amp-api.books.apple.com.edgekey.net
 amp-api-books-cdn-lb.itunes-apple.com.akadns.net
 amp-api-books-lb.itunes-apple.com.akadns.net
+amp-api-conversation.apps.apple.com
 amp-api-conversation.media.apple.com
+amp-api-conversation.music.apple.com
 amp-api.corp.adobe.com
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
@@ -3673,6 +3684,7 @@ api-lookup-aeus2a.smoot.apple.com
 api-lookup-aeuw1b.smoot.apple.com
 api-lookup-ausw2b.smoot.apple.com
 api-lookup-ausw2c.smoot.apple.com
+api-lookup-ci.smoot.apple.com
 api-lookup.smoot.apple.com
 api-manage-broadcast-mr.push.apple.com
 api-manage-broadcast-mr.sandbox.push.apple.com
@@ -3748,9 +3760,12 @@ api.service.dme1.g.byteoversea.net
 apis.google.com
 api.shazam.apple.com
 api.simpletwitter.tk
+api-siri-aapne1a.smoot.apple.com
+api-siri-aapne1c.smoot.apple.com
 api-siri-ausw2b.smoot.apple.com
 api-siri-ausw2c.smoot.apple.com
 api-siri-prod.apple.com
+api-siri.smoot.apple.com
 api.smoot.apple.com
 api.spark.adobe.com
 api.sports.apple.com
@@ -3903,6 +3918,7 @@ apne1-wwfde-wave.apple.com
 apne2-wwfde-ping.apple.com
 apne2-wwfde-tcp.apple.com
 apne2-wwfde-udp.apple.com
+ap-northeast-1.dev.sharedservices.frame.io
 apns-carry.isoproxy.apple.com
 apns-mr-prod.isoproxy.apple.com
 apns-mr-sand.isoproxy.apple.com
@@ -4187,6 +4203,7 @@ apse2-wwfde-ping.apple.com
 apse2-wwfde-tcp.apple.com
 apse2-wwfde-udp.apple.com
 apse2-wwfde-wave.apple.com
+ap-southeast-2.dev.sharedservices.frame.io
 aps-portal.corp.apple.com
 aps-portal-prod.apay.apple.com
 aps-portal-te-pbz-prod1-use1.apay.apple.com
@@ -6549,6 +6566,7 @@ bbna.corp.adobe.com
 bbrd.googleapis.com
 bbs.ttennis.nl
 bbva-iat.mtls.presence.openai.com
+bbva.proxy.staging-presence.openai.com
 BC00FB86-B8EF-4B51-9A90-692B76BD8532-netseer-ipaddr-assoc.xy.fbcdn.net
 BC00FB86-B8EF-4B51-9A90-692B76BD8532-netseer-ipaddr-assoc.xz.fbcdn.net
 BC0911F8-3195-4E08-8383-7476205CE446-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -9036,6 +9054,8 @@ cabana-server.cdn-apple.com
 cabana-server.lb-apple.com.akadns.net
 cabcfa04-3370-4e76-bbc7-830bedeb16ba-netseer-ipaddr-assoc.xy.fbcdn.net
 cabcfa04-3370-4e76-bbc7-830bedeb16ba-netseer-ipaddr-assoc.xz.fbcdn.net
+CABD8897-1941-4B29-AEFA-F9A7915D427B-netseer-ipaddr-assoc.xy.fbcdn.net
+CABD8897-1941-4B29-AEFA-F9A7915D427B-netseer-ipaddr-assoc.xz.fbcdn.net
 CABFD59C-8CED-4567-A4F5-451DDE68E7F0-netseer-ipaddr-assoc.xy.fbcdn.net
 CABFD59C-8CED-4567-A4F5-451DDE68E7F0-netseer-ipaddr-assoc.xz.fbcdn.net
 cac030a2-b6d7-4ede-abbf-486295411f80-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -9050,6 +9070,7 @@ cac75266ef1c7583bffcb1851cffdc3a.safeframe.googlesyndication.com
 CAC7EBCC-4A26-45D7-928B-CD42D042C747-netseer-ipaddr-assoc.xy.fbcdn.net
 CAC7EBCC-4A26-45D7-928B-CD42D042C747-netseer-ipaddr-assoc.xz.fbcdn.net
 cacc2efc8e8b9a3.ad.corp.google.com
+ca-central-1.dev.sharedservices.frame.io
 ca-certauth.corp.adobe.com
 CACFFD73-D584-49FD-9651-58CFC0195F06-netseer-ipaddr-assoc.xy.fbcdn.net
 CACFFD73-D584-49FD-9651-58CFC0195F06-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -9189,6 +9210,9 @@ caometrics-stage.corp.adobe.com
 cao-v2.corp.adobe.com
 cao-v2-org.corp.adobe.com
 capa200-61.brd.tts.magadan.su
+capexsystems.mdn.spbz.apple.com
+capexsystems.msc.spbz.apple.com
+capexsystems.sci.sap.apple.com
 c.apple.com
 c.apple.news
 caps.twitter.com
@@ -10872,8 +10896,13 @@ codex.corp.adobe.com
 codex-dev-argocd.corp.adobe.com
 codex-dev.corp.adobe.com
 codex-portals.api.openai.com
+codex-portals.gateway.unified-208.api.openai.com
 codex-portals.gateway.unified-209.api.openai.com
+codex-portals.gateway.unified-210.api.openai.com
+codex-portals.gateway.unified-211.api.openai.com
 codex-portals.gateway.unified-212.api.openai.com
+codex-portals.gateway.unified-213.api.openai.com
+codex-portals.gateway.unified-215.api.openai.com
 codex-prod.corp.adobe.com
 codex-prod-or1-vip.corp.adobe.com
 codex-qa-argocd.corp.adobe.com
@@ -11103,6 +11132,7 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
+configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -11392,6 +11422,7 @@ credential-service-or2.identity.adobe.com
 credential-service-va6.identity.adobe.com
 credently.googleapis.com
 credit-russa-43.tts.nov.ru
+crimson-stg.corp.apple.com
 crl.apple.com
 crl.apple.com.edgesuite.net
 cr.lazerpenguin.com
@@ -11465,6 +11496,7 @@ cssvc-it.apple.com
 cssvc-mdn.apple.com
 cssvc-prz.apple.com
 cssvc-stage.prz.sbz.apple.com
+cssvc-uat.awusw2.sbz.apple.com
 cssvc-ut.apple.com
 cssvc-ut-mdn.apple.com
 cssvc-ut-prz.apple.com
@@ -13142,6 +13174,7 @@ data.email.adobe.com
 data.emaillpb.adobe.com
 data.email.podcast.adobe.com
 data.employeecommunications.adobe.com
+data.experience.backblaze.com
 datafusion-api.cloud.google.com
 datafusion-api-dev.cloud.google.com
 datafusion-api-staging.cloud.google.com
@@ -14972,6 +15005,8 @@ E18D25FC-1C43-495D-9915-83BC3A3B8D7F-netseer-ipaddr-assoc.xy.fbcdn.net
 E18D25FC-1C43-495D-9915-83BC3A3B8D7F-netseer-ipaddr-assoc.xz.fbcdn.net
 E1925C90-5266-4FD5-876F-7EA5972F1934-netseer-ipaddr-assoc.xy.fbcdn.net
 E1925C90-5266-4FD5-876F-7EA5972F1934-netseer-ipaddr-assoc.xz.fbcdn.net
+E19365A5-1C7C-45C5-8A95-5C78151C4661-netseer-ipaddr-assoc.xy.fbcdn.net
+E19365A5-1C7C-45C5-8A95-5C78151C4661-netseer-ipaddr-assoc.xz.fbcdn.net
 e195feef-df0c-4bb7-8a91-b76dd09769f3-netseer-ipaddr-assoc.xy.fbcdn.net
 e195feef-df0c-4bb7-8a91-b76dd09769f3-netseer-ipaddr-assoc.xz.fbcdn.net
 e1962f3b5a0503a5fc51d91a8bc863cd.safeframe.googlesyndication.com
@@ -16410,6 +16445,8 @@ ec1bc216-4fbb-4748-a008-e0efdf31de10-netseer-ipaddr-assoc.xy.fbcdn.net
 ec1bc216-4fbb-4748-a008-e0efdf31de10-netseer-ipaddr-assoc.xz.fbcdn.net
 EC1DB58C-4720-431C-B6E9-C0FE4CFE86E6-netseer-ipaddr-assoc.xy.fbcdn.net
 EC1DB58C-4720-431C-B6E9-C0FE4CFE86E6-netseer-ipaddr-assoc.xz.fbcdn.net
+ec225328-db6e-4db8-acf8-0991e570759d-netseer-ipaddr-assoc.xy.fbcdn.net
+ec225328-db6e-4db8-acf8-0991e570759d-netseer-ipaddr-assoc.xz.fbcdn.net
 EC288CF3-A62F-42E0-B411-30EDC8DE41D8-netseer-ipaddr-assoc.xy.fbcdn.net
 EC288CF3-A62F-42E0-B411-30EDC8DE41D8-netseer-ipaddr-assoc.xz.fbcdn.net
 ec2a9e50-09fe-4c76-ac9b-3284e6040473-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -18016,6 +18053,7 @@ edge-182.usdal2.icloud-content.com
 edge-182.usqas5.icloud-content.com
 edge-182.usuyk1.icloud-content.com
 edge-183.defra2.icloud-content.com
+edge-183.nlhfd1.icloud-content.com
 edge-183.sesto4.icloud-content.com
 edge-183.uschi7.icloud-content.com
 edge-183.usqas5.icloud-content.com
@@ -19020,6 +19058,7 @@ enews.apple.com
 engage.email.frame.io
 engagement.adobe.com
 engagementlens.corp.adobe.com
+engage.mktp.apple.com
 engagertc-gateway.ccvoice.apple.com
 enroll.apple.com
 enso-timelinebck-osv-stage.awuse1.spbz.apple.com
@@ -19644,6 +19683,8 @@ F0439DFC-67A0-4F83-91A4-7DB91C0E2C10-netseer-ipaddr-assoc.xy.fbcdn.net
 F0439DFC-67A0-4F83-91A4-7DB91C0E2C10-netseer-ipaddr-assoc.xz.fbcdn.net
 F045D2A8-CBC0-4D2E-9A64-1C7BDE555201-netseer-ipaddr-assoc.xy.fbcdn.net
 F045D2A8-CBC0-4D2E-9A64-1C7BDE555201-netseer-ipaddr-assoc.xz.fbcdn.net
+f0467e2c-7317-4b98-a416-c39a5e488cd7-netseer-ipaddr-assoc.xy.fbcdn.net
+f0467e2c-7317-4b98-a416-c39a5e488cd7-netseer-ipaddr-assoc.xz.fbcdn.net
 F04D8CF3-67F3-4EE1-8B75-157F0566BB9F-netseer-ipaddr-assoc.xy.fbcdn.net
 F04D8CF3-67F3-4EE1-8B75-157F0566BB9F-netseer-ipaddr-assoc.xz.fbcdn.net
 F04F42A8-362F-4E6C-8F3C-350A9C9A9556-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -19745,6 +19786,8 @@ F11240CF-7834-4713-84A2-585D4D25D5B4-netseer-ipaddr-assoc.xy.fbcdn.net
 F11240CF-7834-4713-84A2-585D4D25D5B4-netseer-ipaddr-assoc.xz.fbcdn.net
 F1163288-82B2-405B-82EE-B7252B815E87-netseer-ipaddr-assoc.xy.fbcdn.net
 F1163288-82B2-405B-82EE-B7252B815E87-netseer-ipaddr-assoc.xz.fbcdn.net
+f119eddd-7221-48da-a3a1-fab5b142a5c9-netseer-ipaddr-assoc.xy.fbcdn.net
+f119eddd-7221-48da-a3a1-fab5b142a5c9-netseer-ipaddr-assoc.xz.fbcdn.net
 F11BC4B2-DF10-4C5F-A026-AA2FA6005CE8-netseer-ipaddr-assoc.xy.fbcdn.net
 F11BC4B2-DF10-4C5F-A026-AA2FA6005CE8-netseer-ipaddr-assoc.xz.fbcdn.net
 f11df979-ffde-4f67-9e20-94e970d42dd9-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -19887,6 +19930,8 @@ F20AF0F8-8BC1-4FB8-984D-BE9853F0E771-netseer-ipaddr-assoc.xy.fbcdn.net
 F20AF0F8-8BC1-4FB8-984D-BE9853F0E771-netseer-ipaddr-assoc.xz.fbcdn.net
 F20E8B81-1D98-40C4-BB66-01AA41B3DBAB-netseer-ipaddr-assoc.xy.fbcdn.net
 F20E8B81-1D98-40C4-BB66-01AA41B3DBAB-netseer-ipaddr-assoc.xz.fbcdn.net
+F2100174-684C-4988-BFFA-7C3F451063E6-netseer-ipaddr-assoc.xy.fbcdn.net
+F2100174-684C-4988-BFFA-7C3F451063E6-netseer-ipaddr-assoc.xz.fbcdn.net
 F2196227-168C-4FA7-8329-3E72C562FC7B-netseer-ipaddr-assoc.xy.fbcdn.net
 F2196227-168C-4FA7-8329-3E72C562FC7B-netseer-ipaddr-assoc.xz.fbcdn.net
 F21E3CD3-2CAA-433A-9393-A96566241B13-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -20480,6 +20525,8 @@ F67FD997-B0F3-4E37-B1B4-2C984D83779D-netseer-ipaddr-assoc.xy.fbcdn.net
 F67FD997-B0F3-4E37-B1B4-2C984D83779D-netseer-ipaddr-assoc.xz.fbcdn.net
 F68048FF-2574-4FA9-BDC7-FFF71E094938-netseer-ipaddr-assoc.xy.fbcdn.net
 F68048FF-2574-4FA9-BDC7-FFF71E094938-netseer-ipaddr-assoc.xz.fbcdn.net
+F6822B8D-94BF-473D-A977-4872F5E8FB81-netseer-ipaddr-assoc.xy.fbcdn.net
+F6822B8D-94BF-473D-A977-4872F5E8FB81-netseer-ipaddr-assoc.xz.fbcdn.net
 f692972e3813494f1da91944ef1a50ec.safeframe.googlesyndication.com
 F6953F92-64FF-43B0-AFF7-28100EE5C12B-netseer-ipaddr-assoc.xy.fbcdn.net
 F6953F92-64FF-43B0-AFF7-28100EE5C12B-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -30528,6 +30575,8 @@ id-jak.prod.surfshark.com
 id.lazerpenguin.com
 idmsa.apple.com
 idmsac.apple.com
+idmsac-gg.apple.com
+idmsac-gg.mdn.bz.idms.apple.com
 idmsac.mdn.spbz.apple.com
 idmsac-qa.apple.com
 idmsac-qa-stage.mdn.bz.idms.apple.com
@@ -30766,6 +30815,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -31287,7 +31337,6 @@ itunes.apple.com.edgekey.net
 itunes.apple.com.edgesuite.net
 itunes.assets.itunes.com.edgekey.net
 itunes-cdn.itunes-apple.com.akadns.net
-itunes-cdn-itunes-apple-com.v.aaplimg.com
 itunes.com
 itunesconnect.apple.com
 itunesconnect.apple.com.edgekey.net
@@ -34029,6 +34078,7 @@ oac-dev.adobe.com
 oac-qe2.adobe.com
 oac-stage2.adobe.com
 oae.ttweb.net
+oaistatic.com
 oalm.googleapis.com
 oauth2.googleapis.com
 oauthaccountmanager.googleapis.com
@@ -43487,6 +43537,7 @@ partner-gateway-stage.apple.com
 partnerhub.anthropic.com
 partner.itunes.apple.com
 partnernetwork.apple.com
+partnernetwork-stg.apple.com
 partnerportal.anthropic.com
 partnerportal.backblaze.com
 partnerportal-dev.adobe.com
@@ -46044,6 +46095,7 @@ qk1m.adobeaemcloud.com
 qkbm.githubusercontent.com
 q-l7.googleapis.com
 qm29el3k.ovslegodl.sched.ovscdns.com
+QM5PLTVGT58OIDCQEQD26CJMR2UPIFSL.bing
 qnfe.githubusercontent.com
 qoexsj-dnsotls-ds.metric.gstatic.com
 QOKRcXKVoVgP.adobe.com
@@ -49580,6 +49632,8 @@ rr4---sn-aj5go5-5i.googlevideo.com
 rr4---sn-aj5go5-5p.googlevideo.com
 rr4.sn-aj5goc-5j.googlevideo.com
 rr4---sn-aj5goc-5j.googlevideo.com
+rr4.sn-aj5goc-5x.googlevideo.com
+rr4---sn-aj5goc-5x.googlevideo.com
 rr4.sn-aj5ua5-59.googlevideo.com
 rr4---sn-aj5ua5-59.googlevideo.com
 rr4.sn-ajab55-55.googlevideo.com
@@ -51772,7 +51826,6 @@ sharedfiles.apple.com
 sharedfiles-prod.apple.com
 sharedservices.frame.io
 shared-stage-assets.adobe.com
-share.google
 share.icloud.com
 share.openai.com
 sha-sq-carrier.sbz.apple.com
@@ -52484,6 +52537,7 @@ spog-qa.corp.adobe.com
 spog-stage.corp.adobe.com
 sports.apple.com
 sportskit-api.cdn-apple.com
+spotify.com
 spotlights-feed.github.com
 spot-pa.googleapis.com
 sp-preprod.auth.adobe.com
@@ -52499,6 +52553,8 @@ sq-carrier-stage.apple.com
 sq-carrier-stage.apple.com.cn
 sq-carrier.tnjcn.sbz.apple.com
 sq-carrier-uat-stage.mdn.sbz.apple.com
+sq-clara-stage.apple.com
+sq-clara-stage.mdn.sbz.apple.com
 sq-clara-uat.apple.com
 sq-device.apple.com
 sq-device-cn.apple.com
@@ -53124,6 +53180,12 @@ supportinsights.adobe.com
 support-lb.apple-support.akadns.net
 supportmetrics.apple.com
 support-monitoring.api.openai.com
+supportsite-it.apple.com
+supportsite-it-stage.mdn.sbz.apple.com
+supportsite-it-stage.rno.sbz.apple.com
+supportsite-uata.apple.com
+supportsite-uata-stage.mdn.sbz.apple.com
+supportsite-uata-stage.rno.sbz.apple.com
 support-sp.apple.com
 support-sp.apple.com.edgekey.net
 support-sp.apple.com-v1.edgesuite.net
@@ -53524,6 +53586,7 @@ thewire.adobeaemcloud.com
 thf.bing.com
 thfvnext.bing.com
 th.lazerpenguin.com
+threads.com
 threads.net
 thunderclap.adobe.com
 ThZRncnSkQXZ.adobelogin.com
@@ -54524,6 +54587,7 @@ usw2-acivr-enterprise4-secondary-pbz-stage.spbz.apple.com
 usw2-acivr-mlq1-secondary-pbz-prod.apple.com
 usw2-acivr-mlq1-secondary-pbz-prod.spbz.apple.com
 usw2-acivr-mlq3-primary-pbz-stage.apple.com
+usw2-acivr-mlq3-primary-pbz-stage.spbz.apple.com
 usw2-acivr-mlq3-secondary-pbz-stage.awusw2.shld.apple.com
 usw2-acivr-mlq3-secondary-pbz-stage.corp.apple.com
 usw2-acivr-mlq4-primary-pbz-stage.apple.com
@@ -55580,6 +55644,7 @@ www.accessibility.corp.adobe.com
 www.accounts.google.com-----------------------------------------------------------a.apapedulimu.click
 www.accounts.google.com.home.setia.ru
 www.accounts.google.com.sync15.com
+wwwaccounts.www.m.facebook.com---------------returnnow-info.drivethruvideos.com
 www.acrobatjs1.corp.adobe.com
 www.acrobatjs.corp.adobe.com
 www.adobe.com
@@ -55605,7 +55670,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.as.adobeaemcloud.com
 www.autodiscover.ord.ozon.ru
 www.backblaze.com
@@ -55777,6 +55841,7 @@ www.instagrammarketingexcellence.teemor.com
 www.instagramtraining-net.partnerwithacoach.com
 www.interngraph.ts.facebook.com------htrjgkngph.afrographics.com
 www-internmc.m.facebook.com---------------returnnow-info.drivethruvideos.com
+www-internmc.www.m.facebook.com---------------returnnow-info.drivethruvideos.com
 www.invest.ozon.ru
 www.itools.info
 www.kamin-tt54.skidku-day4.ru
@@ -55834,6 +55899,7 @@ www.reconnect-m.facebook.com---------------returnnow-info.drivethruvideos.com
 www.reconnect-www.m.facebook.com---------------returnnow-info.drivethruvideos.com
 www.relay.m.facebook.com---------------returnnow-info.drivethruvideos.com
 www.ryuvision.adobe.com
+www.shadow-ts.facebook.com------htrjgkngph.afrographics.com
 www.sherlock-be.corp.adobe.com
 www.sherlock-be-stage.corp.adobe.com
 www.sherlock-kb.corp.adobe.com
@@ -55907,6 +55973,7 @@ www-uat.microsoftcasualgames.bing.com
 www.upload.seller.ozon.ru
 www-useast1a.tiktok.com.edgekey.net
 wwwv5intern.m.facebook.com---------------returnnow-info.drivethruvideos.com
+www.web2www.m.facebook.com---------------returnnow-info.drivethruvideos.com
 www.web.noyeroverseas.com
 www.whiskeyjack.corp.adobe.com
 www.ws.api.ozon.ru

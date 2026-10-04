@@ -92,6 +92,12 @@ acivr-cds3-secondary-pbz-stage.aweuc1.spbz.apple.com
 acivr-cds3-secondary-pbz-stage.aweuw1.spbz.apple.com
 acivr-cds3-secondary-pbz-stage.awuse1.spbz.apple.com
 acivr-cds3-secondary-pbz-stage.awusw2.spbz.apple.com
+acivr-datasync3-secondary-pbz-stage.awapne1.spbz.apple.com
+acivr-datasync3-secondary-pbz-stage.awapse1.spbz.apple.com
+acivr-datasync3-secondary-pbz-stage.aweuc1.spbz.apple.com
+acivr-datasync3-secondary-pbz-stage.aweuw1.spbz.apple.com
+acivr-datasync3-secondary-pbz-stage.awuse1.spbz.apple.com
+acivr-datasync3-secondary-pbz-stage.awusw2.spbz.apple.com
 acivr-enterprise1-primary-pbz.corp.apple.com
 acivr-enterprise1-secondary-pbz.corp.apple.com
 acivr-enterprise3-primary-pbz.corp.apple.com
@@ -112,6 +118,7 @@ acivr-mlq3-secondary-pbz.corp.apple.com
 acivr-mlq4-primary-pbz.corp.apple.com
 acivr-odin-datasync1-primary-pbz.corp.apple.com
 acivr-odin-datasync1-secondary-pbz.corp.apple.com
+acivr-odin-datasync3-secondary-pbz.corp.apple.com
 acivr-parrot1-primary-pbz.corp.apple.com
 acivr-parrot1-secondary-pbz.corp.apple.com
 acivr-parrot3-primary-pbz.corp.apple.com
@@ -280,7 +287,9 @@ amp-api.books.apple.com
 amp-api.books.apple.com.edgekey.net
 amp-api-books-cdn-lb.itunes-apple.com.akadns.net
 amp-api-books-lb.itunes-apple.com.akadns.net
+amp-api-conversation.apps.apple.com
 amp-api-conversation.media.apple.com
+amp-api-conversation.music.apple.com
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
 amp-api-edge.apps.apple.com.edgesuite.net
@@ -522,6 +531,7 @@ api-lookup-aeus2a.smoot.apple.com
 api-lookup-aeuw1b.smoot.apple.com
 api-lookup-ausw2b.smoot.apple.com
 api-lookup-ausw2c.smoot.apple.com
+api-lookup-ci.smoot.apple.com
 api-lookup.smoot.apple.com
 api-manage-broadcast-mr.push.apple.com
 api-manage-broadcast-mr.sandbox.push.apple.com
@@ -562,9 +572,12 @@ api-safari-ause2a.smoot.apple.com
 api-safari.smoot.apple.com
 api-sba.smoot.apple.com
 api.shazam.apple.com
+api-siri-aapne1a.smoot.apple.com
+api-siri-aapne1c.smoot.apple.com
 api-siri-ausw2b.smoot.apple.com
 api-siri-ausw2c.smoot.apple.com
 api-siri-prod.apple.com
+api-siri.smoot.apple.com
 api.smoot.apple.com
 api.sports.apple.com
 api-spotlight-aapne1a.smoot.apple.com
@@ -1199,6 +1212,9 @@ calendar.icloud.com
 calendars-china.icloud.com
 calendars.icloud.com
 calendarws.icloud.com
+capexsystems.mdn.spbz.apple.com
+capexsystems.msc.spbz.apple.com
+capexsystems.sci.sap.apple.com
 c.apple.com
 c.apple.news
 captive.apple.com
@@ -1463,6 +1479,7 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
+configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -1504,6 +1521,7 @@ covid19.apple.com
 cpcontacts.br-apple.com
 creativeimaging-events.infoapps.apple.com
 creatorstudio.apple.com
+crimson-stg.corp.apple.com
 crl.apple.com
 crl.apple.com.edgesuite.net
 crl-lb.apple.com.akadns.net
@@ -1534,6 +1552,7 @@ cssvc-it.apple.com
 cssvc-mdn.apple.com
 cssvc-prz.apple.com
 cssvc-stage.prz.sbz.apple.com
+cssvc-uat.awusw2.sbz.apple.com
 cssvc-ut.apple.com
 cssvc-ut-mdn.apple.com
 cssvc-ut-prz.apple.com
@@ -3022,6 +3041,7 @@ edge-182.usdal2.icloud-content.com
 edge-182.usqas5.icloud-content.com
 edge-182.usuyk1.icloud-content.com
 edge-183.defra2.icloud-content.com
+edge-183.nlhfd1.icloud-content.com
 edge-183.sesto4.icloud-content.com
 edge-183.uschi7.icloud-content.com
 edge-183.usqas5.icloud-content.com
@@ -3558,6 +3578,7 @@ embed.podcasts.apple.com.akadns.net
 embed.tv.apple.com
 encounterdinosaurs.apple.com
 enews.apple.com
+engage.mktp.apple.com
 engagertc-gateway.ccvoice.apple.com
 enroll.apple.com
 enso-timelinebck-osv-stage.awuse1.spbz.apple.com
@@ -4256,6 +4277,8 @@ idiagnostics.apple.com
 idiagnostics.apple.com.akadns.net
 idmsa.apple.com
 idmsac.apple.com
+idmsac-gg.apple.com
+idmsac-gg.mdn.bz.idms.apple.com
 idmsac.mdn.spbz.apple.com
 idmsac-qa.apple.com
 idmsac-qa-stage.mdn.bz.idms.apple.com
@@ -4336,6 +4359,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -4460,7 +4484,6 @@ itunes.apple.com.edgekey.net
 itunes.apple.com.edgesuite.net
 itunes.assets.itunes.com.edgekey.net
 itunes-cdn.itunes-apple.com.akadns.net
-itunes-cdn-itunes-apple-com.v.aaplimg.com
 itunes.com
 itunesconnect.apple.com
 itunesconnect.apple.com.edgekey.net
@@ -13337,6 +13360,7 @@ partner-gateway-dc-stage.apple.com
 partner-gateway-stage.apple.com
 partner.itunes.apple.com
 partnernetwork.apple.com
+partnernetwork-stg.apple.com
 partner-relay.apple.com
 partners.developer.apple.com
 partners-developer-mdn.apple.com
@@ -14503,6 +14527,8 @@ sq-carrier-stage.apple.com
 sq-carrier-stage.apple.com.cn
 sq-carrier.tnjcn.sbz.apple.com
 sq-carrier-uat-stage.mdn.sbz.apple.com
+sq-clara-stage.apple.com
+sq-clara-stage.mdn.sbz.apple.com
 sq-clara-uat.apple.com
 sq-device.apple.com
 sq-device-cn.apple.com
@@ -14711,6 +14737,12 @@ support-gs.apple.com
 support-icloud-apple.com
 support-lb.apple-support.akadns.net
 supportmetrics.apple.com
+supportsite-it.apple.com
+supportsite-it-stage.mdn.sbz.apple.com
+supportsite-it-stage.rno.sbz.apple.com
+supportsite-uata.apple.com
+supportsite-uata-stage.mdn.sbz.apple.com
+supportsite-uata-stage.rno.sbz.apple.com
 support-sp.apple.com
 support-sp.apple.com.edgekey.net
 support-sp.apple.com-v1.edgesuite.net
@@ -15117,6 +15149,7 @@ usw2-acivr-enterprise4-secondary-pbz-stage.spbz.apple.com
 usw2-acivr-mlq1-secondary-pbz-prod.apple.com
 usw2-acivr-mlq1-secondary-pbz-prod.spbz.apple.com
 usw2-acivr-mlq3-primary-pbz-stage.apple.com
+usw2-acivr-mlq3-primary-pbz-stage.spbz.apple.com
 usw2-acivr-mlq3-secondary-pbz-stage.awusw2.shld.apple.com
 usw2-acivr-mlq3-secondary-pbz-stage.corp.apple.com
 usw2-acivr-mlq4-primary-pbz-stage.apple.com
@@ -15426,7 +15459,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.events.shazam.apple.com
