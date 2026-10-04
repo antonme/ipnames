@@ -1479,7 +1479,6 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -4359,7 +4358,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -4484,6 +4482,7 @@ itunes.apple.com.edgekey.net
 itunes.apple.com.edgesuite.net
 itunes.assets.itunes.com.edgekey.net
 itunes-cdn.itunes-apple.com.akadns.net
+itunes-cdn-itunes-apple-com.v.aaplimg.com
 itunes.com
 itunesconnect.apple.com
 itunesconnect.apple.com.edgekey.net
