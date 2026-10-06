@@ -915,6 +915,7 @@ bpcileader.corp.adobe.com
 bpoagent.corp.adobe.com
 bpoagent-stage.corp.adobe.com
 bps-il.adobe.io
+brand-extractor.corp.adobe.com
 brand.frame.io
 brenard.adobeaemcloud.com
 bridge.marketplace.adobe.com
@@ -1222,6 +1223,7 @@ cdn.candidatesexp.adobe.com
 cdn.carnival-uk-dev.test.ajo.adobe.com
 cdn.certificate.test.ajo.adobe.com
 cdn.cip.test.ajo.adobe.com
+cdn.coecomms.dev.ajo.adobe.com
 cdn.cp.adobe.io
 cdn.dg.test.ajo.adobe.com
 cdn.digital.adobe.com
@@ -1359,6 +1361,7 @@ cizv.adobeaemcloud.net
 cjm.adobe.com
 cjm.corp.adobe.com
 cjp.corp.adobe.com
+claude-gateway.corp.adobe.com
 clickhouse.3di.corp.adobe.com
 client.messaging.adobe.com
 clio.adobe.com
@@ -1761,6 +1764,7 @@ datacare-stage.corp.adobe.com
 datacare-uat.corp.adobe.com
 data.carnival-uk-dev.test.ajo.adobe.com
 data.cip.test.ajo.adobe.com
+data.coecomms.dev.ajo.adobe.com
 data.customer-success-apac.adobe.com
 data.dg.test.ajo.adobe.com
 data.e2eprod.repackageaus5.test.ajo.adobe.com
@@ -2154,6 +2158,7 @@ e7a.adobeaemcloud.net
 ea.adobe.com
 e.adobe.com
 eap104126.extern.adobeaemcloud.com
+easymcp.corp.adobe.com
 eb4o.adobeaemcloud.net
 ebook.adobe.com
 ebook.stage.adobe.com
@@ -2677,6 +2682,7 @@ gmii-onyx.corp.adobe.com
 gnexus.corp.adobe.com
 goc-knowledge.corp.adobe.com
 godzilla-api.corp.adobe.com
+gojira.corp.adobe.com
 go-lambda-at-edge.sandbox.frame.io
 gp.corp.adobe.com
 gpza.adobeaemcloud.net
@@ -2768,7 +2774,6 @@ hangers-on.adobeaemcloud.com
 hariri.adobeaemcloud.com
 harmonydl.adobe.com
 harmonydl-stg.corp.adobe.com
-harvardbusinessrevie.tt.omtrdc.net
 has.corp.adobe.com
 hawekye.corp.adobe.com
 hawk-a.corp.adobe.com
@@ -4927,6 +4932,7 @@ pass-stg.corp.adobe.com
 pat-builds-pipeline-backup.ci.corp.adobe.com
 pat-builds-pipeline.ci.corp.adobe.com
 pawnors.adobeaemcloud.com
+payments-ai.corp.adobe.com
 payments-dev.corp.adobe.com
 payrollautomation-qa.corp.adobe.com
 payrollautomation-v2-qa.corp.adobe.com
@@ -5313,6 +5319,8 @@ r0fb.adobeaemcloud.net
 r2d7.adobeaemcloud.com
 r2vq.adobeaemcloud.com
 r5e-.adobeaemcloud.com
+r5-final-test.sites.corp.adobe.com
+r5-s3-test.sites.corp.adobe.com
 r6c8.adobeaemcloud.com
 r6or.adobeaemcloud.net
 r6-w.adobeaemcloud.com
@@ -5823,6 +5831,7 @@ sg-gtmstage.corp.adobe.com
 sgp3.canary.adobe.com
 sg-sfdev2025.corp.adobe.com
 sg-sfqa1.corp.adobe.com
+sg-sfstage2026.corp.adobe.com
 sg-uatstage.corp.adobe.com
 s.gxv.test.ajo.adobe.com
 shared-assets.adobe.com
@@ -6115,7 +6124,6 @@ smartmov.adobeaemcloud.com
 smartspend.corp.adobe.com
 smartspend-qa.corp.adobe.com
 smartspend-stg.corp.adobe.com
-smetrics.linode.com
 smjh.adobeaemcloud.com
 smoke-test1.vibe-deployer.corp.adobe.com
 sms.adobe.com
