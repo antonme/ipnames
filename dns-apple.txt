@@ -11,6 +11,7 @@ aamt.apple.com
 aamtinternal.apple.com
 aaplimg.com
 ab.apple.com.akadns.net
+ab-apple-com.v.aaplimg.com
 acam.apple.com
 acaminternal.apple.com
 acaminternal-mdn.apple.com
@@ -198,6 +199,7 @@ acivr-tng4-primary-pbz-stage.awusw2.spbz.apple.com
 acivr-tng4-secondary-pbz.corp.apple.com
 acivr-tng4-secondary-pbz-stage.awuse1.spbz.apple.com
 acivr-tng4-secondary-pbz-stage.awusw2.spbz.apple.com
+acivr-ufd1-primary-pbz.corp.apple.com
 acivr-ufd1-secondary-pbz.corp.apple.com
 acivr-ufd3-primary-pbz.corp.apple.com
 acivr-ufd3-secondary-pbz.corp.apple.com
@@ -649,6 +651,8 @@ apne1-acivr-profile4-secondary-pbz-stage.spbz.apple.com
 apne1-acivr-textserver1-primary-pbz-prod.apple.com
 apne1-acivr-textserver1-primary-pbz-prod.spbz.apple.com
 apne1-acivr-textserver3-primary-pbz-stage.spbz.apple.com
+apne1-acivr-ufd1-primary-pbz-prod.apple.com
+apne1-acivr-ufd1-primary-pbz-prod.spbz.apple.com
 apne1-acivr-ufd1-secondary-pbz-prod.apple.com
 apne1-acivr-ufd1-secondary-pbz-prod.spbz.apple.com
 apne1-acivr-ufd3-primary-pbz-stage.apple.com
@@ -889,6 +893,8 @@ apse1-acivr-profile4-secondary-pbz-stage.spbz.apple.com
 apse1-acivr-textserver1-primary-pbz-prod.apple.com
 apse1-acivr-textserver1-primary-pbz-prod.spbz.apple.com
 apse1-acivr-textserver3-primary-pbz-stage.spbz.apple.com
+apse1-acivr-ufd1-primary-pbz-prod.apple.com
+apse1-acivr-ufd1-primary-pbz-prod.spbz.apple.com
 apse1-acivr-ufd1-secondary-pbz-prod.apple.com
 apse1-acivr-ufd1-secondary-pbz-prod.spbz.apple.com
 apse1-acivr-ufd3-primary-pbz-stage.apple.com
@@ -1466,6 +1472,7 @@ communities.apple.com
 communities.apple.com.edgekey.net
 communities.apple.com.edgesuite.net
 communities-lb.apple.com.akadns.net
+communities-lb-apple-com.v.aaplimg.com
 communities-row.apple.com.akadns.net
 community.apple.com
 compressor.apple.com
@@ -1559,6 +1566,9 @@ cstat.apple.com.edgesuite.net
 cstat.cdn-apple.com
 cstat-lb.apple.com.akadns.net
 cstat-origin.apple.com
+cudos.apple.com
+cudos.awuse1.sbz.apple.com
+cudos.sbz.apple.com
 curation-feedback.corp.apple.com
 cvws-001.icloud-content.com
 cvws-002.icloud-content.com
@@ -2886,6 +2896,7 @@ edge-141.gbmnc1.icloud-content.com
 edge-141.usdal2.icloud-content.com
 edge-141.usuyk1.icloud-content.com
 edge-142.defra2.icloud-content.com
+edge-142.dkvib11.icloud-content.com
 edge-142.gbmnc1.icloud-content.com
 edge-142.usdal2.icloud-content.com
 edge-142.usuyk1.icloud-content.com
@@ -3690,6 +3701,8 @@ euc1-acivr-profile4-secondary-pbz-stage.spbz.apple.com
 euc1-acivr-textserver1-primary-pbz-prod.apple.com
 euc1-acivr-textserver1-primary-pbz-prod.spbz.apple.com
 euc1-acivr-textserver3-primary-pbz-stage.spbz.apple.com
+euc1-acivr-ufd1-primary-pbz-prod.apple.com
+euc1-acivr-ufd1-primary-pbz-prod.spbz.apple.com
 euc1-acivr-ufd1-secondary-pbz-prod.apple.com
 euc1-acivr-ufd1-secondary-pbz-prod.spbz.apple.com
 euc1-acivr-ufd3-primary-pbz-stage.apple.com
@@ -3779,6 +3792,8 @@ euw1-acivr-profile4-secondary-pbz-stage.spbz.apple.com
 euw1-acivr-textserver1-primary-pbz-prod.apple.com
 euw1-acivr-textserver1-primary-pbz-prod.spbz.apple.com
 euw1-acivr-textserver3-primary-pbz-stage.spbz.apple.com
+euw1-acivr-ufd1-primary-pbz-prod.apple.com
+euw1-acivr-ufd1-primary-pbz-prod.spbz.apple.com
 euw1-acivr-ufd1-secondary-pbz-prod.apple.com
 euw1-acivr-ufd1-secondary-pbz-prod.spbz.apple.com
 euw1-acivr-ufd3-primary-pbz-stage.apple.com
@@ -4133,7 +4148,6 @@ gspe19-kittyhawk-ssl.ls.apple.com
 gspe19-kittyhawk-ssl.ls.apple.com.edgekey.net
 gspe19-kr-ssl.ls.apple.com
 gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
-gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -4160,6 +4174,7 @@ gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
 gspe76-staging.ls.apple.com
+gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-kr-ssl.ls.apple.com
 gspe79-ssl-96.ls.apple.com
@@ -4292,6 +4307,7 @@ idmsa.apple.com
 idmsac.apple.com
 idmsac-gg.apple.com
 idmsac-gg.mdn.bz.idms.apple.com
+idmsac-gg.rno.bz.idms.apple.com
 idmsac.mdn.spbz.apple.com
 idmsac-qa.apple.com
 idmsac-qa-stage.mdn.bz.idms.apple.com
@@ -4693,6 +4709,7 @@ librarydaap-cdn-row.lb-apple.com.akadns.net
 librarydaap.itunes.apple.com
 librarydaap.itunes.apple.com.edgekey.net
 librarydaap.itunes.apple.com-v1.edgesuite.net
+library-sync.music.apple.com
 linear-ak-b-applemp.tv.apple.com
 linear-ak-b-eml.tv.apple.com
 linear-ak-b-enc.tv.apple.com
@@ -5012,6 +5029,7 @@ mesamysalescomp-external.apple.com
 messaging.metrics.icloud.com
 mesu.apple.com
 mesu.apple.com.edgekey.net
+mesu.apple.com.edgesuite.net
 mesu-cdn.apple.com.akadns.net
 mesu-cdn.origin-apple.com.akadns.net
 metrics-config.icloud.com
@@ -14569,6 +14587,7 @@ st11p01ad-ss.iad.apple.com
 st1-dcvpnclient-vpn7.apple.com
 st1-dcvpnclient-vpn8.apple.com
 staging-admin.awusw2.sbz.apple.com
+staging.api.videoapps.creatorstudio.apple.com
 staging-gateway.awusw2.sbz.apple.com
 staging-remote-data-sources.apple.com
 staging-remote-data-sources.apple.com.edgekey.net
@@ -14999,6 +15018,8 @@ use1-acivr-profile-wiremock3-pbz-stage.spbz.apple.com
 use1-acivr-textserver1-primary-pbz-prod.apple.com
 use1-acivr-textserver1-primary-pbz-prod.spbz.apple.com
 use1-acivr-textserver3-primary-pbz-stage.spbz.apple.com
+use1-acivr-ufd1-primary-pbz-prod.apple.com
+use1-acivr-ufd1-primary-pbz-prod.spbz.apple.com
 use1-acivr-ufd1-secondary-pbz-prod.apple.com
 use1-acivr-ufd1-secondary-pbz-prod.spbz.apple.com
 use1-acivr-ufd3-primary-pbz-stage.apple.com
@@ -15200,6 +15221,8 @@ usw2-acivr-profile-wiremock3-pbz-stage.spbz.apple.com
 usw2-acivr-textserver1-primary-pbz-prod.apple.com
 usw2-acivr-textserver1-primary-pbz-prod.spbz.apple.com
 usw2-acivr-textserver3-primary-pbz-stage.spbz.apple.com
+usw2-acivr-ufd1-primary-pbz-prod.apple.com
+usw2-acivr-ufd1-primary-pbz-prod.spbz.apple.com
 usw2-acivr-ufd1-secondary-pbz-prod.apple.com
 usw2-acivr-ufd1-secondary-pbz-prod.spbz.apple.com
 usw2-acivr-ufd3-primary-pbz-stage.apple.com
@@ -15441,6 +15464,7 @@ wkms-public.apple.com
 wkms-public-prod.msc.sbz.apple.com
 wkms-public-prod.prz.sbz.apple.com
 wkms-public-prod.rno.sbz.apple.com
+wms.ls.apple.com
 woolyjumper.sd.apple.com
 wpc-ae-ingestion-external-stage.apple.com
 wpc-content.apple.com
