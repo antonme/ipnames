@@ -2077,6 +2077,7 @@ api-admin-channels-internal-ms.push.apple.com
 api-admin-channels-internal-st.push.apple.com
 api-admin-channels-st.sandbox.push.apple.com
 api-adservices.apple.com
+api-adservices.v.aaplimg.com
 api-aeun1a.smoot.apple.com
 api-aeuw1c.smoot.apple.com
 api-aeuw3c.smoot.apple.com
@@ -10686,6 +10687,7 @@ gspe19-multi-cdn-emea.ls2-apple.com.akadns.net
 gspe19-ssl-e1248.ls.apple.com
 gspe19-ssl-e185.ls.apple.com
 gspe19-ssl-e95.ls.apple.com
+gspe19-ssl.g.aaplimg.com
 gspe19-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com.edgekey.net
 gspe1-ssl.ls.apple.com
@@ -10723,7 +10725,6 @@ gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
 gspe76-staging.ls.apple.com
-gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-kr-ssl.ls.apple.com
@@ -11868,7 +11869,6 @@ jp-vpn.asia.apple.com
 js-cdn.music.apple.com
 js-cdn.music.apple.com.edgesuite.net
 js-cdn-music-lb.itunes-apple.com.akadns.net
-js-cdn-music-lb-itunes-apple-com.v.aaplimg.com
 jsslana.apple.com
 jump.ps.redev.apple.com
 juno-prod-ext.apple.com
@@ -33911,7 +33911,6 @@ stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline.apple.com.edgekey.net
@@ -35465,6 +35464,7 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
+weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -35637,7 +35637,6 @@ www2.apple.com
 www2.seminars.apple.com
 www.ads-apple.com.cn
 www.afl.info.apple.com
-www.airport.us
 www.anat.apple.com
 www.apple.com
 www.apple.com.cn
@@ -35679,7 +35678,6 @@ www.gauravsays.info.apple.com
 www.germany.euro.apple.com
 www.guide.apple.com
 www.holland.euro.apple.com
-www.ibook.info
 www.icloud.com
 www.icloud.com.edgesuite.net
 www.icloud.com-li.ru
@@ -35690,7 +35688,6 @@ www.img1.apple-mapkit.com
 www.info.apple.com
 www.inspectieresultaten.icloud.com
 www.it.nfapeuro.apple.com
-www.itools.info
 www.itunes.com
 www.iworktrialbuy.apple.com
 www.kreasifb.blobstore.apple.com
@@ -35730,7 +35727,6 @@ www.store.apple.com
 wwwsupp2.apple.com
 wwwsupp.apple.com
 www.support.apple.com
-www.thinkdifferent.us
 www.tips.apple.com
 www.trafficexchange.info.apple.com
 www.tsu.blobstore.apple.com
