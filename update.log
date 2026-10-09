@@ -119753,3 +119753,83 @@ Thu Oct  8 01:32:54 PM MSK 2026                ext-dns-vpnhosts.txt  >ipv6-ext-r
 Thu Oct  8 01:47:10 PM MSK 2026                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
 [master 31fbca3b] auto-update ipv6
  9 files changed, 1795 insertions(+), 4277 deletions(-)
+[master 0cb356a4] auto-update ipv6
+ 2 files changed, 2559 insertions(+)
+Fri Oct  9 04:16:35 AM MSK 2026                dns-github.txt  >resolve-github.txt
+Fri Oct  9 04:35:03 AM MSK 2026                dns-google.txt  >resolve-google.txt
+
+
+
+--------------------------------------------------------------------------------
+Fri Oct  9 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: ok
+  googlevideo.com: fetch failed
+  youtube.com: fetch failed
+  ytimg.com: fetch failed
+  facebook.com: ok
+  instagram.com: ok
+  fbcdn.net: ok
+  tiktok.com: fetch failed
+  tiktokv.com: ok
+  tiktokcdn.com: fetch failed
+  bytedance.com: ok
+  openai.com: fetch failed
+  chatgpt.com: fetch failed
+  oaiusercontent.com: fetch failed
+  bing.com: ok
+  microsoft.com: fetch failed
+  twitter.com: fetch failed
+  x.com: fetch failed
+  twimg.com: ok
+  ozon.ru: fetch failed
+  github.com: ok
+  githubusercontent.com: ok
+  apple.com: ok
+  icloud.com: fetch failed
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  adobe.com: ok
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: ok
+  pornhub.com: fetch failed
+  phncdn.com: fetch failed
+  backblaze.com: fetch failed
+  huggingface.co: fetch failed
+  anthropic.com: fetch failed
+  claude.ai: ok
+  total CT names: 10707
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
