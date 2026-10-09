@@ -119911,3 +119911,27 @@ s
 ===anthropic
 
 == Save names archive
+[master f0374bae] auto-update names
+ 6 files changed, 126 insertions(+), 10 deletions(-)
+
+== Resolving external names to ipv4
+Fri Oct  9 06:39:31 AM MSK 2026                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Fri Oct  9 06:56:09 AM MSK 2026                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Fri Oct  9 06:56:15 AM MSK 2026                ext-dns-apple.txt  >ext-resolve-apple.txt
+Fri Oct  9 07:29:07 AM MSK 2026                dns-huggingface.txt  >resolve-huggingface.txt
+Fri Oct  9 07:31:09 AM MSK 2026                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Fri Oct  9 07:32:02 AM MSK 2026                dns-openai.txt  >resolve-openai.txt
+Fri Oct  9 07:49:27 AM MSK 2026                ext-dns-bing.txt  >ext-resolve-bing.txt
+Fri Oct  9 07:50:41 AM MSK 2026                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Fri Oct  9 08:12:49 AM MSK 2026                dns-ozon.txt  >resolve-ozon.txt
+Fri Oct  9 08:21:00 AM MSK 2026                dns-pornhub.txt  >resolve-pornhub.txt
+Fri Oct  9 08:26:21 AM MSK 2026                dns-surfshark.txt  >resolve-surfshark.txt
+Fri Oct  9 08:33:44 AM MSK 2026                dns-tiktok.txt  >resolve-tiktok.txt
+Fri Oct  9 08:43:36 AM MSK 2026                ext-dns-github.txt  >ext-resolve-github.txt
+Fri Oct  9 08:59:44 AM MSK 2026                ext-dns-google.txt  >ext-resolve-google.txt
+Fri Oct  9 09:44:25 AM MSK 2026                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Fri Oct  9 09:44:33 AM MSK 2026                ext-dns-openai.txt  >ext-resolve-openai.txt
+Fri Oct  9 09:46:42 AM MSK 2026                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Fri Oct  9 09:47:47 AM MSK 2026                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Fri Oct  9 10:04:41 AM MSK 2026                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Fri Oct  9 10:22:41 AM MSK 2026                ext-dns-twitter.txt  >ext-resolve-twitter.txt
