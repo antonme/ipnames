@@ -119941,3 +119941,7 @@ Fri Oct  9 10:29:33 AM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolv
 Fri Oct  9 10:37:43 AM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
 Fri Oct  9 10:53:39 AM MSK 2026                dns-tunnelbear.txt  >resolve-tunnelbear.txt
 Fri Oct  9 11:09:37 AM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
+[master fe70d014] auto-update ipv4
+ 7 files changed, 12861 insertions(+), 2572 deletions(-)
+Fri Oct  9 12:13:44 PM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Fri Oct  9 12:13:51 PM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
