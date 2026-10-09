@@ -10869,6 +10869,10 @@ checkout.google.com
 checkout.ozon.ru
 checkout.xn--google.com
 checkpoints-eu.files.openai.com
+checkpoints-gb.files.openai.com
+checkpoints-in.files.openai.com
+checkpoints-kr.files.openai.com
+checkpoints-sg.files.openai.com
 checkrepair.apple.com
 checkrepair-pilot.apple.com
 check.tep.test.ajo.adobe.com
@@ -11517,6 +11521,7 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
+configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -30563,6 +30568,8 @@ gateway.bingviz.microsoftapp.net
 gateway-carry.icloud.com
 gateway-cf.unified-12.api.openai.com
 gateway-cf.unified-153.api.openai.com
+gateway-cf.unified-55.api.openai.com
+gateway-cf.unified-71.api.openai.com
 gateway-china.icloud.com
 gateway.ci-android-0.api.openai.com
 gateway.corp.apple.com
@@ -30645,6 +30652,8 @@ gateway.unified-124.api.openai.com
 gateway.unified-125.api.openai.com
 gateway.unified-126.api.openai.com
 gateway.unified-127.api.openai.com
+gateway.unified-128.api.openai.com
+gateway.unified-129.api.openai.com
 gateway.unified-12.api.openai.com
 gateway.unified-130.api.openai.com
 gateway.unified-131.api.openai.com
@@ -30724,6 +30733,7 @@ gateway.unified-19.api.openai.com
 gateway.unified-1.api.openai.com
 gateway.unified-200.api.openai.com
 gateway.unified-201.api.openai.com
+gateway.unified-202.api.openai.com
 gateway.unified-204.api.openai.com
 gateway.unified-208.api.openai.com
 gateway.unified-20.api.openai.com
@@ -33127,6 +33137,7 @@ jsb-ru.tiktokv.com.edgekey.net
 js-cdn.music.apple.com
 js-cdn.music.apple.com.edgesuite.net
 js-cdn-music-lb.itunes-apple.com.akadns.net
+js-cdn-music-lb-itunes-apple-com.v.aaplimg.com
 jspnet.withgoogle.com
 jt0q.withgoogle.com
 jteacxwjgpxdr.googleapis.com
@@ -34092,7 +34103,6 @@ lookerstudio.us-west8.cloud.google.com
 lookup-api.apple.com
 lookup-api.apple.com.edgekey.net
 lookup-api.apple.com.edgesuite.net
-lookup-api-apple-com.v.aaplimg.com
 loop.corp.google.com
 loops-execution.githubusercontent.com
 losangeles-inet-cp.corp.adobe.com
@@ -34775,6 +34785,7 @@ mobilecmd.apple.com
 mobileconfiguration-pa.googleapis.com
 mobile.facebook.com
 mobile-gtalk.l.google.com
+mobile.l.google.com
 mobilemaps.googleapis.com
 mobilemaps-pa-gz.googleapis.com
 mobile-scorecard-builder.an.adobe.com
@@ -37788,6 +37799,7 @@ p115-mobilebackup.icloud.com
 p115-photosupload.icloud.com
 p115-setup-china.icloud.com
 p115-setup.icloud.com
+p115-sharedstreams-china.icloud.com
 p116-ckdatabase.icloud.com
 p116-ckdatabasews.icloud.apple.com
 p116-ckhttpapi.icloud.com
@@ -37807,6 +37819,7 @@ p116-mobilebackup.icloud.com
 p116-photosupload.icloud.com
 p116-setup-china.icloud.com
 p116-setup.icloud.com
+p116-sharedstreams-china.icloud.com
 p117-availability.icloud.com
 p117-ckdatabase.icloud.com
 p117-ckdatabasews.icloud.apple.com
@@ -37827,6 +37840,7 @@ p117-mobilebackup.icloud.com
 p117-photosupload.icloud.com
 p117-setup-china.icloud.com
 p117-setup.icloud.com
+p117-sharedstreams-china.icloud.com
 p117-sharedstreams.icloud.com
 p118-ckdatabase.icloud.com
 p118-ckdatabasews.icloud.apple.com
@@ -37847,6 +37861,7 @@ p118-mobilebackup.icloud.com
 p118-photosupload.icloud.com
 p118-setup-china.icloud.com
 p118-setup.icloud.com
+p118-sharedstreams-china.icloud.com
 p119-ckdatabase.icloud.com
 p119-ckdatabasews.icloud.apple.com
 p119-ckhttpapi.icloud.com
@@ -37866,6 +37881,7 @@ p119-mobilebackup.icloud.com
 p119-photosupload.icloud.com
 p119-setup-china.icloud.com
 p119-setup.icloud.com
+p119-sharedstreams-china.icloud.com
 p11-archivews.icloud.com
 p11-ark-imagex.byteimg.com
 p11-ark-web-imagex.byteimg.com
@@ -37962,6 +37978,7 @@ p120-photosupload.icloud.com
 p120-quota.icloud.com
 p120-setup-china.icloud.com
 p120-setup.icloud.com
+p120-sharedstreams-china.icloud.com
 p121-ckdatabase.icloud.com
 p121-ckdatabasews.icloud.apple.com
 p121-ckhttpapi.icloud.com
@@ -37981,6 +37998,7 @@ p121-mobilebackup.icloud.com
 p121-photosupload.icloud.com
 p121-setup-china.icloud.com
 p121-setup.icloud.com
+p121-sharedstreams-china.icloud.com
 p122-acsegateway.icloud.com
 p122-caldav.icloud.com
 p122-ckdatabase.icloud.com
@@ -38010,6 +38028,7 @@ p122-photosupload.icloud.com
 p122-quota.icloud.com
 p122-setup-china.icloud.com
 p122-setup.icloud.com
+p122-sharedstreams-china.icloud.com
 p123-ckdatabase.icloud.com
 p123-ckdatabasews.icloud.apple.com
 p123-ckhttpapi.icloud.com
@@ -38029,6 +38048,7 @@ p123-mobilebackup.icloud.com
 p123-photosupload.icloud.com
 p123-setup-china.icloud.com
 p123-setup.icloud.com
+p123-sharedstreams-china.icloud.com
 p123-sharedstreams.icloud.com
 p124-ckdatabase.icloud.com
 p124-ckdatabasews.icloud.apple.com
@@ -38049,6 +38069,7 @@ p124-mobilebackup.icloud.com
 p124-photosupload.icloud.com
 p124-setup-china.icloud.com
 p124-setup.icloud.com
+p124-sharedstreams-china.icloud.com
 p125-ckdatabase.icloud.com
 p125-ckdatabasews.icloud.apple.com
 p125-ckhttpapi.icloud.com
@@ -38068,6 +38089,7 @@ p125-mobilebackup.icloud.com
 p125-photosupload.icloud.com
 p125-setup-china.icloud.com
 p125-setup.icloud.com
+p125-sharedstreams-china.icloud.com
 p126-ckdatabase.icloud.com
 p126-ckdatabasews.icloud.apple.com
 p126-ckhttpapi.icloud.com
@@ -38087,6 +38109,7 @@ p126-mobilebackup.icloud.com
 p126-photosupload.icloud.com
 p126-setup-china.icloud.com
 p126-setup.icloud.com
+p126-sharedstreams-china.icloud.com
 p127-ckdatabase.icloud.com
 p127-ckdatabasews.icloud.apple.com
 p127-ckhttpapi.icloud.com
@@ -57361,7 +57384,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.as.adobeaemcloud.com
 www.autodiscover.ord.ozon.ru
 www.backblaze.com

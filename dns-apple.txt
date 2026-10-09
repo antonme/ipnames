@@ -1485,6 +1485,7 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
+configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -4618,6 +4619,7 @@ jp-vpn.asia.apple.com
 js-cdn.music.apple.com
 js-cdn.music.apple.com.edgesuite.net
 js-cdn-music-lb.itunes-apple.com.akadns.net
+js-cdn-music-lb-itunes-apple-com.v.aaplimg.com
 juno-prod-ext.apple.com
 juno-prod-ext.awuse1.sbz.apple.com
 juno-prod-ext.sbz.apple.com
@@ -4906,7 +4908,6 @@ login-partner-connect-uat.apple.com
 lookup-api.apple.com
 lookup-api.apple.com.edgekey.net
 lookup-api.apple.com.edgesuite.net
-lookup-api-apple-com.v.aaplimg.com
 ls2-apple.com.akadns.net
 ls.advp.apple.com
 ls.apple.com
@@ -6348,6 +6349,7 @@ p115-mobilebackup.icloud.com
 p115-photosupload.icloud.com
 p115-setup-china.icloud.com
 p115-setup.icloud.com
+p115-sharedstreams-china.icloud.com
 p116-ckdatabase.icloud.com
 p116-ckdatabasews.icloud.apple.com
 p116-ckhttpapi.icloud.com
@@ -6367,6 +6369,7 @@ p116-mobilebackup.icloud.com
 p116-photosupload.icloud.com
 p116-setup-china.icloud.com
 p116-setup.icloud.com
+p116-sharedstreams-china.icloud.com
 p117-availability.icloud.com
 p117-ckdatabase.icloud.com
 p117-ckdatabasews.icloud.apple.com
@@ -6387,6 +6390,7 @@ p117-mobilebackup.icloud.com
 p117-photosupload.icloud.com
 p117-setup-china.icloud.com
 p117-setup.icloud.com
+p117-sharedstreams-china.icloud.com
 p117-sharedstreams.icloud.com
 p118-ckdatabase.icloud.com
 p118-ckdatabasews.icloud.apple.com
@@ -6407,6 +6411,7 @@ p118-mobilebackup.icloud.com
 p118-photosupload.icloud.com
 p118-setup-china.icloud.com
 p118-setup.icloud.com
+p118-sharedstreams-china.icloud.com
 p119-ckdatabase.icloud.com
 p119-ckdatabasews.icloud.apple.com
 p119-ckhttpapi.icloud.com
@@ -6426,6 +6431,7 @@ p119-mobilebackup.icloud.com
 p119-photosupload.icloud.com
 p119-setup-china.icloud.com
 p119-setup.icloud.com
+p119-sharedstreams-china.icloud.com
 p11-archivews.icloud.com
 p11-availability-china.icloud.com
 p11-availability.icloud.com
@@ -6519,6 +6525,7 @@ p120-photosupload.icloud.com
 p120-quota.icloud.com
 p120-setup-china.icloud.com
 p120-setup.icloud.com
+p120-sharedstreams-china.icloud.com
 p121-ckdatabase.icloud.com
 p121-ckdatabasews.icloud.apple.com
 p121-ckhttpapi.icloud.com
@@ -6538,6 +6545,7 @@ p121-mobilebackup.icloud.com
 p121-photosupload.icloud.com
 p121-setup-china.icloud.com
 p121-setup.icloud.com
+p121-sharedstreams-china.icloud.com
 p122-acsegateway.icloud.com
 p122-caldav.icloud.com
 p122-ckdatabase.icloud.com
@@ -6567,6 +6575,7 @@ p122-photosupload.icloud.com
 p122-quota.icloud.com
 p122-setup-china.icloud.com
 p122-setup.icloud.com
+p122-sharedstreams-china.icloud.com
 p123-ckdatabase.icloud.com
 p123-ckdatabasews.icloud.apple.com
 p123-ckhttpapi.icloud.com
@@ -6586,6 +6595,7 @@ p123-mobilebackup.icloud.com
 p123-photosupload.icloud.com
 p123-setup-china.icloud.com
 p123-setup.icloud.com
+p123-sharedstreams-china.icloud.com
 p123-sharedstreams.icloud.com
 p124-ckdatabase.icloud.com
 p124-ckdatabasews.icloud.apple.com
@@ -6606,6 +6616,7 @@ p124-mobilebackup.icloud.com
 p124-photosupload.icloud.com
 p124-setup-china.icloud.com
 p124-setup.icloud.com
+p124-sharedstreams-china.icloud.com
 p125-ckdatabase.icloud.com
 p125-ckdatabasews.icloud.apple.com
 p125-ckhttpapi.icloud.com
@@ -6625,6 +6636,7 @@ p125-mobilebackup.icloud.com
 p125-photosupload.icloud.com
 p125-setup-china.icloud.com
 p125-setup.icloud.com
+p125-sharedstreams-china.icloud.com
 p126-ckdatabase.icloud.com
 p126-ckdatabasews.icloud.apple.com
 p126-ckhttpapi.icloud.com
@@ -6644,6 +6656,7 @@ p126-mobilebackup.icloud.com
 p126-photosupload.icloud.com
 p126-setup-china.icloud.com
 p126-setup.icloud.com
+p126-sharedstreams-china.icloud.com
 p127-ckdatabase.icloud.com
 p127-ckdatabasews.icloud.apple.com
 p127-ckhttpapi.icloud.com
@@ -15506,7 +15519,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
 www.events.shazam.apple.com
