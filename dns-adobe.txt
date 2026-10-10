@@ -250,6 +250,7 @@ adobelogin.prod.ims.adobejanus.com
 adobelogin-static.prod.ims.adobejanus.com
 adobe.net
 adobe-prism.cloud-automation.corp.adobe.com
+adobe-prism-dev.corp.adobe.com
 adobeqa-servicenow.corp.adobe.com
 adoberesearchblog.corp.adobe.com
 adobesearch.adobe.io
@@ -1164,6 +1165,7 @@ cchome-prod.adobe.io.setia.cloud
 cci-ghec.ci.adobe.com
 cclibraries-defaults-cdn.adobe.com
 cclibraries-defaults-cdn.adobe.com.edgekey.net
+ccm.corp.adobe.com
 ccmdl.adobe.com
 ccmdls.adobe.com
 ccmdls.stage.adobe.com
@@ -1406,6 +1408,7 @@ cloudmanagement.corp.adobe.com
 cloudmanagement-dev.corp.adobe.com
 cloudmanagement-stg.corp.adobe.com
 cloudmanager.adobe.com
+cloudops-jira.sites.corp.adobe.com
 cloudspend.sites.corp.adobe.com
 cloudspend-v3.sites.corp.adobe.com
 cloud-studio.dev.corp.adobe.com
@@ -1592,7 +1595,9 @@ corp.adobe.com
 corp-demo.sites.corp.adobe.com
 corporosity.adobeaemcloud.net
 counseling-center.printers.adobeaemcloud.com
+coworker.adobe.com
 coworker-qa.adobe.com
+coworker-stage.adobe.com
 cp.adobe.io
 cpanel.adobee.cl
 cpanel.ilovephotoshop.com
@@ -1944,6 +1949,7 @@ dev.appsvc-stage.an.adobe.com
 dev.assistant.adobe.com
 dev.at.adobe.com
 dev.automation.substance3d.adobe.com
+dev.ccm.corp.adobe.com
 dev.ccos.adobe.com
 dev.ccos-dashboard.adobe.com
 dev.ccx.adobe.com
@@ -2077,6 +2083,7 @@ dpaas.corp.adobe.com
 dpaas-dev.corp.adobe.com
 dpaas-preprod.corp.adobe.com
 dpaas-stage.corp.adobe.com
+dpaastest.ai.corp.adobe.com
 dpaasworkloadops.corp.adobe.com
 dpaasworkloadops-stage.corp.adobe.com
 dpass-ai.corp.adobe.com
@@ -2844,6 +2851,7 @@ hedwig-stg.corp.adobe.com
 heizidelanqiump4.adobeaemcloud.com
 helios.corp.adobe.com
 helm.corp.adobe.com
+help.adobe.io
 help.behance.net
 help.glaas.corp.adobe.com
 help.glaas-qa.corp.adobe.com
@@ -5016,6 +5024,8 @@ peat-stg.corp.adobe.com
 pe.corp.adobe.com
 pes.corp.adobe.com
 peso.ci.corp.adobe.com
+peso.corp.adobe.com
+pes-ops.corp.adobe.com
 pfr-.adobeaemcloud.com
 phantom.corp.adobe.com
 ph-api.corp.adobe.com
@@ -5942,6 +5952,8 @@ sin.appsvc.an.adobe.com
 sin.axle.an.adobe.com
 singapore-1-ext.vpn.adobe.com
 singapore-1.vpn.adobe.com
+singapore-2-ext.vpn.adobe.com
+singapore-2.vpn.adobe.com
 singapore-inet-cp.corp.adobe.com
 sin.intsvcs.an.adobe.com
 sinta.corp.adobe.com
@@ -6334,6 +6346,7 @@ stage.assistant.adobe.com
 stage.at.adobe.com
 stage.automation.substance3d.adobe.com
 stage.bridge.marketplace.adobe.com
+stage.ccm.corp.adobe.com
 stage.ccos.adobe.com
 stage.ccos-dashboard.adobe.com
 stage.ccx.adobe.com
@@ -6621,6 +6634,8 @@ titanium-e.corp.adobe.com
 titanium-g.corp.adobe.com
 titanium-i.corp.adobe.com
 titanium-j.corp.adobe.com
+titan.kodiak.corp.adobe.com
+titan-ui.kodiak.corp.adobe.com
 tkrnew1.corp.adobe.com
 tkrnew.corp.adobe.com
 tlp.corp.adobe.com
@@ -6642,6 +6657,7 @@ tokyo-inet-cp.corp.adobe.com
 tokyo-inetfw02.corp.adobe.com
 tpa-3di.corp.adobe.com
 tpa.3di.corp.adobe.com
+tpt-accounts-dev.corp.adobe.com
 t-qa.mail.adobe.com
 traces.signals-gw.adobe.com
 tracker-stg.adobe.com
