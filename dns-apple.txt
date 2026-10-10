@@ -1485,7 +1485,6 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -14327,6 +14326,7 @@ seed-eagle.smoot.apple.com
 se-edge.itunes.apple.com
 se-edge.itunes-apple.com.akadns.net
 se-edge.itunes.apple.com.edgekey.net
+se-edge-itunes-apple-com.v.aaplimg.com
 seed-petropluvialis.siri.apple.com
 seed-probe.siri.apple.com
 seed-sequoia.siri.apple.com
@@ -14655,7 +14655,6 @@ stocks-data-service.apple.com
 stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline.apple.com.edgekey.net
@@ -15430,6 +15429,7 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
+weather-map.v.aaplimg.com
 web-carry.push.apple.com
 webcourier-carry.push.apple.com
 webcourier-cn.push.apple.com
@@ -15518,6 +15518,7 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
+www-apple-com.v.aaplimg.com
 www.appleiphonecell.com
 www-cdn.icloud.com.akadns.net
 www.einloggen.apple.com.de-key.es-idapp.com
@@ -15527,6 +15528,7 @@ www.icloud.com
 www.icloud.com.edgesuite.net
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
+www-icloud-row.v.aaplimg.com
 www.info.apple.com
 www.itools.info
 www.mac.com
