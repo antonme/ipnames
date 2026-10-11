@@ -120106,3 +120106,87 @@ s
 
 == Resolving names to ipv6
 Sat Oct 10 06:37:41 AM MSK 2026                dns-adobe.txt  >ipv6-resolve-adobe.txt
+[master 88ccb40f] auto-update merged
+ 15 files changed, 7986 insertions(+), 60636 deletions(-)
+Sat Oct 10 01:28:27 PM MSK 2026                dns-anthropic.txt  >ipv6-resolve-anthropic.txt
+Sat Oct 10 01:36:26 PM MSK 2026                dns-apple.txt  >ipv6-resolve-apple.txt
+Sun Oct 11 04:31:49 AM MSK 2026                dns-backblaze.txt  >ipv6-resolve-backblaze.txt
+Sun Oct 11 05:25:05 AM MSK 2026                dns-bing.txt  >ipv6-resolve-bing.txt
+Sun Oct 11 05:31:41 AM MSK 2026                dns-expressvpn.txt  >ipv6-resolve-expressvpn.txt
+Sun Oct 11 05:40:06 AM MSK 2026                dns-facebook.txt  >ipv6-resolve-facebook.txt
+
+
+
+--------------------------------------------------------------------------------
+Sun Oct 11 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: ok
+  googlevideo.com: ok
+  youtube.com: ok
+  ytimg.com: fetch failed
+  facebook.com: ok
+  instagram.com: ok
+  fbcdn.net: ok
+  tiktok.com: ok
+  tiktokv.com: fetch failed
+  tiktokcdn.com: ok
+  bytedance.com: fetch failed
+  openai.com: ok
+  chatgpt.com: ok
+  oaiusercontent.com: fetch failed
+  bing.com: ok
+  microsoft.com: fetch failed
+  twitter.com: ok
+  x.com: ok
+  twimg.com: ok
+  ozon.ru: ok
+  github.com: ok
+  githubusercontent.com: ok
+  apple.com: ok
+  icloud.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: fetch failed
+  adobe.com: ok
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: fetch failed
+  pornhub.com: fetch failed
+  phncdn.com: fetch failed
+  backblaze.com: fetch failed
+  huggingface.co: ok
+  anthropic.com: ok
+  claude.ai: ok
+  total CT names: 17398
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
