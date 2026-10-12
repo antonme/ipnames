@@ -212,6 +212,7 @@ acs-ai-portal.adobe.com
 acs-ai-portal-stage.adobe.com
 acs-dashboard.corp.adobe.com
 acsdevtrial19.experiencecloud.adobe.com
+acs-gdc-rnr.adobe.com
 acs-prism.corp.adobe.com
 acsrockstars2022.adobe.com
 acstam.adobe.com
@@ -1014,6 +1015,7 @@ apicdn.typekit.net
 apicentral.ipaasdev.corp.adobe.com
 api.cim-data-quality-qa.experiencecloud.adobe.com
 api-cna01.adobe-services.com
+api.commerce.adobe.com
 api.corp.documents.adobe.com
 api.da1.documents.adobe.com
 api.das.adobe.com
@@ -3224,6 +3226,7 @@ commercedeveloper-sandbox-static.adobe.com
 commercedeveloper-static.adobe.com
 commerce-hub.adobe.com
 commercemarketplace.adobe.com
+commercemarketplace-stg3.adobe.com
 commerce.observability.corp.adobe.com
 commerce-qa.adobe.com
 commerce-stg.adobe.com
@@ -3364,11 +3367,13 @@ container53babad8c04faa4464363ab8.c00.adobe.com
 container.eu2.vi.documentsawspreview.adobe.com
 container-pre.documents.adobe.com
 content.adobe.com
+contentauthenticity.adobe.com
 content-compass-scoring.adobe.com
 content-compass-summit.adobe.com
 content.corp.adobe.com
 contentcredentials-dev.adobe.com
 contentcredentials-prod.adobe.com
+contenthub.adobe.com
 contentmaster.adobe.com
 contentproxy.experiencecloud.adobe.com
 contentserver.adobe.com
@@ -3419,6 +3424,8 @@ coronet-dev.corp.adobe.com
 coronet-stage.corp.adobe.com
 corp.adobe.com
 corp-demo.sites.corp.adobe.com
+corp.ethos506-stage-or2.stage.ethos.corp.adobe.com
+corp.ethos509-stage-or2.stage.ethos.corp.adobe.com
 corp.experiencecloud.adobe.com
 corporosity.adobeaemcloud.net
 corp.sip.experiencecloud.adobe.com
@@ -4111,6 +4118,7 @@ dev.assistant.adobe.com
 dev.at.adobe.com
 dev.automation.substance3d.adobe.com
 dev.awsdashboard.marketing.adobe.com
+dev-bastion.edex.adobe.com
 dev.captivateprime.adobe.com
 dev.ccm.corp.adobe.com
 dev.ccos.adobe.com
@@ -4658,6 +4666,7 @@ edexchange.adobe.com
 edge.adobe.com
 edge.adobedc.net
 edge-applications.experiencecloud.adobe.com
+edge.contentauthenticity.adobe.com
 edgeproxy-irl1.cloud.adobe.io
 edgeproxy-va6.cloud.adobe.io
 edge-stage.contentauthenticity.adobe.com
@@ -5845,6 +5854,7 @@ grafana.dev.cloud-automation.corp.adobe.com
 grafana.kodiak.corp.adobe.com
 grafana-sandbox-4.corp.adobe.com
 grafana.stage.cloud-automation.corp.adobe.com
+grafana.touchstone.corp.adobe.com
 graigh.myportfolio.com
 grainger-prod.adobecqms.net
 grapevine.adobe.com
@@ -6685,6 +6695,8 @@ internals-eu2.documentsawspreview.adobe.com
 internals-static.documents.adobe.com
 internal.staging.frame.io
 internal.xd.adobe.com
+int.ethos506-stage-or2.stage.ethos.corp.adobe.com
+int.ethos509-stage-or2.stage.ethos.corp.adobe.com
 int.ethos53-prod-or2.prod.ethos.corp.adobe.com
 int.fra8.canary.adobe.com
 int.ind1.canary.adobe.com
@@ -8038,6 +8050,7 @@ marketing.urbanara.de.cname.campaign.solutions.adobe.com
 marketing.wheretomorrow.co.uk.cname.campaign.adobe.com
 market.is1.documentsawspreview.adobe.com
 marketjp1.p7.documentsawsperf.adobe.com
+marketoabm.test.ajo.adobe.com
 marketocompass.corp.adobe.com
 markusglombitza.myportfolio.com
 marlosrph.lightroom.adobe.com
@@ -9299,6 +9312,7 @@ novotech.au1.documents.adobe.com
 now.corp.adobe.com
 nowtv-rt-prod3-cus.campaign.adobe.com
 nplphotoshop.com
+nrf.adobe.com
 ns01.businesscatalyst.com
 ns02.businesscatalyst.com
 ns101.adobe.net
@@ -11258,6 +11272,7 @@ pphosted.adobe.com
 ppp.alpha5.connectlabs.adobe.com
 pppclewinsj.marketing.adobe.com
 ppp.experiencecloud.adobe.com
+pp-preprod.adobe.com
 ppp-sitecore.experiencecloud.adobe.com
 pps.adobe.io
 pps.adobelogin.com
@@ -11900,6 +11915,7 @@ redirwfm-service.documents.adobe.com
 redjim99.myportfolio.com
 reedcollins.prosite.com
 refactoring.cm-verify.adobe.com
+referencedemo.adobe.com
 reg.adobe.com
 regalhardwoods.na3.documents.adobe.com
 reginastadnik.myportfolio.com
@@ -14209,6 +14225,7 @@ stats.marketing.adobe.com
 stats.oasis.supportinsights.adobe.com
 statsservice.documents.adobe.com
 stats.vpn.documents.adobe.com
+status.abp.corp.adobe.com
 status.abp-stage.corp.adobe.com
 status.adobe.com
 status.adobe.com.edgesuite.net
@@ -14845,6 +14862,7 @@ test1.aup.ai.adobe.com
 test1.corp.adobe.com
 test1.corp.c00.adobe.com
 test20mar.cm-verify.adobe.com
+test-25-09-mysite-ap.cm-verify.adobe.com
 test2.corp.adobe.com
 test472.corp.adobe.com
 test4.ethos53-stage-or2.stage.ethos.corp.adobe.com
@@ -14858,9 +14876,14 @@ testaname1.corp.adobe.com
 testaname20june.corp.adobe.com
 testaname.corp.adobe.com
 test-ap-190.cm-verify.adobe.com
+test-ap-191.cm-verify.adobe.com
 test-ap-23-09.cm-verify.adobe.com
+test-ap-24-09-2.cm-verify.adobe.com
+test-ap-24-09.cm-verify.adobe.com
+test-ap-25-09-my-site.cm-verify.adobe.com
 testapp.adt.corp.adobe.com
 testathena19.cm-verify.adobe.com
+testathena383852.cm-verify.adobe.com
 testathena55.cm-verify.adobe.com
 testathena56.cm-verify.adobe.com
 testathena89.cm-verify.adobe.com
@@ -14914,6 +14937,7 @@ testmom-rhel8-02.corp.adobe.com
 testmv123.corp.adobe.com
 testnemaiintalnit.cm-verify.adobe.com
 testnewcert.cm-verify.adobe.com
+testnpeedge.cm-verify.adobe.com
 test.ocagent.test.ajo.adobe.com
 test.odin.adobe.com
 testpix.corp.adobe.com
@@ -15771,6 +15795,7 @@ vega.corp.adobe.com
 vegasflash.groups.adobe.com
 vegastandalone.corp.adobe.com
 vegasweb.groups.adobe.com
+velo.adobe.com
 vendingtransactions.vpn.documents.adobe.com
 vendor.206.documents.adobe.com
 vendor-api.1.documents.adobe.com

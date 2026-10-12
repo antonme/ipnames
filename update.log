@@ -120439,3 +120439,19 @@ Mon Oct 12 06:30:21 AM MSK 2026                dns-openai.txt  >ipv6-resolve-ope
 ===anthropic
 
 == Save names archive
+[master f7804678] auto-update names
+ 10 files changed, 3926 insertions(+), 2014 deletions(-)
+
+== Resolving external names to ipv4
+Mon Oct 12 06:39:51 AM MSK 2026                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Mon Oct 12 07:07:33 AM MSK 2026                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Mon Oct 12 07:07:44 AM MSK 2026                ext-dns-apple.txt  >ext-resolve-apple.txt
+Mon Oct 12 07:16:20 AM MSK 2026                dns-ozon.txt  >ipv6-resolve-ozon.txt
+Mon Oct 12 07:26:52 AM MSK 2026                dns-pornhub.txt  >ipv6-resolve-pornhub.txt
+Mon Oct 12 07:33:45 AM MSK 2026                dns-surfshark.txt  >ipv6-resolve-surfshark.txt
+Mon Oct 12 07:43:21 AM MSK 2026                dns-tiktok.txt  >ipv6-resolve-tiktok.txt
+Mon Oct 12 08:08:23 AM MSK 2026                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Mon Oct 12 08:41:04 AM MSK 2026                ext-dns-bing.txt  >ext-resolve-bing.txt
+Mon Oct 12 08:43:16 AM MSK 2026                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Mon Oct 12 10:15:41 AM MSK 2026                ext-dns-github.txt  >ext-resolve-github.txt
+Mon Oct 12 10:19:33 AM MSK 2026                dns-tunnelbear.txt  >ipv6-resolve-tunnelbear.txt
