@@ -120471,3 +120471,83 @@ Mon Oct 12 01:51:35 PM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolv
 Mon Oct 12 02:06:38 PM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
 [master 997f16a0] auto-update ipv4
  10 files changed, 3269 insertions(+), 5865 deletions(-)
+[master b6c82ec2] auto-update ipv6
+ 2 files changed, 2583 insertions(+)
+Tue Oct 13 05:18:16 AM MSK 2026                dns-github.txt  >resolve-github.txt
+Tue Oct 13 05:36:28 AM MSK 2026                dns-google.txt  >resolve-google.txt
+
+
+
+--------------------------------------------------------------------------------
+Tue Oct 13 06:00:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: ok
+  googlevideo.com: ok
+  youtube.com: fetch failed
+  ytimg.com: fetch failed
+  facebook.com: fetch failed
+  instagram.com: ok
+  fbcdn.net: ok
+  tiktok.com: ok
+  tiktokv.com: fetch failed
+  tiktokcdn.com: fetch failed
+  bytedance.com: fetch failed
+  openai.com: ok
+  chatgpt.com: ok
+  oaiusercontent.com: ok
+  bing.com: ok
+  microsoft.com: fetch failed
+  twitter.com: fetch failed
+  x.com: ok
+  twimg.com: ok
+  ozon.ru: ok
+  github.com: ok
+  githubusercontent.com: ok
+  apple.com: ok
+  icloud.com: fetch failed
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  adobe.com: ok
+  behance.net: ok
+  photoshop.com: fetch failed
+  typekit.net: fetch failed
+  frame.io: fetch failed
+  pornhub.com: fetch failed
+  phncdn.com: fetch failed
+  backblaze.com: ok
+  huggingface.co: ok
+  anthropic.com: ok
+  claude.ai: ok
+  total CT names: 11801
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
