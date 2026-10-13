@@ -500,6 +500,8 @@ edge.unified-197.api.openai.com
 edge.unified-198.api.openai.com
 edge.unified-199.api.openai.com
 edge.unified-200.api.openai.com
+edge.unified-208.api.openai.com
+edge.unified-212.api.openai.com
 edge.unified-213.api.openai.com
 edge.unified-215.api.openai.com
 edge.unified-23.api.openai.com
@@ -640,9 +642,14 @@ gateway-cf.unified-101.api.openai.com
 gateway-cf.unified-102.api.openai.com
 gateway-cf.unified-107.api.openai.com
 gateway-cf.unified-119.api.openai.com
+gateway-cf.unified-121.api.openai.com
+gateway-cf.unified-125.api.openai.com
+gateway-cf.unified-128.api.openai.com
 gateway-cf.unified-12.api.openai.com
+gateway-cf.unified-132.api.openai.com
 gateway-cf.unified-133.api.openai.com
 gateway-cf.unified-134.api.openai.com
+gateway-cf.unified-135.api.openai.com
 gateway-cf.unified-136.api.openai.com
 gateway-cf.unified-142.api.openai.com
 gateway-cf.unified-143.api.openai.com
@@ -661,11 +668,15 @@ gateway-cf.unified-57.api.openai.com
 gateway-cf.unified-71.api.openai.com
 gateway-cf.unified-72.api.openai.com
 gateway-cf.unified-73.api.openai.com
+gateway-cf.unified-74.api.openai.com
 gateway-cf.unified-75.api.openai.com
 gateway-cf.unified-79.api.openai.com
 gateway-cf.unified-82.api.openai.com
 gateway-cf.unified-83.api.openai.com
+gateway-cf.unified-84.api.openai.com
 gateway-cf.unified-86.api.openai.com
+gateway-cf.unified-91.api.openai.com
+gateway-cf.unified-93.api.openai.com
 gateway-cf.unified-94.api.openai.com
 gateway-cf.unified-96.api.openai.com
 gateway-cf.unified-97.api.openai.com
@@ -824,7 +835,10 @@ gateway.unified-201.api.openai.com
 gateway.unified-202.api.openai.com
 gateway.unified-204.api.openai.com
 gateway.unified-208.api.openai.com
+gateway.unified-209.api.openai.com
 gateway.unified-20.api.openai.com
+gateway.unified-210.api.openai.com
+gateway.unified-211.api.openai.com
 gateway.unified-212.api.openai.com
 gateway.unified-21.api.openai.com
 gateway.unified-22.api.openai.com
@@ -1301,7 +1315,6 @@ nullet.apps.openai.com
 ny6wbifvb6nsw7q0.apps.openai.com
 o3zysq1abgsem86g.apps.openai.com
 o74vql1jyt1ndstd.apps.openai.com
-oaistatic.com
 oauth.openai.com
 oauvh93qz87kcojn.apps.openai.com
 observability-webhook.api.openai.com
@@ -1378,6 +1391,7 @@ papaya.fde.openai.com
 pape.apps.openai.com
 par2.apps.openai.com
 park3.apps.openai.com
+partnernetwork.openai.com
 partners.openai.com
 pate.apps.openai.com
 pathology.apps.openai.com
