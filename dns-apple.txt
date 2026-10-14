@@ -466,7 +466,6 @@ api2.smoot.apple.com
 api-acc-sh-mdn.apple.com
 api-acc-sh-prn.apple.com
 api-adservices.apple.com
-api-adservices.v.aaplimg.com
 api-applecareconnect2.apple.com
 api-applecareconnect.apple.com
 api-applechannelconnect.apple.com
@@ -4617,6 +4616,7 @@ jp-vpn.asia.apple.com
 js-cdn.music.apple.com
 js-cdn.music.apple.com.edgesuite.net
 js-cdn-music-lb.itunes-apple.com.akadns.net
+js-cdn-music-lb-itunes-apple-com.v.aaplimg.com
 juno-prod-ext.apple.com
 juno-prod-ext.awuse1.sbz.apple.com
 juno-prod-ext.sbz.apple.com
@@ -14195,6 +14195,7 @@ sandbox-dist.itunes-apple.com.akadns.net
 sandbox.itunes.apple.com
 sandbox.itunes-apple.com.akadns.net
 sandbox.itunes.apple.com.edgesuite.net
+sandbox-itunes-apple-com.v.aaplimg.com
 sandbox-origin.itunes-apple.com.akadns.net
 sandbox.push.apple.com
 s.apple.com
@@ -14324,7 +14325,6 @@ seed-eagle.smoot.apple.com
 se-edge.itunes.apple.com
 se-edge.itunes-apple.com.akadns.net
 se-edge.itunes.apple.com.edgekey.net
-se-edge-itunes-apple-com.v.aaplimg.com
 seed-petropluvialis.siri.apple.com
 seed-probe.siri.apple.com
 seed-sequoia.siri.apple.com
@@ -14571,6 +14571,7 @@ sps-media-anon.itunes.apple.com
 sps-media.apple.com
 sps-media.aweun1.sbz.apple.com
 sps-media.aweuw1.sbz.apple.com
+sps-media.v.aaplimg.com
 sq-carrier.apple.com
 sq-carrier-cn.apple.com
 sq-carrier-stage.apple.com
