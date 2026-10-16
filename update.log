@@ -121197,3 +121197,9 @@ Fri Oct 16 10:26:17 AM MSK 2026                ext-dns-twitter.txt  >ext-resolve
  48 files changed, 16552 insertions(+), 27519 deletions(-)
 Fri Oct 16 10:33:09 AM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
 Fri Oct 16 10:41:22 AM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
+[master 71580f20] auto-update ipv4
+ 4 files changed, 3369 insertions(+), 1598 deletions(-)
+Fri Oct 16 12:42:53 PM MSK 2026                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Fri Oct 16 12:56:21 PM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
+Fri Oct 16 01:57:08 PM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Fri Oct 16 01:57:15 PM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
