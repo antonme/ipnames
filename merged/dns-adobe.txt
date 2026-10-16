@@ -612,6 +612,7 @@ aemfp-dev.corp.adobe.com
 aem-fragments.adobe.com
 aem-fragments-stage.adobe.com
 aemmobile.adobe.com
+aemms.corp.adobe.com
 aemshowcase.adobe.com
 aemsizing.adobe.com
 aemtrials.corp.adobe.com
@@ -1105,6 +1106,7 @@ api.skms.adobe.com
 api.spark.adobe.com
 api.stg.dxenablementhub.adobe.com
 api.sv.adobe.com
+api.touchstone-stage.corp.adobe.com
 apitrial.eu1.documents.adobe.com
 api.tv.adobe.com
 api.typekit.com
@@ -1458,6 +1460,7 @@ aura-prenv.hz.adobe.com
 aura-prod.corp.adobe.com
 aureldesign.myportfolio.com
 aurelienlongo.myportfolio.com
+aurora.adobe.com
 aurora-dev.corp.adobe.com
 aurora-qa.corp.adobe.com
 aurora-stage.corp.adobe.com
@@ -3108,6 +3111,7 @@ cmc.adobe.com
 cmc.documentsstage.adobe.com
 cm-cdptest.corp.adobe.com
 cm-dashboard.gf.corp.adobe.com
+cm-doru.cm-verify.adobe.com
 cmeitin.adobeaemcloud.com
 cmi-airflow-dev.corp.adobe.com
 cmi-airflow-prod.corp.adobe.com
@@ -3227,6 +3231,7 @@ commerce.adobe.com.edgekey.net
 commerce.adobedc.net
 commerce.adobedtm.com
 commerce.adobe.io
+commerce-augs.adobe.com
 commerce-dev.adobe.com
 commercedeveloper.adobe.com
 commercedeveloper-api.adobe.com
@@ -3247,6 +3252,7 @@ commsemeastage1.marketing.adobe.com
 comms.thesun.co.uk.cname.campaign.adobe.com
 comms.thetimes.co.uk.cname.campaign.adobe.com
 comms.wireless.radio.cname.campaign.adobe.com
+communication.github.com
 communication.github.com.cname.campaign.adobe.com
 communications.cdq-api.documents.adobe.com
 communications-exchange.documents.adobe.com
@@ -3435,6 +3441,10 @@ coronet-dev.corp.adobe.com
 coronet-stage.corp.adobe.com
 corp.adobe.com
 corp-demo.sites.corp.adobe.com
+corp.ethos501-stage-or2.ethos.adobe.net
+corp.ethos502-prod-or2.ethos.adobe.net
+corp.ethos502-stage-or2.ethos.adobe.net
+corp.ethos506-prod-or2.prod.ethos.corp.adobe.com
 corp.ethos506-stage-or2.stage.ethos.corp.adobe.com
 corp.ethos509-stage-or2.stage.ethos.corp.adobe.com
 corp.experiencecloud.adobe.com
@@ -3702,6 +3712,7 @@ curtis.na1.documents.adobe.com
 cus.gac-rds-external-readonly.marketing.adobe.com
 cus-mongo.experiencecloud.adobe.com
 cus-ns2.experiencecloud.adobe.com
+custom.domain.phase1.cloudmanager.adobe.com
 customer-advisory.corp.adobe.com
 customer-dev-image-registry-data.cloudmanager.adobe.com
 customer.edge.documents.adobe.com
@@ -4146,10 +4157,12 @@ dev.ccx.adobe.com
 dev-client.dev.messaging.adobe.com
 dev.cmc.adobe.com
 dev.code.adobe.com
+dev.contentauthenticity.adobe.com
 dev.contentcredentials.adobe.com
 dev.corp.adobe.com
 dev.cxp.adobe.com
 devday.corp.adobe.com
+dev.distributed-tracing.corp.adobe.com
 dev.documentservices.adobe.com
 dev.dxenablementhub.adobe.com
 dev.ec-mpa-dashboard.corp.adobe.com
@@ -4696,6 +4709,7 @@ edgewebfonts.adobe.com
 edl.ci.corp.adobe.com
 edmcabral.prosite.com
 ednb-gstfw01.corp.adobe.com
+eds-delete.cm-verify.adobe.com
 eds-dev.experienceleague.adobe.com
 eds-mock.experienceleague.adobe.com
 edsnastg.corp.adobe.com
@@ -4933,6 +4947,7 @@ estefaniaramosron.myportfolio.com
 estudiopachel.myportfolio.com
 etcd-server-ssl.experiencecloud.adobe.com
 e.teoz.caisse-epargne.fr.cname.campaign.adobe.com
+ethos506-prod-or2.prod.ethos.corp.adobe.com
 ethos506-stage-or2.stage.ethos.corp.adobe.com
 ethos509-stage-or2.stage.ethos.corp.adobe.com
 ethos53-prod-or2.prod.ethos.corp.c00.adobe.com
@@ -5855,6 +5870,7 @@ gojira.corp.adobe.com
 go-lambda-at-edge.sandbox.frame.io
 goldstreet.myportfolio.com
 gosign.adobe.com
+go.smb.adobe.com
 govadmin-eu2.documents.adobe.com
 gov.adobeeventsonline.com
 gov.chef.test.prepress.documents.adobe.com
@@ -6469,6 +6485,7 @@ idg.adobe.com
 idg.adobe.io
 idg-dashboard.corp.adobe.com
 id.identity.adobe.com
+idnext-blueprint-playground.identity-dev.adobe.com
 id-next-testing.identity-dev.adobe.com
 idnext-testing.identity-dev.adobe.com
 idown.identity.adobe.com
@@ -6610,6 +6627,7 @@ in1www.p7.documentsawsperf.adobe.com
 in4.is1.documentsawspreview.adobe.com
 in.adobe.com
 inbound19.documents.adobe.com
+inbound.campaign.adobe.com
 inbound-smtp-1.adobe.com
 inbound-smtp-2.adobe.com
 inbrowserediting.adobe.com
@@ -6726,6 +6744,7 @@ internals-eu2.documentsawspreview.adobe.com
 internals-static.documents.adobe.com
 internal.staging.frame.io
 internal.xd.adobe.com
+int.ethos506-prod-or2.prod.ethos.corp.adobe.com
 int.ethos506-stage-or2.stage.ethos.corp.adobe.com
 int.ethos509-stage-or2.stage.ethos.corp.adobe.com
 int.ethos53-prod-or2.prod.ethos.corp.adobe.com
@@ -7532,6 +7551,7 @@ litmus.corp.adobe.com
 littleblackozstudio.myportfolio.com
 littlegreenrascals.eu1.documents.adobe.com
 littlehatmarketing.myportfolio.com
+live.adobe.com
 livecompany-athome.jp1.documents.adobe.com
 livecreate-ue1.adobe.com
 livecycleforms.stage.adobe.com
@@ -7631,6 +7651,7 @@ loyalty.kaufland.ro.cname.campaign.adobe.com
 loyalty-service.identity-stage.adobe.com
 loyalty-service-stage-or2.identity-stage.adobe.com
 loyalty-service-stage-va6.identity-stage.adobe.com
+loyalty-stage.adobe.com
 loyalty-va.documentsawspreview.adobe.com
 lpar2rrd.corp.adobe.com
 lpar2rrd-local1.corp.adobe.com
@@ -7904,6 +7925,7 @@ macui-us-east-1-hapdisstats.marketing-stage.adobe.com
 macysr53secure.marketing-assets.adobe.com
 m.adbservice.eurosportplayer.com.cname.campaign.adobe.com
 maddymengel.myportfolio.com
+madhu.cf.domain.test.ajo.adobe.com
 madhuv3.test.ajo.adobe.com
 m.adobe.com
 magdaruival.myportfolio.com
@@ -8157,6 +8179,7 @@ mcisqe2.marketing.adobe.com
 m.commsmail.rics.org.cname.campaign.adobe.com
 m.comms.talksport.com.cname.campaign.adobe.com
 m.comms.thetimes.co.uk.cname.campaign.adobe.com
+m.communication.github.com
 m.communication.github.com.cname.campaign.adobe.com
 m.communications.aisinsurance.com.cname.campaign.adobe.com
 m.communications.canadapost-postescanada.ca.cname.campaign.adobe.com
@@ -11507,6 +11530,7 @@ prod.ccos-dashboard.adobe.com
 prod.ccx.adobe.com
 prod.cloud.adobe.io
 prod.contentauthenticity.adobe.com
+prod.distributed-tracing.corp.adobe.com
 prod.ecx.adobe.com
 pro-demo.us-west1-azure.brand-portal.adobe.com
 prodesignbudgetreqs.corp.adobe.com
@@ -12226,6 +12250,7 @@ res.comms.dreamteamfc.com.cname.campaign.solutions.adobe.com
 res.commsmail.rics.org.cname.campaign.adobe.com
 res.comms.talksport.com.cname.campaign.adobe.com
 res.comms.thesun.co.uk.cname.campaign.adobe.com
+res.communication.github.com
 res.communication.github.com.cname.campaign.adobe.com
 res.communication.ipsen.info.cname.campaign.adobe.com
 res.communications.raven.adobe.com
@@ -12650,6 +12675,7 @@ sagartest.corp.adobe.com
 saiglobal-mkt-stage1-res.campaign.adobe.com
 salas-de-fiesta.adobeaemcloud.net
 salesaccelerator.adobe.com
+salesaccelerator.partners.adobe.com
 saleshub.corp.adobe.com
 salessupport.adobe.com
 salessupport.corp.adobe.com
@@ -12735,6 +12761,8 @@ samsungcanada-rt-prod2-t.campaign.adobe.com
 samsungelectronicsamericainc-mkt-prod1-lb.campaign.adobe.com
 samsungeucdm-mid-stage3-cus.campaign.adobe.com
 samsvf.corp.adobe.com
+san1.cm-verify.adobe.com
+san2.cm-verify.adobe.com
 san5.cm-verify.adobe.com
 san6.cm-verify.adobe.com
 sandbox.documentsawspreview.adobe.com
@@ -14151,6 +14179,7 @@ stage.creativecloud.adobe.com
 stage.cxp.adobe.com
 stage-dc.acrobat.adobe.com
 stage.digitalpublishing.adobe.com
+stage.distributed-tracing.corp.adobe.com
 stage.documentservices.adobe.com
 stage.dots.corp.adobe.com
 stage.dotsinside.corp.adobe.com
@@ -14774,6 +14803,7 @@ tcg4.adobeaemcloud.com
 t-cim-data-quality-qa.marketing.adobe.com
 t.comms.dreamteamfc.com.cname.campaign.adobe.com
 t.commsmail.rics.org.cname.campaign.adobe.com
+t.communication.github.com
 t.communication.github.com.cname.campaign.adobe.com
 t.communication.ipsen.info.cname.campaign.adobe.com
 t.communications.lombard.co.uk.cname.campaign.adobe.com

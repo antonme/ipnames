@@ -121169,3 +121169,27 @@ s
 ===anthropic
 
 == Save names archive
+[master 06856dd9] auto-update names
+ 4 files changed, 96 insertions(+), 6 deletions(-)
+
+== Resolving external names to ipv4
+Fri Oct 16 06:42:02 AM MSK 2026                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Fri Oct 16 06:58:16 AM MSK 2026                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Fri Oct 16 06:58:23 AM MSK 2026                ext-dns-apple.txt  >ext-resolve-apple.txt
+Fri Oct 16 07:33:39 AM MSK 2026                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Fri Oct 16 07:52:50 AM MSK 2026                ext-dns-bing.txt  >ext-resolve-bing.txt
+Fri Oct 16 07:54:04 AM MSK 2026                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Fri Oct 16 08:46:19 AM MSK 2026                ext-dns-github.txt  >ext-resolve-github.txt
+Fri Oct 16 09:02:08 AM MSK 2026                ext-dns-google.txt  >ext-resolve-google.txt
+Fri Oct 16 09:07:42 AM MSK 2026                dns-huggingface.txt  >resolve-huggingface.txt
+Fri Oct 16 09:10:38 AM MSK 2026                dns-openai.txt  >resolve-openai.txt
+Fri Oct 16 09:46:59 AM MSK 2026                ext-dns-huggingface.txt  >ext-resolve-huggingface.txt
+Fri Oct 16 09:47:09 AM MSK 2026                ext-dns-openai.txt  >ext-resolve-openai.txt
+Fri Oct 16 09:49:19 AM MSK 2026                ext-dns-ozon.txt  >ext-resolve-ozon.txt
+Fri Oct 16 09:50:21 AM MSK 2026                ext-dns-pornhub.txt  >ext-resolve-pornhub.txt
+Fri Oct 16 09:56:03 AM MSK 2026                dns-ozon.txt  >resolve-ozon.txt
+Fri Oct 16 10:05:48 AM MSK 2026                dns-pornhub.txt  >resolve-pornhub.txt
+Fri Oct 16 10:07:54 AM MSK 2026                ext-dns-tiktok.txt  >ext-resolve-tiktok.txt
+Fri Oct 16 10:12:12 AM MSK 2026                dns-surfshark.txt  >resolve-surfshark.txt
+Fri Oct 16 10:21:11 AM MSK 2026                dns-tiktok.txt  >resolve-tiktok.txt
+Fri Oct 16 10:26:17 AM MSK 2026                ext-dns-twitter.txt  >ext-resolve-twitter.txt
