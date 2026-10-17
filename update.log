@@ -121203,3 +121203,81 @@ Fri Oct 16 12:42:53 PM MSK 2026                dns-tunnelbear.txt  >resolve-tunn
 Fri Oct 16 12:56:21 PM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
 Fri Oct 16 01:57:08 PM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
 Fri Oct 16 01:57:15 PM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
+[master 24baba13] auto-update ipv4
+ 6 files changed, 9796 insertions(+), 891 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Sat Oct 17 06:00:02 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: ok
+  googlevideo.com: ok
+  youtube.com: ok
+  ytimg.com: ok
+  facebook.com: ok
+  instagram.com: fetch failed
+  fbcdn.net: ok
+  tiktok.com: ok
+  tiktokv.com: ok
+  tiktokcdn.com: ok
+  bytedance.com: ok
+  openai.com: ok
+  chatgpt.com: ok
+  oaiusercontent.com: ok
+  bing.com: ok
+  microsoft.com: fetch failed
+  twitter.com: ok
+  x.com: ok
+  twimg.com: ok
+  ozon.ru: ok
+  github.com: ok
+  githubusercontent.com: ok
+  apple.com: ok
+  icloud.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  adobe.com: ok
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: ok
+  pornhub.com: fetch failed
+  phncdn.com: ok
+  backblaze.com: ok
+  huggingface.co: ok
+  anthropic.com: ok
+  claude.ai: fetch failed
+  total CT names: 18468
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+
+== Save names archive
