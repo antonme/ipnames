@@ -2117,7 +2117,6 @@ api-admin-channels-internal-ms.push.apple.com
 api-admin-channels-internal-st.push.apple.com
 api-admin-channels-st.sandbox.push.apple.com
 api-adservices.apple.com
-api-adservices.v.aaplimg.com
 api-aeun1a.smoot.apple.com
 api-aeun1b.smoot.apple.com
 api-aeus2a.smoot.apple.com
@@ -3951,7 +3950,6 @@ claris-filemaker-cloud-test.cdn-apple.com
 clarisftp.apple.com
 clarisworks.apple.com
 classical-api.music.apple.com
-classical-api-music.v.aaplimg.com
 classical.music.apple.com
 classical.music.apple.com.edgesuite.net
 classkit-catalog.apple.com
@@ -11214,6 +11212,7 @@ gspe72-staging.ls.apple.com
 gspe76-ssl.ls.apple.com
 gspe76-ssl.ls.apple.com.akamaized.net
 gspe76-staging.ls.apple.com
+gspe79-cdn.g.aaplimg.com
 gspe79-cn-ssl.ls.apple.com
 gspe79-cn-ssl.ls-apple.com.akadns.net
 gspe79-kr-ssl.ls.apple.com
@@ -11873,6 +11872,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -12397,6 +12397,7 @@ jp-vpn.asia.apple.com
 js-cdn.music.apple.com
 js-cdn.music.apple.com.edgesuite.net
 js-cdn-music-lb.itunes-apple.com.akadns.net
+js-cdn-music-lb-itunes-apple-com.v.aaplimg.com
 jsslana.apple.com
 jump.ps.redev.apple.com
 juno-prod-ext.apple.com
@@ -12842,6 +12843,7 @@ londonfx.blog102.apple.com
 lookup-api.apple.com
 lookup-api.apple.com.edgekey.net
 lookup-api.apple.com.edgesuite.net
+lookup-api-apple-com.v.aaplimg.com
 loop.gsp81-kittyhawk-am31-ssl.ls.apple.com
 loop-rn.apple.com
 loper.apple.com
@@ -34192,6 +34194,7 @@ sps-media-anon.itunes.apple.com
 sps-media.apple.com
 sps-media.aweun1.sbz.apple.com
 sps-media.aweuw1.sbz.apple.com
+sps-media.v.aaplimg.com
 sq-carrier.apple.com
 sq-carrier-cn.apple.com
 sq-carrier-it2.apple.com
@@ -34818,7 +34821,6 @@ stocks-data-service.apple.com.edgesuite.net
 stocks-data-service.lb-apple.com.akadns.net
 stocks-data-service-origin.apple.com
 stocks-data-service-row.lb-apple.com.akadns.net
-stocks-data-service.v.aaplimg.com
 stocks-edge.apple.com
 stocks-sparkline.apple.com
 stocks-sparkline.apple.com.edgekey.net
@@ -35070,6 +35072,7 @@ supportsite-uata.apple.com
 supportsite-uata-stage.mdn.sbz.apple.com
 supportsite-uata-stage.rno.sbz.apple.com
 supportsite-uat-stage.apple.com
+supportsite-uat-stage.apple.com.akamaized.net
 supportsite-uat-stage.mdn.sbz.apple.com
 support-sp.apple.com
 support-sp.apple.com.edgekey.net
@@ -36488,6 +36491,7 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
+weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com

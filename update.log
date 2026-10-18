@@ -121523,3 +121523,11 @@ s
 ===anthropic
 
 == Save names archive
+[master 29df97a8] auto-update names
+ 4 files changed, 90 insertions(+), 8 deletions(-)
+
+== Resolving names to ipv4
+Sun Oct 18 06:36:41 AM MSK 2026                dns-adobe.txt  >resolve-adobe.txt
+Sun Oct 18 06:43:03 AM MSK 2026                dns-bing.txt  >ipv6-resolve-bing.txt
+Sun Oct 18 06:49:56 AM MSK 2026                dns-expressvpn.txt  >ipv6-resolve-expressvpn.txt
+Sun Oct 18 06:58:43 AM MSK 2026                dns-facebook.txt  >ipv6-resolve-facebook.txt
