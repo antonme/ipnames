@@ -121727,3 +121727,5 @@ Mon Oct 19 01:04:44 PM MSK 2026                dns-youtube.txt  >ipv6-resolve-yo
 Mon Oct 19 01:24:23 PM MSK 2026                ext-dns-twitter.txt  >ext-resolve-twitter.txt
 Mon Oct 19 01:34:43 PM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
 Mon Oct 19 01:47:15 PM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
+[master 086b5b8a] auto-update ipv4
+ 11 files changed, 4734 insertions(+), 5765 deletions(-)
