@@ -121695,3 +121695,20 @@ Mon Oct 19 06:32:01 AM MSK 2026                dns-facebook.txt  >resolve-facebo
 ===anthropic
 
 == Save names archive
+[master ff0600a3] auto-update names
+ 12 files changed, 1451 insertions(+), 1171 deletions(-)
+
+== Resolving external names to ipv4
+Mon Oct 19 06:37:38 AM MSK 2026                ext-dns-adobe.txt  >ext-resolve-adobe.txt
+Mon Oct 19 07:04:15 AM MSK 2026                ext-dns-anthropic.txt  >ext-resolve-anthropic.txt
+Mon Oct 19 07:04:25 AM MSK 2026                ext-dns-apple.txt  >ext-resolve-apple.txt
+Mon Oct 19 07:04:57 AM MSK 2026                dns-huggingface.txt  >ipv6-resolve-huggingface.txt
+Mon Oct 19 07:08:29 AM MSK 2026                dns-openai.txt  >ipv6-resolve-openai.txt
+Mon Oct 19 08:00:17 AM MSK 2026                dns-ozon.txt  >ipv6-resolve-ozon.txt
+Mon Oct 19 08:05:53 AM MSK 2026                ext-dns-backblaze.txt  >ext-resolve-backblaze.txt
+Mon Oct 19 08:11:43 AM MSK 2026                dns-pornhub.txt  >ipv6-resolve-pornhub.txt
+Mon Oct 19 08:19:08 AM MSK 2026                dns-surfshark.txt  >ipv6-resolve-surfshark.txt
+Mon Oct 19 08:30:01 AM MSK 2026                dns-tiktok.txt  >ipv6-resolve-tiktok.txt
+Mon Oct 19 08:36:42 AM MSK 2026                ext-dns-bing.txt  >ext-resolve-bing.txt
+Mon Oct 19 08:38:34 AM MSK 2026                ext-dns-facebook.txt  >ext-resolve-facebook.txt
+Mon Oct 19 10:13:11 AM MSK 2026                ext-dns-github.txt  >ext-resolve-github.txt
