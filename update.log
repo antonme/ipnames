@@ -121885,3 +121885,11 @@ s
 ===anthropic
 
 == Save names archive
+[master 8c3208a0] auto-update names
+ 5 files changed, 86 insertions(+), 8 deletions(-)
+
+== Resolving names to ipv6
+Tue Oct 20 06:36:34 AM MSK 2026                dns-adobe.txt  >ipv6-resolve-adobe.txt
+Tue Oct 20 07:06:09 AM MSK 2026                dns-github.txt  >resolve-github.txt
+Tue Oct 20 07:25:00 AM MSK 2026                dns-google.txt  >resolve-google.txt
+Tue Oct 20 10:24:54 AM MSK 2026                dns-huggingface.txt  >resolve-huggingface.txt
