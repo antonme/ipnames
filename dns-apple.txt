@@ -295,6 +295,7 @@ aip-prod-3p.integrity.apple.com
 albert.apple.com
 albert-carry.ist.apple.com
 albert.v.aaplimg.com
+alchemy-ext-auth.v.aaplimg.com
 alchemy-workspace-ext.apple.com
 alchemy-workspace-ext-auth.awuse1.sbz.apple.com
 alchemy-workspace-ext-auth.awusw2.sbz.apple.com
@@ -1250,6 +1251,7 @@ aws-static-use1-cx04.apple.com
 aws-static-use2-cx05.apple.com
 aws-static-usw2-cx01.apple.com
 aws-static-usw2-cx03.apple.com
+awuse1.sbz.apple.com
 ax.init-cdn.itunes-apple.com.akadns.net
 ax.init.itunes.apple.com
 ax.itunes.apple.com
@@ -1798,7 +1800,6 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -3438,6 +3439,7 @@ edge-164.usdal2.icloud-content.com
 edge-164.usqas5.icloud-content.com
 edge-165.defra2.icloud-content.com
 edge-165.sesto4.icloud-content.com
+edge-165.uschi7.icloud-content.com
 edge-165.usdal2.icloud-content.com
 edge-165.usqas5.icloud-content.com
 edge-166.defra2.icloud-content.com
@@ -4452,7 +4454,6 @@ expert-portal.apple.com
 expew1.apple.com
 expired-ust-rsa.apple.com
 expresslane.apple.com
-ext-ukg-pro.v.aaplimg.com
 facetime.apple.com
 facetime.isoproxy.apple.com
 facheck.apple.com
@@ -5052,6 +5053,7 @@ hls.itunes.apple.com
 hls.itunes-apple.com.akadns.net
 hls-ssl.itunes.apple.com
 hls-svod-aoc.itunes.apple.com
+hls-svod-aoc.itunes-apple.com.akadns.net
 hls-svod-aoc.itunes.apple.com.edgesuite.net
 hls-svod.itunes.apple.com
 hls-svod.itunes-apple.com.akadns.net
@@ -15488,6 +15490,7 @@ sb-music.itunes-apple.com.akadns.net
 sb-music-row.itunes-apple.com.akadns.net
 sb.tv.apple.com
 sbus2i.apple.com
+sbz.apple.com
 sca.mdn.sbz.apple.com
 sca.rno.sbz.apple.com
 schedulingoptions.retail.apple.com
@@ -15528,7 +15531,6 @@ search.info.apple.com
 search.itunes.apple.com
 search.sports.apple.com
 search-sports.cdn-apple.com.edgesuite.net
-se-cdn-itunes-apple-com.v.aaplimg.com
 secure10.epp.apple.com
 secure10.epp.apple.com.cn
 secure10.store.apple.com
@@ -15850,7 +15852,6 @@ so.retail.apple.com
 soundtracks.icloud.com
 spbz.apple.com
 sp-cdn.itunes-apple.com.akadns.net
-sp-cdn-itunes-apple-com.v.aaplimg.com
 specialtyideas.corp.apple.com
 specialtytasklibrary.corp.apple.com
 specter.apple.com
@@ -16815,6 +16816,8 @@ valid.apple.com
 valid.apple.com.edgesuite.net
 validation.apple.com
 validation.isu.apple.com
+validation-msc.apple.com
+validation.v.aaplimg.com
 valid-com-ov-ecc.apple.com
 valid-gr2-cn4-rsa.apple.com
 valid-gr2-ov-rsa.apple.com
@@ -16846,6 +16849,7 @@ videos.apple.com.edgekey.net
 videos-cdn.itunes-apple.com.akadns.net
 video-ssl.itunes.apple.com
 vieworders.apple.com
+vieworders.itunes-apple.com.akadns.net
 vieworders-test11.apple.com
 virginia-makofde.apple.com
 vlt-ehla.apple.com
@@ -16856,9 +16860,13 @@ vod-ak-amt.tv.apple.com
 vod-ak-aoc.tv.apple.com
 vod-ak-aoc.tv.apple.com.akadns.net
 vod-ak-im.tv.apple.com
+vod-ak-im.tv.apple.com.akadns.net
 vod-ak-svod.tv.apple.com
+vod-ak-svod.tv.apple.com.akadns.net
 vod-amt.tv.apple.com
+vod-amt.tv.apple.com.akadns.net
 vod-aoc.tv.apple.com
+vod-aoc.tv.apple.com.akadns.net
 vod-ap1-amt.tv.apple.com
 vod-ap1-aoc.tv.apple.com
 vod-ap1-svod.tv.apple.com
@@ -17023,6 +17031,7 @@ www.apple.com.edgekey.net
 www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
+www-apple-com.v.aaplimg.com
 www.appleiphonecell.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
@@ -17103,6 +17112,7 @@ yosemite.isoproxy.apple.com
 yuri.apple.com
 z4m4rjctn1q7vihta.apple.com
 z4m4rjctn1q7vihta.apple.com.edgesuite.net
+z4m4rjctn1q7vihta-apple-com.v.aaplimg.com
 zamrd1.icloud-content.com
 zmc-use-d-s1.ccvoice.apple.com
 zmc-use-d-s2.ccvoice.apple.com
