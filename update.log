@@ -122071,3 +122071,7 @@ Wed Oct 21 06:41:04 AM MSK 2026                dns-backblaze.txt  >ipv6-resolve-
 Wed Oct 21 07:35:10 AM MSK 2026                dns-bing.txt  >ipv6-resolve-bing.txt
 Wed Oct 21 07:42:19 AM MSK 2026                dns-expressvpn.txt  >ipv6-resolve-expressvpn.txt
 Wed Oct 21 07:51:12 AM MSK 2026                dns-facebook.txt  >ipv6-resolve-facebook.txt
+[master 9db97701] auto-update merged
+ 28 files changed, 47549 insertions(+), 24098 deletions(-)
+Wed Oct 21 02:02:27 PM MSK 2026                dns-anthropic.txt  >resolve-anthropic.txt
+Wed Oct 21 02:10:54 PM MSK 2026                dns-apple.txt  >resolve-apple.txt

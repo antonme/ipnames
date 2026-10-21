@@ -7,7 +7,9 @@ set -g total_tasks 0
 # Custom command to increment the counter and print progress
 
 function resolve -a name resolvers new_name concur
-	parallel -j $concur --bar host -t AAAA -W 3 :::: $name :::: $resolvers| rg address | awk '$5{print $5}' | sort -u| sort -h > $new_name
+	python3 bulk-resolve.py AAAA $name $resolvers | sort -u| sort -h > $new_name.partial
+	# Replace the published list only when complete (a commit mid-run must never see a truncated file).
+	and mv $new_name.partial $new_name; or rm -f $new_name.partial
 end
 
 
