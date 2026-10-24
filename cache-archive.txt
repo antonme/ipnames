@@ -4616,6 +4616,7 @@ apple-pay-gateway-stage.apple.com
 apple-pay-gateway-tj-pod1.apple.com
 apple-pay-gateway-tj-pod2.apple.com
 apple-pay-gateway-tj-pod3.apple.com
+applepay-ingestion-ext.v.aaplimg.com
 applepay-ingestionservice-ext.apple.com
 applepay-irecon.corp.apple.com
 applepay.lb-apple.com.akadns.net
@@ -4872,7 +4873,6 @@ argocd.money-staging.x.com
 argocd.prod.unute.x.com
 argocd.staging.unute.x.com
 argo-rollouts-lucidcat-use1.frame.io
-ar.graph.meta.com
 argus-nonprod.corp.adobe.com
 arguta.adobeaemcloud.com
 ariba-extensions-prod-ext.awuse1.sbz.apple.com
@@ -16743,7 +16743,6 @@ dthree.corp.google.com
 d.u06.twtrdns.net
 d.u07.twtrdns.net
 d.u08.twtrdns.net
-dual-gslb.spotify.com
 dualstack.twimg.twitter.map.fastly.net
 dualstack.video.twitter.map.fastly.net
 dubad.corp.adobe.com
@@ -19750,6 +19749,7 @@ edge-066.defra2.icloud-content.com
 edge-066.gbslo5.icloud-content.com
 edge-066.nlhfd1.icloud-content.com
 edge-066.usbos2.icloud-content.com
+edge-066.uschi7.icloud-content.com
 edge-066.usdal2.icloud-content.com
 edge-066.usmsc2.icloud-content.com
 edge-066.usqas5.icloud-content.com
@@ -57959,6 +57959,7 @@ sps-media-anon.itunes.apple.com
 sps-media.apple.com
 sps-media.aweun1.sbz.apple.com
 sps-media.aweuw1.sbz.apple.com
+sps-media.v.aaplimg.com
 sq-carrier.apple.com
 sq-carrier-cn.apple.com
 sq-carrier-stage.apple.com
@@ -58773,7 +58774,6 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
-swdist.g.aaplimg.com
 swdlp-static.apple.com
 swdlp-static.apple.com.edgekey.net
 swdownload.apple.com
@@ -61426,7 +61426,6 @@ www.adobetag.com
 www.ads-apple.com.cn
 www.ads.google.com
 www.adwords.google.com
-www.airport.us
 www.anthropic.com
 www.anthropic.com.cdn.cloudflare.net
 www.apache-www.m.facebook.com---------------returnnow-info.drivethruvideos.com
@@ -61602,7 +61601,6 @@ www.gstatic.com
 wwwguide.m.facebook.com---------------returnnow-info.drivethruvideos.com
 www.homedecordiy.tweetyy.site
 www.hosting.github.com
-www.ibook.info
 www.icloud.com
 www.icloud.com.edgesuite.net
 www.icloud.com-li.ru
@@ -61629,7 +61627,6 @@ www.interngraph.ts.facebook.com------htrjgkngph.afrographics.com
 www-internmc.m.facebook.com---------------returnnow-info.drivethruvideos.com
 www-internmc.www.m.facebook.com---------------returnnow-info.drivethruvideos.com
 www.invest.ozon.ru
-www.itools.info
 www.kamin-tt54.skidku-day4.ru
 www.keep.google.com
 www-k.m.facebook.com---------------returnnow-info.drivethruvideos.com
@@ -61721,7 +61718,6 @@ www.testing0www.www.m.facebook.com---------------returnnow-info.drivethruvideos.
 wwwtesting.m.facebook.com---------------returnnow-info.drivethruvideos.com
 www.tftpts.facebook.com------htrjgkngph.afrographics.com
 www.the-instagram-team.com
-www.thinkdifferent.us
 www.tia.corp.adobe.com
 www.tiktokbot.co
 www.tiktok.com
