@@ -1886,7 +1886,6 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -2564,6 +2563,7 @@ edge-028.gbmnc1.icloud-content.com
 edge-028.gbslo5.icloud-content.com
 edge-028.nlhfd1.icloud-content.com
 edge-028.usbos2.icloud-content.com
+edge-028.uschi7.icloud-content.com
 edge-028.usqas5.icloud-content.com
 edge-028.usuqo4.icloud-content.com
 edge-028.usuyk1.icloud-content.com
@@ -2833,6 +2833,7 @@ edge-055.defra2.icloud-content.com
 edge-055.dkvib11.icloud-content.com
 edge-055.gbmnc1.icloud-content.com
 edge-055.gbslo5.icloud-content.com
+edge-055.uschi7.icloud-content.com
 edge-055.usdal2.icloud-content.com
 edge-055.usmia1.icloud-content.com
 edge-055.usqas5.icloud-content.com
@@ -2939,6 +2940,7 @@ edge-067.defra2.icloud-content.com
 edge-067.gbslo5.icloud-content.com
 edge-067.nlhfd1.icloud-content.com
 edge-067.usbos2.icloud-content.com
+edge-067.uschi7.icloud-content.com
 edge-067.usdal2.icloud-content.com
 edge-067.usqas5.icloud-content.com
 edge-067.usuyk1.icloud-content.com
@@ -3808,6 +3810,7 @@ edge-213.usmia1.icloud-content.com
 edge-213.usuyk1.icloud-content.com
 edge-214.gbslo5.icloud-content.com
 edge-214.sesto4.icloud-content.com
+edge-214.uschi7.icloud-content.com
 edge-214.usuyk1.icloud-content.com
 edge-215.gbslo5.icloud-content.com
 edge-215.sesto4.icloud-content.com
@@ -16377,7 +16380,6 @@ sps-media-anon.itunes.apple.com
 sps-media.apple.com
 sps-media.aweun1.sbz.apple.com
 sps-media.aweuw1.sbz.apple.com
-sps-media.v.aaplimg.com
 sq-carrier.apple.com
 sq-carrier-cn.apple.com
 sq-carrier-stage.apple.com
@@ -16653,6 +16655,7 @@ swcdnlocator.apple.com
 swdist.apple.com
 swdist.apple.com.akadns.net
 swdist.apple.com.edgekey.net
+swdist.g.aaplimg.com
 swdlp-static.apple.com
 swdlp-static.apple.com.edgekey.net
 swdownload.apple.com
@@ -17432,7 +17435,6 @@ weather-map2.lb-apple.com.akadns.net
 weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 web-carry.push.apple.com
 webcourier-carry.push.apple.com

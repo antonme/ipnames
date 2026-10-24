@@ -798,6 +798,8 @@ autodocs-stg.corp.adobe.com
 auto-ingest.corp.adobe.com
 auto-ingest-stage.corp.adobe.com
 autom8dev.corp.adobe.com
+automations.corp.adobe.com
+automations-stage.corp.adobe.com
 automation.substance3d.adobe.com
 automationsuite.corp.adobe.com
 automationsuite-dev.corp.adobe.com
@@ -1438,6 +1440,7 @@ cdn.ssb.test.ajo.adobe.com
 cdn.ssocm.corp.adobe.com
 cdn.stage6may.test.ajo.adobe.com
 cdn-stage-ccv.adobe.com
+cdn.stage.nfr.test.ajo.adobe.com
 cdn-stg-ffc.oobesaas.adobe.com
 cdn.tabcorp.test.ajo.adobe.com
 cdn.tesco.test.ajo.adobe.com
@@ -1521,6 +1524,7 @@ cjashowcasetest.adobe.com
 cjm.adobe.com
 cjm.corp.adobe.com
 cjp.corp.adobe.com
+clarity.corp.adobe.com
 claude-gateway.corp.adobe.com
 cleatcreator.adobe.com
 clickhouse.3di.corp.adobe.com
@@ -2267,6 +2271,7 @@ documentslocal.adobe.com
 documentssandbox.adobe.com
 documentssandboxstage.adobe.com
 documentsstage.adobe.com
+domainmigration007.test.ajo.adobe.com
 dom-del.dr.cm-verify.adobe.com
 dominion.corp.adobe.com
 doodle.corp.adobe.com
@@ -2495,6 +2500,7 @@ ereg.adobe.com
 erhl.adobeaemcloud.net
 esbuild.corp.adobe.com
 esgaroth.adobeaemcloud.com
+esign.adobe.com
 esm-dc-prequal.auth.adobe.com
 espki-win-monitor-1.corp.adobe.com
 espresso.corp.adobe.com
@@ -2671,6 +2677,7 @@ faster-development.typekit.net
 faster-staging.typekit.net
 faster.typekit.net
 faster.typekit.net-stls-v3.edgesuite.net
+fc12nico.auth.adobe.com
 feature-config.fonts.adobe.com
 fedemo.corp.adobe.com
 federatedid-na1-dr.services.adobe.com
@@ -2716,6 +2723,7 @@ fetools.corp.adobe.com
 ff.adobe.com
 ffc.adobe.io
 ffc.adobeoobe.com
+ffc-dashboard.corp.adobe.com
 ffc-edge.oobesaas.adobe.com
 ff-config.adobe.com
 ff-config-stage.corp.adobe.com
@@ -3131,6 +3139,7 @@ hlm-stage.tse.corp.adobe.com
 hlm.tse.corp.adobe.com
 hlxcdn.adobeaemcloud.com
 hmbg-inetfw01.corp.adobe.com
+hmbg-inetfw02.corp.adobe.com
 hnOVSgWTOZVY.adobe.com
 ho168guojiyulecheng.adobeaemcloud.com
 hok0.adobeaemcloud.net
@@ -3551,6 +3560,7 @@ jp1.documents.adobe.com
 jp1.documentslocal.adobe.com
 jpn3.canary.adobe.com
 juimaucdpsfuhsguqb.adobeaemcloud.net
+juliette.corp.adobe.com
 junqingguanchashi20130925.adobeaemcloud.com
 jvgq.adobeaemcloud.net
 jw00.adobeaemcloud.com
@@ -3900,6 +3910,7 @@ lp.hol5.demoamericas275.adobe.com
 lp.hol6.demoamericas275.adobe.com
 lp.hol7.demoamericas275.adobe.com
 lp.hol8.demoamericas275.adobe.com
+lpimage1.test.ajo.adobe.com
 lp.jkowalskisb.journeyusshared.adobe.com
 lp.kkaufmansb.journeyusshared.adobe.com
 lp.owarnersbdev.journeyusshared.adobe.com
@@ -5540,11 +5551,13 @@ preview.illustrator.adobe.com
 preview.red.adobe.com
 previewtool.adobe.com
 preview.workfront.adobe.com
+previous.dev.skms.adobe.com
 pr.hz.adobe.com
 primary.stock.stage.adobe.com
 primeai.corp.adobe.com
 primeai-dev.corp.adobe.com
 primeai-stg.corp.adobe.com
+primeapps.adobe.com
 primer.typekit.net
 printgpt.corp.adobe.com
 prism.adobe.com
@@ -5868,6 +5881,7 @@ restaurateur.adobeaemcloud.net
 reuse-test-v2.sites.corp.adobe.com
 reuse-test-v3.sites.corp.adobe.com
 reviewer.substance3d.adobe.com
+rewards.adobe.com
 rfid-pms.corp.adobe.com
 rfp.corp.adobe.com
 rg4e.adobeaemcloud.net
@@ -7057,6 +7071,7 @@ test-lp-preset.ssb.test.ajo.adobe.com
 testmigratecmeveting.cm-verify.adobe.com
 testmigration2.cm-verify.adobe.com
 testmigration.cm-verify.adobe.com
+testnpe1.cm-verify.adobe.com
 testnpe.cm-verify.adobe.com
 testnpeedge.cm-verify.adobe.com
 test.ocagent.test.ajo.adobe.com
