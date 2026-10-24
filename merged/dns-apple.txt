@@ -2752,6 +2752,7 @@ apple-pay-gateway-stage.apple.com
 apple-pay-gateway-tj-pod1.apple.com
 apple-pay-gateway-tj-pod2.apple.com
 apple-pay-gateway-tj-pod3.apple.com
+applepay-ingestion-ext.v.aaplimg.com
 applepay-ingestionservice-ext.apple.com
 applepay-irecon.corp.apple.com
 applepay-ireporter.apple.com
@@ -4215,7 +4216,6 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -5407,6 +5407,7 @@ edge-028.hkhkg.icloud-content.com
 edge-028.nlhfd1.icloud-content.com
 edge-028.sesto4.icloud-content.com
 edge-028.usbos2.icloud-content.com
+edge-028.uschi7.icloud-content.com
 edge-028.usqas5.icloud-content.com
 edge-028.ussjc1.icloud-content.com
 edge-028.usuqo4.icloud-content.com
@@ -5740,6 +5741,7 @@ edge-055.dkvib11.icloud-content.com
 edge-055.gbmnc1.icloud-content.com
 edge-055.gbslo5.icloud-content.com
 edge-055.hkhkg.icloud-content.com
+edge-055.uschi7.icloud-content.com
 edge-055.usdal2.icloud-content.com
 edge-055.usmia1.icloud-content.com
 edge-055.usqas5.icloud-content.com
@@ -5863,6 +5865,7 @@ edge-066.gbslo5.icloud-content.com
 edge-066.nlhfd1.icloud-content.com
 edge-066.sesto4.icloud-content.com
 edge-066.usbos2.icloud-content.com
+edge-066.uschi7.icloud-content.com
 edge-066.usdal2.icloud-content.com
 edge-066.usmsc2.icloud-content.com
 edge-066.usqas5.icloud-content.com
@@ -5873,6 +5876,7 @@ edge-067.gbslo5.icloud-content.com
 edge-067.hkhkg.icloud-content.com
 edge-067.nlhfd1.icloud-content.com
 edge-067.usbos2.icloud-content.com
+edge-067.uschi7.icloud-content.com
 edge-067.usdal2.icloud-content.com
 edge-067.usqas5.icloud-content.com
 edge-067.usuyk1.icloud-content.com
@@ -7189,6 +7193,7 @@ edge-214.hkhkg.icloud-content.com
 edge-214.jposa3.icloud-content.com
 edge-214.sesto4.icloud-content.com
 edge-214.sgsin8.icloud-content.com
+edge-214.uschi7.icloud-content.com
 edge-214.usdal2.icloud-content.com
 edge-214.uslax2.edge-299.icloud-content.com
 edge-214.usuyk1.icloud-content.com
@@ -36985,7 +36990,6 @@ weather-map.apple.com
 weather-map.apple.com.edgesuite.net
 weather-map.lb-apple.com.akadns.net
 weather-map-origin.apple.com
-weather-map.v.aaplimg.com
 weather-widget-events.apple.com
 weaver-2003.ls.apple.com
 web12532.xs4tz.icloud.com
@@ -37159,7 +37163,6 @@ www2.apple.com
 www2.seminars.apple.com
 www.ads-apple.com.cn
 www.afl.info.apple.com
-www.airport.us
 www.anat.apple.com
 www.apple.com
 www.apple.com.cn
@@ -37208,7 +37211,6 @@ www.gauravsays.info.apple.com
 www.germany.euro.apple.com
 www.guide.apple.com
 www.holland.euro.apple.com
-www.ibook.info
 www.icloud.com
 www.icloud.com.edgesuite.net
 www.icloud.com-li.ru
@@ -37219,7 +37221,6 @@ www.img1.apple-mapkit.com
 www.info.apple.com
 www.inspectieresultaten.icloud.com
 www.it.nfapeuro.apple.com
-www.itools.info
 www.itunes.com
 www.iworktrialbuy.apple.com
 www.kreasifb.blobstore.apple.com
@@ -37264,7 +37265,6 @@ www.store.apple.com
 wwwsupp2.apple.com
 wwwsupp.apple.com
 www.support.apple.com
-www.thinkdifferent.us
 www.tips.apple.com
 www.trafficexchange.info.apple.com
 www.tsu.blobstore.apple.com
