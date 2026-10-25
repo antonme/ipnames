@@ -4572,6 +4572,7 @@ appleid.cdn-apple.com
 appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.akamaized.net
 appleid.cdn-apple.com.edgekey.net
+appleid-cdn-apple-com.v.aaplimg.com
 appleid.idms-apple.com.akadns.net
 appleid-ut.corp.apple.com
 appleid-ut.corp.trbo.apple.com
@@ -9909,6 +9910,8 @@ C7FD25C0-97F6-4FDF-B2E6-00BE15E72F68-netseer-ipaddr-assoc.xy.fbcdn.net
 C7FD25C0-97F6-4FDF-B2E6-00BE15E72F68-netseer-ipaddr-assoc.xz.fbcdn.net
 c7feb14edbf4da7aa45a1fa37662a285.safeframe.googlesyndication.com
 c-7u.googleapis.com
+C802C022-FAC6-4E6A-8B1F-8F3C712F7B71-netseer-ipaddr-assoc.xy.fbcdn.net
+C802C022-FAC6-4E6A-8B1F-8F3C712F7B71-netseer-ipaddr-assoc.xz.fbcdn.net
 c804c425-3e0d-4734-8ce8-63047b6b6ca6-netseer-ipaddr-assoc.xy.fbcdn.net
 c804c425-3e0d-4734-8ce8-63047b6b6ca6-netseer-ipaddr-assoc.xz.fbcdn.net
 c80a3c85-8a50-4025-ac42-6fc5cfeee554-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -12140,7 +12143,6 @@ cl5-stg.ls.apple.com
 clarisworks.apple.com
 clarity.corp.adobe.com
 classical-api.music.apple.com
-classical-api-music.v.aaplimg.com
 classical.music.apple.com
 classical.music.apple.com.edgesuite.net
 classkit-catalog.apple.com
@@ -12731,7 +12733,6 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
-configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -16772,6 +16773,7 @@ dthree.corp.google.com
 d.u06.twtrdns.net
 d.u07.twtrdns.net
 d.u08.twtrdns.net
+dual-gslb.spotify.com
 dualstack.twimg.twitter.map.fastly.net
 dualstack.video.twitter.map.fastly.net
 dubad.corp.adobe.com
@@ -35175,6 +35177,7 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
+init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
