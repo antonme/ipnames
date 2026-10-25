@@ -933,7 +933,6 @@ appleid.cdn-apple.com
 appleid.cdn-apple.com.akadns.net
 appleid.cdn-apple.com.akamaized.net
 appleid.cdn-apple.com.edgekey.net
-appleid-cdn-apple-com.v.aaplimg.com
 appleid.idms-apple.com.akadns.net
 appleid-ut.corp.apple.com
 appleid-ut.corp.trbo.apple.com
@@ -988,7 +987,6 @@ apple-pay-gateway-stage.apple.com
 apple-pay-gateway-tj-pod1.apple.com
 apple-pay-gateway-tj-pod2.apple.com
 apple-pay-gateway-tj-pod3.apple.com
-applepay-ingestion-ext.v.aaplimg.com
 applepay-ingestionservice-ext.apple.com
 applepay-irecon.corp.apple.com
 applepay.lb-apple.com.akadns.net
@@ -1887,6 +1885,7 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
+configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -5477,7 +5476,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -17520,6 +17518,7 @@ wwfde-wave.apple.com
 wwidr.corp.apple.com
 www0.info.apple.com
 www.ads-apple.com.cn
+www.airport.us
 www.apple.com
 www.apple.com.cn
 www.apple.com.cn.edgekey.net
@@ -17545,12 +17544,14 @@ www.email.euro.apple.com
 www.euro.apple.com
 www.events.shazam.apple.com
 www.fonts.apple.com
+www.ibook.info
 www.icloud.com
 www.icloud.com.edgesuite.net
 www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
 www-icloud-row.v.aaplimg.com
 www.info.apple.com
+www.itools.info
 www.mac.com
 www.macos.apple.com
 www.macsoftware.apple.com
@@ -17567,6 +17568,7 @@ www.publicsource.apple.com
 www.rebate.apple.com
 www.servers.apple.com
 www.support.apple.com
+www.thinkdifferent.us
 xcard-k-sb-dc1-mdn.apple.com
 xcard-k-sb-dc1-rno.apple.com
 xcard-k-sb-dc2-mdn.apple.com
