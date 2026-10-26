@@ -1749,6 +1749,7 @@ cl5-cdn.origin-apple.com.akadns.net
 cl5-stg.ls.apple.com
 clarisworks.apple.com
 classical-api.music.apple.com
+classical-api-music.v.aaplimg.com
 classical.music.apple.com
 classical.music.apple.com.edgesuite.net
 classkit-catalog.apple.com
@@ -1885,6 +1886,7 @@ configuration.apple.com.akadns.net
 configuration.apple.com.edgekey.net
 configuration-carry-lb.ls-apple.com.akadns.net
 configuration-carry.ls.apple.com
+configuration.g.aaplimg.com
 configuration-lb.ls-apple.com.akadns.net
 configuration.ls.apple.com
 configuration-row-lb.apple.com.akadns.net
@@ -2084,6 +2086,7 @@ devcon-oomnshuttleist-test.apple.com
 developer-api.icloud.com
 developer.apple.com
 developer.apple.com.akamaized.net
+developer-cdn.apple.com.akadns.net
 developer.icloud.com
 developer-mdn.apple.com
 developer-rno.apple.com
@@ -2727,6 +2730,7 @@ edge-043.dkvib11.icloud-content.com
 edge-043.esmad6.icloud-content.com
 edge-043.gbslo5.icloud-content.com
 edge-043.nlhfd1.icloud-content.com
+edge-043.uschi7.icloud-content.com
 edge-043.usmia1.icloud-content.com
 edge-043.usqas5.icloud-content.com
 edge-043.usuyk1.icloud-content.com
@@ -5475,7 +5479,6 @@ init-cdn-lb.ess-apple.com.akadns.net
 init-edge.gc.apple.com
 init.ess.apple.com
 init.ess.apple.com.edgesuite.net
-init.ess.g.aaplimg.com
 init.gc.apple.com
 init.gc.apple.com.akamaized.net
 init.gc.apple.com.edgekey.net
@@ -17551,7 +17554,6 @@ www.icloud.com-li.ru
 www.icloud.com-v1.edgekey.net
 www-icloud-row.v.aaplimg.com
 www.info.apple.com
-www.itools.info
 www.mac.com
 www.macos.apple.com
 www.macsoftware.apple.com
@@ -17568,7 +17570,6 @@ www.publicsource.apple.com
 www.rebate.apple.com
 www.servers.apple.com
 www.support.apple.com
-www.thinkdifferent.us
 xcard-k-sb-dc1-mdn.apple.com
 xcard-k-sb-dc1-rno.apple.com
 xcard-k-sb-dc2-mdn.apple.com
