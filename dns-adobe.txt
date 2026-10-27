@@ -852,6 +852,7 @@ aws-api.dev.cloud-automation.corp.adobe.com
 aws-api.stage.cloud-automation.corp.adobe.com
 aws-chef.corp.adobe.com
 axdcpoc.corp.adobe.com
+axiasim.corp.adobe.com
 axle.an.adobe.com
 axle-stage.an.adobe.com
 axon.adobess.com
@@ -1638,6 +1639,7 @@ code-semantic-stg.corp.adobe.com
 codesigning.corp.adobe.com
 codesigning-dev.corp.adobe.com
 codex-argocd.corp.adobe.com
+codex-cloud-cyberark.corp.adobe.com
 codex.corp.adobe.com
 codex-dev-argocd.corp.adobe.com
 codex-dev.corp.adobe.com
@@ -2025,6 +2027,7 @@ data.emaillpb.adobe.com
 data.email.podcast.adobe.com
 data.employeecommunications.adobe.com
 data.es.test.ajo.adobe.com
+data.etihadpoc.test.ajo.adobe.com
 data-governance.adobe.com
 data-governance-api-stg.adobe.com
 data-governance-dev.adobe.com
@@ -2048,6 +2051,7 @@ data-registry-api.touchstone.corp.adobe.com
 data-registry-api.touchstone-stage.corp.adobe.com
 data-registry-ingestion.touchstone.corp.adobe.com
 data-registry-ingestion.touchstone-stage.corp.adobe.com
+data.santandertesting.test.ajo.adobe.com
 data.sbux.test.ajo.adobe.com
 data.service.paypal.com.data.adobedc.net
 datasetpreview.acc.appsvc-stage.an.adobe.com
@@ -2227,6 +2231,7 @@ devicejenkins.corp.adobe.com
 dev.in.adobe.com
 dev.internal.frame.io
 dev.join.adobe.com
+dev-lp-subdomain.carnival-uk-dev.test.ajo.adobe.com
 dev.msavlab.adobe.com
 dev-odin.adobe.com
 dev-odin-author.adobe.com
@@ -3854,6 +3859,7 @@ lehi-inet-cp.corp.adobe.com
 lehi-sbc.adobe.com
 lehi-sbc.corp.adobe.com
 lehi.vpn.adobe.com
+lens.corp.adobe.com
 lesechos-mkt-prod2-cus.campaign.adobe.com
 lesechos-mkt-prod2-t.adobe-campaign.com
 lexabyte.corp.ethos53-prod-or2.prod.ethos.corp.adobe.com
@@ -4889,6 +4895,7 @@ or1010050168053.corp.adobe.com
 or1010050168054.corp.adobe.com
 or1010050168055.corp.adobe.com
 or1010050168056.corp.adobe.com
+or1010050168057.corp.adobe.com
 or1010050168061.corp.adobe.com
 or1010050168087.corp.adobe.com
 or1010050168168.corp.adobe.com
@@ -5043,6 +5050,7 @@ or1010051061007.corp.adobe.com
 or1010051061009.corp.adobe.com
 or1010051061051.corp.adobe.com
 or1010051061085.corp.adobe.com
+or1010051061117.corp.adobe.com
 or1010051061128.corp.adobe.com
 or1010051061175.corp.adobe.com
 or1010051061200.corp.adobe.com
@@ -5193,6 +5201,7 @@ or1010051166050.corp.adobe.com
 or1010051166051.corp.adobe.com
 or1010051166140.corp.adobe.com
 or1010051196010.corp.adobe.com
+or1010051197044.corp.adobe.com
 or1010051199006.corp.adobe.com
 or1010051207006.corp.adobe.com
 or1010051216091.corp.adobe.com
@@ -5235,6 +5244,7 @@ or1010051248122.corp.adobe.com
 or1010051248187.corp.adobe.com
 or1010051249020.corp.adobe.com
 or1010051249063.corp.adobe.com
+or1010051250011.corp.adobe.com
 or1010051250231.corp.adobe.com
 or1010051251179.corp.adobe.com
 or1010051251216.corp.adobe.com
@@ -6403,6 +6413,7 @@ see-wv-a278.corp.adobe.com
 see-wv-a289.corp.adobe.com
 see-wv-a391.corp.adobe.com
 sekhmet-argocd.corp.adobe.com
+sekhmet-cloud-cyberark.corp.adobe.com
 sekhmet.corp.adobe.com
 sekhmet-dev-argocd.corp.adobe.com
 sekhmet-dev.corp.adobe.com
@@ -6750,6 +6761,7 @@ smartmov.adobeaemcloud.com
 smartspend.corp.adobe.com
 smartspend-qa.corp.adobe.com
 smartspend-stg.corp.adobe.com
+smetrics.linode.com
 smjh.adobeaemcloud.com
 smoke-test1.vibe-deployer.corp.adobe.com
 sms.adobe.com
@@ -6782,6 +6794,8 @@ sngexpedge.adobe.com
 sngucpub.corp.adobe.com
 sngucsub.corp.adobe.com
 snj1-dn01.corp.adobe.com
+snj1-dn02.corp.adobe.com
+snj1-dn03.corp.adobe.com
 snj1-dnac.corp.adobe.com
 snj1-dnac.net.adobe.com
 snj2-dn01.corp.adobe.com
@@ -7279,6 +7293,8 @@ tidalrepo.corp.adobe.com
 tidalrepo-new.corp.adobe.com
 tidalrepo-sbx.corp.adobe.com
 tidal-sbx.corp.adobe.com
+tidalselfservice.corp.adobe.com
+tidalselfservice-np.corp.adobe.com
 tidal-stg.corp.adobe.com
 tidal-stg-new.corp.adobe.com
 tikgenie.corp.adobe.com
@@ -7352,6 +7368,8 @@ trust.adobe.com
 trustlist.contentauthenticity.adobe.com
 try.photoshop.adobe.com
 tsdp.adobeaemcloud.com
+tss.corp.adobe.com
+tss-np.corp.adobe.com
 tstcmr.cm-verify.adobe.com
 t-stg.mail.adobe.com
 t-stgtrigger.email.adobe.com
