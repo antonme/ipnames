@@ -1627,7 +1627,6 @@ api-debug-mes.smoot.apple.com
 api-debug-stg.smoot.apple.com
 api.developer.st.apple.com
 api-development.appleschoolcontent.v.aaplimg.com
-api.development.push.apple.com
 api-dev-gusc1b.smoot.apple.com
 api-drf.smoot.apple.com
 api-dub.smoot.apple.com
@@ -1637,7 +1636,6 @@ api-escher-uat-amp.apple.com
 api-euc1b.smoot.apple.com
 api-euw1b.smoot.apple.com
 api-euw1c.smoot.apple.com
-api-finance-stg.smoot.apple.com
 api-fra.smoot.apple.com
 api-glb-aeuw1c.smoot.apple.com
 api-glb-aeuw3b.smoot.apple.com
@@ -1685,7 +1683,6 @@ api-rv117-ause1c.smoot.apple.com
 api-safari-aeuc1a.smoot.apple.com
 api-safari-aeuw3b.smoot.apple.com
 api-safari-aeuw3c.smoot.apple.com
-api.sandbox.push.apple.com
 api-searchads.apple.com
 api.searchads.apple.com
 api.sentinel-ml.apple.com
@@ -9630,7 +9627,6 @@ msc-sapem-ext-prd.sap.apple.com
 msc-seedadmin-prod.apple.com
 msi-app-sample.g.apple.com
 msite-stage8iadworkbench-soak.iad.apple.com
-mspgw-int.push.apple.com
 mspgw.qa1.push.apple.com
 mspgw.sandbox.push.apple.com
 ms-www-apple-shield.apple.com
@@ -15856,7 +15852,6 @@ p301-fmipalservice.icloud.com
 p301-fmip-china.icloud.com
 p301-fmipmobile.icloud.com
 p301-iwmb7.icloud.com
-p301-keyvalueservice-china.icloud.com
 p301-quota-china.icloud.com
 p302-acsegateway.icloud.com
 p302-calendars-china.icloud.com
@@ -15864,7 +15859,6 @@ p302-calendars.icloud.com
 p302-contacts-china.icloud.com
 p302-fmip.icloud.com
 p302-iwmb7.icloud.com
-p302-keyvalueservice.icloud.com
 p302-quota-china.icloud.com
 p302-uploadimagews.icloud.com
 p303-acsegateway.icloud.com
@@ -15879,10 +15873,7 @@ p304-caldav.icloud.com
 p304-calendars.icloud.com
 p304-fmip-china.icloud.com
 p304-iwmb8-china.icloud.com
-p304-keyvalueservice.icloud.com
-p304-maildomainws.icloud.com
 p304-mcc.icloud.com
-p304-pushws.icloud.com
 p304-quota-china.icloud.com
 p304-quota.icloud.com
 p304-remindersws.icloud.com
@@ -15890,14 +15881,8 @@ p304-uploadimagews.icloud.com
 p305-caldav.icloud.com
 p305-fmipmobile-china.icloud.com
 p305-iwmb7.icloud.com
-p305-keyvalueservice.icloud.com
-p305-notesws.icloud.com
 p306-calendars.icloud.com
 p306-contacts-china.icloud.com
-p306-keyvalueservice-china.icloud.com
-p306-maildomainws.icloud.com
-p306-notesws.icloud.com
-p306-pushws.icloud.com
 p306-remindersws.icloud.com
 p306-uploadimagews.icloud.com
 p307-caldav-china.icloud.com
@@ -15911,9 +15896,7 @@ p307-remindersws.icloud.com
 p308-acsegateway.icloud.com
 p308-contacts-china.icloud.com
 p308-iwmb8-china.icloud.com
-p308-keyvalueservice-china.icloud.com
 p308-mcc.icloud.com
-p308-notesws.icloud.com
 p308-p120-docws-china5-china.icloud.com
 p308-quota.icloud.com
 p308-remindersws.icloud.com
@@ -15921,7 +15904,6 @@ p309-caldav-china.icloud.com
 p309-calendars-china.icloud.com
 p309-contacts-china.icloud.com
 p309-contacts.icloud.com
-p309-notesws.icloud.com
 p309-remindersws.icloud.com
 p30-bookmarks.icloud.com
 p30-caldav-iwmb7-china.icloud.com
@@ -15940,9 +15922,7 @@ p30-streams-china.icloud.com
 p310-calendars-china.icloud.com
 p310-calendars.icloud.com
 p310-content-p55-calendars-china.icloud.com
-p310-keyvalueservice-china.icloud.com
 p310-mcc.icloud.com
-p310-pushws.icloud.com
 p310-quota-china.icloud.com
 p310-quota.icloud.com
 p310-remindersws.icloud.com
@@ -19508,7 +19488,6 @@ web-bzp-mmap-xe01.apple.com
 web-bzp-mmap-xe03.apple.com
 webcast.info.apple.com
 webcourier.icloud.com
-webcourier.sandbox.push.apple.com
 web-experience.itunes.apple.com
 web-ext-mmap-ce03-rno.apple.com
 web-ext-mmap-ce06-rno.apple.com
@@ -19535,7 +19514,6 @@ webpay-sh-mdn.apple.com
 web.qa2.push.apple.com
 webservices.usatl5.icloud-content.com
 websocket.qa2.push.apple.com
-websocket.sandbox.push.apple.com
 web-static.cdn-apple.com
 webstuff.apple.com
 webtools.itunes.com

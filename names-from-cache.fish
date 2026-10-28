@@ -45,7 +45,7 @@ echo "==Certificate Transparency names (crt.sh)"
 # filter_names regexes then sort them into the right dns-*.txt buckets.
 # Keep this list in sync with those regexes: add a service's domains in both.
 set -l crtsh_apexes \
-	google.com googlevideo.com youtube.com ytimg.com \
+	google.com googlevideo.com gvt1.com youtube.com ytimg.com \
 	facebook.com instagram.com fbcdn.net \
 	tiktok.com tiktokv.com tiktokcdn.com bytedance.com \
 	openai.com chatgpt.com oaiusercontent.com \
