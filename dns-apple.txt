@@ -702,6 +702,7 @@ apim-uat-cp.sap.apple.com
 api.music.apple.com
 api-music-ci.smoot.apple.com
 api.musicconnect.apple.com
+api.musicconnect.v.aaplimg.com
 api-music-data-match.smoot.apple.com
 api-music-r.smoot.apple.com
 api-music.smoot.apple.com
@@ -1459,6 +1460,7 @@ b.gslb.aaplimg.com
 big.itunes.apple.com
 bins-external.awusw2.sbz.apple.com
 bins.msi.ops.apple.com
+bitbucket-test-latest.v.aaplimg.com
 bizchat-ptr1.awuse2.mmap.apple.com
 bizchat-ptr1.awusw2.mmap.apple.com
 bizchat-ptr1.mmap.apple.com
@@ -2148,6 +2150,7 @@ cssvc-mdn.apple.com
 cssvc-prod.v.aaplimg.com
 cssvc-prz.apple.com
 cssvc-stage.prz.sbz.apple.com
+cssvc-stage.v.aaplimg.com
 cssvc-uat.awusw2.sbz.apple.com
 cssvc-ut.apple.com
 cssvc-ut-mdn.apple.com
@@ -5167,6 +5170,7 @@ gigafiles.corp.apple.com
 gigafiles-pilot.apple.com
 gil.apple.com
 github-latest.v.aaplimg.com
+gitlab-latest.v.aaplimg.com
 gitlab-test-latest.v.aaplimg.com
 glb-feedback.v.aaplimg.com
 gnv.apple.com
@@ -5185,6 +5189,7 @@ goat-server-cloud-dev.hwte.apple.com
 goat-stage.apple.com
 goat-stage.g.apple.com
 goat-uat.apple.com
+gos-dev.v.aaplimg.com
 graffiti-origin.apple.com
 graffiti-tags.apple.com
 graffiti-tags.apple.com.edgesuite.net
@@ -5809,6 +5814,7 @@ idmsac.rno.spbz.apple.com
 idmsac-stage.apple.com
 idms-adm.apple.com
 idms-adm.g.apple.com
+idms-adm.v.aaplimg.com
 idmsa.idms-apple.com.akadns.net
 idmsa-partner.apple.com
 idms-apple.com.akadns.net
@@ -5937,6 +5943,7 @@ inmaa1-corpclient-vpn11.euro.apple.com
 inmaa1-corpclient-vpn12.euro.apple.com
 inmaa1-corpclient-vpn.euro.apple.com
 inmaa1-dcvpnclient-vpn11.euro.apple.com
+inorout.v.aaplimg.com
 insideapple.apple.com
 inspections-mobile-new.apple.com
 inspections-mobile-prd.apple.com
@@ -6608,11 +6615,16 @@ manage-st.apple.com
 ma-narrative-ext.apple.com
 mandrill.marketingtools.apple.com
 manifest-api-production.awusw2.spbz.apple.com
+manifest-api-production.v.aaplimg.com
 manifest-api-stage.awusw2.spbz.apple.com
 manifest.apple.com
 manifest.scv.apple.com
+manifest-stage.v.aaplimg.com
 manifest-ui-production.awusw2.spbz.apple.com
+manifest-ui-production.v.aaplimg.com
 manifest-ui-stage.awusw2.spbz.apple.com
+manifest-ui-stage.v.aaplimg.com
+manifest.v.aaplimg.com
 manuals.info.apple.com
 manufacturing-api.apple.com
 manufacturing.apple.com
@@ -7145,6 +7157,7 @@ okapi-services-apse1.apple.com
 okapi-services-euw1.apple.com
 okapi-services-use1.apple.com
 okapi-services-usw2.apple.com
+okapi-services.v.aaplimg.com
 ondevice-agreements.apple.com
 ondevice-agreements.apple.com.cn
 ondevice-agreements.apple.com.edgekey.net
@@ -16622,6 +16635,8 @@ retaildesignstandards.apple.com
 retail-e.apple.com
 retail-e-b.apple.com
 retail-partner-connect.apple.com
+retail-repair-mg.cs.ist.apple.com
+retail-repair-mg.v.aaplimg.com
 retailsecurityincidents.apple.com
 retail-security-incidents-production.awusw2.sbz.apple.com
 retail-wifi-cert.apple.com
@@ -16960,6 +16975,7 @@ securemetrics.v.aaplimg.com
 securemvt.apple.com
 securemvt.apple.com.cn
 securemvt.g.apple.com
+securemvt.v.aaplimg.com
 secure.store.apple.com
 secure.store.gcsis-apple.com.akadns.net
 secure.storeint.apple.com
@@ -17745,6 +17761,7 @@ tradein-kit.awuse1.sbz.apple.com
 tradein-kit.awusw2.sbz.apple.com
 tradein-kit-stage.apple.com
 trade-in-portal-external-prod.v.aaplimg.com
+trade-in-portal-external-test.v.aaplimg.com
 trailers.apple.com
 trailers.apple.com.edgekey.net
 transporter.apple.com
