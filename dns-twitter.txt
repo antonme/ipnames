@@ -242,6 +242,8 @@ business.money-staging.x.com
 business.money.x.com
 business.x.com
 call.x.com
+canary-guest-cf.pscp.tv
+canary-proxsee-cf.pscp.tv
 canary.twitter.com
 caps.twitter.com
 caps.x.com
@@ -302,6 +304,11 @@ data.payments-staging.x.com
 dc-api.twitter.com
 ddns3.atla.twitter.com
 devcommunity.x.com
+dev-guest-cf.pscp.tv
+dev-proxsee-cf.pscp.tv
+dev-turn-p2p-eu-west-1.pscp.tv
+dev-turn-p2p.pscp.tv
+dev-turn-p2p-us-west-2.pscp.tv
 dev.unute.x.com
 dfir-iris.dev.unute.x.com
 dfir-iris.prod.unute.x.com
@@ -384,6 +391,7 @@ grafana.payments-prod.x.com
 grafana.payments-staging.x.com
 grok.x.com
 growth.x.com
+guest-cf.pscp.tv
 hadoop-backups-nn.atla.twitter.com
 hadoop-backups-rm.atla.twitter.com
 hadoop-bluebird.qus1.twitter.com
@@ -838,6 +846,8 @@ stardock.memy.twitter.com
 stardock.pdxa.twitter.com
 stardock.pdxx.twitter.com
 statements.money-dev.x.com
+statements.money-staging.x.com
+statements.money.x.com
 static.ads-twitter.com
 stats.wilson.atla.twitter.com
 stats.wilson.atlc.twitter.com
@@ -892,6 +902,21 @@ trivy-staging.local.twitter.com
 trivy.twitter.biz
 trust.x.com
 tueu0dflmr4lmeholobh.jq93xtwtruh6pcmyljepuoexeljrzquvqeyoavt2t.di9s4vmztd1i.hp7gsdfkh3m.pebek6cejhilid32itmyerfhrxinslsk0w1ldd2pxnki3pml.wcps63bkddr0.shofha.online
+turn-p2p-ap-northeast-1.pscp.tv
+turn-p2p-ap-northeast-2.pscp.tv
+turn-p2p-ap-south-1.pscp.tv
+turn-p2p-ap-southeast-1.pscp.tv
+turn-p2p-ap-southeast-2.pscp.tv
+turn-p2p-eu-central-1.pscp.tv
+turn-p2p-eu-west-1.pscp.tv
+turn-p2p-eu-west-3.pscp.tv
+turn-p2p.pscp.tv
+turn-p2p-sa-east-1.pscp.tv
+turn-p2p-us-east-1.pscp.tv
+turn-p2p-us-west-1.pscp.tv
+turn-p2p-us-west-2.pscp.tv
+tusman.us-west-2.dev.pscp.tv
+tusman.us-west-2.prod.pscp.tv
 tweetdeck.twitter.com
 tweetdeck.x.com
 tweetow.com
@@ -976,6 +1001,7 @@ victoriametrics-b.memy.twitter.com
 victoriametrics-c.memy.twitter.com
 victoriametrics-d.memy.twitter.com
 video-cf.twimg.com
+video.pscp.tv
 video.pscp.tv.map.fastly.net
 video-s.twimg.com
 video.twimg.com
