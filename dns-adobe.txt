@@ -32,6 +32,7 @@ abo-va6.identity.adobe.com
 aboveground.adobeaemcloud.net
 abp.corp.adobe.com
 abp-profile-service.adobe.io
+abpsre-sandbox.corp.adobe.io
 abp-stage.corp.adobe.com
 ab-stg.adobe-identity.com
 abusemailbox.campaign.adobe.com
@@ -1745,6 +1746,11 @@ cloudengineering.corp.adobe.com
 cloudengineering-dev.corp.adobe.com
 cloudfinops.adobe.com
 cloudflare-aep-waf-canary.adobe.io
+cloudflare-cja.adobe.io
+cloudflare-cja-stage.adobe.io
+cloudflare-cjm-stage.adobe.io
+cloudflare-platform.adobe.io
+cloudflare-platform-stage.adobe.io
 cloud-legacy-fc.adobe.io
 cloudmanagement.corp.adobe.com
 cloudmanagement-dev.corp.adobe.com
@@ -3011,6 +3017,7 @@ fac-analytics.corp.adobe.com
 facebook.ols.adobe.com
 faclib-27.adobeaemcloud.com
 facs-dev-va6-corp.adobe.io
+facs-stage-va6.adobe.io
 faculty-105-94.adobeaemcloud.net
 falcolpmigration.test.ajo.adobe.com
 falcomigration100.test.ajo.adobe.com
@@ -7547,6 +7554,8 @@ ssl-delivery.adobe.com-stls-dd-cn-v2.edgesuite.net.globalredir.akadns88.net
 ssl-stls.adobe.com
 sso.behance.net
 ssocm.corp.adobe.com
+sso-stage.cloud.adobe.io
+sso.stage.cloud.adobe.io
 ss-prod-an1-ns.aws.adobess.com
 ss-prod-ue1-ns.aws.adobess.com
 sstats.adobe.com
@@ -7904,6 +7913,7 @@ testdrive.workfront.adobe.com
 testflex.cm-verify.adobe.com
 testfranklin.cm-verify.adobe.com
 testhf.cm-verify.adobe.com
+test.hooks.director.adobe.com
 testhost1.corp.adobe.com
 testhost2.corp.adobe.com
 testingdomain.cloudmanager.adobe.com
