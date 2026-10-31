@@ -124401,3 +124401,88 @@ s
 ===xai
 
 == Save names archive
+[master 63252435] auto-update names
+ 16 files changed, 1504 insertions(+), 27 deletions(-)
+  github.io: fetch failed, retry 2/4 in 20s
+  github.io: fetch failed, retry 3/4 in 30s
+  github.io: fetch failed, retry 4/4 in 40s
+  github.io: fetch failed
+  ghcr.io: fetch failed, retry 1/4 in 10s
+  ghcr.io: ok
+  apple.com: fetch failed, retry 1/4 in 10s
+  apple.com: fetch failed, retry 2/4 in 20s
+  apple.com: fetch failed, retry 3/4 in 30s
+  apple.com: ok
+  icloud.com: ok
+  icloud-content.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: fetch failed, retry 1/4 in 10s
+  cdn-apple.com: fetch failed, retry 2/4 in 20s
+  cdn-apple.com: ok
+  aaplimg.com: fetch failed, retry 1/4 in 10s
+  aaplimg.com: fetch failed, retry 2/4 in 20s
+  aaplimg.com: ok
+  apple-dns.net: fetch failed, retry 1/4 in 10s
+  apple-dns.net: ok
+  apple.news: fetch failed, retry 1/4 in 10s
+  apple.news: fetch failed, retry 2/4 in 20s
+  apple.news: ok
+  adobe.com: ok
+  adobe.io: ok
+  adobelogin.com: fetch failed, retry 1/4 in 10s
+  adobelogin.com: fetch failed, retry 2/4 in 20s
+  adobelogin.com: ok
+  adobedc.net: ok
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: fetch failed, retry 1/4 in 10s
+  frame.io: fetch failed, retry 2/4 in 20s
+  frame.io: ok
+  demdex.net: fetch failed, retry 1/4 in 10s
+  demdex.net: ok
+  omtrdc.net: fetch failed, retry 1/4 in 10s
+  omtrdc.net: ok
+  pornhub.com: ok
+  phncdn.com: ok
+  backblaze.com: fetch failed, retry 1/4 in 10s
+  backblaze.com: fetch failed, retry 2/4 in 20s
+  backblaze.com: fetch failed, retry 3/4 in 30s
+  backblaze.com: fetch failed, retry 4/4 in 40s
+  backblaze.com: ok
+  backblazeb2.com: ok
+  huggingface.co: ok
+  hf.co: ok
+  hf.space: ok
+  anthropic.com: fetch failed, retry 1/4 in 10s
+  anthropic.com: ok
+  claude.ai: ok
+  claude.com: fetch failed, retry 1/4 in 10s
+  claude.com: ok
+  claudeusercontent.com: ok
+  clau.de: ok
+  x.ai: ok
+  grok.com: ok
+  total CT names: 27553
+
+==Probing YouTube cache servers: skipped, list is less than a week old
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+===xai
+
+== Save names archive
