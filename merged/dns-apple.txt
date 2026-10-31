@@ -6267,6 +6267,7 @@ calendars.fe.apple-dns.net
 calendars-ic1.icloud.com
 calendars.icloud.com
 calendar.we.apple-dns.net
+calendarws.fe2.apple-dns.net
 calendarws.fe.apple-dns.net
 calendarws-ic2.icloud.com
 calendarws.icloud.com
@@ -6978,6 +6979,7 @@ contacts.fe2.apple-dns.net
 contacts.fe.apple-dns.net
 contacts-ic2.icloud.com
 contacts.icloud.com
+contactsws.fe2.apple-dns.net
 contactsws.fe.apple-dns.net
 contactsws.icloud.com
 contactus.apple.com
@@ -9717,6 +9719,8 @@ edge-034.usbos2.ce.apple-dns.net
 edge-034.usbos2.icloud-content.com
 edge-034.uschi7.ce.apple-dns.net
 edge-034.uschi7.icloud-content.com
+edge-034.usdal2.ce.apple-dns.net
+edge-034.usdal2.icloud-content.com
 edge-034.usden6.ce.apple-dns.net
 edge-034.uslax2.media.apple-dns.net
 edge-034.usmia1.ce.apple-dns.net
@@ -9790,6 +9794,7 @@ edge-036.usatl5.ce.apple-dns.net
 edge-036.usbos2.ce.apple-dns.net
 edge-036.usbos2.icloud-content.com
 edge-036.uschi7.icloud-content.com
+edge-036.usdal2.icloud-content.com
 edge-036.usden6.ce.apple-dns.net
 edge-036.uslax2.media.apple-dns.net
 edge-036.usmia1.ce.apple-dns.net
@@ -10211,6 +10216,8 @@ edge-048.sgsin8.ce.apple-dns.net
 edge-048.usatl5.ce.apple-dns.net
 edge-048.uschi7.ce.apple-dns.net
 edge-048.uschi7.icloud-content.com
+edge-048.usdal2.ce.apple-dns.net
+edge-048.usdal2.icloud-content.com
 edge-048.usmes1.ce.apple-dns.net
 edge-048.usmia1.ce.apple-dns.net
 edge-048.usmia.ce.apple-dns.net
@@ -10273,6 +10280,7 @@ edge-050.sgsin8.ce.apple-dns.net
 edge-050.usatl5.ce.apple-dns.net
 edge-050.uschi7.ce.apple-dns.net
 edge-050.uschi7.icloud-content.com
+edge-050.usdal2.icloud-content.com
 edge-050.uslax2.media.apple-dns.net
 edge-050.usmia1.ce.apple-dns.net
 edge-050.usmia1.icloud-content.com
@@ -10486,6 +10494,7 @@ edge-057.sgsin8.ce.apple-dns.net
 edge-057.usatl5.ce.apple-dns.net
 edge-057.usbos2.icloud-content.com
 edge-057.uschi7.icloud-content.com
+edge-057.usdal2.icloud-content.com
 edge-057.uslax2.media.apple-dns.net
 edge-057.usmia1.ce.apple-dns.net
 edge-057.usmia1.icloud-content.com
@@ -10862,6 +10871,7 @@ edge-069.sgsin8.ce.apple-dns.net
 edge-069.usbos2.icloud-content.com
 edge-069.uschi7.ce.apple-dns.net
 edge-069.uschi7.icloud-content.com
+edge-069.usdal2.icloud-content.com
 edge-069.uslax2.media.apple-dns.net
 edge-069.usmia1.ce.apple-dns.net
 edge-069.usmia.ce.apple-dns.net
@@ -11067,6 +11077,7 @@ edge-076.jptyo12.media.apple-dns.net
 edge-076.nlhfd1.icloud-content.com
 edge-076.sesto4.icloud-content.com
 edge-076.sgsin8.ce.apple-dns.net
+edge-076.usbos2.ce.apple-dns.net
 edge-076.usbos2.icloud-content.com
 edge-076.uschi7.ce.apple-dns.net
 edge-076.uschi7.icloud-content.com
@@ -11256,6 +11267,8 @@ edge-083.sesto4.icloud-content.com
 edge-083.sgsin8.ce.apple-dns.net
 edge-083.usbos2.icloud-content.com
 edge-083.uschi7.icloud-content.com
+edge-083.usdal2.ce.apple-dns.net
+edge-083.usdal2.icloud-content.com
 edge-083.usden6.icloud-content.com
 edge-083.uslax2.ce.apple-dns.net
 edge-083.usmes1.ce.apple-dns.net
@@ -11622,6 +11635,8 @@ edge-097.sgsin8.ce.apple-dns.net
 edge-097.usatl5.ce.apple-dns.net
 edge-097.usbos2.icloud-content.com
 edge-097.uschi7.icloud-content.com
+edge-097.usdal2.ce.apple-dns.net
+edge-097.usdal2.icloud-content.com
 edge-097.usmes1.ce.apple-dns.net
 edge-097.usmia1.ce.apple-dns.net
 edge-097.usmia.ce.apple-dns.net
@@ -11969,6 +11984,7 @@ edge-112.sesto4.icloud-content.com
 edge-112.sgsin8.ce.apple-dns.net
 edge-112.usatl5.ce.apple-dns.net
 edge-112.uschi7.icloud-content.com
+edge-112.usdal2.icloud-content.com
 edge-112.usmia1.ce.apple-dns.net
 edge-112.usmia.ce.apple-dns.net
 edge-112.usnyc.ce.apple-dns.net
@@ -11989,6 +12005,8 @@ edge-113.sesto4.ce.apple-dns.net
 edge-113.sesto4.icloud-content.com
 edge-113.usatl5.ce.apple-dns.net
 edge-113.uschi7.icloud-content.com
+edge-113.usdal2.ce.apple-dns.net
+edge-113.usdal2.icloud-content.com
 edge-113.uslax2.ce.apple-dns.net
 edge-113.usmia1.ce.apple-dns.net
 edge-113.usmia1.icloud-content.com
@@ -12123,6 +12141,7 @@ edge-119.usmia1.ce.apple-dns.net
 edge-119.usnyc.ce.apple-dns.net
 edge-119.usqas5.media.apple-dns.net
 edge-119.usuyk1.icloud-content.com
+edge-120.deber3.icloud-content.com
 edge-120.dedus.ce.apple-dns.net
 edge-120.defra2.ce.apple-dns.net
 edge-120.defra2.icloud-content.com
@@ -12140,6 +12159,7 @@ edge-120.sesto4.icloud-content.com
 edge-120.sgsin8.icloud-content.com
 edge-120.usatl5.ce.apple-dns.net
 edge-120.uschi7.icloud-content.com
+edge-120.usdal2.ce.apple-dns.net
 edge-120.usdal2.icloud-content.com
 edge-120.usmia1.ce.apple-dns.net
 edge-120.usmia.ce.apple-dns.net
@@ -12239,6 +12259,7 @@ edge-125.dkvib11.icloud-content.com
 edge-125.gbslo5.ce.apple-dns.net
 edge-125.iedub2.ce.apple-dns.net
 edge-125.uschi7.icloud-content.com
+edge-125.usdal2.icloud-content.com
 edge-125.usmia1.ce.apple-dns.net
 edge-125.usmia.ce.apple-dns.net
 edge-125.usnyc.ce.apple-dns.net
@@ -12868,6 +12889,7 @@ edge-164.jposa3.icloud-content.com
 edge-164.jptyo12.ce.apple-dns.net
 edge-164.sesto4.ce.apple-dns.net
 edge-164.sesto4.icloud-content.com
+edge-164.usdal2.ce.apple-dns.net
 edge-164.usdal2.icloud-content.com
 edge-164.usmes1.ce.apple-dns.net
 edge-164.usmia.ce.apple-dns.net
@@ -13134,6 +13156,8 @@ edge-181.defra2.icloud-content.com
 edge-181.sesto4.ce.apple-dns.net
 edge-181.sesto4.icloud-content.com
 edge-181.uschi7.icloud-content.com
+edge-181.usdal2.ce.apple-dns.net
+edge-181.usdal2.icloud-content.com
 edge-181.usmes1.ce.apple-dns.net
 edge-181.usnyc.ce.apple-dns.net
 edge-181.usqas5.icloud-content.com
@@ -13233,6 +13257,7 @@ edge-189.sesto4.ce.apple-dns.net
 edge-189.sesto4.icloud-content.com
 edge-189.sgsin8.icloud-content.com
 edge-189.uschi7.icloud-content.com
+edge-189.usdal2.ce.apple-dns.net
 edge-189.usdal2.icloud-content.com
 edge-189.usmes1.ce.apple-dns.net
 edge-189.usnyc.ce.apple-dns.net
@@ -14057,6 +14082,8 @@ edge-260.defra2.icloud-content.com
 edge-260.hkhkg.icloud-content.com
 edge-260.jposa3.icloud-content.com
 edge-260.sesto4.icloud-content.com
+edge-260.usdal2.ce.apple-dns.net
+edge-260.usdal2.icloud-content.com
 edge-260.usmia1.icloud-content.com
 edge-260.usqas5.icloud-content.com
 edge-260.usuyk1.icloud-content.com
@@ -14241,6 +14268,7 @@ edge-276.deber3.icloud-content.com
 edge-276.defra2.icloud-content.com
 edge-276.dkvib11.ce.apple-dns.net
 edge-276.hkhkg.icloud-content.com
+edge-276.sesto4.ce.apple-dns.net
 edge-276.sesto4.icloud-content.com
 edge-276.usdal2.icloud-content.com
 edge-276.usmia1.icloud-content.com
@@ -14260,6 +14288,7 @@ edge-278.dkvib11.ce.apple-dns.net
 edge-278.gbslo5.icloud-content.com
 edge-278.hkhkg-edge-260.icloud-content.com
 edge-278.jposa3.icloud-content.com
+edge-278.sesto4.ce.apple-dns.net
 edge-278.sesto4.icloud-content.com
 edge-278.usqas5.icloud-content.com
 edge-279.deber3.icloud-content.com
@@ -14416,6 +14445,8 @@ edge-297.hkhkg-2.ce.apple-dns.net
 edge-297.hkhkg.icloud-content.com
 edge-297.sesto4.ce.apple-dns.net
 edge-297.sesto4.icloud-content.com
+edge-297.usdal2.ce.apple-dns.net
+edge-297.usdal2.icloud-content.com
 edge-297.usqas5.ce.apple-dns.net
 edge-298.deber3.icloud-content.com
 edge-298.dedus.ce.apple-dns.net
@@ -16978,6 +17009,7 @@ gateway-ts.apple.com
 gatewayws-australia.icloud.com
 gatewayws-carry.icloud.com
 gatewayws-china.icloud.com
+gatewayws.fe2.apple-dns.net
 gatewayws.fe.apple-dns.net
 gatewayws-ic1.icloud.com
 gatewayws-ic3.icloud.com
@@ -17196,6 +17228,7 @@ geoplaces.apple.com
 geo.portal.guat.aaplimg.com
 geo-st1-ntp-lb01.apple.com
 geo.v.aaplimg.com
+geows.fe2.apple-dns.net
 geows.fe.apple-dns.net
 geows-ic3.icloud.com
 geows.icloud.com
@@ -19903,6 +19936,7 @@ init.itunes.apple.com
 init.itunes.trbo.apple.com
 init-kt.apple.com
 init-kt.apple.com.edgekey.net
+init-kt.apple.com.edgesuite.net
 init-kt.lb-apple.com.akadns.net
 init-p01md.apple.com
 init-p01md.apple.com.edgesuite.net
@@ -21754,6 +21788,7 @@ mb-ext-facade-denali.apple.com
 mb-ext-facade-denali.awuse2.sbz.apple.com
 mcc.fe2.apple-dns.net
 mcc.fe.apple-dns.net
+mccgateway.fe2.apple-dns.net
 mccgateway.fe.apple-dns.net
 mccontroller.apple.com
 mcf.research.apple.com
@@ -44717,6 +44752,7 @@ remd3-edge-sx-001.aaplimg.com
 remd3-edge-sx-002.aaplimg.com
 remd3-vip-sx-001.aaplimg.com
 reminders.icloud.com
+remindersws.fe2.apple-dns.net
 remindersws.fe.apple-dns.net
 remindersws-ic1.icloud.com
 remindersws.icloud.com
@@ -47432,6 +47468,7 @@ static.ess.apple.com
 staticess.g.aaplimg.com
 static.gc.apple.com
 static.gc-lb.apple.com.akadns.net
+static-gc-lb-apple-com.v.aaplimg.com
 statici-china-ic1.icloud.com
 statici-china.icloud.com
 statici.fe.apple-dns.net
@@ -52237,7 +52274,6 @@ www2.apple.com
 www2.seminars.apple.com
 www.ads-apple.com.cn
 www.afl.info.apple.com
-www.airport.us
 www.anat.apple.com
 www.apple.com
 www.apple.com.cn
@@ -52250,7 +52286,6 @@ www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
@@ -52290,7 +52325,6 @@ www.germany.euro.apple.com
 www.greenpanglobalstaging.l005.usqas5.mediaedge.v.aaplimg.com
 www.guide.apple.com
 www.holland.euro.apple.com
-www.ibook.info
 www.icloud.com
 www.icloud.com.cn
 www.icloud.com.edgesuite.net
@@ -52305,7 +52339,6 @@ www.img1.apple-mapkit.com
 www.info.apple.com
 www.inspectieresultaten.icloud.com
 www.it.nfapeuro.apple.com
-www.itools.info
 www.itunes.com
 www.iworktrialbuy.apple.com
 www.kreasifb.blobstore.apple.com
@@ -52350,7 +52383,6 @@ www.store.apple.com
 wwwsupp2.apple.com
 wwwsupp.apple.com
 www.support.apple.com
-www.thinkdifferent.us
 www.tips.apple.com
 www.trafficexchange.info.apple.com
 www.tsu.blobstore.apple.com

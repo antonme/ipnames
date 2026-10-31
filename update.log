@@ -124510,3 +124510,6 @@ Sat Oct 31 08:49:02 AM MSK 2026                dns-twitter.txt  >ipv6-resolve-tw
 Sat Oct 31 08:49:57 AM MSK 2026                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
 Sat Oct 31 08:50:00 AM MSK 2026                dns-xai.txt  >ipv6-resolve-xai.txt
 Sat Oct 31 08:50:04 AM MSK 2026                dns-youtube.txt  >ipv6-resolve-youtube.txt
+[master f487d5b5] auto-update ipv6
+ 16 files changed, 52194 insertions(+), 45813 deletions(-)
+ create mode 100644 ipv6-resolve-xai.txt
