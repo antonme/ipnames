@@ -704,6 +704,7 @@ app.circle-stg.ci.adobe.com
 app.data-platform.corp.adobe.com
 app.dev.frame.io
 app.frame.io
+app-fusion-prod.fusion.adobe.com
 app.handsoff.corp.adobe.com
 applog-be.cr.adobe.com
 applog.cr.adobe.com
@@ -749,6 +750,7 @@ argocd.kodiak.corp.adobe.com
 argo-rollouts-lucidcat-use1.frame.io
 argus-nonprod.corp.adobe.com
 arguta.adobeaemcloud.com
+ark.corp.adobe.com
 arks-client.adobe.com
 armc212-xerox5135.adobeaemcloud.com
 armdl.adobe.com
@@ -1529,7 +1531,10 @@ cdn.b2bdeep.test.ajo.adobe.com
 cdn.b2bmail.adobe.com
 cdn.batch-accenture.test.ajo.adobe.com
 cdn.batch-ajocampaignorchestrationgbr9.test.ajo.adobe.com
+cdn.batch-ajocampaignorchestrationind2.test.ajo.adobe.com
 cdn.batch-ajocampaignorchestrationva7stage.test.ajo.adobe.com
+cdn.batch-ajocampaign-outboundaus5.test.ajo.adobe.com
+cdn.batch-ajocampaign-outboundcan2.test.ajo.adobe.com
 cdn.batch-ajocampaignoutbound.test.ajo.adobe.com
 cdn.batch-caixa.test.ajo.adobe.com
 cdn.batch-dev.test.ajo.adobe.com
@@ -1540,6 +1545,7 @@ cdn.batch-nfr.test.ajo.adobe.com
 cdn.batch-pm.test.ajo.adobe.com
 cdn.batch-prog1.test.ajo.adobe.com
 cdn.batch-telefonica.test.ajo.adobe.com
+cdn.batch.test.ajo.adobe.com
 cdn.batch-uhg.test.ajo.adobe.com
 cdn.batch-ulta.test.ajo.adobe.com
 cdn.batch-wunderman.test.ajo.adobe.com
@@ -2187,6 +2193,9 @@ data.americanexpress.test.ajo.adobe.com
 data.b2bmail.adobe.com
 data.batch-accenture.test.ajo.adobe.com
 data.batch-ajocampaignorchestrationgbr9.test.ajo.adobe.com
+data.batch-ajocampaignorchestrationind2.test.ajo.adobe.com
+data.batch-ajocampaign-outboundaus5.test.ajo.adobe.com
+data.batch-ajocampaign-outboundcan2.test.ajo.adobe.com
 data.batch-ajocampaignoutbound.test.ajo.adobe.com
 data.batch-caixa.test.ajo.adobe.com
 data.batch-doc.test.ajo.adobe.com
@@ -2270,6 +2279,7 @@ data.three.test.ajo.adobe.com
 data.tsbuat.test.ajo.adobe.com
 data.typekit.net
 data.ubs.test.ajo.adobe.com
+data.ultimate-success-emea.test.ajo.adobe.com
 data.ups.test.ajo.adobe.com
 data.visitqatar-dev.test.ajo.adobe.com
 dattihp.adobeaemcloud.com
@@ -2541,6 +2551,7 @@ di-me.ff.adobe.io
 dinosaur.frame.io
 dinosaur.staging.frame.io
 directus.corp.adobe.com
+discover.adobe.com
 discover.photoshop.com
 discovery118.corp.adobe.com
 discovery.corp.adobe.com
@@ -2940,6 +2951,7 @@ eu-west-1.frame.io
 eu-west-1.sharedservices.frame.io
 eu-west-1.staging.frame.io
 evaluate-style-app.corp.adobe.com
+evantaagartnercompany.demdex.net
 event.adobe.com
 event-forwarding-dev.aep-mtls.adobe.com
 event-forwarding-prod.aep-mtls.adobe.com
@@ -3618,6 +3630,7 @@ hunanshenglanqiudui.adobeaemcloud.net
 huntmetrics.corp.adobe.com
 hyperion.corp.adobe.com
 hyperion-gw-ap-northeast-1.hyperiongw.qe.campaign.adobe.com
+hyperion-gw-ap-south-1.hyperiongw.qe.campaign.adobe.com
 hyperion-gw-ap-southeast-1.hyperiongw.qe.campaign.adobe.com
 hyperion-gw-ap-southeast-2.hyperiongw.qe.campaign.adobe.com
 hyperion-gw-ca-central-1.hyperiongw.qe.campaign.adobe.com
@@ -4160,9 +4173,11 @@ knowledge-builder-stg.corp.adobe.com
 kodiak.corp.adobe.com
 kodiak-ui.corp.adobe.com
 kohala-lb.corp.adobe.com
+kohala-producer-02.corp.adobe.com
 kohala-producer-1.corp.adobe.com
 kohala-producer-2.corp.adobe.com
 kohala-producer.corp.adobe.com
+kohala-producer-prod.corp.adobe.com
 kompass.corp.adobe.com
 kompass-stg.corp.adobe.com
 konductor-apse2.int.gslb.eegw.adobedc.net
@@ -4212,6 +4227,8 @@ labrador.adobe.com
 laminated.adobeaemcloud.com
 landing.adobe.com
 landing.adobe.com.edgekey.net
+landingpage.emaillpb.adobe.com
+landing.ultimate-success-emea.test.ajo.adobe.com
 langgan.adobeaemcloud.com
 laoqianzhuangyulechengbaijiale.adobeaemcloud.com
 launch.adobe.com
@@ -4923,6 +4940,7 @@ no1010042044058.corp.adobe.com
 no1010042044069.corp.adobe.com
 no1010042044083.corp.adobe.com
 no1010042044140.corp.adobe.com
+no1010042044242.corp.adobe.com
 no1010042046155.corp.adobe.com
 no1010042046170.corp.adobe.com
 no1010042064092.corp.adobe.com
@@ -5560,6 +5578,7 @@ or1010050226149.corp.adobe.com
 or1010050226150.corp.adobe.com
 or1010050226151.corp.adobe.com
 or1010050226152.corp.adobe.com
+or1010050226153.corp.adobe.com
 or1010050226158.corp.adobe.com
 or1010050226159.corp.adobe.com
 or1010050229205.corp.adobe.com
@@ -6305,6 +6324,7 @@ prod.postoffice.adobe.com
 prod-rel-ffc-ccm.oobesaas.adobe.com
 prod-rel-ffc.oobesaas.adobe.com
 prod.ssocm.corp.adobe.com
+producer-prod.corp.adobe.com
 productionbyof.adobe.io
 productioncctypekit.adobe.io
 productivity.cloud-automation.corp.adobe.com
@@ -6448,6 +6468,7 @@ qa.sms.adobe.com
 qa.sophia.corp.adobe.com
 qa.ssocm.corp.adobe.com
 qastudio-dev.corp.adobe.com
+qastudio-int.corp.adobe.com
 qastudio-prod.corp.adobe.com
 qastudio-stage.corp.adobe.com
 qa.sv.adobe.com
@@ -7191,6 +7212,7 @@ sj1010010041063.corp.adobe.com
 sj1010010041116.corp.adobe.com
 sj1010010041189.corp.adobe.com
 sj1010010041195.corp.adobe.com
+sj1010010042018.corp.adobe.com
 sj1010010046026.corp.adobe.com
 sj1010010046030.corp.adobe.com
 sj1010010074036.corp.adobe.com
@@ -7922,6 +7944,7 @@ testingstage.cm-verify.adobe.com
 testinvalid10.cm-verify.adobe.com
 testinvalid3.cm-verify.adobe.com
 testinvalidauth.cm-verify.adobe.com
+test-landing-page-122122.email-disney.cjm.adobe.com
 testlbgrsept.corp.adobe.com
 testlbjul24.corp.adobe.com
 testlbjun25.corp.adobe.com
