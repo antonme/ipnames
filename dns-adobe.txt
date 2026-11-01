@@ -214,6 +214,7 @@ ada-uat.corp.adobe.com
 addons.adobe.com
 addons-dev.adobe.com
 addons-stage.adobe.com
+address.adobe.com
 ad-dub.wipc.adobe.com
 adeactivate.adobe.com
 adeinstall.adobe.com
@@ -1099,6 +1100,7 @@ bks.adobe.io
 bl6node01.corp.adobe.com
 blabla.cloudmanager.adobe.com
 bldculprit.corp.adobe.com
+blgvalidator.corp.adobe.com
 blog.developer.adobe.com
 blog.frame.io
 blog.stage.developer.adobe.com
@@ -1136,6 +1138,8 @@ bps-il.adobe.io
 br.ac.travelocity.com.cname.campaign.adobe.com
 brand-extractor.corp.adobe.com
 brand.frame.io
+brand-portal.adobe.com
+brand-portal-stage.adobe.com
 brenard.adobeaemcloud.com
 bridge.marketplace.adobe.com
 bridgeway.adobe.com
@@ -1265,8 +1269,10 @@ canonusa.tt.omtrdc.net
 canvas.adobe.com
 caobudget.corp.adobe.com
 caobudget-stg.corp.adobe.com
+cao.corp.adobe.com
 caometrics.corp.adobe.com
 caometrics-stage.corp.adobe.com
+cao-org.corp.adobe.com
 cao-v2.corp.adobe.com
 cao-v2-org.corp.adobe.com
 captionlens.corp.adobe.com
@@ -1305,6 +1311,7 @@ care-stage.adobe.com
 cascade.adobe.com
 cascade.corp.adobe.com
 caseic.adobeaemcloud.net
+casiocomputer.tt.omtrdc.net
 casper-soar.corp.adobe.com
 cassandra-temporal-prod-node.identity.adobe.com
 cassandra-temporal-stg1-node.identity-stage.adobe.com
@@ -1339,6 +1346,7 @@ cbs-preprod.adobe.com
 cbs-prod.adobe.com
 cbs-qa.adobe.com
 cbs-stage.adobe.com
+cbs.sv.adobe.com
 cbs-uat.adobe.com
 cbs-workflowmanagement-prod.corp.adobe.com
 cbs-workflowmanagement-prod.int.adobe.com
@@ -1477,6 +1485,8 @@ cclibraries-defaults-cdn.adobe.com
 cclibraries-defaults-cdn.adobe.com.edgekey.net
 ccm.corp.adobe.com
 ccmdl.adobe.com
+ccmdl-preprod.corp.adobe.com
+ccmdl-prod.corp.adobe.com
 ccmdls.adobe.com
 ccmdls.stage.adobe.com
 ccmdls-stls-cn.adobe.com-v2.edgesuite88.net
@@ -1519,6 +1529,7 @@ ccxp.desktop.creativecloud.adobe.com
 ccxp.desktop.creativecloud.adobe.com.setia.cloud
 cd-bot-dev.sharedservices.frame.io
 cdn1.adoberesources.net
+cdn.acsappsvcs1.test.ajo.adobe.com
 cdn.adobeaemcloud.com
 cdn.aem-sites-internal.adobe.com
 cdn.aepcomms.cjm.adobe.com
@@ -1629,6 +1640,7 @@ cdn-stage-ccv.adobe.com
 cdn.stage.nfr.test.ajo.adobe.com
 cdn.starbucks.test.ajo.adobe.com
 cdn-stg-ffc.oobesaas.adobe.com
+cdn.summit-l336.adobe.com
 cdn.tabcorp.test.ajo.adobe.com
 cdn.tesco.test.ajo.adobe.com
 cdn.test3.test.ajo.adobe.com
@@ -1870,6 +1882,7 @@ commit.corp.adobe.com
 committeeadmin.adobeaemcloud.com
 communication.github.com.cname.campaign.adobe.com
 communities.adobe.com
+community2.adobe.com
 community.adobe.com
 community.corp.adobe.com
 community-dev.adobe.com
@@ -1894,7 +1907,9 @@ component-harness.corp.adobe.com
 component-harness.preview.corp.adobe.com
 components.frame.io
 con-a.adobe.com
+con-a.corp.adobe.com
 con-b.adobe.com
+con-b.corp.adobe.com
 concept.adobe.com
 condenast.demdex.net
 conference-2-sjcetcupsvm.jab.corp.adobe.com
@@ -1961,6 +1976,7 @@ content-storage.genstudio.stage.adobe.com
 contexter.corp.adobe.com
 contexterprod.corp.adobe.com
 contributor.stock.adobe.com
+controllership.corp.adobe.com
 control.touchstone.corp.adobe.com
 control.touchstone-stage.corp.adobe.com
 control-x.corp.adobe.com
@@ -2392,7 +2408,9 @@ dev02.ccos-dashboard.adobe.com
 dev02.corp.adobe.com
 dev02.exchange.adobe.com
 dev03.adobe.com
+dev03.corp.adobe.com
 dev04.adobe.com
+dev04.corp.adobe.com
 dev05.corp.adobe.com
 dev2.a4u-gateway.corp.adobe.com
 dev.3dshare.substance3d.adobe.com
@@ -2475,6 +2493,7 @@ dev.email-signify.cjm.adobe.com
 dev.exchange.adobe.io
 dev.experimentation.adobe.com
 dev.ff.adobe.io
+dev-ffc-files.corp.adobe.com
 dev.filetransfer.adobe.com
 dev.frame.io
 dev.gen-ai-director.substance3d.adobe.com
@@ -2631,6 +2650,7 @@ drax-dev.corp.adobe.com
 drax-stg.corp.adobe.com
 dr.cm-verify.adobe.com
 dr.corp.adobe.com
+dremaqeban112022.corp.adobe.com
 dr-no1.corp.adobe.com
 dr-node1.corp.adobe.com
 dr-node2.corp.adobe.com
@@ -2693,6 +2713,7 @@ dva-coverage-stage.corp.adobe.com
 dva-godot.corp.adobe.com
 dva-godot-redis.corp.adobe.com
 dva-grafana.corp.adobe.com
+dva-kibana.corp.adobe.com
 dva-pear.corp.adobe.com
 dva-sonarqube.corp.adobe.com
 dva-teamcity.corp.adobe.com
@@ -2716,6 +2737,7 @@ dx-partner-author.prod.corp.adobe.com
 dxrama.corp.adobe.com
 dxrama-dev.corp.adobe.com
 dxue.corp.adobe.com
+dxusp.corp.adobe.com
 dxusp-preprocessing.corp.adobe.com
 dyson.tt.omtrdc.net
 dzu7.adobeaemcloud.com
@@ -3098,8 +3120,10 @@ ff.adobe.com
 ff.adobe.io
 ffc.adobe.io
 ffc.adobeoobe.com
+ffc-crawler.oobesaas.adobe.com
 ffc-dashboard.corp.adobe.com
 ffc-edge.oobesaas.adobe.com
+ffc-hd-crawler.corp.adobe.com
 ff-config.adobe.com
 ff-config-stage.corp.adobe.com
 ffc-static-cdn.oobesaas.adobe.com
@@ -3156,6 +3180,7 @@ firefly-soft-paywall.growth.adobe.com
 firefly-stage.corp.adobe.com
 firefly-stage-pr.corp.adobe.com
 firewatch.corp.adobe.com
+firstmile.adobe.com
 fi-rt.adobeaemcloud.net
 flamingo-dev.corp.adobe.com
 flash.corp.adobe.com
@@ -3634,8 +3659,10 @@ hyperion-gw-ap-south-1.hyperiongw.qe.campaign.adobe.com
 hyperion-gw-ap-southeast-1.hyperiongw.qe.campaign.adobe.com
 hyperion-gw-ap-southeast-2.hyperiongw.qe.campaign.adobe.com
 hyperion-gw-ca-central-1.hyperiongw.qe.campaign.adobe.com
+hyperion-gw-eu-west-1.hyperiongw.qe.campaign.adobe.com
 hyperion-gw-eu-west-2.hyperiongw.qe.campaign.adobe.com
 hyperion-gw-us-east-1.hyperiongw.qe.campaign.adobe.com
+hyperion-gw-us-west-2.hyperiongw.qe.campaign.adobe.com
 hyperion-reporting.corp.adobe.com
 hyperion-reporting-stage.corp.adobe.com
 hyperion-stage.corp.adobe.com
@@ -3947,6 +3974,7 @@ inside.dev.corp.adobe.com
 insiderambassador.adobe.com
 inside.stage.corp.adobe.com
 inspire.adobe.com
+int2-ffc-files.corp.adobe.com
 intak.corp.adobe.com
 intake.corp.adobe.com
 intake-dev.corp.adobe.com
@@ -4173,6 +4201,7 @@ knowledge-builder-stg.corp.adobe.com
 kodiak.corp.adobe.com
 kodiak-ui.corp.adobe.com
 kohala-lb.corp.adobe.com
+kohala-producer-01.corp.adobe.com
 kohala-producer-02.corp.adobe.com
 kohala-producer-1.corp.adobe.com
 kohala-producer-2.corp.adobe.com
@@ -4218,6 +4247,7 @@ l7--.adobeaemcloud.net
 l8w3.adobeaemcloud.com
 l986.adobeaemcloud.com
 l-9g.adobeaemcloud.com
+lab02.corp.adobe.com
 labcyberark.corp.adobe.com
 lab.digitalpublishing.adobe.io
 labgm03.corp.adobe.com
@@ -4614,6 +4644,10 @@ marinus-ui.corp.ethos506-stage-or2.stage.ethos.corp.adobe.com
 marketing.adobe.com
 marketing-assets.adobe.com
 marketing-assets-stage.adobe.com
+marketinghub.adobe.com
+marketinghub-dev.adobe.com
+marketinghub-qa.adobe.com
+marketinghub-stage.adobe.com
 marketing.philips-hue.com.data.adobedc.net
 marketing-stage.adobe.com
 marketingtech.corp.adobe.com
@@ -4730,6 +4764,7 @@ m.messages.adobe.com
 mobile-scorecard-builder.an.adobe.com
 moderator.stock.adobe.com
 moderator.stock.stage.adobe.com
+mona.adobe.com
 mona-stage.corp.adobe.com
 monitoring.dots.corp.adobe.com
 monitoring.dxd.adobe.com
@@ -4917,6 +4952,7 @@ nNWKnloRiQTZ.adobe.com
 no1010040071187.corp.adobe.com
 no1010042033136.corp.adobe.com
 no1010042033212.corp.adobe.com
+no1010042033223.corp.adobe.com
 no1010042034023.corp.adobe.com
 no1010042035255.corp.adobe.com
 no1010042036057.corp.adobe.com
@@ -4927,6 +4963,7 @@ no1010042040254.corp.adobe.com
 no1010042041098.corp.adobe.com
 no1010042041110.corp.adobe.com
 no1010042041132.corp.adobe.com
+no1010042041167.corp.adobe.com
 no1010042041196.corp.adobe.com
 no1010042041208.corp.adobe.com
 no1010042041231.corp.adobe.com
@@ -5073,6 +5110,7 @@ ns403.adobe.net
 ns404.adobe.net
 ns.campaign.adobe.com
 ns.cjm.adobe.com
+nt-ffc-crawler.oobesaas.adobe.com
 ntubkup.adobeaemcloud.net
 nu95.adobeaemcloud.com
 nuncang.adobeaemcloud.com
@@ -5568,8 +5606,10 @@ or1010050225046.corp.adobe.com
 or1010050225058.corp.adobe.com
 or1010050225143.corp.adobe.com
 or1010050225146.corp.adobe.com
+or1010050225150.corp.adobe.com
 or1010050225153.corp.adobe.com
 or1010050225154.corp.adobe.com
+or1010050225155.corp.adobe.com
 or1010050225156.corp.adobe.com
 or1010050225158.corp.adobe.com
 or1010050225159.corp.adobe.com
@@ -5597,6 +5637,8 @@ or1010050229232.corp.adobe.com
 or1010050229233.corp.adobe.com
 or1010050230203.corp.adobe.com
 or1010050230207.corp.adobe.com
+or1010050231016.corp.adobe.com
+or1010050231018.corp.adobe.com
 or1010050236010.corp.adobe.com
 or1010050236148.corp.adobe.com
 or1010051033156.corp.adobe.com
@@ -5775,6 +5817,8 @@ or1010051166051.corp.adobe.com
 or1010051166140.corp.adobe.com
 or1010051196010.corp.adobe.com
 or1010051197044.corp.adobe.com
+or1010051197048.corp.adobe.com
+or1010051197049.corp.adobe.com
 or1010051199006.corp.adobe.com
 or1010051207006.corp.adobe.com
 or1010051216091.corp.adobe.com
@@ -5866,6 +5910,7 @@ or1pam043.corp.adobe.com
 or1pam044.corp.adobe.com
 or1pam081.corp.adobe.com
 or1pam084.corp.adobe.com
+or1pam113.corp.adobe.com
 or1sam004.corp.adobe.com
 or1sam009.corp.adobe.com
 or1sam012.corp.adobe.com
@@ -5949,6 +5994,7 @@ orders.stage.adobe.com
 oreades.adobeaemcloud.com
 orgs-groups-workers.identity.adobe.com
 origin-core.adobelogin.com
+orion.adobe.com
 or.k8s.ipaas.corp.adobe.com
 or.k8s.np.ipaas.corp.adobe.com
 or-mango-stg-27053-ssl.corp.adobe.com
@@ -6002,6 +6048,7 @@ paas-stg.corp.adobe.com
 pac-api.corp.adobe.com
 pac-api-stage.corp.adobe.com
 packages.adobe.com
+pact.corp.adobe.com
 paec.adobeaemcloud.net
 pages.adobe.com
 pages.cjmgdc.adobe.com
@@ -6108,6 +6155,7 @@ pillar.adobeaemcloud.com
 pimg.adobeaemcloud.com
 ping.typekit.net
 pinniwinkis.adobeaemcloud.com
+pipeexpress.adobe.com
 pipeline.corp.adobe.com
 pipeline-dev.corp.adobe.com
 pipeline-int.corp.adobe.com
@@ -6314,6 +6362,7 @@ prod.ccos-dashboard.adobe.com
 prod.ccx.adobe.com
 prod.cloud.adobe.io
 prod.contentauthenticity.adobe.com
+prod.corp.adobe.com
 prod.distributed-tracing.corp.adobe.com
 prodesignbudgetreqs.corp.adobe.com
 prod.ff.adobe.io
@@ -6359,6 +6408,7 @@ projectknow.corp.adobe.com
 projectm.adobe.com
 projectneo.adobe.com
 projectpulsar.adobe.com
+projectpulsar.corp.adobe.com
 projectspice.adobe.com
 projectx.corp.adobe.com
 prometheus-cf.3di.corp.adobe.com
@@ -6421,6 +6471,7 @@ pulsar.adobe.com
 pulsar-na1r-dev.services.adobe.com
 pulsar-na1r.services.adobe.com
 pulsar-na1r-stg1.services.adobe.com
+pulsar-stage.corp.adobe.com
 pulsar-uds.identity-stage.adobe.com
 pulse.ccx.adobe.com
 pulse.corp.adobe.com
@@ -6446,13 +6497,16 @@ qa02.adobe.com
 qa02.corp.adobe.com
 qa02.exchange.adobe.com
 qa03.adobe.com
+qa03.corp.adobe.com
 qa04.adobe.com
+qa04.corp.adobe.com
 qa1.q.adobe.com
 qa.adobe.com
 qa.api.sv.adobe.com
 qa.author.sv.adobe.com
 qa-az.fusion.adobe.com
 qa.campaign.adobe.com
+qa.cbs.sv.adobe.com
 qa.ccos.adobe.com
 qa.ccos-dashboard.adobe.com
 qa.cmc.adobe.com
@@ -6478,9 +6532,11 @@ qe41.adobeaemcloud.com
 qe5.appsvc-stage.an.adobe.com
 qe.campaign.adobe.com
 qe-ci1.target.adobe.net
+qe-ffc-files.corp.adobe.com
 qe-ffc-static-cdn.oobesaas.adobe.com
 qe.ngc.adobe.io
 qe.runtime.adobe.io
+qetoolbox.corp.adobe.com
 q-gy.adobeaemcloud.com
 qianchen.adobeaemcloud.net
 qianqun.adobeaemcloud.net
@@ -6652,6 +6708,7 @@ rhodium-ec.corp.adobe.com
 rhodium-gc.corp.adobe.com
 rhodium-ir.corp.adobe.com
 rhodium-kr.corp.adobe.com
+ripple-stage.adobe.com
 rise.corp.adobe.com
 rise-dev.corp.adobe.com
 rise-stage.corp.adobe.com
@@ -6717,6 +6774,7 @@ salesaccelerator.partners.adobe.com
 salesaccredited.adobe.com
 saleshub.corp.adobe.com
 salesloft.adobe.com
+salessupport.adobe.com
 salessupport.corp.adobe.com
 salesvelocity.adobe.com
 salt-admin.corp.adobe.com
@@ -6811,6 +6869,7 @@ sap-bs6db-02.corp.adobe.com
 sap-bs6db-03.corp.adobe.com
 sap-bs6db.corp.adobe.com
 sap-bs6db-ro.corp.adobe.com
+sapcharm.corp.adobe.com
 sapcharmqa.corp.adobe.com
 sap-eccprod.corp.adobe.com
 sap-eccprodro.corp.adobe.com
@@ -7089,6 +7148,9 @@ s.email-mobiledx.cjm.adobe.com
 send-asr.acrobat.com
 sendnow.adobe.com
 senniu.adobeaemcloud.net
+sentinel.corp.adobe.com
+sentinel-dev.corp.adobe.com
+sentinel-stage.corp.adobe.com
 sephora.tt.omtrdc.net
 server.adobedc.net
 server.corp.adobe.com
@@ -7345,6 +7407,7 @@ sj1dra353.corp.adobe.com
 sj1dra354.corp.adobe.com
 sj1dra370.corp.adobe.com
 sj1dra526.corp.adobe.com
+sj1dra589.corp.adobe.com
 sj1dra802.corp.adobe.com
 sj1dra878.corp.adobe.com
 sj1dra879.corp.adobe.com
@@ -7434,6 +7497,8 @@ smartmov.adobeaemcloud.com
 smartspend.corp.adobe.com
 smartspend-qa.corp.adobe.com
 smartspend-stg.corp.adobe.com
+smb-brasil.adobe.com
+smb-na.adobe.com
 smjh.adobeaemcloud.com
 smoke-test1.vibe-deployer.corp.adobe.com
 sms.adobe.com
@@ -7585,6 +7650,7 @@ sstatstest.adobe.com
 stage02.digitalpublishing.adobe.io
 stage02.publish.adobe.io
 stage2.a4u-gateway.corp.adobe.com
+stage2.corp.adobe.com
 stage.3dshare.substance3d.adobe.com
 stage.a4u-gateway.corp.adobe.com
 stage.account.adobe.com
@@ -7616,6 +7682,7 @@ stage.cloudmanager.adobe.com
 stage.cmc.adobe.com
 stage.compas.adobe.com
 stage.contentauthenticity.adobe.com
+stage.corp.adobe.com
 stage.cxp.adobe.com
 stage-dc.acrobat.adobe.com
 stage.distributed-tracing.corp.adobe.com
@@ -7626,6 +7693,7 @@ stage.exchange.adobe.com
 stage.experimentation.adobe.com
 stage.exphub.corp.adobe.com
 stage.ff.adobe.io
+stage-ffc-files.corp.adobe.com
 stage.filetransfer.adobe.com
 stage.gen-ai-director.substance3d.adobe.com
 stage.gtmaiap.corp.adobe.com
@@ -7670,6 +7738,7 @@ stage-ws.status.adobe.com
 stage.xd.adobe.com
 staging.api.sv.adobe.com
 staging.author.sv.adobe.com
+staging.cbs.sv.adobe.com
 staging.cms.sv.adobe.com
 staging.dxa.corp.adobe.com
 staging.frame.io
@@ -8419,6 +8488,7 @@ vrops-sj1-prod-04.corp.adobe.com
 vrops-sj1-prod-05.corp.adobe.com
 vrops-sj1-prod-06.corp.adobe.com
 vudu.tt.omtrdc.net
+vuln2.corp.adobe.com
 vuyaohnlp.adobeaemcloud.net
 vwwm.adobeaemcloud.com
 VYmKpiaRTmKO.adobelogin.com
@@ -8463,6 +8533,7 @@ webops-tools.corp.adobe.com
 webpagetest.corp.adobe.com
 webpush.corp.adobe.com
 webpush-new.corp.adobe.com
+web-stage.corp.adobe.com
 weishimewodediannaoshangbuliaoyinheguojixianjinwang.adobeaemcloud.com
 welcometodesign.corp.adobe.com
 wexh.adobeaemcloud.net
@@ -8616,6 +8687,7 @@ xbfq.adobeaemcloud.net
 xc4v.adobeaemcloud.com
 xchange.adobe.com
 xchange-dev239.corp.adobe.com
+xchange-dev23.corp.adobe.com
 xchange-stage.corp.adobe.com
 xcnbvx.corp.adobe.com
 x.corp.adobe.com
