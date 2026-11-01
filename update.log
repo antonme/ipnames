@@ -124917,3 +124917,6 @@ Sun Nov  1 08:12:19 AM MSK 2026                dns-twitter.txt  >resolve-twitter
 Sun Nov  1 08:12:54 AM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
 Sun Nov  1 08:12:57 AM MSK 2026                dns-xai.txt  >resolve-xai.txt
 Sun Nov  1 08:13:01 AM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
+[master 2a4d73b6] auto-update ipv4
+ 21 files changed, 20419 insertions(+), 14060 deletions(-)
+ create mode 100644 resolve-xai.txt
