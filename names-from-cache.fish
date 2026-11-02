@@ -56,7 +56,9 @@ set -l crtsh_apexes \
 	bytedance.com ibyteimg.com byteoversea.com \
 	openai.com chatgpt.com oaiusercontent.com oaistatic.com oaistatsig.com \
 	sora.com chat.com \
-	bing.com microsoft.com \
+	bing.com \
+	microsoft.com microsoftonline.com live.com outlook.com office.com office.net \
+	windows.com msn.com skype.com xbox.com sharepoint.com azure.com visualstudio.com \
 	twitter.com x.com twimg.com pscp.tv \
 	ozon.ru ozonusercontent.com \
 	github.com githubusercontent.com githubassets.com githubcopilot.com \
@@ -141,6 +143,10 @@ filter_names "fbcdn|instag|\.facebook\.|b00c|fbsbx\.com|(^|[. ])whatsapp\.(net|c
 filter_names "\.tiktok|tiktokv|(\.|-)tt|ttlive|bytefcdn|worldfcdn|bytetcdn|byte.cdn|ovscdns|pitaya|ttlive|bytefcdn|overseas|ovscdns|pitaya|worldfcdn|byte.cdn|bytedance|-webcast-|tiqcdn|ttcdn|ttwstatic|ttoversea|sgsnssdk|byteimg|ibyteimg|musical\.ly|isnssdk|ibyteimg|cdn\.concert\.io|anitm.xyz|2to2.top|bitssec|bytedapm|-oversea|goofy-cdn|byteglb|byteoversea|bytesover|ibytedtos|bytedance|byted\.org|bytegecko|hypstarcdn|pstatp" 'tiktok' 'ttddnnss|\.tt$'
 filter_names "openai\.|[\. ]oai|chatgpt\.com|(^|[. ])sora\.com\b|(^|[. ])chat\.com\b" 'openai' "shofha.online"
 filter_names "(^|\.)bing(\.)|bingads|bingapis|bingforbusiness|bi.ng|cortana|bing-int|microsoft|msft" 'bing' '' "bin|cortana"
+# Microsoft first-party (microsoft.com, M365/Entra, Windows, Xbox, Skype, MSN...).
+# Forced filter keeps only Microsoft-owned registrable domains (drops typosquats and
+# third-party hosts); antifilter drops M365 tenant MX hosts (*.protection.outlook.com).
+filter_names 'microsoft|msft|msedge\.net|msecnd\.net|msauth\.net|(^|[. <])(live|outlook|hotmail|office|office365|windows|windowsupdate|msn|skype|xbox|xboxlive|visualstudio|sharepoint|onedrive|1drv|azure|azure-dns)\.(com|net)\b|(^|[. <])(aka|clarity)\.ms\b|\.microsoft\b' 'microsoft' 'protection\.outlook\.com$|\.eo\.outlook\.com$' '(^|\.)(s-microsoft|microsoft[a-z0-9-]*|[a-z0-9-]*msedge|msft[a-z0-9-]*|msecnd|msauth|msn|office|office365|live|outlook|hotmail|windows|windowsupdate|skype|xbox|xboxlive|visualstudio|sharepoint|onedrive|1drv|azure|azure-dns|onmicrosoft|trafficmanager|akadns|edgekey|edgesuite)\.(com|net|org|info|fr|us|ie|de|cn)$|\.(microsoft|ms)$'
 filter_names 'twitter|twtt|twimg|twtr|(\.|^)t\.co$|twitpic|(^|\.)x\.com|tweet|periscope\.|pscp\.tv' 'twitter'
 filter_names '(\.|-|^)ozon(\.|-)|ozonuser' 'ozon'
 filter_names 'githubuser|githubassets\.com|githubcopilot\.com|(^|\.|-)github(\.|-)com|github\.io|(^|[. ])ghcr\.io' 'github'
