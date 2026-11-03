@@ -4052,6 +4052,7 @@ alloydb.us-east4.p.rep.googleapis.com
 alloydb.us-east4.rep.googleapis.com
 alloydb.us-east7.rep.mtls.googleapis.com
 alloydb.us-west1.rep.mtls.googleapis.com
+alloydb.us-west2.rep.mtls.googleapis.com
 alloydb.us-west3.p.rep.googleapis.com
 alloydb.us-west3.rep.googleapis.com
 alloydb.us-west3.rep.mtls.googleapis.com
@@ -17124,6 +17125,7 @@ content-compute.europe-west15.p.rep.googleapis.com
 content-compute.europe-west15.rep.googleapis.com
 content-compute.europe-west15.rep.mtls.googleapis.com
 content-compute.europe-west1.p.rep.googleapis.com
+content-compute.europe-west1.rep.googleapis.com
 content-compute.europe-west1.rep.mtls.googleapis.com
 content-compute.europe-west3.p.rep.googleapis.com
 content-compute.europe-west3.rep.googleapis.com
@@ -17573,6 +17575,7 @@ content-dataprocrm.me-central1.rep.mtls.googleapis.com
 content-dataprocrm.southamerica-east1.rep.mtls.googleapis.com
 content-dataprocrm.us-east4.rep.googleapis.com
 content-dataprocrm.us-east4.rep.mtls.googleapis.com
+content-dataprocrm.us-east7.rep.mtls.googleapis.com
 content-dataprocrm.us-west2.rep.mtls.googleapis.com
 content-dataprocrm.us-west4.p.rep.googleapis.com
 content-dataproc.us-central2.rep.googleapis.com
@@ -18508,6 +18511,7 @@ content-osconfig.australia-southeast2.rep.mtls.googleapis.com
 content-osconfig.europe-central2.rep.mtls.googleapis.com
 content-osconfig.europe-north1.rep.googleapis.com
 content-osconfig.europe-north1.rep.mtls.googleapis.com
+content-osconfig.europe-north2.rep.googleapis.com
 content-osconfig.europe-north2.rep.mtls.googleapis.com
 content-osconfig.europe-west12.rep.googleapis.com
 content-osconfig.europe-west12.rep.mtls.googleapis.com
@@ -83071,6 +83075,7 @@ staging-developerconnect.us-west1.p.rep.sandbox.googleapis.com
 staging-developerconnect.us-west1.rep.mtls.sandbox.googleapis.com
 staging-developerconnect.us-west1.rep.sandbox.googleapis.com
 staging.dxa.corp.adobe.com
+staging-eventarc.europe-west15.rep.mtls.sandbox.googleapis.com
 staging-firestore.us.rep.sandbox.googleapis.com
 staging.frame.io
 staging-gateway.awusw2.sbz.apple.com
