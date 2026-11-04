@@ -126050,3 +126050,28 @@ s
 ===xai
 
 == Save names archive
+[master 94c1ee58] auto-update names
+ 4 files changed, 107 insertions(+)
+
+== Resolving names to ipv4
+Wed Nov  4 07:06:27 AM MSK 2026                dns-adobe.txt  >resolve-adobe.txt
+Wed Nov  4 07:13:40 AM MSK 2026                dns-anthropic.txt  >resolve-anthropic.txt
+Wed Nov  4 07:13:52 AM MSK 2026                dns-apple.txt  >resolve-apple.txt
+Wed Nov  4 07:31:56 AM MSK 2026                dns-backblaze.txt  >resolve-backblaze.txt
+Wed Nov  4 07:32:28 AM MSK 2026                dns-bing.txt  >resolve-bing.txt
+Wed Nov  4 07:32:35 AM MSK 2026                dns-expressvpn.txt  >resolve-expressvpn.txt
+Wed Nov  4 07:32:41 AM MSK 2026                dns-facebook.txt  >resolve-facebook.txt
+Wed Nov  4 07:54:25 AM MSK 2026                dns-github.txt  >resolve-github.txt
+Wed Nov  4 07:54:47 AM MSK 2026                dns-google.txt  >resolve-google.txt
+Wed Nov  4 08:00:40 AM MSK 2026                dns-huggingface.txt  >resolve-huggingface.txt
+Wed Nov  4 08:01:13 AM MSK 2026                dns-microsoft.txt  >resolve-microsoft.txt
+Wed Nov  4 08:08:44 AM MSK 2026                dns-openai.txt  >resolve-openai.txt
+Wed Nov  4 08:09:27 AM MSK 2026                dns-ozon.txt  >resolve-ozon.txt
+Wed Nov  4 08:09:36 AM MSK 2026                dns-pornhub.txt  >resolve-pornhub.txt
+Wed Nov  4 08:09:43 AM MSK 2026                dns-surfshark.txt  >resolve-surfshark.txt
+Wed Nov  4 08:09:52 AM MSK 2026                dns-tiktok.txt  >resolve-tiktok.txt
+Wed Nov  4 08:11:45 AM MSK 2026                dns-tunnelbear.txt  >resolve-tunnelbear.txt
+Wed Nov  4 08:11:57 AM MSK 2026                dns-twitter.txt  >resolve-twitter.txt
+Wed Nov  4 08:12:52 AM MSK 2026                dns-vpnhosts.txt  >resolve-vpnhosts.txt
+Wed Nov  4 08:12:55 AM MSK 2026                dns-xai.txt  >resolve-xai.txt
+Wed Nov  4 08:12:59 AM MSK 2026                dns-youtube.txt  >resolve-youtube.txt
