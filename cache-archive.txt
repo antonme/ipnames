@@ -15268,6 +15268,7 @@ chronicle.asia-south1.p.rep.googleapis.com
 chronicle.asia-south1.rep.googleapis.com
 chronicle.asia-southeast1.p.rep.googleapis.com
 chronicle.asia-southeast1.rep.googleapis.com
+chronicle.asia-southeast2.rep.googleapis.com
 chronicle.australia-southeast1.p.rep.googleapis.com
 chronicle.australia-southeast1.rep.googleapis.com
 chronicle.europe-central2.p.rep.googleapis.com
@@ -18732,6 +18733,7 @@ content-osconfig.asia-southeast1.rep.mtls.googleapis.com
 content-osconfig.asia-southeast2.p.rep.googleapis.com
 content-osconfig.asia-southeast3.rep.mtls.googleapis.com
 content-osconfig.australia-southeast1.rep.googleapis.com
+content-osconfig.australia-southeast2.p.rep.googleapis.com
 content-osconfig.australia-southeast2.rep.googleapis.com
 content-osconfig.australia-southeast2.rep.mtls.googleapis.com
 content-osconfig.europe-central2.rep.mtls.googleapis.com
@@ -18769,7 +18771,9 @@ content-osconfig.northamerica-northeast2.p.rep.googleapis.com
 content-osconfig.northamerica-northeast2.rep.mtls.googleapis.com
 content-osconfig.northamerica-south1.rep.googleapis.com
 content-osconfig.southamerica-east1.rep.mtls.googleapis.com
+content-osconfig.southamerica-west1.p.rep.googleapis.com
 content-osconfig.southamerica-west1.rep.mtls.googleapis.com
+content-osconfig.us-central1.p.rep.googleapis.com
 content-osconfig.us-central1.rep.googleapis.com
 content-osconfig.us-central1.rep.mtls.googleapis.com
 content-osconfig.us-central2.rep.googleapis.com
@@ -29565,6 +29569,7 @@ edge.unified-197.api.openai.com
 edge.unified-198.api.openai.com
 edge.unified-199.api.openai.com
 edge.unified-200.api.openai.com
+edge.unified-202.api.openai.com
 edge.unified-208.api.openai.com
 edge.unified-209.api.openai.com
 edge.unified-210.api.openai.com
@@ -29978,6 +29983,7 @@ eg-cai.prod.surfshark.com
 egitimpc-103-144.apps.fbsbx.com
 eg.lazerpenguin.com
 egress.gw.us.tiktok.com
+egress.presence.openai.com
 e-gtv-078.github.io
 egypt-ca-version-2.expressnetw.com
 eh11.withgoogle.com
@@ -45758,6 +45764,7 @@ gateway-cf.unified-101.api.openai.com
 gateway-cf.unified-102.api.openai.com
 gateway-cf.unified-103.api.openai.com
 gateway-cf.unified-107.api.openai.com
+gateway-cf.unified-108.api.openai.com
 gateway-cf.unified-109.api.openai.com
 gateway-cf.unified-114.api.openai.com
 gateway-cf.unified-118.api.openai.com
@@ -45780,6 +45787,7 @@ gateway-cf.unified-133.api.openai.com
 gateway-cf.unified-134.api.openai.com
 gateway-cf.unified-135.api.openai.com
 gateway-cf.unified-136.api.openai.com
+gateway-cf.unified-138.api.openai.com
 gateway-cf.unified-139.api.openai.com
 gateway-cf.unified-13.api.openai.com
 gateway-cf.unified-141.api.openai.com
@@ -45861,6 +45869,7 @@ gateway-cf.unified-57.api.openai.com
 gateway-cf.unified-58.api.openai.com
 gateway-cf.unified-59.api.openai.com
 gateway-cf.unified-60.api.openai.com
+gateway-cf.unified-61.api.openai.com
 gateway-cf.unified-62.api.openai.com
 gateway-cf.unified-63.api.openai.com
 gateway-cf.unified-65.api.openai.com
@@ -45872,6 +45881,7 @@ gateway-cf.unified-72.api.openai.com
 gateway-cf.unified-73.api.openai.com
 gateway-cf.unified-74.api.openai.com
 gateway-cf.unified-75.api.openai.com
+gateway-cf.unified-76.api.openai.com
 gateway-cf.unified-79.api.openai.com
 gateway-cf.unified-80.api.openai.com
 gateway-cf.unified-81.api.openai.com
@@ -51480,6 +51490,7 @@ lookeractionhub-pa.europe-central2.p.rep.googleapis.com
 lookeractionhub-pa.europe-central2.rep.googleapis.com
 lookeractionhub-pa.europe-north2.p.rep.googleapis.com
 lookeractionhub-pa.europe-north2.rep.googleapis.com
+lookeractionhub-pa.europe-southwest1.rep.googleapis.com
 lookeractionhub-pa.europe-west10.rep.googleapis.com
 lookeractionhub-pa.europe-west12.p.rep.googleapis.com
 lookeractionhub-pa.europe-west1.p.rep.googleapis.com
