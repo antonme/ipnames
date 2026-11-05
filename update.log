@@ -126823,3 +126823,17 @@ s
 ===xai
 
 == Save names archive
+[master e640cfa9] auto-update names
+ 1 file changed, 28 insertions(+)
+
+== Resolving external names to ipv6
+Thu Nov  5 09:35:40 AM MSK 2026                ext-dns-adobe.txt  >ipv6-ext-resolve-adobe.txt
+Thu Nov  5 09:38:12 AM MSK 2026                ext-dns-anthropic.txt  >ipv6-ext-resolve-anthropic.txt
+Thu Nov  5 09:38:14 AM MSK 2026                ext-dns-apple.txt  >ipv6-ext-resolve-apple.txt
+Thu Nov  5 09:48:42 AM MSK 2026                ext-dns-backblaze.txt  >ipv6-ext-resolve-backblaze.txt
+Thu Nov  5 09:51:58 AM MSK 2026                ext-dns-bing.txt  >ipv6-ext-resolve-bing.txt
+Thu Nov  5 09:52:05 AM MSK 2026                ext-dns-facebook.txt  >ipv6-ext-resolve-facebook.txt
+Thu Nov  5 10:05:36 AM MSK 2026                ext-dns-github.txt  >ipv6-ext-resolve-github.txt
+Thu Nov  5 10:15:08 AM MSK 2026                ext-dns-google.txt  >ipv6-ext-resolve-google.txt
+Thu Nov  5 10:23:32 AM MSK 2026                ext-dns-huggingface.txt  >ipv6-ext-resolve-huggingface.txt
+Thu Nov  5 10:23:33 AM MSK 2026                ext-dns-microsoft.txt  >ipv6-ext-resolve-microsoft.txt
