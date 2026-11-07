@@ -2622,16 +2622,20 @@ caseyhoke4.myportfolio.com
 casiocomputer.tt.omtrdc.net
 casper-soar.corp.adobe.com
 cassandra.acpcl.prd.adobe.com
+cassandra-delegated-prod-node.identity.adobe.com
 cassandra-delegated-stg1-node.identity-stage.adobe.com
+cassandra-fed-prod-node.identity.adobe.com
 cassandra-fed-stg1-node.identity-stage.adobe.com
 cassandra-mantle-prod-node.identity.adobe.com
 cassandra-mantle-stg1-node.identity-stage.adobe.com
 cassandra.sds.dev.adobe.com
 cassandra.sds.stg.adobe.com
 cassandra-shared-dev-node.identity-dev.adobe.com
+cassandra-susi2-prod-node.identity.adobe.com
 cassandra-susi2-stg1-node.identity-stage.adobe.com
 cassandra-temporal-prod-node.identity.adobe.com
 cassandra-temporal-stg1-node.identity-stage.adobe.com
+cassandra-uds-prod-node.identity.adobe.com
 cassandra-uds-qa1-node.identity-dev.adobe.com
 cassandra-uds-stg1-node.identity-stage.adobe.com
 castageccp.corp.adobe.com
@@ -6394,6 +6398,7 @@ glb-service-va6.identity.adobe.com
 glb-service-va6.identity-stage.adobe.com
 globalad.corp.adobe.com
 global-admin-console.adobe.com
+global-admin-console-dev.adobe.com
 global-admin-console-stage.adobe.com
 global.corp.adobe.com
 globalds.corp.adobe.com
@@ -12176,6 +12181,8 @@ pizzahutuk-mkt-prod1-lb.campaign.adobe.com
 pjt56.myportfolio.com
 pjuf.adobeaemcloud.net
 pk.corp.adobe.com
+pkiapi.ethos506-prod-or2.prod.ethos.corp.adobe.com
+pkiapi.ethos509-stage-or2.stage.ethos.corp.adobe.com
 pkiegtest.corp.adobe.com
 pkilbaastest.corp.adobe.com
 pkitestcert01.corp.marketing.adobe.com
@@ -12251,6 +12258,9 @@ playground.ai-platform-stage.corp.adobe.com
 playground.ccx.adobe.com
 playwright.dev.frame.io
 pl.liveupdate.marketing.adobe.com
+plmapi.corp.adobe.com
+plmapi.ethos506-prod-or2.prod.ethos.corp.adobe.com
+plmapi.ethos509-stage-or2.stage.ethos.corp.adobe.com
 plm.corp.adobe.com
 plmprdtest123.corp.adobe.com
 plmprdtest1.corp.adobe.com
@@ -14579,6 +14589,7 @@ sj1010006133249.corp.adobe.com
 sj1010010037007.corp.adobe.com
 sj1010010037008.corp.adobe.com
 sj1010010037009.corp.adobe.com
+sj1010010037010.corp.adobe.com
 sj1010010037041.corp.adobe.com
 sj1010010037042.corp.adobe.com
 sj1010010037043.corp.adobe.com
