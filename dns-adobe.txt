@@ -1330,13 +1330,18 @@ cascade.corp.adobe.com
 caseic.adobeaemcloud.net
 casiocomputer.tt.omtrdc.net
 casper-soar.corp.adobe.com
+cassandra-delegated-prod-node.identity.adobe.com
 cassandra-delegated-stg1-node.identity-stage.adobe.com
+cassandra-fed-prod-node.identity.adobe.com
 cassandra-fed-stg1-node.identity-stage.adobe.com
+cassandra-mantle-prod-node.identity.adobe.com
 cassandra-mantle-stg1-node.identity-stage.adobe.com
 cassandra-shared-dev-node.identity-dev.adobe.com
+cassandra-susi2-prod-node.identity.adobe.com
 cassandra-susi2-stg1-node.identity-stage.adobe.com
 cassandra-temporal-prod-node.identity.adobe.com
 cassandra-temporal-stg1-node.identity-stage.adobe.com
+cassandra-uds-prod-node.identity.adobe.com
 cassandra-uds-qa1-node.identity-dev.adobe.com
 cassandra-uds-stg1-node.identity-stage.adobe.com
 castageccplb.corp.adobe.com
@@ -3407,6 +3412,7 @@ glb-service-va6.identity.adobe.com
 glb-service-va6.identity-stage.adobe.com
 globalad.corp.adobe.com
 global-admin-console.adobe.com
+global-admin-console-dev.adobe.com
 global-admin-console-stage.adobe.com
 global.corp.adobe.com
 globalds.corp.adobe.com
@@ -4133,6 +4139,7 @@ isearchstg.corp.adobe.com
 ise.corp.adobe.com
 itcloud.corp.adobe.com
 itcompute.corp.adobe.com
+itcpkiapi.corp.adobe.com
 itcpki.corp.adobe.com
 itcpki-stg.corp.adobe.com
 itcportal.corp.adobe.com
@@ -5530,6 +5537,7 @@ or1010050103023.corp.adobe.com
 or1010050103026.corp.adobe.com
 or1010050103034.corp.adobe.com
 or1010050103038.corp.adobe.com
+or1010050103067.corp.adobe.com
 or1010050103069.corp.adobe.com
 or1010050103071.corp.adobe.com
 or1010050103083.corp.adobe.com
@@ -6275,6 +6283,8 @@ pipeline-stage.corp.adobe.com
 pixel.corp.adobe.com
 pjuf.adobeaemcloud.net
 pk.corp.adobe.com
+pkiapi.ethos506-prod-or2.prod.ethos.corp.adobe.com
+pkiapi.ethos509-stage-or2.stage.ethos.corp.adobe.com
 pkitestcert2048.corp.adobe.com
 pkitestcertstg.corp.adobe.com
 pkphohshuu81owb1u0bm2v2k5xv5zpc.cmi-tools.cloud-automation.corp.adobe.com
@@ -6336,6 +6346,9 @@ playground.ai-platform.corp.adobe.com
 playground.ai-platform-stage.corp.adobe.com
 playground.ccx.adobe.com
 playwright.dev.frame.io
+plmapi.corp.adobe.com
+plmapi.ethos506-prod-or2.prod.ethos.corp.adobe.com
+plmapi.ethos509-stage-or2.stage.ethos.corp.adobe.com
 plm.corp.adobe.com
 plm-stg.corp.adobe.com
 plm-test-cert-2048.corp.adobe.com
@@ -7382,6 +7395,7 @@ sinta.corp.adobe.com
 sj1010006133249.corp.adobe.com
 sj1010010037007.corp.adobe.com
 sj1010010037008.corp.adobe.com
+sj1010010037010.corp.adobe.com
 sj1010010037041.corp.adobe.com
 sj1010010037042.corp.adobe.com
 sj1010010037043.corp.adobe.com
