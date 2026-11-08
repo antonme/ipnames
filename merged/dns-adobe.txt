@@ -24,6 +24,7 @@ aaren.caas.cloud.adobe.io
 aaronwty.myportfolio.com
 aarosmith.prosite.com
 ab.adobe-identity.com
+abap.corp.adobe.com
 abbyhowardart.myportfolio.com
 abc.cloud-automation.corp.adobe.com
 abc.corp.adobe.com
@@ -504,6 +505,7 @@ adobefreeuserschannel.na3.at.documents.adobe.com
 adobefreeuserschannel.na3.documents.adobe.com
 adobefreeuserschannel.na4.documents.adobe.com
 adobefreeuserschannel-redirect.eu1.documents.adobe.com
+adobehive.corp.adobe.com
 adobeicons.corp.adobe.com
 adobeid-dev3.services.adobe.com
 adobeid-dev3-uw2-internal.services.adobe.com
@@ -644,6 +646,9 @@ adversary-graph.corp.adobe.com
 adversarygraph.corp.adobe.com
 advertising.adobe.com
 advertising-apidocs.marketing.adobe.com
+advisory.corp.adobe.com
+advisory-dev.corp.adobe.com
+advisory-stg.corp.adobe.com
 adx-ai.corp.adobe.com
 adx-ai-dev.corp.adobe.com
 adx-ai-stg.corp.adobe.com
@@ -765,6 +770,9 @@ agentic-builder.corp.adobe.com
 agentic-builder-dev.corp.adobe.com
 agentic-builder-sandbox.corp.adobe.com
 agentic-builder-stg.corp.adobe.com
+agenticops.corp.adobe.com
+agenticops-stg.corp.adobe.com
+agentiops-dev.corp.adobe.com
 agent-mcp.touchstone.corp.adobe.com
 agent-mcp.touchstone-stage.corp.adobe.com
 agentnexus.corp.adobe.com
@@ -3913,6 +3921,7 @@ crd.be-migrate.prod.corp.adobe.com
 crd.be-migrate.qa.corp.adobe.com
 crd.fe-migrate.prod.adobe.com
 crd.fe-migrate.qa.corp.adobe.com
+cr-dump.corp.adobe.com
 create.adobe.com
 createpdf.acrobat.com
 createpdf.adobe.com
@@ -4283,6 +4292,7 @@ data-registry-api.touchstone.corp.adobe.com
 data-registry-api.touchstone-stage.corp.adobe.com
 data-registry-ingestion.touchstone.corp.adobe.com
 data-registry-ingestion.touchstone-stage.corp.adobe.com
+data.rtcdpsummitlab.test.ajo.adobe.com
 data.santandertestingamerica.test.ajo.adobe.com
 data.santandertesting.test.ajo.adobe.com
 data.sbux.test.ajo.adobe.com
@@ -4645,6 +4655,7 @@ dev.graph.corp.adobe.com
 dev.griffon.adobe.com
 dev-gtdaas.corp.adobe.com
 dev.highland.adobe.com
+devhome.corp.adobe.com
 devicejenkins.corp.adobe.com
 devices.adobe.com
 dev.in.adobe.com
@@ -5456,12 +5467,14 @@ estefaniaramosron.myportfolio.com
 estudiopachel.myportfolio.com
 etcd-server-ssl.experiencecloud.adobe.com
 e.teoz.caisse-epargne.fr.cname.campaign.adobe.com
+ethibeault-wp.corp.adobe.com
 ethos506-prod-or2.prod.ethos.corp.adobe.com
 ethos506-stage-or2.stage.ethos.corp.adobe.com
 ethos509-stage-or2.stage.ethos.corp.adobe.com
 ethos53-prod-or2.prod.ethos.corp.c00.adobe.com
 ethos53-prod-or2.prod.ethos.corp.experiencecloud.adobe.com
 ethos.adobe.net
+ethos.corp.adobe.com
 ethos.corp.c00.adobe.com
 ethos.dunamis.ethos502-prod-irl1.ethos.adobe.net
 ethos.dunamis.ethos508-prod-va6.ethos.adobe.net
@@ -7523,14 +7536,20 @@ ip-38-178.adobeaemcloud.com
 ip-90-30.adobeaemcloud.com
 ip-90-56.adobeaemcloud.com
 ipaasapi-container-sb.corp.adobe.com
+ipaasapi.corp.adobe.com
 ipaasapi-dev.corp.adobe.com
 ipaasapidev.corp.adobe.com
 ipaasapi-devdmz.corp.adobe.com
 ipaasapi-dev.h2.corp.adobe.com
 ipaasapi-devint.corp.adobe.com
+ipaasapi-fix.corp.adobe.com
 ipaasapi-fix.corp.adobe.comipaasapi-stage.corp.adobe.com
 ipaasapi-fix.h2.corp.adobe.com
+ipaasapi.h2.corp.adobe.com
+ipaasapi-qa.corp.adobe.com
+ipaasapi-qa.h2.corp.adobe.com
 ipaasapi-sb.corp.adobe.com
+ipaasapi-stage.corp.adobe.com
 ipaasapi-stage.h2.corp.adobe.com
 ipaasapi-support-team.corp.adobe.com
 ipaasapi-uat.corp.adobe.com
@@ -11487,6 +11506,7 @@ or1010051145007.corp.adobe.com
 or1010051145009.corp.adobe.com
 or1010051145011.corp.adobe.com
 or1010051145014.corp.adobe.com
+or1010051148027.corp.adobe.com
 or1010051148036.corp.adobe.com
 or1010051148038.corp.adobe.com
 or1010051148139.corp.adobe.com
@@ -12018,6 +12038,7 @@ partners-sjc0.adobe.com
 partners-sjc0.stage.sem.adobe.com
 partners.stage2.adobe.com
 partners.stage.adobe.com
+partnertools.corp.adobe.com
 parulrana.myportfolio.com
 pashto.adobeaemcloud.net
 pass.corp.adobe.com
@@ -12730,6 +12751,7 @@ psdportal-or.corp.adobe.com
 psdportal-or-stg.corp.adobe.com
 psdportal-sj.corp.adobe.com
 psdportal-sj-stg.corp.adobe.com
+ps-drover-roadmap.corp.adobe.com
 pshopqa.adobe.com
 psm-aws-ew1.corp.adobe.com
 psm-aws-ue1.corp.adobe.com
