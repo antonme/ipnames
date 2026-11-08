@@ -128000,3 +128000,313 @@ Sat Nov  7 08:59:53 AM MSK 2026                dns-xai.txt  >ipv6-resolve-xai.tx
 Sat Nov  7 08:59:56 AM MSK 2026                dns-youtube.txt  >ipv6-resolve-youtube.txt
 [master 6a256742] auto-update ipv6
  16 files changed, 54553 insertions(+), 52135 deletions(-)
+[master eab1ae94] auto-update merged
+ 26 files changed, 55169 insertions(+), 52354 deletions(-)
+
+
+
+--------------------------------------------------------------------------------
+Sun Nov  8 06:00:02 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  google.com: ok
+  googleapis.com: fetch failed, retry 1/4 in 10s
+  googleapis.com: fetch failed, retry 2/4 in 20s
+  googleapis.com: fetch failed, retry 3/4 in 30s
+  googleapis.com: ok
+  gstatic.com: fetch failed, retry 1/4 in 10s
+  gstatic.com: fetch failed, retry 2/4 in 20s
+  gstatic.com: fetch failed, retry 3/4 in 30s
+  gstatic.com: ok
+  googleusercontent.com: fetch failed, retry 1/4 in 10s
+  googleusercontent.com: fetch failed, retry 2/4 in 20s
+  googleusercontent.com: fetch failed, retry 3/4 in 30s
+  googleusercontent.com: ok
+  googlesyndication.com: ok
+  withgoogle.com: ok
+  doubleclick.net: ok
+  googletagmanager.com: ok
+  google-analytics.com: ok
+  googleadservices.com: ok
+  recaptcha.net: ok
+  googlevideo.com: ok
+  gvt1.com: ok
+  youtube.com: ok
+  ytimg.com: ok
+  youtube-nocookie.com: ok
+  ggpht.com: ok
+  facebook.com: fetch failed, retry 1/4 in 10s
+  facebook.com: ok
+  facebook.net: fetch failed, retry 1/4 in 10s
+  facebook.net: ok
+  instagram.com: ok
+  cdninstagram.com: ok
+  fbcdn.net: ok
+  fbsbx.com: fetch failed, retry 1/4 in 10s
+  fbsbx.com: ok
+  whatsapp.net: fetch failed, retry 1/4 in 10s
+  whatsapp.net: fetch failed, retry 2/4 in 20s
+  whatsapp.net: fetch failed, retry 3/4 in 30s
+  whatsapp.net: ok
+  whatsapp.com: ok
+  messenger.com: ok
+  fb.com: fetch failed, retry 1/4 in 10s
+  fb.com: fetch failed, retry 2/4 in 20s
+  fb.com: ok
+  threads.net: ok
+  threads.com: fetch failed, retry 1/4 in 10s
+  threads.com: fetch failed, retry 2/4 in 20s
+  threads.com: ok
+  meta.com: fetch failed, retry 1/4 in 10s
+  meta.com: fetch failed, retry 2/4 in 20s
+  meta.com: ok
+  tiktok.com: fetch failed, retry 1/4 in 10s
+  tiktok.com: fetch failed, retry 2/4 in 20s
+  tiktok.com: ok
+  tiktokv.com: fetch failed, retry 1/4 in 10s
+  tiktokv.com: fetch failed, retry 2/4 in 20s
+  tiktokv.com: ok
+  tiktokv.us: ok
+  tiktokcdn.com: ok
+
+
+
+--------------------------------------------------------------------------------
+Sun Nov  8 06:27:01 AM MSK 2026
+
+==> Beginning ipnames update.
+
+--------------------------------------------------------------------------------
+==Saving current cache @dns
+==Saving current cache @home.setia
+==Preparing logs data
+k
+s
+
+==Preparing surfshark names
+==Antifilter.Download names
+
+==Certificate Transparency names (crt.sh)
+  tiktokcdn-us.com: ok
+  bytedance.com: fetch failed, retry 1/4 in 10s
+  bytedance.com: ok
+  ibyteimg.com: ok
+  byteoversea.com: ok
+  google.com: fetch failed, retry 1/4 in 10s
+  openai.com: ok
+  chatgpt.com: fetch failed, retry 1/4 in 10s
+  google.com: fetch failed, retry 2/4 in 20s
+  chatgpt.com: ok
+  oaiusercontent.com: ok
+  oaistatic.com: ok
+  oaistatsig.com: ok
+  sora.com: ok
+  chat.com: ok
+  google.com: ok
+  bing.com: ok
+  googleapis.com: ok
+  gstatic.com: ok
+  googleusercontent.com: ok
+  googlesyndication.com: ok
+  microsoft.com: fetch failed, retry 1/4 in 10s
+  microsoft.com: fetch failed, retry 2/4 in 20s
+  microsoft.com: fetch failed, retry 3/4 in 30s
+  withgoogle.com: ok
+  doubleclick.net: ok
+  googletagmanager.com: ok
+  google-analytics.com: fetch failed, retry 1/4 in 10s
+  microsoft.com: fetch failed, retry 4/4 in 40s
+  google-analytics.com: fetch failed, retry 2/4 in 20s
+  google-analytics.com: ok
+  googleadservices.com: fetch failed, retry 1/4 in 10s
+  googleadservices.com: ok
+  recaptcha.net: ok
+  googlevideo.com: fetch failed, retry 1/4 in 10s
+  googlevideo.com: ok
+  microsoft.com: fetch failed
+  microsoftonline.com: fetch failed, retry 1/4 in 10s
+  gvt1.com: ok
+  youtube.com: ok
+  ytimg.com: fetch failed, retry 1/4 in 10s
+  microsoftonline.com: ok
+  live.com: fetch failed, retry 1/4 in 10s
+  ytimg.com: ok
+  live.com: ok
+  youtube-nocookie.com: ok
+  ggpht.com: ok
+  facebook.com: ok
+  outlook.com: ok
+  facebook.net: ok
+  instagram.com: ok
+  cdninstagram.com: ok
+  office.com: ok
+  fbcdn.net: ok
+  fbsbx.com: ok
+  whatsapp.net: fetch failed, retry 1/4 in 10s
+  whatsapp.net: fetch failed, retry 2/4 in 20s
+  office.net: ok
+  whatsapp.net: ok
+  whatsapp.com: fetch failed, retry 1/4 in 10s
+  whatsapp.com: ok
+  windows.com: ok
+  messenger.com: fetch failed, retry 1/4 in 10s
+  msn.com: fetch failed, retry 1/4 in 10s
+  messenger.com: fetch failed, retry 2/4 in 20s
+  msn.com: fetch failed, retry 2/4 in 20s
+  messenger.com: ok
+  msn.com: ok
+  fb.com: ok
+  skype.com: fetch failed, retry 1/4 in 10s
+  threads.net: fetch failed, retry 1/4 in 10s
+  skype.com: fetch failed, retry 2/4 in 20s
+  threads.net: fetch failed, retry 2/4 in 20s
+  threads.net: ok
+  skype.com: ok
+  threads.com: ok
+  xbox.com: ok
+  meta.com: ok
+  tiktok.com: ok
+  tiktokv.com: ok
+  sharepoint.com: fetch failed, retry 1/4 in 10s
+  tiktokv.us: fetch failed, retry 1/4 in 10s
+  sharepoint.com: ok
+  tiktokv.us: fetch failed, retry 2/4 in 20s
+  tiktokv.us: ok
+  tiktokcdn.com: ok
+  tiktokcdn-us.com: ok
+  azure.com: fetch failed, retry 1/4 in 10s
+  bytedance.com: ok
+  ibyteimg.com: ok
+  byteoversea.com: ok
+  openai.com: ok
+  chatgpt.com: ok
+  oaiusercontent.com: fetch failed, retry 1/4 in 10s
+  oaiusercontent.com: ok
+  azure.com: fetch failed, retry 2/4 in 20s
+  oaistatic.com: ok
+  oaistatsig.com: ok
+  sora.com: ok
+  chat.com: ok
+  bing.com: fetch failed, retry 1/4 in 10s
+  azure.com: fetch failed, retry 3/4 in 30s
+  bing.com: ok
+  microsoft.com: fetch failed, retry 1/4 in 10s
+  azure.com: fetch failed, retry 4/4 in 40s
+  microsoft.com: fetch failed, retry 2/4 in 20s
+  microsoft.com: fetch failed, retry 3/4 in 30s
+  azure.com: fetch failed
+  visualstudio.com: fetch failed, retry 1/4 in 10s
+  visualstudio.com: ok
+  twitter.com: ok
+  x.com: ok
+  microsoft.com: fetch failed, retry 4/4 in 40s
+  twimg.com: ok
+  pscp.tv: ok
+  ozon.ru: fetch failed, retry 1/4 in 10s
+  microsoft.com: fetch failed
+  ozon.ru: ok
+  microsoftonline.com: ok
+  ozonusercontent.com: ok
+  github.com: ok
+  githubusercontent.com: ok
+  live.com: ok
+  githubassets.com: ok
+  githubcopilot.com: fetch failed, retry 1/4 in 10s
+  githubcopilot.com: ok
+  outlook.com: ok
+  office.com: ok
+  office.net: ok
+  windows.com: fetch failed, retry 1/4 in 10s
+  windows.com: fetch failed, retry 2/4 in 20s
+  github.io: ok
+  windows.com: fetch failed, retry 3/4 in 30s
+  ghcr.io: fetch failed, retry 1/4 in 10s
+  ghcr.io: fetch failed, retry 2/4 in 20s
+  windows.com: fetch failed, retry 4/4 in 40s
+  ghcr.io: fetch failed, retry 3/4 in 30s
+  ghcr.io: ok
+  apple.com: ok
+  icloud.com: ok
+  windows.com: ok
+  msn.com: ok
+  skype.com: ok
+  xbox.com: ok
+  sharepoint.com: ok
+  icloud-content.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  aaplimg.com: ok
+  apple-dns.net: ok
+  apple.news: ok
+  adobe.com: ok
+  adobe.io: ok
+  adobelogin.com: fetch failed, retry 1/4 in 10s
+  azure.com: fetch failed, retry 1/4 in 10s
+  adobelogin.com: ok
+  adobedc.net: ok
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: fetch failed, retry 1/4 in 10s
+  frame.io: ok
+  demdex.net: ok
+  omtrdc.net: ok
+  azure.com: fetch failed, retry 2/4 in 20s
+  pornhub.com: ok
+  phncdn.com: ok
+  backblaze.com: ok
+  azure.com: fetch failed, retry 3/4 in 30s
+  backblazeb2.com: ok
+  huggingface.co: fetch failed, retry 1/4 in 10s
+  huggingface.co: fetch failed, retry 2/4 in 20s
+  huggingface.co: ok
+  hf.co: ok
+  hf.space: fetch failed, retry 1/4 in 10s
+  azure.com: fetch failed, retry 4/4 in 40s
+  hf.space: ok
+  anthropic.com: ok
+  claude.ai: ok
+  claude.com: ok
+  claudeusercontent.com: ok
+  clau.de: ok
+  azure.com: fetch failed
+  x.ai: fetch failed, retry 1/4 in 10s
+  visualstudio.com: fetch failed, retry 1/4 in 10s
+  x.ai: ok
+  grok.com: ok
+  total CT names: 33239
+
+==Probing YouTube cache servers: skipped, list is less than a week old
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===microsoft
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+===xai
+
+== Save names archive
