@@ -128310,3 +128310,91 @@ s
 ===xai
 
 == Save names archive
+[master 1d416d6b] auto-update names
+ 10 files changed, 1282 insertions(+), 43 deletions(-)
+  visualstudio.com: ok
+  twitter.com: ok
+  x.com: fetch failed, retry 1/4 in 10s
+  x.com: ok
+  twimg.com: ok
+  pscp.tv: ok
+  ozon.ru: fetch failed, retry 1/4 in 10s
+  ozon.ru: fetch failed, retry 2/4 in 20s
+  ozon.ru: ok
+  ozonusercontent.com: ok
+  github.com: fetch failed, retry 1/4 in 10s
+  github.com: fetch failed, retry 2/4 in 20s
+  github.com: fetch failed, retry 3/4 in 30s
+  github.com: fetch failed, retry 4/4 in 40s
+  github.com: ok
+  githubusercontent.com: fetch failed, retry 1/4 in 10s
+  githubusercontent.com: ok
+  githubassets.com: ok
+  githubcopilot.com: ok
+  github.io: ok
+  ghcr.io: ok
+  apple.com: fetch failed, retry 1/4 in 10s
+  apple.com: fetch failed, retry 2/4 in 20s
+  apple.com: ok
+  icloud.com: ok
+  icloud-content.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  aaplimg.com: ok
+  apple-dns.net: ok
+  apple.news: ok
+  adobe.com: fetch failed, retry 1/4 in 10s
+  adobe.com: ok
+  adobe.io: ok
+  adobelogin.com: ok
+  adobedc.net: ok
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: ok
+  demdex.net: ok
+  omtrdc.net: ok
+  pornhub.com: fetch failed, retry 1/4 in 10s
+  pornhub.com: fetch failed, retry 2/4 in 20s
+  pornhub.com: ok
+  phncdn.com: ok
+  backblaze.com: ok
+  backblazeb2.com: ok
+  huggingface.co: ok
+  hf.co: ok
+  hf.space: ok
+  anthropic.com: ok
+  claude.ai: ok
+  claude.com: fetch failed, retry 1/4 in 10s
+  claude.com: fetch failed, retry 2/4 in 20s
+  claude.com: ok
+  claudeusercontent.com: ok
+  clau.de: fetch failed, retry 1/4 in 10s
+  clau.de: fetch failed, retry 2/4 in 20s
+  clau.de: ok
+  x.ai: ok
+  grok.com: ok
+  total CT names: 33069
+
+==Probing YouTube cache servers: skipped, list is less than a week old
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===microsoft
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+===xai
+
+== Save names archive
