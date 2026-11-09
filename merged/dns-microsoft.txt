@@ -1879,6 +1879,7 @@ api-ppe.diagnostics.office.com
 apippe.gethelp.services.microsoft.com
 api-ppe.mercury.microsoft.com
 api.ppe.pi.microsoft.com
+api.ppe.substrate-quality-loop.office.net
 api.ppe.websec.microsoft.com
 api.prd-uks.mdiot.microsoft.com
 api.prd-ukw.mdiot.microsoft.com
@@ -2021,6 +2022,7 @@ appdeployextension.coresvc.cosmic.office.net
 appdeployextension.coresvc-msit.cosmic.office.net
 appdeployextension.coresvc-prod.cosmic.office.net
 appdeployextension.coresvc-sdf.cosmic-ppe.office.net
+appdeployextension.coresvc-tdf.cosmic-tdf.office.net
 appdeployextension.coresvc-test.cosmic-int.office.net
 appdeployextension.coresvc-test.cosmic.office.net
 app.desingha.msftonlinerepro.com
@@ -2296,6 +2298,7 @@ atlas.microsoft.com
 atlassearch.microsoft.com
 atm.office.mira.tm.svc.cloud.microsoft
 atm.outlook.mira.tm.svc.cloud.microsoft
+atm-settingsfe-prod-geo2.trafficmanager.net
 atm.teams.mira.tm.svc.cloud.microsoft
 atom.research.microsoft.com
 atp.avere.corp.microsoft.com
@@ -2317,6 +2320,7 @@ a-tr-teamsc-frcn-01.francecentral.cloudapp.azure.com
 a-tr-teamsc-frcn-02.francecentral.cloudapp.azure.com
 a-tr-teamsc-frcn-03.francecentral.cloudapp.azure.com
 a-tr-teamsc-frcn-04.francecentral.cloudapp.azure.com
+a-tr-teamsc-frcn-08.francecentral.cloudapp.azure.com
 a-tr-teamsc-frcn-09.francecentral.cloudapp.azure.com
 a-tr-teamsc-swcn-02.swedencentral.cloudapp.azure.com
 a-tr-teamsc-swcn-05.swedencentral.cloudapp.azure.com
@@ -2413,6 +2417,7 @@ aus.prd.authapi.cnc.nxs.mde.securitycenter.windows.com
 aus.prd.cyberdataapi.dtc.mde.securitycenter.windows.com
 aus.prd.rawdataexport.dtc.mde.securitycenter.windows.com
 aus.prd.streamingapi.dt.nxs.mde.securitycenter.windows.com
+australiaeast.api.cognitive.microsoft.com
 australiaeast.commands.runtime.speech.microsoft.com
 australiaeast.easm.defender.microsoft.com
 australiaeast.rp.prod.adu.microsoft.com
@@ -4758,6 +4763,7 @@ b-tr-teamsc-euno-05.northeurope.cloudapp.azure.com
 b-tr-teamsc-euno-07.northeurope.cloudapp.azure.com
 b-tr-teamsc-euno-11.northeurope.cloudapp.azure.com
 b-tr-teamsc-euwe-01.westeurope.cloudapp.azure.com
+b-tr-teamsc-euwe-02.westeurope.cloudapp.azure.com
 b-tr-teamsc-euwe-04.westeurope.cloudapp.azure.com
 b-tr-teamsc-euwe-06.westeurope.cloudapp.azure.com
 b-tr-teamsc-euwe-09.westeurope.cloudapp.azure.com
@@ -5437,6 +5443,7 @@ callcontroller.euwe-02.ic3-calling-callcontroller.westeurope-prod.cosmic.office.
 callcontroller.euwe-03.ic3-calling-callcontroller.westeurope-prod.cosmic.office.net
 callcontroller.euwe-04.ic3-calling-callcontroller.westeurope-prod.cosmic.office.net
 callcontroller.euwe-05.ic3-calling-callcontroller.westeurope-prod.cosmic.office.net
+callcontroller.euwe-06.ic3-calling-callcontroller.westeurope-prod.cosmic.office.net
 callcontroller.frce-01.ic3-calling-callcontroller.francecentral-prod.cosmic.office.net
 callcontroller.frce-02.ic3-calling-callcontroller.francecentral-prod.cosmic.office.net
 callcontroller.frce-03.ic3-calling-callcontroller.francecentral-prod.cosmic.office.net
@@ -5992,6 +5999,7 @@ censusfactsheets.blob.core.windows.net
 centergyrem2.partners.extranet.microsoft.com
 centinel.microsoft.com
 centraladmin.outlook.com
+centralindia.api.cognitive.microsoft.com
 centralindia.commands.speech.microsoft.com
 centralindia.onelake.fabric.microsoft.com
 centralindia.orchestration.speech.microsoft.com
@@ -6000,6 +6008,7 @@ centralindia.tts-frontend.speech.microsoft.com
 centralindia.tts.speech.microsoft.com
 centralmichigan-my.sharepoint.com
 centralus-01.ic3-fraud-pstn-scoring.centralus-prod.cosmic.office.net
+centralus.api.cognitive.microsoft.com
 centralus.cloudapp.azure.com
 centralus.convai.speech.microsoft.com
 centralus.easmaas.defender.microsoft.com
@@ -6833,6 +6842,9 @@ contentstorage.onenote.office.net
 content.test.windowsupdate.com
 content.windows.microsoft.com
 cont-envision.microsoft.com
+contextengine-came-canc.phoenix.securitycenter.windows.com
+contextengine-came-cane.phoenix.securitycenter.windows.com
+contextengine-came-can.phoenix.securitycenter.windows.com
 continuum.dds.microsoft.com
 contoso-admin.sharepoint.com
 contosogarcjo.eastus.cloudapp.azure.com
@@ -6897,27 +6909,28 @@ cortana.office.com
 cortexonemsedu.blob.core.windows.net
 cosinefuzztest.microsoft.com
 cosmic-app-deployment-certificate.cosmic.office.net
-cosmic-eastus-ns-cc02993031ae.trafficmanager.net
+cosmic-eastus2-ns-a3bfb69bf497.trafficmanager.net
 cosmicfeedback.microsoft.com
+cosmic-francecentral-ns-94477829785e.trafficmanager.net
 cosmic-francecentral-ns-c14446812701.trafficmanager.net
-cosmic-francecentral-ns-c14a83676549.trafficmanager.net
 cosmic.geneva.msit.api.personalization.ideas.microsoft.com
 cosmic.geneva.prod.api.personalization.ideas.microsoft.com
 cosmic.geneva.sdf.api.personalization.ideas.microsoft.com
 cosmic-germanywestcentral-ns-6c9f81580733.trafficmanager.net
 cosmic-infra.office.net
 cosmiclog.msnbc.msn.com
-cosmic-northeurope-ns-4f8978ef2de9.trafficmanager.net
 cosmic-northeurope-ns-a0ad1e4e6dd7.trafficmanager.net
+cosmic-northeurope-ns-fb376af5c3d0.trafficmanager.net
 cosmic.office.net
 cosmicplatformtest-sdf.cosmic-ppe.office.net
-cosmic-polandcentral-ns-05e8dc16f44c.trafficmanager.net
 cosmic-prod.office.net
-cosmic-swedencentral-ns-6e2dc0400506.trafficmanager.net
+cosmic-swedencentral-ns-8dcadee81639.trafficmanager.net
 cosmic-swedencentral-ns-f3c1a813a933.trafficmanager.net
 cosmic.tnm.teams.microsoft.com
-cosmic-westeurope-ns-46b45e31dddb.trafficmanager.net
+cosmic-westeurope-ns-1648b7a2ab7b.trafficmanager.net
+cosmic-westeurope-ns-35764a851141.trafficmanager.net
 cosmic-westeurope-ns-88144bbe956e.trafficmanager.net
+cosmic-westeurope-ns-e6895ece1273.trafficmanager.net
 cosmos.azure.com
 cosmos-compassv2int-1.corp.microsoft.com
 cosmos-compassv2int-2.corp.microsoft.com
@@ -7121,6 +7134,7 @@ csw.shell.suite.office.com
 csw.suite.office.net
 csw.webshell.suite.office.com
 ct3.blob.core.windows.net
+ctgroup.core.dev.microsoft
 ctgroup.core.microsoft
 cticonnect-my.sharepoint.com
 ctldl.windowsupdate.com
@@ -8522,6 +8536,9 @@ dgsa-gsa-eastus2.msdxo.microsoft.com
 dgt300sso.redmond.corp.microsoft.com
 dgtsslclientabapsdksecondary.redmond.corp.microsoft.com
 dgtsslclientstandard.redmond.corp.microsoft.com
+dhcp-service.msit-jpw-01.substrate-networking-dhcp.japanwest-msit.cosmic.office.net
+dhcp-service.msit-wcus-01.substrate-networking-dhcp.westcentralus-msit.cosmic.office.net
+dhcp-service.msit-wus2-01.substrate-networking-dhcp.westus2-msit.cosmic.office.net
 dhcp-service.sdf-jpw-01.substrate-networking-dhcp.japanwest-sdf.cosmic-ppe.office.net
 dhcp-service.sdf-wcus-01.substrate-networking-dhcp.westcentralus-sdf.cosmic-ppe.office.net
 dhcp-service.sdf-wus2-01.substrate-networking-dhcp.westus2-sdf.cosmic-ppe.office.net
@@ -9480,6 +9497,7 @@ eas.asia.tip0.rpadminssl.flow.microsoft.com
 eas.assist.microsoft.com
 eas-canary.messagingthread.skype.com
 eas.streaming.video.msn.com
+eastasia.api.cognitive.microsoft.com
 eastasia.commands.runtime.speech.microsoft.com
 eastasia.data.mcr.microsoft.com
 eastasia.ftb.speech.microsoft.com
@@ -10227,13 +10245,17 @@ epx-enterpriseproxy-1.d03-018.ic3-calling-enterpriseproxy.01-francecentral-prod.
 epx-enterpriseproxy-1.d03-019.ic3-calling-enterpriseproxy.01-francecentral-prod.cosmic.office.net
 epx-enterpriseproxy-1.d03-035.ic3-calling-enterpriseproxy.01-northeurope-prod.cosmic.office.net
 epx-enterpriseproxy-1.d03-045.ic3-calling-enterpriseproxy.01-westeurope-prod.cosmic.office.net
+epx-enterpriseproxy-1.d03-049.ic3-calling-enterpriseproxy.01-westeurope-prod.cosmic.office.net
 epx-enterpriseproxy-1.d03-058.ic3-calling-enterpriseproxy.01-centralus-prod.cosmic.office.net
 epx-enterpriseproxy-1.d03-081.ic3-calling-enterpriseproxy.01-westus-prod.cosmic.office.net
 epx-enterpriseproxy-2.d03-009.ic3-calling-enterpriseproxy.01-northeurope-prod.cosmic.office.net
 epx-enterpriseproxy-2.d03-015.ic3-calling-enterpriseproxy.01-francecentral-prod.cosmic.office.net
+epx-enterpriseproxy-2.d03-015.ic3-calling-enterpriseproxy.01-swedencentral-prod.cosmic.office.net
+epx-enterpriseproxy-2.d03-019.ic3-calling-enterpriseproxy.01-francecentral-prod.cosmic.office.net
 epx-enterpriseproxy-2.d03-033.ic3-calling-enterpriseproxy.01-northeurope-prod.cosmic.office.net
 epx-enterpriseproxy-2.d03-034.ic3-calling-enterpriseproxy.01-northeurope-prod.cosmic.office.net
 epx-enterpriseproxy-2.d03-050.ic3-calling-enterpriseproxy.01-westeurope-prod.cosmic.office.net
+epx-enterpriseproxy-2.d03-070.ic3-calling-enterpriseproxy.01-eastus2-prod.cosmic.office.net
 epx-enterpriseproxy-2.d03-071.ic3-calling-enterpriseproxy.01-eastus2-prod.cosmic.office.net
 epx-enterpriseproxy-2.d03-083.ic3-calling-enterpriseproxy.01-westus-prod.cosmic.office.net
 epx-enterpriseproxy.d03-009.ic3-calling-enterpriseproxy.01-northeurope-prod.cosmic.office.net
@@ -11817,6 +11839,7 @@ fra.complianceposturemanagement.office.net
 FRA-efz.ms-acdc.office.com
 frafrances600348.office-task-mars.francesouth-prod.cosmic.office.net
 frameit.live.com
+francecentral.api.cognitive.microsoft.com
 francecentral.cloudapp.azure.com
 francecentral.convai.speech.microsoft.com
 francecentral.ftb.speech.microsoft.com
@@ -12027,6 +12050,7 @@ gateway.int.support.office.com
 gateway.int.teams.live.com
 gateway.messenger.live.com
 gateway-ppe.esign.microsoft.com
+gateway.ppe.substrate-quality-loop.office.net
 gateway.rp.cosmic.office.net
 gateway.support.office.com
 gatsu47-my.sharepoint.com
@@ -12044,6 +12068,7 @@ gbr.complianceposturemanagement.office.net
 gbr.delve.office.com
 gbrp267-provisioning.internal.outlook.com
 gbr.unifiedfeedback.office.com
+gbr.unifiedfeedback.office.net
 gbuilder.blob.core.windows.net
 gcc.activity.windows.com
 gccaz.conversationservice.infra.gcc.teams.microsoft.com
@@ -12121,6 +12146,7 @@ geover.prod.do.dsp.mp.microsoft.com.edgekey.net
 geo.webshell.suite.office.com.trafficmanager.net
 gerloczy-my.sharepoint.com
 german.assessment.learning.microsoft.com
+germanywestcentral.api.cognitive.microsoft.com
 germanywestcentral.cloudapp.azure.com
 geschaeftsfuehrerin-my.sharepoint.com
 gestalt.microsoft.com
@@ -12154,6 +12180,7 @@ ghas-mobilization.prd.us.securitycenter.windows.com
 ghas-mobilization.stg.securitycenter.windows.com
 giecdn.blob.core.windows.net
 gig-ai-g-prod-northeurope-0-app-v4-tag.northeurope.cloudapp.azure.com
+gig-ai-g-prod-northeurope-1-app-v4-tag.northeurope.cloudapp.azure.com
 gig-ai-g-prod-northeurope-2-app-v4-tag.northeurope.cloudapp.azure.com
 gig-ai-g-prod-westeurope-0-app-v4-tag.westeurope.cloudapp.azure.com
 gig-ai-g-prod-westeurope-1-app-v4-tag.westeurope.cloudapp.azure.com
@@ -12296,6 +12323,7 @@ groups.msn.com
 groups.nonprod.teams.live.com
 groups.ori-prod.unified.microsoft.com
 groups.prod.teams.live.com
+groupsyncworker.eus2-workerrole.entcloud-xtenant-grouphandler.eastus2-test.cosmic-int.office.net
 groupsyncworker.wcus-prod-worker.entcloud-xtenant-grouphandler.westcentralus-prod.cosmic.office.net
 groveparkfoundationinc-my.sharepoint.com
 grpcserver.torus.m365.office.com
@@ -12316,6 +12344,7 @@ gtm2xipe.partners.extranet.microsoft.com
 gtpsslclientstandard.redmond.corp.microsoft.com
 gtssi200.redmond.corp.microsoft.com
 gtvault-my.sharepoint.com
+guardianai-public-ppe.office.net
 guardrail-int.dps.mp.microsoft.com
 guestuser.skypetoken.skype.com
 guidahp.spaces.live.com
@@ -12623,6 +12652,7 @@ ic3-edf-trouter-service-trouter.pub-ent-euno-14.ic3-edf-trouter.northeurope-prod
 ic3-edf-trouter-service-trouter.pub-ent-sece-03.ic3-edf-trouter.swedencentral-prod.cosmic.office.net
 ic3-edf-trouter.westeurope-prod.cosmic.office.net
 ic3.events.data.microsoft.com
+ic3-fraud-calling-api-service.centralus-01.ic3-fraud-pstn-scoring.centralus-prod.cosmic.office.net
 ic3-fraud-calling-api-service.eastus-01.ic3-fraud-pstn-scoring.eastus-msit.cosmic.office.net
 ic3-fraud-calling-api-service.eastus-01.ic3-fraud-pstn-scoring.eastus-sdf.cosmic-ppe.office.net
 ic3-fraud-calling-api-service.eastus-01.ic3-fraud-pstn-scoring.eastus-test.cosmic-int.office.net
@@ -12657,6 +12687,7 @@ ic3-fraud-calling-irsf-service.japaneast-01.ic3-fraud-calling-irsf.japaneast-pro
 ic3-fraud-calling-irsf-service.japanwest-01.ic3-fraud-calling-irsf.japanwest-prod.cosmic.office.net
 ic3-fraud-calling-irsf-service.malaysiawest-01.ic3-fraud-calling-irsf.malaysiawest-prod.cosmic.office.net
 ic3-fraud-calling-irsf-service.northeurope-01.ic3-fraud-calling-irsf.northeurope-prod.cosmic.office.net
+ic3-fraud-calling-pstn-api-service.centralus-01.ic3-fraud-pstn-scoring.centralus-prod.cosmic.office.net
 ic3-fraud-calling-pstn-api-service.eastus-01.ic3-fraud-pstn-scoring.eastus-msit.cosmic.office.net
 ic3-fraud-calling-pstn-api-service.eastus-01.ic3-fraud-pstn-scoring.eastus-sdf.cosmic-ppe.office.net
 ic3-fraud-calling-pstn-api-service.eastus-01.ic3-fraud-pstn-scoring.eastus-test.cosmic-int.office.net
@@ -13166,6 +13197,14 @@ iotedge-test-public-issued.dms.dw.microsoft.com
 iotschool.microsoft.com
 iowastate-my.sharepoint.com
 ip.azwus1-client-s.msnmessenger.msn.com.akadns.net
+ip-domain-management-surfer-service.msiwestcen371669.substrate-ip-domain-management-snds.westcentralus-msit.cosmic.office.net
+ip-domain-management-surfer-service.msiwesteur329914.substrate-ip-domain-management-snds.westeurope-msit.cosmic.office.net
+ip-domain-management-surfer-service.pdtnorthce730467.substrate-ip-domain-management-snds.northcentralus-test.cosmic-int.office.net
+ip-domain-management-surfer-service.pdtwestcen064937.substrate-ip-domain-management-snds.westcentralus-test.cosmic-int.office.net
+ip-domain-management-surfer-service.wwewesteur860425.substrate-ip-domain-management-snds.westeurope-prod.cosmic.office.net
+ip-domain-management-surfer-service.wwmmalaysi619760.substrate-ip-domain-management-snds.malaysiawest-prod.cosmic.office.net
+ip-domain-management-surfer-service.wwnwestcen763237.substrate-ip-domain-management-snds.westcentralus-prod.cosmic.office.net
+ip-domain-management-surfer-service.wwnwestus2897124.substrate-ip-domain-management-snds.westus2-prod.cosmic.office.net
 iphone.skype.com
 iplookup.enrichment.records.infra.teams.microsoft.com
 ipoawssd101.sourcedepot.corp.microsoft.com
@@ -13221,6 +13260,7 @@ itacademy.microsoftelearning.com
 itacademyuat.download.prss.microsoft.com
 itacs.sharepoint.com
 itaisinternationaltrade.sharepoint.com
+italynorth.api.cognitive.microsoft.com
 italynorth.dev.cognitive.microsoft.com
 ita-mlxperf2-static.microsoft.com
 itarcert.office365searchservice.outlook.com
@@ -13260,6 +13300,7 @@ japaneast-sc.templates.office.net
 japaneast.templatesmetadata.office.net
 japaneast.templates.office.net
 japanwest-01.ic3-fraud-pstn-scoring.japanwest-prod.cosmic.office.net
+japanwest.api.cognitive.microsoft.com
 japanwest.commands.speech.microsoft.com
 japanwest.convai.speech.microsoft.com
 japanwest.lake.data.microsoft.com
@@ -13459,6 +13500,7 @@ konicaeustore01.blob.core.windows.net
 kor.complianceposturemanagement.office.com
 kor.complianceposturemanagement.office.net
 kor.delve.office.com
+koreacentral.api.cognitive.microsoft.com
 koreacentral.bcs.speech.microsoft.com
 koreacentral.mrassistant.speech.microsoft.com
 koreacentral.signalr.streaming.rtt.teams.microsoft.com
@@ -13612,6 +13654,8 @@ lgbrea001r7202.network.microsoft.com
 lgw.skype.com
 lhf0eq.bn.files.1drv.com
 libcmg.eastus.cloudapp.azure.com
+libraryapi.can.canc.rsp.mde.securitycenter.windows.com
+libraryapi.can.cane.rsp.mde.securitycenter.windows.com
 libraryapi.prd.neu3.rsp.mde.securitycenter.windows.com
 libraryapi.prd.uks.rsp.mde.securitycenter.windows.com
 libraryapi.prd.ukw.rsp.mde.securitycenter.windows.com
@@ -13670,6 +13714,7 @@ lightgbm-ci.visualstudio.com
 lighthouse-1-int.westus2.cloudapp.azure.com
 lighthouse-1-ppe.centralus.cloudapp.azure.com
 lighthouse-1-ppe.eastus2.cloudapp.azure.com
+lighthouse-1-prod.centralus.cloudapp.azure.com
 lighthouse-1-prod.eastus2.cloudapp.azure.com
 lighthouse.microsoft.com
 ligstd.visualstudio.com
@@ -14075,6 +14120,7 @@ m365d-dsp-prd-weu3.securitycenter.windows.com
 m365d-dsp-prd-weu.securitycenter.windows.com
 m365deus2ppe-jpn.securitycenter.windows.com
 m365deus2prod-jpn.securitycenter.windows.com
+m365deus2stg-jpn.securitycenter.windows.com
 m365d-hunting-api-can-canc.securitycenter.windows.com
 m365d-hunting-api-can-cane.securitycenter.windows.com
 m365d-hunting-api-can-can.securitycenter.windows.com
@@ -14535,6 +14581,7 @@ m365d-use-publicapi-prd-us3.securitycenter.windows.com
 m365d-use-publicapi-prd-us.securitycenter.windows.com
 m365d-use-publicapi-prd-weu3.securitycenter.windows.com
 m365d-use-publicapi-prd-weu.securitycenter.windows.com
+m365dweustg-jpn.securitycenter.windows.com
 m365forcampaigns.microsoft.com
 m365ht-my.sharepoint.com
 m365-keyfulfillment-int.mp.microsoft.com
@@ -14558,6 +14605,8 @@ mac82-213.visualstudio.microsoft.com
 mac93-2-7.visualstudio.microsoft.com
 macc-prod.cp.microsoft.com
 macewan.sharepoint.com
+machineapi.can.canc.rsp.mde.securitycenter.windows.com
+machineapi.can.cane.rsp.mde.securitycenter.windows.com
 machineapi.prd.neu3.rsp.mde.securitycenter.windows.com
 machineapi.prd.uks.rsp.mde.securitycenter.windows.com
 machineapi.prd.ukw.rsp.mde.securitycenter.windows.com
@@ -16939,6 +16988,8 @@ montcalm.blob.core.windows.net
 mooncake.config.skype.com
 moramaynovelas.spaces.live.com
 morayassets.z21.web.core.windows.net
+moreinfoeu.office.net
+moreinfo.office.net
 morethanmail.spaces.live.com
 morganhistoryinfo.sharepoint.com
 mosi.microsoftonline.com
@@ -17914,6 +17965,7 @@ nor.complianceposturemanagement.office.net
 norseagroup-my.sharepoint.com
 norsepowerltd-public.sharepoint.com
 northcantonschoolsorg-my.sharepoint.com
+northcentralus.api.cognitive.microsoft.com
 northcentralus.api.prod.adu.microsoft.com
 northcentralus.rp.prod.adu.microsoft.com
 northcentralus.rrsfd.rrs.service.commerce.microsoft.com
@@ -18288,6 +18340,7 @@ officecheckoutpurchase.omex.office.net
 officeclassnotebookapi.namwestus2258098.office-edu-classnotebook.westus2-sdf.cosmic-ppe.office.net
 officeclient.microsoft.com
 office.com
+officeenrichment.namcentral916382.office-rc3-enrichment.centralus-prod.cosmic.office.net
 office.events.data.microsoft.com
 office-excel-xlentityapi.canadacentral-msit.cosmic.office.net
 office-excel-xlentityapi.centralus-msit.cosmic.office.net
@@ -18309,6 +18362,7 @@ office-excel-xlnemo.centralus-msit.cosmic.office.net
 office-excel-xlnemo.eastus2-msit.cosmic.office.net
 office-excel-xlnemo.japaneast-msit.cosmic.office.net
 office-excel-xlnemo.koreacentral-msit.cosmic.office.net
+office-excel-xlnemo-lb.namcentral737161.office-excel-xlnemo.centralus-msit.cosmic.office.net
 office-excel-xlnemo.northeurope-msit.cosmic.office.net
 office-excel-xlnemo.swedensouth-msit.cosmic.office.net
 office-excel-xlnemo.westeurope-msit.cosmic.office.net
@@ -18459,6 +18513,7 @@ onedriveclucproddm20007.blob.core.windows.net
 onedriveclucproddm20009.blob.core.windows.net
 onedriveclucproddm20011.blob.core.windows.net
 onedriveclucproddm20012.blob.core.windows.net
+onedriveclucproddm20013.blob.core.windows.net
 onedriveclucproddm20014.blob.core.windows.net
 onedriveclucproddm20015.blob.core.windows.net
 onedriveclucproddm20016.blob.core.windows.net
@@ -18466,6 +18521,7 @@ onedriveclucproddm20017.blob.core.windows.net
 onedriveclucproddm20018.blob.core.windows.net
 onedriveclucproddm20019.blob.core.windows.net
 onedriveclucproddm20020.blob.core.windows.net
+onedriveclucproddm20023.blob.core.windows.net
 onedriveclucproddm20024.blob.core.windows.net
 onedriveclucproddm20025.blob.core.windows.net
 onedriveclucproddm20026.blob.core.windows.net
@@ -18610,6 +18666,7 @@ onedscolprdjpe03.japaneast.cloudapp.azure.com
 onedscolprdjpe04.japaneast.cloudapp.azure.com
 onedscolprdjpe05.japaneast.cloudapp.azure.com
 onedscolprdjpe53.japaneast.cloudapp.azure.com
+onedscolprdjpe55.japaneast.cloudapp.azure.com
 onedscolprdjpw00.japanwest.cloudapp.azure.com
 onedscolprdjpw01.japanwest.cloudapp.azure.com
 onedscolprdjpw02.japanwest.cloudapp.azure.com
@@ -19001,6 +19058,7 @@ partition-cname-ic3-messaging-mfe-2.d02-013.ic3-messaging-mfe.01-westeurope-prod
 partition-cname-ic3-messaging-mfe-2.d02-235.ic3-messaging-mfe.01-westeurope-prod.cosmic.office.net
 partition-cname-ic3-messaging-mfe-2.d02-236.ic3-messaging-mfe.01-westeurope-prod.cosmic.office.net
 partition-cname-ic3-messaging-mfe-3.d02-013.ic3-messaging-mfe.01-westeurope-prod.cosmic.office.net
+partition-cname-ic3-messaging-mfe-3.d02-203.ic3-messaging-mfe.01-northeurope-prod.cosmic.office.net
 partition-cname-ic3-messaging-mfe-3.d02-206.ic3-messaging-mfe.01-northeurope-prod.cosmic.office.net
 partition-cname-ic3-messaging-mfe-4.d02-013.ic3-messaging-mfe.01-westeurope-prod.cosmic.office.net
 partition-cname-ic3-messaging-mfe-4.d02-038.ic3-messaging-mfe.01-westeurope-prod.cosmic.office.net
@@ -19031,18 +19089,22 @@ partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-010.ic3-edf-troute
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-013.ic3-edf-trouter.01-francecentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-024.ic3-edf-trouter.01-swedencentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-058.ic3-edf-trouter.01-francecentral-prod.cosmic.office.net
+partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-069.ic3-edf-trouter.01-westeurope-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-084.ic3-edf-trouter.01-northeurope-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-2.d02-006.ic3-edf-trouter.01-germanywestcentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-2.d02-006.ic3-edf-trouter.01-polandcentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-2.d02-010.ic3-edf-trouter.01-francecentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-2.d02-026.ic3-edf-trouter.01-swedencentral-prod.cosmic.office.net
+partition-cname-trouter-ic3-edf-trouter-service-trouter-2.d02-041.ic3-edf-trouter.01-westeurope-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-2.d02-050.ic3-edf-trouter.01-francecentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-2.d02-056.ic3-edf-trouter.01-westeurope-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-dewc-14.ic3-edf-trouter.germanywestcentral-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-euno-02.ic3-edf-trouter.northeurope-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-euno-09.ic3-edf-trouter.northeurope-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-euno-12.ic3-edf-trouter.northeurope-prod.cosmic.office.net
+partition-cname-trouter.pub-ent-euwe-05.ic3-edf-trouter.westeurope-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-euwe-07.ic3-edf-trouter.westeurope-prod.cosmic.office.net
+partition-cname-trouter.pub-ent-euwe-09.ic3-edf-trouter.westeurope-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-frce-01.ic3-edf-trouter.francecentral-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-frce-03.ic3-edf-trouter.francecentral-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-frce-05.ic3-edf-trouter.francecentral-prod.cosmic.office.net
@@ -19597,6 +19659,7 @@ pointers-dev.microsoft.com
 poirotppe.smltenant.microsoft.com
 poirotprod.devai.microsoft.com
 poirotprod.smltenant.microsoft.com
+polandcentral.api.cognitive.microsoft.com
 pol.complianceposturemanagement.office.com
 pol.complianceposturemanagement.office.net
 policheckdev.microsoft.com
@@ -19799,6 +19862,7 @@ ppe.esign-gateway.verticals.teams.microsoft.com
 ppe.eu.targetingservice.services.microsoft.com
 ppe.fedgov.partnerbilling.microsoft.com
 ppe.gallery.msdn.microsoft.com
+ppe.gateway.office.net
 ppe.geneva.keyvault.crmglobal.microsoft.com
 ppe.geneva.keyvault.online.core.vsengsaas.visualstudio.com
 ppe.geneva.keyvault.tip1.powerapps.microsoft.com
@@ -19975,8 +20039,11 @@ presence-presence-3.d03-006.ic3-unified-presence.01-westeurope-prod.cosmic.offic
 presence-presence-3.d03-014.ic3-unified-presence.01-westeurope-prod.cosmic.office.net
 presence-presence-3.d03-028.ic3-unified-presence.01-swedencentral-prod.cosmic.office.net
 presence-presence-3.d03-029.ic3-unified-presence.01-swedencentral-prod.cosmic.office.net
+presence-presence-3.d03-035.ic3-unified-presence.01-swedencentral-prod.cosmic.office.net
 presence-presence-4.d03-001.ic3-unified-presence.01-westeurope-prod.cosmic.office.net
 presence-presence-4.d03-004.ic3-unified-presence.01-francecentral-prod.cosmic.office.net
+presence-presence-4.d03-008.ic3-unified-presence.01-westeurope-prod.cosmic.office.net
+presence-presence-4.d03-028.ic3-unified-presence.01-swedencentral-prod.cosmic.office.net
 presence-presence-4.d03-067.ic3-unified-presence.01-francecentral-prod.cosmic.office.net
 presence-presence-4.d03-074.ic3-unified-presence.01-francecentral-prod.cosmic.office.net
 presence-presence-4.d03-075.ic3-unified-presence.01-francecentral-prod.cosmic.office.net
@@ -20796,6 +20863,7 @@ rdp.eur.unifiedfeedback.office.net
 rdp.fra.complianceposturemanagement.office.net
 rdp.fra.unifiedfeedback.office.net
 rdp.gbr.complianceposturemanagement.office.net
+rdp.gbr.unifiedfeedback.office.net
 rdp.idn.unifiedfeedback.office.net
 rdp.ind.complianceposturemanagement.office.net
 rdp.ind.unifiedfeedback.office.net
@@ -20921,6 +20989,7 @@ rel.codespaces.api.visualstudio.com
 rel.codespaces.ppe.api.visualstudio.com
 rel.codespaces.prod.api.visualstudio.com
 rel.collaboration.api.visualstudio.com
+relcommsapi.namcentral342690.substrate-cse-relcomms-api.centralus-test.cosmic-int.office.net
 releaseplans.microsoft.com
 release-ppe.prss.microsoft.com
 releases.aks.azure.com
@@ -21961,6 +22030,7 @@ sessions.ppe.collab.mixedreality.microsoft.com
 settings.data.microsoft.com
 settings.infra.gcc.teams.microsoft.com
 settings.messenger.live.com
+settings-prod-neu-3-tagged.northeurope.cloudapp.azure.com
 settings.teams.internal.office.com
 settings.visualstudio.microsoft.com
 settings-win.data.microsoft.com
@@ -22548,6 +22618,7 @@ southcentralus-dogfood.easm.defender.microsoft.com
 southcentralus.onelake.fabric.microsoft.com
 southcentralus.prod.api.securitycopilot.microsoft.com
 southcentralus.prod.powerquery.microsoft.com
+southeastasia.api.cognitive.microsoft.com
 southeastasia.commands.runtime.speech.microsoft.com
 southeastasia.dev.cognitive.microsoft.com
 southeastasia.provgateway.playready.microsoft.com
@@ -22557,6 +22628,7 @@ southeastasia-sc.templates.office.net
 southeastasia.sr.corp-prod.collab.mixedreality.microsoft.com
 southeastasia.templatesmetadata.office.net
 southeastasia.templates.office.net
+southindia.api.cognitive.microsoft.com
 southindia.lake.data.microsoft.com
 soxdom.microsoft.com
 space.msn.com
@@ -23027,6 +23099,9 @@ substrate-edge-sync.northcentralus-msit.cosmic.office.net
 substrate-edge-sync.northcentralus-prod.cosmic.office.net
 substrate-edge-sync.northcentralus-sdf.cosmic-ppe.office.net
 substrate-edge-sync.westus-test.cosmic-int.office.net
+substrate-enterprisenews-newsfeed.sdf.cosmic-ppe.office.net
+substrate-enterprisenews-newsfeed-service.sdfeastus2020489.substrate-enterprisenews-newsfeed.eastus2-sdf.cosmic-ppe.office.net
+substrate-enterprisenews-newsfeed-service.sdfwestus2777826.substrate-enterprisenews-newsfeed.westus2-sdf.cosmic-ppe.office.net
 substrateflowcontrol.outlook.com
 substrate-gram-mgms-urp-lb.p01.substrate-gram-mgms-urp.northcentralus-test.cosmic-int.office.net
 substrate-gram-mgms-urp-lb.p02.substrate-gram-mgms-urp.northcentralus-test.cosmic-int.office.net
@@ -23275,6 +23350,7 @@ substrate-msb-entityapisnr-service.msiwesteur714949.substrate-msb-bingatwork.wes
 substrate-msb-entityapisnr-service.msiwestus0581071.substrate-msb-bingatwork.westus-msit.cosmic.office.net
 substrate-msit.cosmic.office.net
 substrate-networking-dhcp.cosmic-int.office.net
+substrate-networking-dhcp.cosmic.office.net
 substrate-networking-dhcp.cosmic-ppe.office.net
 substrate.office.com
 substrate-outlook-owsprime.eastus-sdf.cosmic-ppe.office.net
@@ -23391,6 +23467,7 @@ swda01-mscdn.manage.microsoft.com
 swdin02.manage.microsoft.com
 swe.complianceposturemanagement.office.com
 swe.complianceposturemanagement.office.net
+swedencentral.api.cognitive.microsoft.com
 swedencentral.api.prod.adu.microsoft.com
 swedencentral.cloudapp.azure.com
 swedencentral.easm.defender.microsoft.com
@@ -23399,6 +23476,7 @@ swedencentral.rp.prod.adu.microsoft.com
 swe.unifiedfeedback.office.com
 s.windows.microsoft.com
 switchboard.skype.com
+switzerlandnorth.api.cognitive.microsoft.com
 switzerlandnorth.convai.speech.microsoft.com
 switzerlandnorth.ftb.speech.microsoft.com
 switzerlandnorth.lake.data.microsoft.com
@@ -23551,6 +23629,7 @@ tdfcert.office365searchservice.outlook.com
 tdf.cosmicapi.cosmic-tdf.office.net
 tdf.crosstenantmms.teams.core.microsoft
 tdf-eastus2.rp.cosmic-tdf.office.net
+tdff5prd.office.net
 tdf.issuer.skypetoken.skype.com
 tdf.llmmeteringapi.core.microsoft
 tdf.pks.outlook.com
@@ -23777,15 +23856,18 @@ test-s01-013-nam-westus.substrate.cosmic-int.office.net
 test-s01-014-nam-eastus2.substrate.cosmic-int.office.net
 test-s01-014-nam-westus2.substrate.cosmic-int.office.net
 test-s01-014-nam-westus.substrate.cosmic-int.office.net
+test-s01-016-nam-centralus.substrate.cosmic-int.office.net
 test-s01-016-nam-westcentralus.substrate.cosmic-int.office.net
 test-s01-016-nam-westus2.substrate.cosmic-int.office.net
 test-s01-017-nam-centralus.substrate.cosmic-int.office.net
 test-s01-017-nam-westus2.substrate.cosmic-int.office.net
 test-s01-017-nam-westus.substrate.cosmic-int.office.net
 test-s01-018-nam-westus.substrate.cosmic-int.office.net
+test-s01-019-nam-centralus.substrate.cosmic-int.office.net
 test-s01-019-nam-westcentralus.substrate.cosmic-int.office.net
 test-s01-020-nam-westcentralus.substrate.cosmic-int.office.net
 test-s01-020-nam-westus.substrate.cosmic-int.office.net
+test-s01-021-nam-centralus.substrate.cosmic-int.office.net
 test-s01-021-nam-eastus2.substrate.cosmic-int.office.net
 test-s01-021-nam-westus.substrate.cosmic-int.office.net
 test-s01-022-nam-westus.substrate.cosmic-int.office.net
@@ -23793,7 +23875,9 @@ test-s01-023-nam-northcentralus.substrate.cosmic-int.office.net
 test-s01-023-nam-westus2.substrate.cosmic-int.office.net
 test-s01-023-nam-westus.substrate.cosmic-int.office.net
 test-s01-024-nam-eastus2.substrate.cosmic-int.office.net
+test-s01-024-nam-westcentralus.substrate.cosmic-int.office.net
 test-s01-024-nam-westus2.substrate.cosmic-int.office.net
+test-s01-025-nam-centralus.substrate.cosmic-int.office.net
 test-s01-025-nam-westus.substrate.cosmic-int.office.net
 test-s01-026-nam-westcentralus.substrate.cosmic-int.office.net
 test-s01-026-nam-westus2.substrate.cosmic-int.office.net
@@ -24420,6 +24504,7 @@ uks1.rel.tunnels.api.visualstudio.com
 uks1-vector.prod.almsearch.visualstudio.com
 uks.gssv-auth-prodxhome.xboxlive.com
 uks.gssv-cmdrelay-prodxhome.xboxlive.com
+uksouth.api.cognitive.microsoft.com
 uksouth.cloudapp.azure.com
 uksouth.dcsfe.prod.adu.microsoft.com
 uksouth.ftb.speech.microsoft.com
@@ -24558,6 +24643,7 @@ usc-word-edit.officeapps.live.com
 usc-word-view.officeapps.live.com
 usdoe.sharepoint.com
 usdos.sharepoint.com
+use-2.config.skype.com
 use2.rel.tunnels.api.visualstudio.com
 usea-001.noam.dog.cos.audience.teams.microsoft.com
 usea2.dev.pls.teams.internal.office.com
@@ -25293,6 +25379,7 @@ welcomeemail.devbox.corp.microsoft.com
 wercmsppe.microsoft.com
 wer.microsoft.com
 werservices.sysdev-int.microsoft.com
+westcentralus.api.cognitive.microsoft.com
 westcentralus.api.prod.adu.microsoft.com
 westcentralus.api.test.adu.microsoft.com
 westcentralus.commands.runtime.speech.microsoft.com
@@ -25307,6 +25394,7 @@ westcenus.render.query.prod.cms.rt.microsoft.com
 west.dogfood.prod.ml.cdn.office.net
 westeurope-01.ic3-fraud-pstn-scoring.westeurope-prod.cosmic.office.net
 westeurope1-mediap.svc.ms
+westeurope.api.cognitive.microsoft.com
 westeurope.api.playwright.microsoft.com
 westeurope.browser.playwright.microsoft.com
 westeurope.cloudapp.azure.com
@@ -25763,6 +25851,7 @@ www.office15client.microsoft.com
 www.officeclient.microsoft.com
 www.office.com
 www.office-excel-xlentityapi.westus-test.cosmic-int.office.net
+www.office-excel-xlnemo.centralus-msit.cosmic.office.net
 www.office-excel-xlnemo.centralus-test.cosmic-int.office.net
 www.office.microsoft.com
 www-onerf.ppe.xbox.com
