@@ -129114,3 +129114,117 @@ s
 ===xai
 
 == Save names archive
+[master 42f4beb2] auto-update names
+ 15 files changed, 2128 insertions(+), 62 deletions(-)
+  office.net: fetch failed
+  windows.com: fetch failed, retry 1/4 in 10s
+  windows.com: fetch failed, retry 2/4 in 20s
+  windows.com: fetch failed, retry 3/4 in 30s
+  windows.com: fetch failed, retry 4/4 in 40s
+  windows.com: fetch failed
+  msn.com: ok
+  skype.com: fetch failed, retry 1/4 in 10s
+  skype.com: fetch failed, retry 2/4 in 20s
+  skype.com: ok
+  xbox.com: ok
+  sharepoint.com: ok
+  azure.com: fetch failed, retry 1/4 in 10s
+  azure.com: fetch failed, retry 2/4 in 20s
+  azure.com: fetch failed, retry 3/4 in 30s
+  azure.com: fetch failed, retry 4/4 in 40s
+  azure.com: fetch failed
+  visualstudio.com: ok
+  twitter.com: fetch failed, retry 1/4 in 10s
+  twitter.com: fetch failed, retry 2/4 in 20s
+  twitter.com: ok
+  x.com: fetch failed, retry 1/4 in 10s
+  x.com: fetch failed, retry 2/4 in 20s
+  x.com: ok
+  twimg.com: ok
+  pscp.tv: ok
+  ozon.ru: fetch failed, retry 1/4 in 10s
+  ozon.ru: fetch failed, retry 2/4 in 20s
+  ozon.ru: fetch failed, retry 3/4 in 30s
+  ozon.ru: fetch failed, retry 4/4 in 40s
+  ozon.ru: ok
+  ozonusercontent.com: ok
+  github.com: ok
+  githubusercontent.com: fetch failed, retry 1/4 in 10s
+  githubusercontent.com: fetch failed, retry 2/4 in 20s
+  githubusercontent.com: ok
+  githubassets.com: ok
+  githubcopilot.com: ok
+  github.io: ok
+  ghcr.io: fetch failed, retry 1/4 in 10s
+  ghcr.io: ok
+  apple.com: ok
+  icloud.com: ok
+  icloud-content.com: fetch failed, retry 1/4 in 10s
+  icloud-content.com: ok
+  mzstatic.com: fetch failed, retry 1/4 in 10s
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  aaplimg.com: fetch failed, retry 1/4 in 10s
+  aaplimg.com: fetch failed, retry 2/4 in 20s
+  aaplimg.com: ok
+  apple-dns.net: ok
+  apple.news: fetch failed, retry 1/4 in 10s
+  apple.news: fetch failed, retry 2/4 in 20s
+  apple.news: ok
+  adobe.com: fetch failed, retry 1/4 in 10s
+  adobe.com: ok
+  adobe.io: ok
+  adobelogin.com: ok
+  adobedc.net: fetch failed, retry 1/4 in 10s
+  adobedc.net: ok
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: ok
+  demdex.net: ok
+  omtrdc.net: ok
+  pornhub.com: ok
+  phncdn.com: fetch failed, retry 1/4 in 10s
+  phncdn.com: fetch failed, retry 2/4 in 20s
+  phncdn.com: ok
+  backblaze.com: ok
+  backblazeb2.com: ok
+  huggingface.co: ok
+  hf.co: ok
+  hf.space: ok
+  anthropic.com: ok
+  claude.ai: fetch failed, retry 1/4 in 10s
+  claude.ai: fetch failed, retry 2/4 in 20s
+  claude.ai: ok
+  claude.com: fetch failed, retry 1/4 in 10s
+  claude.com: fetch failed, retry 2/4 in 20s
+  claude.com: ok
+  claudeusercontent.com: ok
+  clau.de: ok
+  x.ai: ok
+  grok.com: fetch failed, retry 1/4 in 10s
+  grok.com: ok
+  total CT names: 28902
+
+==Probing YouTube cache servers: skipped, list is less than a week old
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===microsoft
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+===xai
+
+== Save names archive
