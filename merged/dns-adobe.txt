@@ -142,6 +142,7 @@ accp-dev.campaign.adobe.com
 accsearchportal-dev.documents.adobe.com
 acctest.documents.adobe.com
 acc-tools.corp.adobe.com
+acc-tools-staging.corp.adobe.com
 acc-tools.supportinsights.adobe.com
 accttwo.na1.documents.adobe.com
 acc-watcher.supportinsights.adobe.com
@@ -923,8 +924,22 @@ alineds.na2.documents.adobe.com
 alitedash.corp.adobe.com
 allianz-mid-prod1-lb.campaign.adobe.com
 allianz-mid-stage1-2.campaign.adobe.com
+alm-apacprod-datahub.adobe.com
+alm-apacprod-datarecon.adobe.com
 almautomation.corp.adobe.com
+alm-beta2-datahub.adobe.com
+alm-beta2-datarecon.adobe.com
+alm-beta-datahub.adobe.com
+alm-beta-datarecon.adobe.com
 almexpbuilder.corp.adobe.com
+alm-prod2-datahub.adobe.com
+alm-prod2-datarecon.adobe.com
+alm-prod-datahub.adobe.com
+alm-prod-datarecon.adobe.com
+alm-prodfr-datahub.adobe.com
+alm-prodfr-datarecon.adobe.com
+alm-produw-datahub.adobe.com
+alm-produw-datarecon.adobe.com
 alm-qe-datahub.adobe.com
 alm-qe-datarecon.adobe.com
 alm-stage2-datahub.adobe.com
@@ -1801,6 +1816,7 @@ automationsuite-dev.corp.adobe.com
 automationsuite-stg.corp.adobe.com
 automationtestresults.corp.adobe.com
 auto-metrics.corp.adobe.com
+auto-metrics-db.corp.adobe.com
 auto-resolution.corp.adobe.com
 autosky-api.adobe.com
 autosky-api.corp.adobe.com
@@ -2466,6 +2482,7 @@ cai-msb.adobe.io
 caiocezarfotografia.myportfolio.com
 caipiao3dtu238qikaijihao.adobeaemcloud.net
 caiteykennedy.myportfolio.com
+cai.trustfoundry.adobe.com
 caixa.campaign.adobe.com
 caixa-mid-prod1-cus.campaign.adobe.com
 calbrightcollege.na1.documents.adobe.com
@@ -4590,8 +4607,10 @@ dev.a4u-gateway.corp.adobe.com
 dev.acdcadmin.corp.adobe.com
 dev.acrobat.adobe.com
 dev.acrobatservices.adobe.com
+dev.acscamp.adobe.com
 dev.acscc.adobe.com
 dev.acscsm.adobe.com
+dev.acssb.adobe.com
 dev.acstam.adobe.com
 dev.adlsvlab.adobe.com
 dev.adobeaemcloud.com
@@ -5088,6 +5107,7 @@ dx-ce.corp.adobe.com
 dxce.servicecenter.corp.adobe.com
 dxd.adobe.com
 dx-dc-author-prod.acrobat.adobe.com
+dxd.corp.adobe.com
 dxe-cicd-bot-wildcard-test.dev.cloud.adobe.io
 dxenablementhub.adobe.com
 dx-loc-tools.corp.adobe.com
@@ -6583,6 +6603,7 @@ growthiq.corp.adobe.com
 growth-lab.corp.adobe.com
 growthnexus.corp.adobe.com
 gr-prd-test.corp.adobe.com
+grt42est.corp.adobe.com
 grt4est.corp.adobe.com
 grteqst.corp.adobe.com
 grtes1t1.corp.adobe.com
@@ -7068,6 +7089,8 @@ iam-api.corp.adobe.com
 iamapi-prod-1.corp.adobe.com
 iamapi-prod-2.corp.adobe.com
 iamapi-prod.corp.adobe.com
+iamapi-stage-1.corp.adobe.com
+iamapi-stage-2.corp.adobe.com
 iamapi-stage.corp.adobe.com
 iam-beta.corp.adobe.com
 iam.captivateprime.adobe.com
@@ -7081,6 +7104,7 @@ iam-dev.corp.adobe.com
 iam-old.corp.adobe.com
 iam-prod-1.corp.adobe.com
 iam-prod-2.corp.adobe.com
+iam-stage-1.corp.adobe.com
 iam-stage-2.corp.adobe.com
 iam-stage-api.corp.adobe.com
 iam-stage.corp.adobe.com
@@ -10164,6 +10188,7 @@ no1010042041196.corp.adobe.com
 no1010042041208.corp.adobe.com
 no1010042041231.corp.adobe.com
 no1010042042112.corp.adobe.com
+no1010042042166.corp.adobe.com
 no1010042042182.corp.adobe.com
 no1010042042190.corp.adobe.com
 no1010042042217.corp.adobe.com
@@ -10570,6 +10595,7 @@ ols-stage.corp.adobe.com
 olwc.adobeaemcloud.com
 om4db.corp.adobe.com
 om9db.corp.adobe.com
+omdigitalsolutions.demdex.net
 omega.watchprosite.com
 omnivore.acc.dgov.an.adobe.com
 omnivore.aec.dgov.an.adobe.com
@@ -10603,6 +10629,8 @@ onemgtech-mkt-prod1-1.campaign.adobe.com
 onepercent-dev.corp.adobe.com
 onetest-mid-prod1-lb.campaign.adobe.com
 onetest-mid-prod1-res.campaign.adobe.com
+onetouch-mcp.adobe.com
+onetouchonboarding-mcp.adobe.com
 onitsukatiger-mid-prod1-all-cus.campaign.adobe.com
 onlineevents.adobeconnect.com
 onrksm.myportfolio.com
@@ -10963,6 +10991,7 @@ or1010050103023.corp.adobe.com
 or1010050103026.corp.adobe.com
 or1010050103034.corp.adobe.com
 or1010050103038.corp.adobe.com
+or1010050103060.corp.adobe.com
 or1010050103067.corp.adobe.com
 or1010050103069.corp.adobe.com
 or1010050103071.corp.adobe.com
@@ -11372,6 +11401,10 @@ or1010051061237.corp.adobe.com
 or1010051061244.corp.adobe.com
 or1010051061245.corp.adobe.com
 or1010051061246.corp.adobe.com
+or1010051062172.corp.adobe.com
+or1010051062173.corp.adobe.com
+or1010051062174.corp.adobe.com
+or1010051062175.corp.adobe.com
 or1010051062202.corp.adobe.com
 or1010051062206.corp.adobe.com
 or1010051063017.corp.adobe.com
@@ -12129,6 +12162,7 @@ payment-in1.documentsdemo.adobe.com
 payments-ai.corp.adobe.com
 payments-dev.corp.adobe.com
 paypaltrial.brand-portal.adobe.com
+payrollautomation.corp.adobe.com
 payrollautomation-qa.corp.adobe.com
 payrollautomation-stg.corp.adobe.com
 payrollautomation-v2-qa.corp.adobe.com
@@ -12349,15 +12383,20 @@ pl.liveupdate.marketing.adobe.com
 plmapi.corp.adobe.com
 plmapi.ethos506-prod-or2.prod.ethos.corp.adobe.com
 plmapi.ethos509-stage-or2.stage.ethos.corp.adobe.com
+plmapi-stg.corp.adobe.com
 plmcommons.corp.adobe.com
 plmcommons.ethos506-prod-or2.prod.ethos.corp.adobe.com
+plmcommons.ethos509-stage-or2.stage.ethos.corp.adobe.com
+plmcommons-stg.corp.adobe.com
 plm.corp.adobe.com
+plm.ethos509-stage-or2.stage.ethos.corp.adobe.com
 plmprdtest123.corp.adobe.com
 plmprdtest1.corp.adobe.com
 plm-stg.corp.adobe.com
 plm-test-cert-2048.corp.adobe.com
 plmtestcert.corp.adobe.com
 plmtestlb123.corp.adobe.com
+plm-ui-v1-stage.corp.ethos509-stage-or2.stage.ethos.corp.adobe.com
 plpub.corp.adobe.com
 plpub-dev.corp.adobe.com
 plpub-stg.corp.adobe.com
@@ -12506,6 +12545,8 @@ prdlicensing.adobe.com
 prd-monitoring-dash-hb.corp.adobe.com
 prd.pipeline.adobedc.net
 prd.sat.adobe.com
+prd.trustfoundry.adobe.com
+prd.trustfoundry.adobe.net
 pre.239.documents.adobe.com
 pre.administrator.marketing.adobe.com
 pre-api-eu1.documents.adobe.com
@@ -13726,6 +13767,7 @@ rob-in-der-maur-mkt-dev1-1.campaign-demo.adobe.com
 robohelp-2020-update-6.meetus.adobeevents.com
 robohelp.adobe.com
 robynrosenzweig.myportfolio.com
+rocket-app.corp.adobe.com
 rodenstockchile.na4.documents.adobe.com
 rodobensadministradora-mkt-prod2-cus.campaign.adobe.com
 rogerlinndesign-muse.businesscatalyst.com
@@ -14597,6 +14639,7 @@ showmethemoney.corp.adobe.com
 showroom.research.corp.adobe.com
 shuoqie.adobeaemcloud.net
 shutterfly.experiencecloud.adobe.com
+sia.corp.adobe.com
 sia-dev.corp.adobe.com
 sia-stage.corp.adobe.com
 sidc.groups.adobe.com
@@ -15157,6 +15200,7 @@ smsincexchangewebapp.marketing.adobe.com
 sms-nonprod.qr.test.ajo.adobe.com
 sms.rtcdpsummitlab.test.ajo.adobe.com
 sms.tabcorp.test.ajo.adobe.com
+sms.ultimate-success-emea.test.ajo.adobe.com
 smtp-152.marketing.adobe.com
 smtp.170.experiencecloud.adobe.com
 smtp.apo-na1-stg2.services.adobe.com
@@ -15689,6 +15733,7 @@ stg.showroom.corp.adobe.com
 stgtest.captivateprime.adobe.com
 stgtransfer.adobe.com
 stg-walnut-cdn.adobe.io
+stg.workfront.adobe.com
 stht.adobeaemcloud.net
 stka.corp.adobe.com
 stka-growthbook.corp.adobe.com
@@ -16214,6 +16259,7 @@ teamwork.c00.adobe.com
 teamworkmacprodus1author1c.ec2.marketing.adobe.com
 techacrobat.com
 techcouncilindia.corp.adobe.com
+technica11y.corp.adobe.com
 technologypartners.stage2.adobe.com
 techops1-us-east-1identity.marketing-stage.adobe.com
 techstack.corp.adobe.com
@@ -16496,6 +16542,7 @@ thewellbeingproject.eu1.documents.adobe.com
 thewire.adobeaemcloud.com
 thiagosoares.myportfolio.com
 thijs-biersteker.prosite.com
+thinksight.campaign.adobe.com
 thomaspuschmann.myportfolio.com
 thomasrainfroy.myportfolio.com
 t.home.saxo.cname.campaign.adobe.com
@@ -17622,6 +17669,7 @@ wanda.corp.adobe.com
 wap.experiencecloud.adobe.com
 wapjp.experiencecloud.adobe.com
 warpath.corp.adobe.com
+warp-speed-service.corp.adobe.com
 warriors-mkt-prod1-1.campaign.adobe.com
 watchprosite.com
 wavelength.corp.adobe.com
