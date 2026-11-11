@@ -11102,6 +11102,7 @@ bigquery.northamerica-northeast1.p.rep.googleapis.com
 bigquery.northamerica-northeast1.rep.googleapis.com
 bigquery.northamerica-northeast2.p.rep.googleapis.com
 bigqueryreservation.asia-south2.rep.googleapis.com
+bigqueryreservation.europe-west2.rep.googleapis.com
 bigqueryreservation.europe-west3.rep.googleapis.com
 bigqueryreservation.europe-west4.p.rep.googleapis.com
 bigqueryreservation.europe-west4.rep.googleapis.com
@@ -18801,6 +18802,7 @@ content-config.us-west3.rep.mtls.googleapis.com
 content-config.us-west4.p.rep.googleapis.com
 content-config.us-west4.rep.googleapis.com
 content-config.us-west4.rep.mtls.googleapis.com
+content-connectgateway.asia-south1.rep.googleapis.com
 content-connectgateway.asia-south2.p.rep.googleapis.com
 content-connectgateway.asia-south2.rep.mtls.googleapis.com
 content-connectgateway.us-central1.p.rep.googleapis.com
@@ -19242,6 +19244,7 @@ content-dataplex.europe-west4.rep.googleapis.com
 content-dataplex.europe-west9.rep.googleapis.com
 content-dataplex.europe-west9.rep.mtls.googleapis.com
 content-dataplex.me-central2.p.rep.googleapis.com
+content-dataplex.northamerica-northeast1.rep.mtls.googleapis.com
 content-dataplex.northamerica-south1.rep.mtls.googleapis.com
 content-dataplex.us-central1.p.rep.googleapis.com
 content-dataplex.us-west8.rep.mtls.googleapis.com
@@ -24074,6 +24077,7 @@ data-edge.smartscreen.microsoft.com
 data.email.adobe.com
 data.emaillpb.adobe.com
 data.email.podcast.adobe.com
+data.email-tsb.cjm.adobe.com
 data.employeecommunications.adobe.com
 data.es.test.ajo.adobe.com
 data.etihadpoc.test.ajo.adobe.com
@@ -24716,6 +24720,7 @@ data.test3.test.ajo.adobe.com
 data.testing.nfr.test.ajo.adobe.com
 data.thenoshproject.test.ajo.adobe.com
 data.three.test.ajo.adobe.com
+data.titancert.test.ajo.adobe.com
 datatransfer.apple.com
 data.tsbuat.test.ajo.adobe.com
 data.typekit.net
@@ -26528,6 +26533,7 @@ dlp.me-west1.p.rep.googleapis.com
 dlp.me-west1.rep.googleapis.com
 dlp.northamerica-northeast1.p.rep.googleapis.com
 dlp.northamerica-south1.p.rep.googleapis.com
+dlp.northamerica-south1.rep.mtls.googleapis.com
 dlp.southamerica-east1.rep.googleapis.com
 dlp.southamerica-west1.p.rep.googleapis.com
 dlp.southamerica-west1.rep.googleapis.com
@@ -42399,6 +42405,7 @@ firestore.europe-west1.rep.googleapis.com
 firestore.europe-west1.rep.mtls.googleapis.com
 firestore.europe-west2.p.rep.googleapis.com
 firestore.europe-west2.rep.googleapis.com
+firestore.europe-west3.p.rep.googleapis.com
 firestore.europe-west3.rep.googleapis.com
 firestore.europe-west4.p.rep.googleapis.com
 firestore.europe-west4.rep.googleapis.com
@@ -52463,6 +52470,7 @@ iamcredentials.asia-east1.p.rep.googleapis.com
 iamcredentials.asia-east1.rep.googleapis.com
 iamcredentials.asia-east2.rep.mtls.googleapis.com
 iamcredentials.asia-northeast3.p.rep.googleapis.com
+iamcredentials.asia-northeast3.rep.googleapis.com
 iamcredentials.asia-southeast2.rep.mtls.googleapis.com
 iamcredentials.asia-southeast3.p.rep.googleapis.com
 iamcredentials.asia-southeast3.rep.googleapis.com
@@ -52474,6 +52482,7 @@ iamcredentials.europe-west1.rep.googleapis.com
 iamcredentials.europe-west2.p.rep.googleapis.com
 iamcredentials.europe-west2.rep.googleapis.com
 iamcredentials.europe-west3.p.rep.googleapis.com
+iamcredentials.europe-west3.rep.googleapis.com
 iamcredentials.europe-west4.rep.googleapis.com
 iamcredentials.europe-west6.rep.mtls.googleapis.com
 iamcredentials.googleapis.com
@@ -58676,6 +58685,7 @@ members.msn.com
 memex-pa.googleapis.com
 memoq.ganjiejie.bytedance.com
 memorystore.africa-south1.rep.mtls.googleapis.com
+memorystore.asia-south1.rep.googleapis.com
 memorystore.asia-south2.rep.mtls.googleapis.com
 memorystore.asia-southeast1.rep.googleapis.com
 memorystore.asia-southeast3.rep.mtls.googleapis.com
@@ -93556,6 +93566,7 @@ thfd.edog.officeapps.live.com
 thfd.officeapps.live.com
 thfvnext.bing.com
 thinksight.campaign.adobe.com
+thinksight.corp.adobe.com
 thinkwithgoogle.com
 th.lazerpenguin.com
 thmw.edog.officeapps.live.com
@@ -96621,6 +96632,7 @@ web-mmap-xe05.apple.com
 web-mmap-xe06.apple.com
 webmssdk16-normal-no1a.tiktokw.eu
 webmssdk16-normal-no1a.tiktokw.eu.edgesuite.net
+webops-dl-origin.wip4.adobe.com
 webops-tools.corp.adobe.com
 webpagetest.corp.adobe.com
 web-payments-staging.xbox.com

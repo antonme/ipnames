@@ -1105,6 +1105,7 @@ bigquery.northamerica-northeast1.p.rep.googleapis.com
 bigquery.northamerica-northeast1.rep.googleapis.com
 bigquery.northamerica-northeast2.p.rep.googleapis.com
 bigqueryreservation.asia-south2.rep.googleapis.com
+bigqueryreservation.europe-west2.rep.googleapis.com
 bigqueryreservation.europe-west3.rep.googleapis.com
 bigqueryreservation.europe-west4.p.rep.googleapis.com
 bigqueryreservation.europe-west4.rep.googleapis.com
@@ -3079,6 +3080,7 @@ content-config.us-west3.rep.mtls.googleapis.com
 content-config.us-west4.p.rep.googleapis.com
 content-config.us-west4.rep.googleapis.com
 content-config.us-west4.rep.mtls.googleapis.com
+content-connectgateway.asia-south1.rep.googleapis.com
 content-connectgateway.asia-south2.p.rep.googleapis.com
 content-connectgateway.asia-south2.rep.mtls.googleapis.com
 content-connectgateway.us-central1.p.rep.googleapis.com
@@ -3520,6 +3522,7 @@ content-dataplex.europe-west4.rep.googleapis.com
 content-dataplex.europe-west9.rep.googleapis.com
 content-dataplex.europe-west9.rep.mtls.googleapis.com
 content-dataplex.me-central2.p.rep.googleapis.com
+content-dataplex.northamerica-northeast1.rep.mtls.googleapis.com
 content-dataplex.northamerica-south1.rep.mtls.googleapis.com
 content-dataplex.us-central1.p.rep.googleapis.com
 content-dataplex.us-west8.rep.mtls.googleapis.com
@@ -6417,6 +6420,7 @@ dlp.me-west1.p.rep.googleapis.com
 dlp.me-west1.rep.googleapis.com
 dlp.northamerica-northeast1.p.rep.googleapis.com
 dlp.northamerica-south1.p.rep.googleapis.com
+dlp.northamerica-south1.rep.mtls.googleapis.com
 dlp.southamerica-east1.rep.googleapis.com
 dlp.southamerica-west1.p.rep.googleapis.com
 dlp.southamerica-west1.rep.googleapis.com
@@ -6956,6 +6960,7 @@ firestore.europe-west1.rep.googleapis.com
 firestore.europe-west1.rep.mtls.googleapis.com
 firestore.europe-west2.p.rep.googleapis.com
 firestore.europe-west2.rep.googleapis.com
+firestore.europe-west3.p.rep.googleapis.com
 firestore.europe-west3.rep.googleapis.com
 firestore.europe-west4.p.rep.googleapis.com
 firestore.europe-west4.rep.googleapis.com
@@ -7580,6 +7585,7 @@ iamcredentials.asia-east1.p.rep.googleapis.com
 iamcredentials.asia-east1.rep.googleapis.com
 iamcredentials.asia-east2.rep.mtls.googleapis.com
 iamcredentials.asia-northeast3.p.rep.googleapis.com
+iamcredentials.asia-northeast3.rep.googleapis.com
 iamcredentials.asia-southeast2.rep.mtls.googleapis.com
 iamcredentials.asia-southeast3.p.rep.googleapis.com
 iamcredentials.asia-southeast3.rep.googleapis.com
@@ -7591,6 +7597,7 @@ iamcredentials.europe-west1.rep.googleapis.com
 iamcredentials.europe-west2.p.rep.googleapis.com
 iamcredentials.europe-west2.rep.googleapis.com
 iamcredentials.europe-west3.p.rep.googleapis.com
+iamcredentials.europe-west3.rep.googleapis.com
 iamcredentials.europe-west4.rep.googleapis.com
 iamcredentials.europe-west6.rep.mtls.googleapis.com
 iamcredentials.googleapis.com
@@ -8217,6 +8224,7 @@ meets.google.com
 meet.xn--google.com
 memex-pa.googleapis.com
 memorystore.africa-south1.rep.mtls.googleapis.com
+memorystore.asia-south1.rep.googleapis.com
 memorystore.asia-south2.rep.mtls.googleapis.com
 memorystore.asia-southeast1.rep.googleapis.com
 memorystore.asia-southeast3.rep.mtls.googleapis.com
