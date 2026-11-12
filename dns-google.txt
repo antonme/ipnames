@@ -2502,6 +2502,7 @@ content-backupdr.me-west1.p.rep.googleapis.com
 content-backupdr.me-west1.rep.googleapis.com
 content-backupdr.me-west1.rep.mtls.googleapis.com
 content-backupdr.northamerica-northeast2.rep.googleapis.com
+content-backupdr.northamerica-northeast2.rep.mtls.googleapis.com
 content-backupdr.northamerica-south1.p.rep.googleapis.com
 content-backupdr.northamerica-south1.rep.googleapis.com
 content-backupdr.northamerica-south1.rep.mtls.googleapis.com
@@ -5777,11 +5778,13 @@ content-workflowexecutions.europe-north1.rep.mtls.googleapis.com
 content-workflowexecutions.europe-southwest1.rep.googleapis.com
 content-workflowexecutions.europe-west1.p.rep.googleapis.com
 content-workflowexecutions.europe-west1.rep.googleapis.com
+content-workflowexecutions.europe-west1.rep.mtls.googleapis.com
 content-workflowexecutions.europe-west2.rep.googleapis.com
 content-workflowexecutions.europe-west3.rep.googleapis.com
 content-workflowexecutions.europe-west3.rep.mtls.googleapis.com
 content-workflowexecutions.europe-west8.p.rep.googleapis.com
 content-workflowexecutions.europe-west8.rep.googleapis.com
+content-workflowexecutions.europe-west8.rep.mtls.googleapis.com
 content-workflowexecutions.me-central1.p.rep.googleapis.com
 content-workflowexecutions.me-central1.rep.googleapis.com
 content-workflowexecutions.southamerica-east1.rep.googleapis.com
@@ -5813,6 +5816,7 @@ content-workflows.us-south1.rep.googleapis.com
 content-workflows.us-west1.rep.mtls.googleapis.com
 content-workflows.us-west2.rep.googleapis.com
 content-workflows.us-west2.rep.mtls.googleapis.com
+content-workflows.us-west4.p.rep.googleapis.com
 content-workflows.us-west4.rep.mtls.googleapis.com
 content-wrenchworks-loadtest.us-central1.p.rep.googleapis.com
 content-wrenchworks-loadtest.us-central1.rep.mtls.googleapis.com
