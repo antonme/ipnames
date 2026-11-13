@@ -130349,3 +130349,95 @@ s
 ===xai
 
 == Save names archive
+[master 275d624e] auto-update names
+ 16 files changed, 2721 insertions(+), 166 deletions(-)
+  azure.com: fetch failed
+  visualstudio.com: fetch failed, retry 1/4 in 10s
+  visualstudio.com: ok
+  twitter.com: ok
+  x.com: ok
+  twimg.com: ok
+  pscp.tv: fetch failed, retry 1/4 in 10s
+  pscp.tv: ok
+  ozon.ru: ok
+  ozonusercontent.com: ok
+  github.com: ok
+  githubusercontent.com: ok
+  githubassets.com: fetch failed, retry 1/4 in 10s
+  githubassets.com: ok
+  githubcopilot.com: ok
+  github.io: ok
+  ghcr.io: fetch failed, retry 1/4 in 10s
+  ghcr.io: ok
+  apple.com: ok
+  icloud.com: ok
+  icloud-content.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  aaplimg.com: ok
+  apple-dns.net: ok
+  apple.news: ok
+  adobe.com: ok
+  adobe.io: fetch failed, retry 1/4 in 10s
+  adobe.io: fetch failed, retry 2/4 in 20s
+  adobe.io: ok
+  adobelogin.com: ok
+  adobedc.net: ok
+  behance.net: fetch failed, retry 1/4 in 10s
+  behance.net: ok
+  photoshop.com: fetch failed, retry 1/4 in 10s
+  photoshop.com: ok
+  typekit.net: fetch failed, retry 1/4 in 10s
+  typekit.net: fetch failed, retry 2/4 in 20s
+  typekit.net: ok
+  frame.io: ok
+  demdex.net: ok
+  omtrdc.net: ok
+  pornhub.com: ok
+  phncdn.com: fetch failed, retry 1/4 in 10s
+  phncdn.com: ok
+  backblaze.com: ok
+  backblazeb2.com: ok
+  huggingface.co: fetch failed, retry 1/4 in 10s
+  huggingface.co: ok
+  hf.co: ok
+  hf.space: ok
+  anthropic.com: ok
+  claude.ai: ok
+  claude.com: ok
+  claudeusercontent.com: ok
+  clau.de: fetch failed, retry 1/4 in 10s
+  clau.de: ok
+  x.ai: ok
+  grok.com: fetch failed, retry 1/4 in 10s
+  grok.com: fetch failed, retry 2/4 in 20s
+  grok.com: ok
+  total CT names: 34069
+
+==Probing YouTube cache servers
+  3418 known clusters, 70 operators, 35 Google sites -> 35285 candidate clusters in 40 airport codes
+  resolver: 76.76.2.0
+  stage 1: 2 live clusters (0 new)
+  stage 2: 0 live servers -> 0 names, 1130s
+  nothing found; keeping previous list-youtube-probed.txt
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===microsoft
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+===xai
+
+== Save names archive
