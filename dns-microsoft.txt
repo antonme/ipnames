@@ -331,6 +331,7 @@ api-au.securitycenter.windows.com
 api-bing-com.e-0001.e-msedge.net
 api.bing.microsoft.com
 api-bing-net.e-0001.e-msedge.net
+api.cdp.microsoft.com
 api.chat.skype.net
 api.choice.live.com
 api.choice.microsoft.com
@@ -404,6 +405,7 @@ api-uswe.pstnmonitoring.skype.com
 api.weather.msn.com
 app.almsearch.visualstudio.com
 app.analytics.visualstudio.com
+appavengermanager.office.net
 app.canary.codespaces.visualstudio.com
 app.canary.online.visualstudio.com
 appcenter.ms
@@ -547,6 +549,7 @@ array810.prod.do.dsp.mp.microsoft.com
 array811.prod.do.dsp.mp.microsoft.com
 array812.prod.do.dsp.mp.microsoft.com
 array813.prod.do.dsp.mp.microsoft.com
+array814.prod.do.dsp.mp.microsoft.com
 array815.prod.do.dsp.mp.microsoft.com
 array818.prod.do.dsp.mp.microsoft.com
 array819.prod.do.dsp.mp.microsoft.com
@@ -610,6 +613,7 @@ a-tr-teamsc-frcn-08.francecentral.cloudapp.azure.com
 a-tr-teamsc-frcn-09.francecentral.cloudapp.azure.com
 a-tr-teamsc-swcn-01.swedencentral.cloudapp.azure.com
 a-tr-teamsc-swcn-02.swedencentral.cloudapp.azure.com
+a-tr-teamsc-swcn-03.swedencentral.cloudapp.azure.com
 a-tr-teamsc-swcn-05.swedencentral.cloudapp.azure.com
 a-tr-teamsc-swcn-06.swedencentral.cloudapp.azure.com
 a-tr-teamsc-swcn-07.swedencentral.cloudapp.azure.com
@@ -1310,6 +1314,7 @@ b-tr-teamsc-euno-11.northeurope.cloudapp.azure.com
 b-tr-teamsc-euwe-01.westeurope.cloudapp.azure.com
 b-tr-teamsc-euwe-02.westeurope.cloudapp.azure.com
 b-tr-teamsc-euwe-04.westeurope.cloudapp.azure.com
+b-tr-teamsc-euwe-05.westeurope.cloudapp.azure.com
 b-tr-teamsc-euwe-06.westeurope.cloudapp.azure.com
 b-tr-teamsc-euwe-09.westeurope.cloudapp.azure.com
 b-tr-teamsc-euwe-10.westeurope.cloudapp.azure.com
@@ -1860,20 +1865,21 @@ coresvc-wus2-msit.dmsvc.teams.internal.office.com
 core.vsengsaas.visualstudio.com
 cortana.office.com
 cosmic-app-deployment-certificate.cosmic.office.net
-cosmic-francecentral-ns-51b146d42ca4.trafficmanager.net
+cosmic-francecentral-ns-94477829785e.trafficmanager.net
+cosmic-francecentral-ns-b88943638510.trafficmanager.net
+cosmic-francecentral-ns-c14a83676549.trafficmanager.net
 cosmic-germanywestcentral-ns-6c9f81580733.trafficmanager.net
 cosmic-infra.office.net
-cosmic-northeurope-ns-6cb422b747a6.trafficmanager.net
+cosmic-northeurope-ns-a0ad1e4e6dd7.trafficmanager.net
 cosmic-northeurope-ns-b53ab001a44a.trafficmanager.net
-cosmic-northeurope-ns-b817be77b854.trafficmanager.net
-cosmic-northeurope-ns-c9cf89988a62.trafficmanager.net
 cosmic.office.net
 cosmicplatformtest-sdf.cosmic-ppe.office.net
-cosmic-polandcentral-ns-09ce0faf5a07.trafficmanager.net
 cosmic-prod.office.net
-cosmic-swedencentral-ns-0f15256afb80.trafficmanager.net
-cosmic-westeurope-ns-88144bbe956e.trafficmanager.net
-cosmic-westus-ns-4e9eef5dacbf.trafficmanager.net
+cosmic-swedencentral-ns-15dcb0123f67.trafficmanager.net
+cosmic-swedencentral-ns-d8a133eaa1b9.trafficmanager.net
+cosmic-swedencentral-ns-f7ecd12233a6.trafficmanager.net
+cosmic-westeurope-ns-0e3152090bda.trafficmanager.net
+cosmic-westus-ns-c4bade0fcf11.trafficmanager.net
 cosmosdbraw.aadappauth.prdtrs01.outlook.com
 cp501.prod.do.dsp.mp.microsoft.com
 cp501.prod.do.dsp.mp.microsoft.com.edgekey.net
@@ -1999,11 +2005,14 @@ d09b39ed9b7f44869315176ee6e0eefa.fp.measure.office.com
 d14d84a3fe5e415c9b93278014142539.fp.measure.office.com
 d1ad80c2a0da.privatelink.postgres.database.azure.com
 d1.xboxlive.com
+d1.xboxlive.com.delivery.microsoft.com
+d1.xboxlive.com.edgesuite.net
 d20e4884acf5421ca2d2d195e5cb6cf5.fp.measure.office.com
 d20fc9a8add1.database.azure.com
 d2b6539a0c05c540a14f51e1b6a7e2.pamx1.hotmail.com
 d2c26ddef34a6640a8ea332877bb3d.pamx1.hotmail.com
 d2.xboxlive.com
+d2.xboxlive.com.delivery.microsoft.com
 d33d67b54836.database.azure.com
 d400006a-c7ee-48b1-8ce9-c2e448b5d06b.vpn.azure.com
 d55b2c3aa1f14c4b96415e6255a6d512.fp.measure.office.com
@@ -2456,6 +2465,7 @@ ecs.office.com
 ecs-office.s-0005.dual-s-msedge.net
 ecs-office.s-0005.s-msedge.net
 ecs.skype.com
+ecs.unifiedfeedback-ppe.office.net
 ed348f46ef99482a9598b2d968e423a6.fp.measure.office.com
 e-dc-msedge.net
 edeoppftauth.outlook.com
@@ -2672,6 +2682,7 @@ epx-enterpriseproxy-2.d03-083.ic3-calling-enterpriseproxy.01-westus-prod.cosmic.
 epx-enterpriseproxy.d03-009.ic3-calling-enterpriseproxy.01-northeurope-prod.cosmic.office.net
 epx-enterpriseproxy.d03-010.ic3-calling-enterpriseproxy.01-francecentral-prod.cosmic.office.net
 epx-enterpriseproxy.d03-013.ic3-calling-enterpriseproxy.01-swedencentral-prod.cosmic.office.net
+epx-enterpriseproxy.d03-015.ic3-calling-enterpriseproxy.01-francecentral-prod.cosmic.office.net
 epx-enterpriseproxy.d03-015.ic3-calling-enterpriseproxy.01-swedencentral-prod.cosmic.office.net
 epx-enterpriseproxy.d03-016.ic3-calling-enterpriseproxy.01-francecentral-prod.cosmic.office.net
 epx-enterpriseproxy.d03-016.ic3-calling-enterpriseproxy.01-swedencentral-prod.cosmic.office.net
@@ -3280,6 +3291,7 @@ gig-ai-g-prod-westeurope-6-app-v4-tag.westeurope.cloudapp.azure.com
 gig-ai-g-prod-westeurope-7-app-v4-tag.westeurope.cloudapp.azure.com
 gig-ai-prod-northeurope-global.trafficmanager.net
 gig-ai-prod-westeurope-global.trafficmanager.net
+glb.tas01.cwsapp-prod.dcat.dsp.mp.microsoft.com
 g.live.com
 global-canary.messagingthread.skype.com
 global.gen2.tunnels.dev.api.visualstudio.com
@@ -4639,7 +4651,9 @@ maps.msn.com
 maps.windows.com
 marketplace.visualstudio.com
 market.visualstudio.com
+mass.namcentral062860.substrate-cse-mass-api.centralus-sdf.cosmic-ppe.office.net
 mass.namcentral421202.substrate-cse-mass-api.centralus-test.cosmic-int.office.net
+mass.nameastus2209574.substrate-cse-mass-api.eastus-sdf.cosmic-ppe.office.net
 mastermind.augloop-gcc.office.com
 mastermind.augloop-msit.office.com
 mastermind.augloop.office.com
@@ -5917,6 +5931,7 @@ messenger.live.com
 metadata.templates.cdn.office.net
 mex.unifiedfeedback.office.com
 mex.unifiedfeedback.office.net
+mgmt-audit-can-can.securitycenter.windows.com
 mgmt-audit-prd-aea.securitycenter.windows.com
 mgmt-audit-prd-au.securitycenter.windows.com
 mgmt-audit-prd-eu3.securitycenter.windows.com
@@ -5927,6 +5942,7 @@ mgmt-audit-prd-swa.securitycenter.windows.com
 mgmt-audit-prd-uk.securitycenter.windows.com
 mgmt-audit-prd-us3.securitycenter.windows.com
 mgmt-audit-prd-us.securitycenter.windows.com
+mgmt-authorization-can-can.securitycenter.windows.com
 mgmt-authorization-prd-aea.securitycenter.windows.com
 mgmt-authorization-prd-au.securitycenter.windows.com
 mgmt-authorization-prd-eu3.securitycenter.windows.com
@@ -5937,6 +5953,7 @@ mgmt-authorization-prd-swa.securitycenter.windows.com
 mgmt-authorization-prd-uk.securitycenter.windows.com
 mgmt-authorization-prd-us3.securitycenter.windows.com
 mgmt-authorization-prd-us.securitycenter.windows.com
+mgmt-bicepextension-can-can.securitycenter.windows.com
 mgmt-bicepextension-prd-aea.securitycenter.windows.com
 mgmt-bicepextension-prd-au.securitycenter.windows.com
 mgmt-bicepextension-prd-eu3.securitycenter.windows.com
@@ -5947,6 +5964,7 @@ mgmt-bicepextension-prd-swa.securitycenter.windows.com
 mgmt-bicepextension-prd-uk.securitycenter.windows.com
 mgmt-bicepextension-prd-us3.securitycenter.windows.com
 mgmt-bicepextension-prd-us.securitycenter.windows.com
+mgmt-defendermcp-can-can.securitycenter.windows.com
 mgmt-defendermcp-prd-aea.securitycenter.windows.com
 mgmt-defendermcp-prd-au.securitycenter.windows.com
 mgmt-defendermcp-prd-eu3.securitycenter.windows.com
@@ -5957,6 +5975,8 @@ mgmt-defendermcp-prd-swa.securitycenter.windows.com
 mgmt-defendermcp-prd-uk.securitycenter.windows.com
 mgmt-defendermcp-prd-us3.securitycenter.windows.com
 mgmt-defendermcp-prd-us.securitycenter.windows.com
+mgmt-featuresstore-can-can.securitycenter.windows.com
+mgmt-featuresstore-can.securitycenter.windows.com
 mgmt-featuresstore-prd-aea.securitycenter.windows.com
 mgmt-featuresstore-prd-au.securitycenter.windows.com
 mgmt-featuresstore-prd-eu3.securitycenter.windows.com
@@ -5968,6 +5988,7 @@ mgmt-featuresstore-prd-swa.securitycenter.windows.com
 mgmt-featuresstore-prd-uk.securitycenter.windows.com
 mgmt-featuresstore-prd-us3.securitycenter.windows.com
 mgmt-featuresstore-prd-us.securitycenter.windows.com
+mgmt-federatedrbac-can-can.securitycenter.windows.com
 mgmt-federatedrbac-prd-aea.securitycenter.windows.com
 mgmt-federatedrbac-prd-au.securitycenter.windows.com
 mgmt-federatedrbac-prd-eu3.securitycenter.windows.com
@@ -5978,6 +5999,7 @@ mgmt-federatedrbac-prd-swa.securitycenter.windows.com
 mgmt-federatedrbac-prd-uk.securitycenter.windows.com
 mgmt-federatedrbac-prd-us3.securitycenter.windows.com
 mgmt-federatedrbac-prd-us.securitycenter.windows.com
+mgmt-k8scluster-can-canc.securitycenter.windows.com
 mgmt-k8scluster-prd-aea.securitycenter.windows.com
 mgmt-k8scluster-prd-aec0a.securitycenter.windows.com
 mgmt-k8scluster-prd-aen0a.securitycenter.windows.com
@@ -6024,6 +6046,7 @@ mgmt-mgmtservice-prd-aea.securitycenter.windows.com
 mgmt-mgmtservice-prd-au.securitycenter.windows.com
 mgmt-mgmtservice-prd-eu3.securitycenter.windows.com
 mgmt-mgmtservice-prd-eu.securitycenter.windows.com
+mgmt-mgmtservice-prd-ila.securitycenter.windows.com
 mgmt-mgmtservice-prd-ina.securitycenter.windows.com
 mgmt-mgmtservice-prd.securitycenter.windows.com
 mgmt-mgmtservice-prd-swa.securitycenter.windows.com
@@ -6034,6 +6057,7 @@ mgmt-mtocentralizedmanagement-prd-aea.securitycenter.windows.com
 mgmt-mtocentralizedmanagement-prd-au.securitycenter.windows.com
 mgmt-mtocentralizedmanagement-prd-eu3.securitycenter.windows.com
 mgmt-mtocentralizedmanagement-prd-eu.securitycenter.windows.com
+mgmt-mtocentralizedmanagement-prd-ila.securitycenter.windows.com
 mgmt-mtocentralizedmanagement-prd-ina.securitycenter.windows.com
 mgmt-mtocentralizedmanagement-prd-swa.securitycenter.windows.com
 mgmt-mtocentralizedmanagement-prd-uk.securitycenter.windows.com
@@ -6043,6 +6067,7 @@ mgmt-mtofanout-prd-aea.securitycenter.windows.com
 mgmt-mtofanout-prd-au.securitycenter.windows.com
 mgmt-mtofanout-prd-eu3.securitycenter.windows.com
 mgmt-mtofanout-prd-eu.securitycenter.windows.com
+mgmt-mtofanout-prd-ila.securitycenter.windows.com
 mgmt-mtofanout-prd-ina.securitycenter.windows.com
 mgmt-mtofanout-prd-swa.securitycenter.windows.com
 mgmt-mtofanout-prd-uk.securitycenter.windows.com
@@ -6052,6 +6077,7 @@ mgmt-mtoservice-prd-aea.securitycenter.windows.com
 mgmt-mtoservice-prd-au.securitycenter.windows.com
 mgmt-mtoservice-prd-eu3.securitycenter.windows.com
 mgmt-mtoservice-prd-eu.securitycenter.windows.com
+mgmt-mtoservice-prd-ila.securitycenter.windows.com
 mgmt-mtoservice-prd-ina.securitycenter.windows.com
 mgmt-mtoservice-prd.securitycenter.windows.com
 mgmt-mtoservice-prd-swa.securitycenter.windows.com
@@ -6062,6 +6088,7 @@ mgmt-omsworkspaces-prd-aea.securitycenter.windows.com
 mgmt-omsworkspaces-prd-au.securitycenter.windows.com
 mgmt-omsworkspaces-prd-eu3.securitycenter.windows.com
 mgmt-omsworkspaces-prd-eu.securitycenter.windows.com
+mgmt-omsworkspaces-prd-ila.securitycenter.windows.com
 mgmt-omsworkspaces-prd-ina.securitycenter.windows.com
 mgmt-omsworkspaces-prd-swa.securitycenter.windows.com
 mgmt-omsworkspaces-prd-uk.securitycenter.windows.com
@@ -6071,6 +6098,7 @@ mgmt-packages-prd-aea.securitycenter.windows.com
 mgmt-packages-prd-au.securitycenter.windows.com
 mgmt-packages-prd-eu3.securitycenter.windows.com
 mgmt-packages-prd-eu.securitycenter.windows.com
+mgmt-packages-prd-ila.securitycenter.windows.com
 mgmt-packages-prd-ina.securitycenter.windows.com
 mgmt-packages-prd-swa.securitycenter.windows.com
 mgmt-packages-prd-uk.securitycenter.windows.com
@@ -6084,6 +6112,7 @@ mgmt-privateendpointproxy-prd-aea.securitycenter.windows.com
 mgmt-privateendpointproxy-prd-au.securitycenter.windows.com
 mgmt-privateendpointproxy-prd-eu3.securitycenter.windows.com
 mgmt-privateendpointproxy-prd-eu.securitycenter.windows.com
+mgmt-privateendpointproxy-prd-ila.securitycenter.windows.com
 mgmt-privateendpointproxy-prd-ina.securitycenter.windows.com
 mgmt-privateendpointproxy-prd-swa.securitycenter.windows.com
 mgmt-privateendpointproxy-prd-uk.securitycenter.windows.com
@@ -6093,6 +6122,7 @@ mgmt-provisioning-prd-aea.securitycenter.windows.com
 mgmt-provisioning-prd-au.securitycenter.windows.com
 mgmt-provisioning-prd-eu3.securitycenter.windows.com
 mgmt-provisioning-prd-eu.securitycenter.windows.com
+mgmt-provisioning-prd-ila.securitycenter.windows.com
 mgmt-provisioning-prd-ina.securitycenter.windows.com
 mgmt-provisioning-prd-swa.securitycenter.windows.com
 mgmt-provisioning-prd-uk.securitycenter.windows.com
@@ -6102,6 +6132,7 @@ mgmt-requestvalidation-prd-aea.securitycenter.windows.com
 mgmt-requestvalidation-prd-au.securitycenter.windows.com
 mgmt-requestvalidation-prd-eu3.securitycenter.windows.com
 mgmt-requestvalidation-prd-eu.securitycenter.windows.com
+mgmt-requestvalidation-prd-ila.securitycenter.windows.com
 mgmt-requestvalidation-prd-ina.securitycenter.windows.com
 mgmt-requestvalidation-prd-swa.securitycenter.windows.com
 mgmt-requestvalidation-prd-uk.securitycenter.windows.com
@@ -6111,6 +6142,7 @@ mgmt-sentinelonboarding-prd-aea.securitycenter.windows.com
 mgmt-sentinelonboarding-prd-au.securitycenter.windows.com
 mgmt-sentinelonboarding-prd-eu3.securitycenter.windows.com
 mgmt-sentinelonboarding-prd-eu.securitycenter.windows.com
+mgmt-sentinelonboarding-prd-ila.securitycenter.windows.com
 mgmt-sentinelonboarding-prd-ina.securitycenter.windows.com
 mgmt-sentinelonboarding-prd-swa.securitycenter.windows.com
 mgmt-sentinelonboarding-prd-uk.securitycenter.windows.com
@@ -6120,6 +6152,7 @@ mgmt-serveronboarding-prd-aea.securitycenter.windows.com
 mgmt-serveronboarding-prd-au.securitycenter.windows.com
 mgmt-serveronboarding-prd-eu3.securitycenter.windows.com
 mgmt-serveronboarding-prd-eu.securitycenter.windows.com
+mgmt-serveronboarding-prd-ila.securitycenter.windows.com
 mgmt-serveronboarding-prd-ina.securitycenter.windows.com
 mgmt-serveronboarding-prd-swa.securitycenter.windows.com
 mgmt-serveronboarding-prd-uk.securitycenter.windows.com
@@ -6129,6 +6162,7 @@ mgmt-settings-prd-aea.securitycenter.windows.com
 mgmt-settings-prd-au.securitycenter.windows.com
 mgmt-settings-prd-eu3.securitycenter.windows.com
 mgmt-settings-prd-eu.securitycenter.windows.com
+mgmt-settings-prd-ila.securitycenter.windows.com
 mgmt-settings-prd-ina.securitycenter.windows.com
 mgmt-settings-prd-swa.securitycenter.windows.com
 mgmt-settings-prd-uk.securitycenter.windows.com
@@ -6138,6 +6172,7 @@ mgmt-tenantdiscoverygw-prd-aea.securitycenter.windows.com
 mgmt-tenantdiscoverygw-prd-au.securitycenter.windows.com
 mgmt-tenantdiscoverygw-prd-eu3.securitycenter.windows.com
 mgmt-tenantdiscoverygw-prd-eu.securitycenter.windows.com
+mgmt-tenantdiscoverygw-prd-ila.securitycenter.windows.com
 mgmt-tenantdiscoverygw-prd-ina.securitycenter.windows.com
 mgmt-tenantdiscoverygw-prd.securitycenter.windows.com
 mgmt-tenantdiscoverygw-prd-swa.securitycenter.windows.com
@@ -6148,6 +6183,7 @@ mgmt-tenantdiscovery-prd-aea.securitycenter.windows.com
 mgmt-tenantdiscovery-prd-au.securitycenter.windows.com
 mgmt-tenantdiscovery-prd-eu3.securitycenter.windows.com
 mgmt-tenantdiscovery-prd-eu.securitycenter.windows.com
+mgmt-tenantdiscovery-prd-ila.securitycenter.windows.com
 mgmt-tenantdiscovery-prd-ina.securitycenter.windows.com
 mgmt-tenantdiscovery-prd-swa.securitycenter.windows.com
 mgmt-tenantdiscovery-prd-uk.securitycenter.windows.com
@@ -6158,6 +6194,7 @@ mgmt-urbacconfiguration-prd-aea.securitycenter.windows.com
 mgmt-urbacconfiguration-prd-au.securitycenter.windows.com
 mgmt-urbacconfiguration-prd-eu3.securitycenter.windows.com
 mgmt-urbacconfiguration-prd-eu.securitycenter.windows.com
+mgmt-urbacconfiguration-prd-ila.securitycenter.windows.com
 mgmt-urbacconfiguration-prd-ina.securitycenter.windows.com
 mgmt-urbacconfiguration-prd-swa.securitycenter.windows.com
 mgmt-urbacconfiguration-prd-uk.securitycenter.windows.com
@@ -6167,6 +6204,7 @@ mgmt-urbacruntime-prd-aea.securitycenter.windows.com
 mgmt-urbacruntime-prd-au.securitycenter.windows.com
 mgmt-urbacruntime-prd-eu3.securitycenter.windows.com
 mgmt-urbacruntime-prd-eu.securitycenter.windows.com
+mgmt-urbacruntime-prd-ila.securitycenter.windows.com
 mgmt-urbacruntime-prd-ina.securitycenter.windows.com
 mgmt-urbacruntime-prd-swa.securitycenter.windows.com
 mgmt-urbacruntime-prd-uk.securitycenter.windows.com
@@ -6176,6 +6214,7 @@ mgmt-urbacwis-prd-aea.securitycenter.windows.com
 mgmt-urbacwis-prd-au.securitycenter.windows.com
 mgmt-urbacwis-prd-eu3.securitycenter.windows.com
 mgmt-urbacwis-prd-eu.securitycenter.windows.com
+mgmt-urbacwis-prd-ila.securitycenter.windows.com
 mgmt-urbacwis-prd-ina.securitycenter.windows.com
 mgmt-urbacwis-prd-swa.securitycenter.windows.com
 mgmt-urbacwis-prd-uk.securitycenter.windows.com
@@ -6189,6 +6228,8 @@ mgmt-userpreferences-prd-cus3.securitycenter.windows.com
 mgmt-userpreferences-prd-cus.securitycenter.windows.com
 mgmt-userpreferences-prd-eus3.securitycenter.windows.com
 mgmt-userpreferences-prd-eus.securitycenter.windows.com
+mgmt-userpreferences-prd-ilc0a.securitycenter.windows.com
+mgmt-userpreferences-prd-iln0a.securitycenter.windows.com
 mgmt-userpreferences-prd-inc0a.securitycenter.windows.com
 mgmt-userpreferences-prd-ins0a.securitycenter.windows.com
 mgmt-userpreferences-prd-neu3.securitycenter.windows.com
@@ -6203,6 +6244,7 @@ mgmt-usxrbac-prd-aea.securitycenter.windows.com
 mgmt-usxrbac-prd-au.securitycenter.windows.com
 mgmt-usxrbac-prd-eu3.securitycenter.windows.com
 mgmt-usxrbac-prd-eu.securitycenter.windows.com
+mgmt-usxrbac-prd-ila.securitycenter.windows.com
 mgmt-usxrbac-prd-ina.securitycenter.windows.com
 mgmt-usxrbac-prd-swa.securitycenter.windows.com
 mgmt-usxrbac-prd-uk.securitycenter.windows.com
@@ -6212,6 +6254,7 @@ mgmt-workbooksservice-prd-aea.securitycenter.windows.com
 mgmt-workbooksservice-prd-au.securitycenter.windows.com
 mgmt-workbooksservice-prd-eu3.securitycenter.windows.com
 mgmt-workbooksservice-prd-eu.securitycenter.windows.com
+mgmt-workbooksservice-prd-ila.securitycenter.windows.com
 mgmt-workbooksservice-prd-ina.securitycenter.windows.com
 mgmt-workbooksservice-prd-swa.securitycenter.windows.com
 mgmt-workbooksservice-prd-uk.securitycenter.windows.com
@@ -6221,6 +6264,7 @@ mgmt-wss-prd-aea.securitycenter.windows.com
 mgmt-wss-prd-au.securitycenter.windows.com
 mgmt-wss-prd-eu3.securitycenter.windows.com
 mgmt-wss-prd-eu.securitycenter.windows.com
+mgmt-wss-prd-ila.securitycenter.windows.com
 mgmt-wss-prd-ina.securitycenter.windows.com
 mgmt-wss-prd-swa.securitycenter.windows.com
 mgmt-wss-prd-uk.securitycenter.windows.com
@@ -6892,6 +6936,7 @@ officecheckoutpurchase.omex.office.net
 officeclassnotebookapi.namwestus2258098.office-edu-classnotebook.westus2-sdf.cosmic-ppe.office.net
 officeclient.microsoft.com
 office.com
+officeconfig.x01-019.office-ice-config.01-spaincentral-prod.cosmic.office.net
 officeenrichment.namcentral916382.office-rc3-enrichment.centralus-prod.cosmic.office.net
 office-excel-xlentityapi.canadacentral-msit.cosmic.office.net
 office-excel-xlentityapi.centralus-msit.cosmic.office.net
@@ -7163,6 +7208,7 @@ onedscolprdgwc06.germanywestcentral.cloudapp.azure.com
 onedscolprdgwc51.germanywestcentral.cloudapp.azure.com
 onedscolprdgwc52.germanywestcentral.cloudapp.azure.com
 onedscolprdgwc53.germanywestcentral.cloudapp.azure.com
+onedscolprdgwc54.germanywestcentral.cloudapp.azure.com
 onedscolprdgwc55.germanywestcentral.cloudapp.azure.com
 onedscolprdgwc56.germanywestcentral.cloudapp.azure.com
 onedscolprdgwc57.germanywestcentral.cloudapp.azure.com
@@ -7242,6 +7288,7 @@ onedscolprdweu62.westeurope.cloudapp.azure.com
 onedscolprdweu63.westeurope.cloudapp.azure.com
 onedscolprdweu65.westeurope.cloudapp.azure.com
 onedscolprdweu66.westeurope.cloudapp.azure.com
+onedscolprdweu68.westeurope.cloudapp.azure.com
 onedscolprdweu69.westeurope.cloudapp.azure.com
 onedscolprdwus00.westus.cloudapp.azure.com
 onedscolprdwus01.westus.cloudapp.azure.com
@@ -7322,6 +7369,7 @@ orion-prod.aisvc.visualstudio.com
 osa22prdapp02-canary-opaph.netmon.azure.com
 osefo.live.com
 osi.office.net
+osiprod-eus2-bronze-azsc-000.eastus2.cloudapp.azure.com
 osiprod-neu-celadon-000.northeurope.cloudapp.azure.com
 osiprod-weu-blush-006.westeurope.cloudapp.azure.com
 osiprod-weu-celadon-000.westeurope.cloudapp.azure.com
@@ -7439,6 +7487,7 @@ partition-cname-ic3-messaging-mfe-4.d02-038.ic3-messaging-mfe.01-westeurope-prod
 partition-cname-ic3-messaging-mfe-linux-1.d02-092.ic3-messaging-mfe.01-swedencentral-prod.cosmic.office.net
 partition-cname-ic3-messaging-mfe-linux-1.d02-095.ic3-messaging-mfe.01-swedencentral-prod.cosmic.office.net
 partition-cname-ic3-messaging-mfe-linux-1.d02-096.ic3-messaging-mfe.01-swedencentral-prod.cosmic.office.net
+partition-cname-ic3-messaging-mfe-linux-1.d02-097.ic3-messaging-mfe.01-swedencentral-prod.cosmic.office.net
 partition-cname-ic3-messaging-mfe-linux-1.d02-099.ic3-messaging-mfe.01-swedencentral-prod.cosmic.office.net
 partition-cname-ic3-messaging-mfe-linux-2.d02-061.ic3-messaging-mfe.01-swedencentral-prod.cosmic.office.net
 partition-cname-ic3-messaging-mfe-linux-2.d02-065.ic3-messaging-mfe.01-swedencentral-prod.cosmic.office.net
@@ -7449,6 +7498,7 @@ partition-cname-ic3-messaging-mfe-linux-3.d02-095.ic3-messaging-mfe.01-swedencen
 partition-cname-ic3-messaging-mfe-linux-3.d02-099.ic3-messaging-mfe.01-swedencentral-prod.cosmic.office.net
 partition-cname-ic3-messaging-mfe-linux-3.d02-114.ic3-messaging-mfe.01-swedencentral-prod.cosmic.office.net
 partition-cname-ic3-messaging-mfe-linux-4.d02-096.ic3-messaging-mfe.01-swedencentral-prod.cosmic.office.net
+partition-cname.prod-li-cse-01.ic3-messaging-mfe.swedencentral-prod.cosmic.office.net
 partition-cname.prod-li-cse-02.ic3-messaging-mfe.swedencentral-prod.cosmic.office.net
 partition-cname.prod-li-cse-04.ic3-messaging-mfe.swedencentral-prod.cosmic.office.net
 partition-cname.prod-li-cse-05.ic3-messaging-mfe.swedencentral-prod.cosmic.office.net
@@ -7473,9 +7523,11 @@ partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-008.ic3-edf-troute
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-010.ic3-edf-trouter.01-francecentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-010.ic3-edf-trouter.01-polandcentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-013.ic3-edf-trouter.01-francecentral-prod.cosmic.office.net
+partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-019.ic3-edf-trouter.01-swedencentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-024.ic3-edf-trouter.01-swedencentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-029.ic3-edf-trouter.01-swedencentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-037.ic3-edf-trouter.01-westeurope-prod.cosmic.office.net
+partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-057.ic3-edf-trouter.01-francecentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-058.ic3-edf-trouter.01-francecentral-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-069.ic3-edf-trouter.01-westeurope-prod.cosmic.office.net
 partition-cname-trouter-ic3-edf-trouter-service-trouter-1.d02-073.ic3-edf-trouter.01-westeurope-prod.cosmic.office.net
@@ -7503,9 +7555,11 @@ partition-cname-trouter.pub-ent-frce-01.ic3-edf-trouter.francecentral-prod.cosmi
 partition-cname-trouter.pub-ent-frce-03.ic3-edf-trouter.francecentral-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-frce-05.ic3-edf-trouter.francecentral-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-frce-06.ic3-edf-trouter.francecentral-prod.cosmic.office.net
+partition-cname-trouter.pub-ent-frce-12.ic3-edf-trouter.francecentral-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-frce-13.ic3-edf-trouter.francecentral-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-plce-07.ic3-edf-trouter.polandcentral-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-plce-11.ic3-edf-trouter.polandcentral-prod.cosmic.office.net
+partition-cname-trouter.pub-ent-sece-04.ic3-edf-trouter.swedencentral-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-sece-08.ic3-edf-trouter.swedencentral-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-sece-09.ic3-edf-trouter.swedencentral-prod.cosmic.office.net
 partition-cname-trouter.pub-ent-sece-12.ic3-edf-trouter.swedencentral-prod.cosmic.office.net
@@ -7531,6 +7585,7 @@ passwordreset.microsoftonline.com
 paymentinstruments.mp.microsoft.com
 pbcloud.blob.core.windows.net
 pccsql-use2-prod-w30-cli0009.cbafa2b80e84.database.windows.net
+p.clarity.ms
 p.client.hip.live.com
 pdtwestus6659818.substrate-cse-ebs-authoring.westus-test.cosmic-int.office.net
 pdtwestus6659818.substrate-cse-ebs-probes.westus-test.cosmic-int.office.net
@@ -7952,6 +8007,7 @@ presence-presence-2.d03-005.ic3-unified-presence.01-swedencentral-prod.cosmic.of
 presence-presence-2.d03-033.ic3-unified-presence.01-swedencentral-prod.cosmic.office.net
 presence-presence-2.d03-051.ic3-unified-presence.01-northeurope-prod.cosmic.office.net
 presence-presence-2.d03-063.ic3-unified-presence.01-francecentral-prod.cosmic.office.net
+presence-presence-2.d03-100.ic3-unified-presence.01-northeurope-prod.cosmic.office.net
 presence-presence-3.d03-003.ic3-unified-presence.01-swedencentral-prod.cosmic.office.net
 presence-presence-3.d03-006.ic3-unified-presence.01-westeurope-prod.cosmic.office.net
 presence-presence-3.d03-014.ic3-unified-presence.01-westeurope-prod.cosmic.office.net
@@ -7961,7 +8017,9 @@ presence-presence-3.d03-029.ic3-unified-presence.01-swedencentral-prod.cosmic.of
 presence-presence-3.d03-035.ic3-unified-presence.01-swedencentral-prod.cosmic.office.net
 presence-presence-3.d03-052.ic3-unified-presence.01-northeurope-prod.cosmic.office.net
 presence-presence-3.d03-066.ic3-unified-presence.01-francecentral-prod.cosmic.office.net
+presence-presence-3.d03-077.ic3-unified-presence.01-francecentral-prod.cosmic.office.net
 presence-presence-3.d03-092.ic3-unified-presence.01-northeurope-prod.cosmic.office.net
+presence-presence-3.d03-098.ic3-unified-presence.01-northeurope-prod.cosmic.office.net
 presence-presence-4.d03-001.ic3-unified-presence.01-westeurope-prod.cosmic.office.net
 presence-presence-4.d03-004.ic3-unified-presence.01-francecentral-prod.cosmic.office.net
 presence-presence-4.d03-005.ic3-unified-presence.01-swedencentral-prod.cosmic.office.net
@@ -7974,6 +8032,7 @@ presence-presence-4.d03-075.ic3-unified-presence.01-francecentral-prod.cosmic.of
 presence-presence-4.d03-076.ic3-unified-presence.01-francecentral-prod.cosmic.office.net
 presence-presence-4.d03-092.ic3-unified-presence.01-northeurope-prod.cosmic.office.net
 presence.sece-e-prod.ic3-unified-presence.swedencentral-prod.cosmic.office.net
+presence.services.sfb.trafficmanager.net
 presence.skype.com
 presence.teams.live.com
 presence.teams.microsoft.com
@@ -9342,7 +9401,9 @@ storeedgefd.dsx.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com.edgekey.net
 storeedge.microsoft.com
 store-images.microsoft.com
+store-images.microsoft.com-c.edgekey.net
 store-images.s-microsoft.com
+store-images.s-microsoft.com-c.edgekey.net
 store.office.com
 store.omex.office.net
 stores.office.com
@@ -9379,6 +9440,7 @@ substrate-cse-ebs-reader.westus-msit.cosmic.office.net
 substrate-cse-ebs-reader.westus-prod.cosmic.office.net
 substrate-cse-ebs-reader.westus-sdf.cosmic-ppe.office.net
 substrate-cse-mass-api.centralus-test.cosmic-int.office.net
+substrate-cse-mass-api.eastus-sdf.cosmic-ppe.office.net
 substrate-cse-relcomms-api.eastus-sdf.cosmic-ppe.office.net
 substratedatastore.outlook.com
 substrate-edge-sync.northcentralus-msit.cosmic.office.net
@@ -10186,6 +10248,7 @@ uks.prd.inference.dtc.mde.securitycenter.windows.com
 uks.prd.rawdataexport.dtc.mde.securitycenter.windows.com
 uks.prd.rawdataexport.mde.securitycenter.windows.com
 uks.prd.streamingapi.dt.nxs.mde.securitycenter.windows.com
+ukwest-0.in.applicationinsights.azure.com
 ukw.prd.authapi.cnc.nxs.mde.securitycenter.windows.com
 ukw.prd.cyberdataapi.dtc.mde.securitycenter.windows.com
 ukw.prd.inference.dtc.mde.securitycenter.windows.com
@@ -10414,6 +10477,7 @@ vmss-clarity-ingest-eus-i.eastus.cloudapp.azure.com
 vmss-clarity-ingest-eus-j.eastus.cloudapp.azure.com
 vmss-clarity-ingest-ncus-b.northcentralus.cloudapp.azure.com
 vmss-clarity-ingest-ncus-c.northcentralus.cloudapp.azure.com
+vmss-clarity-ingest-ncus.northcentralus.cloudapp.azure.com
 vmss-clarity-tag-sln.switzerlandnorth.cloudapp.azure.com
 vnext.support.xbox.com
 voice.edog.officeapps.live.com
@@ -10659,7 +10723,6 @@ windows.msn.com
 windows.net
 windows.policies.live.net
 windowsupdate.com
-win-global-asimov-leafs-events-data.trafficmanager.net
 winperemoteexecutionservice.office.net
 wise-m.public.cdn.office.net
 wise.public.cdn.office.net
