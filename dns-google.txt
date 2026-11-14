@@ -814,6 +814,7 @@ backupdr.europe-west9.rep.googleapis.com
 backupdr.europe-west9.rep.mtls.googleapis.com
 backupdr.googleusercontent.com
 backupdr.me-central1.p.rep.googleapis.com
+backupdr.me-central1.rep.googleapis.com
 backupdr.me-central1.rep.mtls.googleapis.com
 backupdr.me-central2.p.rep.googleapis.com
 backupdr.me-central2.rep.googleapis.com
@@ -1807,6 +1808,7 @@ cloud.sandbox.google.com
 cloudsearch.googleapis.com
 cloudshell.googleusercontent.com
 cloudtrace.asia-northeast3.rep.googleapis.com
+cloudtrace.europe-west1.rep.googleapis.com
 cloudtrace.europe-west3.p.rep.googleapis.com
 cloudtrace.me-west1.rep.mtls.googleapis.com
 cloudtrace.northamerica-northeast1.rep.googleapis.com
@@ -2059,6 +2061,7 @@ connectgateway.asia-south1.rep.mtls.googleapis.com
 connectgateway.asia-south2.rep.googleapis.com
 connectgateway.us-central1.p.rep.googleapis.com
 connectgateway.us-central1.rep.mtls.googleapis.com
+connectgateway.us-central2.rep.googleapis.com
 connectgateway.us-central2.rep.mtls.googleapis.com
 connectgateway.us-east4.rep.googleapis.com
 connectgateway.us-east4.rep.mtls.googleapis.com
@@ -2632,6 +2635,7 @@ content-backupdr.europe-west4.rep.mtls.googleapis.com
 content-backupdr.europe-west6.rep.mtls.googleapis.com
 content-backupdr.europe-west8.p.rep.googleapis.com
 content-backupdr.europe-west8.rep.googleapis.com
+content-backupdr.europe-west8.rep.mtls.googleapis.com
 content-backupdr.europe-west9.p.rep.googleapis.com
 content-backupdr.europe-west9.rep.mtls.googleapis.com
 content-backupdr.me-central1.rep.googleapis.com
@@ -6205,6 +6209,7 @@ content-workflowexecutions.us-west4.rep.mtls.googleapis.com
 content-workflows.asia-south1.rep.googleapis.com
 content-workflows.asia-southeast2.rep.googleapis.com
 content-workflows.asia-southeast3.rep.googleapis.com
+content-workflows.australia-southeast1.rep.googleapis.com
 content-workflows.australia-southeast1.rep.mtls.googleapis.com
 content-workflows.australia-southeast2.rep.googleapis.com
 content-workflows.australia-southeast2.rep.mtls.googleapis.com
@@ -11356,12 +11361,16 @@ workflows.europe-southwest1.p.rep.googleapis.com
 workflows.europe-southwest1.rep.googleapis.com
 workflows.europe-west10.rep.googleapis.com
 workflows.europe-west12.rep.googleapis.com
+workflows.europe-west1.p.rep.googleapis.com
 workflows.europe-west1.rep.googleapis.com
 workflows.europe-west2.rep.googleapis.com
 workflows.europe-west3.rep.googleapis.com
 workflows.europe-west3.rep.mtls.googleapis.com
 workflows.europe-west4.rep.googleapis.com
+workflows.europe-west6.p.rep.googleapis.com
 workflows.europe-west6.rep.googleapis.com
+workflows.europe-west8.p.rep.googleapis.com
+workflows.europe-west9.p.rep.googleapis.com
 workflows.europe-west9.rep.googleapis.com
 workflows.europe-west9.rep.mtls.googleapis.com
 workflows.me-central1.p.rep.googleapis.com

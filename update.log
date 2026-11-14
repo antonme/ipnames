@@ -130751,3 +130751,88 @@ s
 ===xai
 
 == Save names archive
+[master 835ff55c] auto-update names
+ 16 files changed, 2050 insertions(+), 281 deletions(-)
+  azure.com: fetch failed, retry 4/4 in 40s
+  azure.com: fetch failed
+  visualstudio.com: ok
+  twitter.com: ok
+  x.com: fetch failed, retry 1/4 in 10s
+  x.com: ok
+  twimg.com: ok
+  pscp.tv: ok
+  ozon.ru: fetch failed, retry 1/4 in 10s
+  ozon.ru: fetch failed, retry 2/4 in 20s
+  ozon.ru: ok
+  ozonusercontent.com: ok
+  github.com: fetch failed, retry 1/4 in 10s
+  github.com: fetch failed, retry 2/4 in 20s
+  github.com: ok
+  githubusercontent.com: fetch failed, retry 1/4 in 10s
+  githubusercontent.com: fetch failed, retry 2/4 in 20s
+  githubusercontent.com: ok
+  githubassets.com: ok
+  githubcopilot.com: ok
+  github.io: ok
+  ghcr.io: ok
+  apple.com: ok
+  icloud.com: ok
+  icloud-content.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  aaplimg.com: ok
+  apple-dns.net: fetch failed, retry 1/4 in 10s
+  apple-dns.net: ok
+  apple.news: ok
+  adobe.com: ok
+  adobe.io: ok
+  adobelogin.com: ok
+  adobedc.net: ok
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: ok
+  demdex.net: ok
+  omtrdc.net: ok
+  pornhub.com: ok
+  phncdn.com: ok
+  backblaze.com: ok
+  backblazeb2.com: fetch failed, retry 1/4 in 10s
+  backblazeb2.com: fetch failed, retry 2/4 in 20s
+  backblazeb2.com: ok
+  huggingface.co: fetch failed, retry 1/4 in 10s
+  huggingface.co: ok
+  hf.co: fetch failed, retry 1/4 in 10s
+  hf.co: ok
+  hf.space: ok
+  anthropic.com: ok
+  claude.ai: ok
+  claude.com: ok
+  claudeusercontent.com: ok
+  clau.de: ok
+  x.ai: ok
+  grok.com: ok
+  total CT names: 33944
+
+==Probing YouTube cache servers: skipped, list is less than a week old
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===microsoft
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+===xai
+
+== Save names archive
