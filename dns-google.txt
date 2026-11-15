@@ -1891,6 +1891,7 @@ cloudtrace.europe-west8.rep.mtls.googleapis.com
 cloudtrace.me-west1.rep.mtls.googleapis.com
 cloudtrace.northamerica-northeast1.rep.googleapis.com
 cloudtrace.southamerica-west1.rep.googleapis.com
+cloudtrace.us-central1.rep.mtls.googleapis.com
 cloudtrace.us-east4.rep.googleapis.com
 cloudtrace.us.rep.googleapis.com
 cloudtrace.us-west1.rep.googleapis.com
@@ -5306,6 +5307,7 @@ content-memorystore.us-central1.rep.googleapis.com
 content-memorystore.us-central1.rep.mtls.googleapis.com
 content-memorystore.us-central2.p.rep.googleapis.com
 content-memorystore.us-east1.rep.googleapis.com
+content-memorystore.us-east1.rep.mtls.googleapis.com
 content-memorystore.us-east4.rep.googleapis.com
 content-memorystore.us-east4.rep.mtls.googleapis.com
 content-memorystore.us-east5.p.rep.googleapis.com
@@ -6227,6 +6229,7 @@ content-staging-eventarc.us-central1.rep.mtls.sandbox.googleapis.com
 content-staging-eventarc.us-central1.rep.sandbox.googleapis.com
 content-staging-eventarc.us-east1.rep.mtls.sandbox.googleapis.com
 content-staging-firestore.eu.rep.sandbox.googleapis.com
+content-staging-firestorekeyvisualizer.eu.rep.sandbox.googleapis.com
 content-staging-firestore.us-east4.rep.sandbox.googleapis.com
 content-staging-gkebackup.us-central1.p.rep.sandbox.googleapis.com
 content-staging-gkebackup.us-east4.rep.mtls.sandbox.googleapis.com
@@ -10565,6 +10568,7 @@ redir.corp.google.com
 redis.asia-northeast2.p.rep.googleapis.com
 redis.asia-northeast3.rep.mtls.googleapis.com
 redis.europe-central2.rep.googleapis.com
+redis.europe-central2.rep.mtls.googleapis.com
 redis.europe-west10.rep.mtls.googleapis.com
 redis.me-central1.rep.googleapis.com
 redis.southamerica-east1.p.rep.googleapis.com
@@ -11062,6 +11066,7 @@ staging-alloydb.us-central1.p.rep.sandbox.googleapis.com
 staging-alloydb.us-east1.rep.mtls.sandbox.googleapis.com
 staging-alloydb.us-east1.rep.sandbox.googleapis.com
 staging-alloydb.us-east4.p.rep.sandbox.googleapis.com
+staging-alloydb.us-east4.rep.mtls.sandbox.googleapis.com
 staging-alloydb.us-east4.rep.sandbox.googleapis.com
 staging-alloydb.us-west1.rep.mtls.sandbox.googleapis.com
 staging-alloydb.us-west1.rep.sandbox.googleapis.com
@@ -11632,6 +11637,7 @@ tracedepot-pa.clients6.google.com
 traductor--google.com
 trafficdirector.asia-northeast1.rep.googleapis.com
 trafficdirector.asia-south1.rep.mtls.googleapis.com
+trafficdirector.asia-southeast1.rep.googleapis.com
 trafficdirector.europe-central2.p.rep.googleapis.com
 trafficdirector.europe-central2.rep.mtls.googleapis.com
 trafficdirector.europe-north2.rep.mtls.googleapis.com
