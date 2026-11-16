@@ -2240,6 +2240,7 @@ classical.music.apple.com
 classical.music.apple.com.edgesuite.net
 classkit-catalog.apple.com
 click.apple.com
+client-analytics-ingress.apay.apple.com
 client-api-cdn.itunes-apple.com.akadns.net
 client-api-cdn-itunes-apple-com.v.aaplimg.com
 client-api.itunes.apple.com
@@ -2740,6 +2741,7 @@ developerservices1-rno.apple.com
 developerservices2.apple.com
 developerservices2-mdn.apple.com
 developerservices2-rno.apple.com
+developerservices2.v.aaplimg.com
 developerservices3.apple.com
 developerservices3-mdn.apple.com
 developerservices3-rno.apple.com
@@ -3079,6 +3081,7 @@ edge-011.uschi7.icloud-content.com
 edge-011.usmes1.icloud-content.com
 edge-011.usqas5.icloud-content.com
 edge-011.usuqo4.icloud-content.com
+edge-011.usuyk1.ce.apple-dns.net
 edge-011.usuyk1.icloud-content.com
 edge-012.defra2.icloud-content.com
 edge-012.dkvib11.icloud-content.com
@@ -3217,6 +3220,7 @@ edge-021.usden6.icloud-content.com
 edge-021.usmes1.icloud-content.com
 edge-021.usqas5.icloud-content.com
 edge-021.usuqo4.icloud-content.com
+edge-021.usuyk1.ce.apple-dns.net
 edge-021.usuyk1.icloud-content.com
 edge-022.deber3.icloud-content.com
 edge-022.defra2.icloud-content.com
@@ -3691,6 +3695,7 @@ edge-064.usbos2.icloud-content.com
 edge-064.uschi7.icloud-content.com
 edge-064.usqas5.icloud-content.com
 edge-064.usuyk1.icloud-content.com
+edge-065.deber3.ce.apple-dns.net
 edge-065.deber3.icloud-content.com
 edge-065.defra2.icloud-content.com
 edge-065.gbslo5.icloud-content.com
@@ -4133,6 +4138,7 @@ edge-110.uschi7.icloud-content.com
 edge-110.usdal2.icloud-content.com
 edge-110.usmia1.icloud-content.com
 edge-110.usuqo4.icloud-content.com
+edge-110.usuyk1.ce.apple-dns.net
 edge-110.usuyk1.icloud-content.com
 edge-111.deber3.icloud-content.com
 edge-111.defra2.icloud-content.com
@@ -4298,6 +4304,7 @@ edge-132.usuyk1.icloud-content.com
 edge-133.deber3.icloud-content.com
 edge-133.defra2.icloud-content.com
 edge-133.dkvib11.icloud-content.com
+edge-133.usuyk1.ce.apple-dns.net
 edge-133.usuyk1.icloud-content.com
 edge-134.defra2.icloud-content.com
 edge-134.dkvib11.icloud-content.com
@@ -4735,6 +4742,7 @@ edge-214.gbslo5.icloud-content.com
 edge-214.sesto4.ce.apple-dns.net
 edge-214.sesto4.icloud-content.com
 edge-214.uschi7.icloud-content.com
+edge-214.usuyk1.ce.apple-dns.net
 edge-214.usuyk1.icloud-content.com
 edge-215.gbslo5.icloud-content.com
 edge-215.sesto4.ce.apple-dns.net
@@ -4824,6 +4832,7 @@ edge-232.sesto4.icloud-content.com
 edge-232.uschi7.icloud-content.com
 edge-232.usqas5.ce.apple-dns.net
 edge-232.usqas5.icloud-content.com
+edge-232.usuyk1.ce.apple-dns.net
 edge-232.usuyk1.icloud-content.com
 edge-233.sesto4.ce.apple-dns.net
 edge-233.sesto4.icloud-content.com
@@ -4883,6 +4892,7 @@ edge-242.sesto4.icloud-content.com
 edge-242.uschi7.icloud-content.com
 edge-242.usmia1.icloud-content.com
 edge-242.usqas5.icloud-content.com
+edge-242.usuyk1.ce.apple-dns.net
 edge-242.usuyk1.icloud-content.com
 edge-243.nlhfd1.icloud-content.com
 edge-243.sesto4.ce.apple-dns.net
@@ -5264,6 +5274,7 @@ email.icloud.com
 email.images.apple.com
 embed.link.apple.com
 embed.music.apple.com
+embed.music.apple.com.edgesuite.net
 embed.podcasts.apple.com
 embed.podcasts.apple.com.akadns.net
 embed.remm-embed-api.remm.apple.com
@@ -5889,6 +5900,7 @@ gateway-oblivious-cn.qa.v.aaplimg.com
 gateway-oblivious-qa.apple.com.cn
 gateway-sandbox.icloud.com
 gateway-sr-china.icloud.com
+gateway-streaming-oblivious.apple.com
 gateway-ts.apple.com
 gatewayws-australia.icloud.com
 gatewayws-carry.icloud.com
@@ -6367,7 +6379,9 @@ gr-g-carry-aapse2b.smoot.apple.com
 gr-g-carry-aeun1a.smoot.apple.com
 gr-g-carry-aeun1b.smoot.apple.com
 gr-g-carry-aeus1c.smoot.apple.com
+gr-g-carry-aeuw1b.smoot.apple.com
 gr-g-carry-ause1b.smoot.apple.com
+gr-g-carry-ause2a.smoot.apple.com
 gr-g-carry-ause2b.smoot.apple.com
 gr-g-carry-ausw2b.smoot.apple.com
 gr-g-carry-ci-ausw2a.smoot.apple.com
@@ -23032,6 +23046,7 @@ shazam-insights-lb-apple-com.v.aaplimg.com
 shg-incline-prod.apple.com
 shield-apay-cash-wdp-device-prod.pci.prod.apay.apple.com.v.aaplimg.com
 shield-api-trustinsights.nonpci.prod.apay.apple.com.v.aaplimg.com
+shield-client-analytics-ingress-prod.nonpci.prod.apay.apple.com.v.aaplimg.com
 shield-magma-ifs-device-prod.pci.prod.apay.apple.com.v.aaplimg.com
 shield-ohttp-gateway.apple.com
 shield-ohttp-gateway.v.aaplimg.com
@@ -24858,6 +24873,7 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
+www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
