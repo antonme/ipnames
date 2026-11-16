@@ -1114,6 +1114,7 @@ batch-firestore.us-west4.rep.mtls.googleapis.com
 batch-firestore.us-west8.p.rep.googleapis.com
 batch-firestore.us-west8.rep.googleapis.com
 batch-nightly-datastore.europe-west15.rep.mtls.sandbox.googleapis.com
+batch-nightly-datastore.us-central1.rep.mtls.sandbox.googleapis.com
 batch-nightly-datastore.us.rep.sandbox.googleapis.com
 batch-staging-firestore.eu.rep.sandbox.googleapis.com
 batch-test-datastore.us-east4.rep.sandbox.googleapis.com
@@ -6354,6 +6355,7 @@ content-staging-firestore.eu.rep.sandbox.googleapis.com
 content-staging-firestorekeyvisualizer.eu.rep.sandbox.googleapis.com
 content-staging-firestore.us-east4.rep.sandbox.googleapis.com
 content-staging-gkebackup.us-central1.p.rep.sandbox.googleapis.com
+content-staging-gkebackup.us-central1.rep.mtls.sandbox.googleapis.com
 content-staging-gkebackup.us-east4.rep.mtls.sandbox.googleapis.com
 content-staging-gridoptimization.eu.rep.googleapis.com
 content-staging-lookercreateredirect.us-central1.rep.mtls.pa.sandbox.googleapis.com
@@ -6754,6 +6756,7 @@ content-workflows.australia-southeast1.rep.mtls.googleapis.com
 content-workflows.australia-southeast2.p.rep.googleapis.com
 content-workflows.australia-southeast2.rep.googleapis.com
 content-workflows.australia-southeast2.rep.mtls.googleapis.com
+content-workflows.europe-central2.p.rep.googleapis.com
 content-workflows.europe-central2.rep.googleapis.com
 content-workflows.europe-central2.rep.mtls.googleapis.com
 content-workflows.europe-north1.p.rep.googleapis.com
@@ -9433,6 +9436,7 @@ lookeractionhub-pa.northamerica-northeast2.p.rep.googleapis.com
 lookeractionhub-pa.northamerica-northeast2.rep.googleapis.com
 lookeractionhub-pa.northamerica-south1.p.rep.googleapis.com
 lookeractionhub-pa.northamerica-south1.rep.googleapis.com
+lookeractionhub-pa.southamerica-east1.p.rep.googleapis.com
 lookeractionhub-pa.southamerica-east1.rep.googleapis.com
 lookeractionhub-pa.southamerica-west1.p.rep.googleapis.com
 lookeractionhub-pa.southamerica-west1.rep.googleapis.com
@@ -11486,6 +11490,7 @@ storage.asia-south1.rep.mtls.googleapis.com
 storage.asia-south2.p.rep.googleapis.com
 storage.asia-southeast1.p.rep.googleapis.com
 storage.asia-southeast1.rep.googleapis.com
+storage.asia-southeast1.rep.mtls.googleapis.com
 storage.asia-southeast2.rep.googleapis.com
 storage.asia-southeast2.rep.mtls.googleapis.com
 storage.australia-southeast1.p.rep.googleapis.com

@@ -131536,3 +131536,101 @@ s
 ===xai
 
 == Save names archive
+[master 95e6b1c0] auto-update names
+ 18 files changed, 1783 insertions(+), 53 deletions(-)
+  office.net: ok
+  windows.com: ok
+  msn.com: ok
+  skype.com: ok
+  xbox.com: fetch failed, retry 1/4 in 10s
+  xbox.com: ok
+  sharepoint.com: ok
+  azure.com: fetch failed, retry 1/4 in 10s
+  azure.com: fetch failed, retry 2/4 in 20s
+  azure.com: fetch failed, retry 3/4 in 30s
+  azure.com: fetch failed, retry 4/4 in 40s
+  azure.com: fetch failed
+  visualstudio.com: fetch failed, retry 1/4 in 10s
+  visualstudio.com: ok
+  twitter.com: ok
+  x.com: ok
+  twimg.com: ok
+  pscp.tv: ok
+  ozon.ru: ok
+  ozonusercontent.com: fetch failed, retry 1/4 in 10s
+  ozonusercontent.com: ok
+  github.com: ok
+  githubusercontent.com: ok
+  githubassets.com: ok
+  githubcopilot.com: ok
+  github.io: ok
+  ghcr.io: ok
+  apple.com: ok
+  icloud.com: ok
+  icloud-content.com: ok
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  aaplimg.com: ok
+  apple-dns.net: ok
+  apple.news: fetch failed, retry 1/4 in 10s
+  apple.news: fetch failed, retry 2/4 in 20s
+  apple.news: fetch failed, retry 3/4 in 30s
+  apple.news: ok
+  adobe.com: ok
+  adobe.io: fetch failed, retry 1/4 in 10s
+  adobe.io: ok
+  adobelogin.com: fetch failed, retry 1/4 in 10s
+  adobelogin.com: fetch failed, retry 2/4 in 20s
+  adobelogin.com: ok
+  adobedc.net: ok
+  behance.net: fetch failed, retry 1/4 in 10s
+  behance.net: ok
+  photoshop.com: fetch failed, retry 1/4 in 10s
+  photoshop.com: fetch failed, retry 2/4 in 20s
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: ok
+  demdex.net: ok
+  omtrdc.net: ok
+  pornhub.com: fetch failed, retry 1/4 in 10s
+  pornhub.com: fetch failed, retry 2/4 in 20s
+  pornhub.com: ok
+  phncdn.com: ok
+  backblaze.com: ok
+  backblazeb2.com: fetch failed, retry 1/4 in 10s
+  backblazeb2.com: ok
+  huggingface.co: ok
+  hf.co: ok
+  hf.space: ok
+  anthropic.com: ok
+  claude.ai: ok
+  claude.com: ok
+  claudeusercontent.com: fetch failed, retry 1/4 in 10s
+  claudeusercontent.com: ok
+  clau.de: ok
+  x.ai: ok
+  grok.com: ok
+  total CT names: 34011
+
+==Probing YouTube cache servers: skipped, list is less than a week old
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===microsoft
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+===xai
+
+== Save names archive
