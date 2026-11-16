@@ -7001,6 +7001,7 @@ clearinghouse.apple.com
 clearmater-dark.apple.com
 click.apple.com
 clickwrap.apple.com
+client-analytics-ingress.apay.apple.com
 client-api-cdn.itunes-apple.com.akadns.net
 client-api-cdn-itunes-apple-com.v.aaplimg.com
 client-api.itunes.apple.com
@@ -9230,6 +9231,7 @@ edge-011.usqas5.media.apple-dns.net
 edge-011.usrmr3.ce.apple-dns.net
 edge-011.usuqo4.ce.apple-dns.net
 edge-011.usuqo4.icloud-content.com
+edge-011.usuyk1.ce.apple-dns.net
 edge-011.usuyk1.icloud-content.com
 edge-012.ausyd2.ce.apple-dns.net
 edge-012.deber3.ce.apple-dns.net
@@ -9626,6 +9628,7 @@ edge-021.usqas5.ce.apple-dns.net
 edge-021.usqas5.icloud-content.com
 edge-021.usrmr3.ce.apple-dns.net
 edge-021.usuqo4.icloud-content.com
+edge-021.usuyk1.ce.apple-dns.net
 edge-021.usuyk1.icloud-content.com
 edge-021.zamrd1.icloud-content.com
 edge-022.ausyd2.ce.apple-dns.net
@@ -11145,6 +11148,7 @@ edge-064.usqas5.icloud-content.com
 edge-064.usqas5.media.apple-dns.net
 edge-064.usuyk1.icloud-content.com
 edge-065.ausyd.ce.apple-dns.net
+edge-065.deber3.ce.apple-dns.net
 edge-065.deber3.icloud-content.com
 edge-065.defra2.ce.apple-dns.net
 edge-065.defra2.icloud-content.com
@@ -12379,6 +12383,7 @@ edge-110.usmia.ce.apple-dns.net
 edge-110.usnyc.ce.apple-dns.net
 edge-110.usqas5.media.apple-dns.net
 edge-110.usuqo4.icloud-content.com
+edge-110.usuyk1.ce.apple-dns.net
 edge-110.usuyk1.icloud-content.com
 edge-110.zamrd1.icloud-content.com
 edge-111.deber3.ce.apple-dns.net
@@ -12856,6 +12861,7 @@ edge-133.sgsin8.icloud-content.com
 edge-133.usmia1.ce.apple-dns.net
 edge-133.usmia.ce.apple-dns.net
 edge-133.usnyc.ce.apple-dns.net
+edge-133.usuyk1.ce.apple-dns.net
 edge-133.usuyk1.icloud-content.com
 edge-133.zamrd1.icloud-content.com
 edge-134.defra2.icloud-content.com
@@ -14055,6 +14061,7 @@ edge-214.sgsin8.icloud-content.com
 edge-214.uschi7.icloud-content.com
 edge-214.usdal2.icloud-content.com
 edge-214.uslax2.edge-299.icloud-content.com
+edge-214.usuyk1.ce.apple-dns.net
 edge-214.usuyk1.icloud-content.com
 edge-214.zamrd1.icloud-content.com
 edge-215.deber3.icloud-content.com
@@ -14247,6 +14254,7 @@ edge-232.sesto4.icloud-content.com
 edge-232.uschi7.icloud-content.com
 edge-232.usqas5.ce.apple-dns.net
 edge-232.usqas5.icloud-content.com
+edge-232.usuyk1.ce.apple-dns.net
 edge-232.usuyk1.icloud-content.com
 edge-233.deber3.icloud-content.com
 edge-233.dedus.ce.apple-dns.net
@@ -14367,6 +14375,7 @@ edge-242.usdal2.icloud-content.com
 edge-242.usmia1.icloud-content.com
 edge-242.usqas5.icloud-content.com
 edge-242.ussea3.icloud-content.com
+edge-242.usuyk1.ce.apple-dns.net
 edge-242.usuyk1.icloud-content.com
 edge-243.deber3.icloud-content.com
 edge-243.gbmnc1.ce.apple-dns.net
@@ -16379,6 +16388,7 @@ embed-apple-media.g.aaplimg.com
 embed.itunes.apple.com
 embed.link.apple.com
 embed.music.apple.com
+embed.music.apple.com.edgesuite.net
 embed.podcasts.apple.com
 embed.podcasts.apple.com.akadns.net
 embed.ponk11asts.apple.com
@@ -17622,6 +17632,7 @@ gateway-qa2-push.dslb.apple.com
 gateway-sandbox.icloud.com
 gateway-secure.icloud.com
 gateway-sr-china.icloud.com
+gateway-streaming-oblivious.apple.com
 gateway-ts.apple.com
 gatewayws-australia.icloud.com
 gatewayws-carry.icloud.com
@@ -18397,8 +18408,10 @@ gr-g-carry-aapse2b.smoot.apple.com
 gr-g-carry-aeun1a.smoot.apple.com
 gr-g-carry-aeun1b.smoot.apple.com
 gr-g-carry-aeus1c.smoot.apple.com
+gr-g-carry-aeuw1b.smoot.apple.com
 gr-g-carry-ause1b.smoot.apple.com
 gr-g-carry-ause1c.smoot.apple.com
+gr-g-carry-ause2a.smoot.apple.com
 gr-g-carry-ause2b.smoot.apple.com
 gr-g-carry-ausw2b.smoot.apple.com
 gr-g-carry-ci-ausw2a.smoot.apple.com
@@ -49059,6 +49072,7 @@ shield-api-trustinsights.nonpci.prod.apay.apple.com.v.aaplimg.com
 shield-as-assets-ucp2.v.aaplimg.com
 shield-as-images-ucp1.v.aaplimg.com
 shield-as-images-ucp2.v.aaplimg.com
+shield-client-analytics-ingress-prod.nonpci.prod.apay.apple.com.v.aaplimg.com
 shield-downloads-ucp1.v.aaplimg.com
 shield-graffiti-int-ucp3.usuqo4.me.icloud-content.com
 shield-graffiti-int-ucpfrstd1-edge-lx-010.v.aaplimg.com
@@ -55253,6 +55267,7 @@ www.apple.com.edgesuite.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
+www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
