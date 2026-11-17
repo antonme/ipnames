@@ -132038,3 +132038,28 @@ s
 ===xai
 
 == Save names archive
+[master e9e68a51] auto-update names
+ 4 files changed, 96 insertions(+)
+
+== Resolving names to ipv6
+Tue Nov 17 07:28:16 AM MSK 2026                dns-adobe.txt  >ipv6-resolve-adobe.txt
+Tue Nov 17 07:35:50 AM MSK 2026                dns-anthropic.txt  >ipv6-resolve-anthropic.txt
+Tue Nov 17 07:36:02 AM MSK 2026                dns-apple.txt  >ipv6-resolve-apple.txt
+Tue Nov 17 07:56:20 AM MSK 2026                dns-backblaze.txt  >ipv6-resolve-backblaze.txt
+Tue Nov 17 07:57:09 AM MSK 2026                dns-bing.txt  >ipv6-resolve-bing.txt
+Tue Nov 17 07:57:15 AM MSK 2026                dns-expressvpn.txt  >ipv6-resolve-expressvpn.txt
+Tue Nov 17 07:57:25 AM MSK 2026                dns-facebook.txt  >ipv6-resolve-facebook.txt
+Tue Nov 17 08:22:32 AM MSK 2026                dns-github.txt  >ipv6-resolve-github.txt
+Tue Nov 17 08:23:05 AM MSK 2026                dns-google.txt  >ipv6-resolve-google.txt
+Tue Nov 17 08:33:35 AM MSK 2026                dns-huggingface.txt  >ipv6-resolve-huggingface.txt
+Tue Nov 17 08:34:24 AM MSK 2026                dns-microsoft.txt  >ipv6-resolve-microsoft.txt
+Tue Nov 17 08:43:23 AM MSK 2026                dns-openai.txt  >ipv6-resolve-openai.txt
+Tue Nov 17 08:44:06 AM MSK 2026                dns-ozon.txt  >ipv6-resolve-ozon.txt
+Tue Nov 17 08:44:15 AM MSK 2026                dns-pornhub.txt  >ipv6-resolve-pornhub.txt
+Tue Nov 17 08:44:22 AM MSK 2026                dns-surfshark.txt  >ipv6-resolve-surfshark.txt
+Tue Nov 17 08:44:31 AM MSK 2026                dns-tiktok.txt  >ipv6-resolve-tiktok.txt
+Tue Nov 17 08:46:27 AM MSK 2026                dns-tunnelbear.txt  >ipv6-resolve-tunnelbear.txt
+Tue Nov 17 08:46:39 AM MSK 2026                dns-twitter.txt  >ipv6-resolve-twitter.txt
+Tue Nov 17 08:47:34 AM MSK 2026                dns-vpnhosts.txt  >ipv6-resolve-vpnhosts.txt
+Tue Nov 17 08:47:37 AM MSK 2026                dns-xai.txt  >ipv6-resolve-xai.txt
+Tue Nov 17 08:47:41 AM MSK 2026                dns-youtube.txt  >ipv6-resolve-youtube.txt
