@@ -132838,3 +132838,5 @@ Thu Nov 19 08:25:52 AM MSK 2026                ext-dns-twitter.txt  >ipv6-ext-re
 Thu Nov 19 08:27:33 AM MSK 2026                ext-dns-vpnhosts.txt  >ipv6-ext-resolve-vpnhosts.txt
 Thu Nov 19 08:28:49 AM MSK 2026                ext-dns-xai.txt  >ipv6-ext-resolve-xai.txt
 Thu Nov 19 08:28:50 AM MSK 2026                ext-dns-youtube.txt  >ipv6-ext-resolve-youtube.txt
+[master 5f92b4e7] auto-update ipv6
+ 13 files changed, 4443 insertions(+), 5068 deletions(-)
