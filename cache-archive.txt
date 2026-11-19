@@ -19932,6 +19932,7 @@ content-chronicle.australia-southeast1.rep.googleapis.com
 content-chronicle.europe-central2.p.rep.googleapis.com
 content-chronicle.europe-central2.rep.googleapis.com
 content-chronicle.europe-west12.p.rep.googleapis.com
+content-chronicle.europe-west12.rep.googleapis.com
 content-chronicle.europe-west2.p.rep.googleapis.com
 content-chronicle.europe-west2.rep.googleapis.com
 content-chronicle.europe-west3.rep.googleapis.com
@@ -20037,6 +20038,7 @@ content-cloudtrace.asia-east2.p.rep.googleapis.com
 content-cloudtrace.asia-east2.rep.googleapis.com
 content-cloudtrace.asia-east2.rep.mtls.googleapis.com
 content-cloudtrace.asia-northeast1.p.rep.googleapis.com
+content-cloudtrace.asia-northeast1.rep.mtls.googleapis.com
 content-cloudtrace.asia-northeast2.rep.googleapis.com
 content-cloudtrace.asia-northeast3.rep.googleapis.com
 content-cloudtrace.asia-northeast3.rep.mtls.googleapis.com
@@ -22854,6 +22856,7 @@ content-redis.asia-southeast3.rep.googleapis.com
 content-redis.australia-southeast1.rep.mtls.googleapis.com
 content-redis.australia-southeast2.rep.googleapis.com
 content-redis.europe-central2.p.rep.googleapis.com
+content-redis.europe-central2.rep.googleapis.com
 content-redis.europe-central2.rep.mtls.googleapis.com
 content-redis.europe-north1.p.rep.googleapis.com
 content-redis.europe-north1.rep.mtls.googleapis.com
@@ -22870,6 +22873,7 @@ content-redis.europe-west4.rep.googleapis.com
 content-redis.europe-west9.rep.googleapis.com
 content-redis.europe-west9.rep.mtls.googleapis.com
 content-redis.me-central2.rep.googleapis.com
+content-redis.me-central2.rep.mtls.googleapis.com
 content-redis.me-west1.p.rep.googleapis.com
 content-redis.me-west1.rep.googleapis.com
 content-redis.northamerica-northeast1.rep.mtls.googleapis.com
@@ -23454,6 +23458,7 @@ content-storage.northamerica-northeast1.rep.mtls.googleapis.com
 content-storage.northamerica-northeast2.rep.mtls.googleapis.com
 content-storage.northamerica-south1.p.rep.googleapis.com
 content-storage.northamerica-south1.rep.googleapis.com
+content-storage.northamerica-south1.rep.mtls.googleapis.com
 content-storage-p2.googleapis.com
 content-storage-preprod.us-central1.rep.mtls.sandbox.googleapis.com
 content-storage-preprod.us.rep.sandbox.googleapis.com
@@ -23505,6 +23510,7 @@ content-sts.australia-southeast1.rep.googleapis.com
 content-sts.australia-southeast2.rep.googleapis.com
 content-sts.europe-central2.rep.googleapis.com
 content-sts.europe-southwest1.rep.googleapis.com
+content-sts.europe-west10.p.rep.googleapis.com
 content-sts.europe-west10.rep.googleapis.com
 content-sts.europe-west15.rep.mtls.googleapis.com
 content-sts.europe-west1.p.rep.googleapis.com
@@ -64357,6 +64363,7 @@ memorystore.europe-central2.rep.mtls.googleapis.com
 memorystore.europe-north1.p.rep.googleapis.com
 memorystore.europe-north1.rep.googleapis.com
 memorystore.europe-north1.rep.mtls.googleapis.com
+memorystore.europe-north2.p.rep.googleapis.com
 memorystore.europe-north2.rep.googleapis.com
 memorystore.europe-north2.rep.mtls.googleapis.com
 memorystore.europe-southwest1.p.rep.googleapis.com
