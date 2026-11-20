@@ -133239,3 +133239,5 @@ Fri Nov 20 08:27:43 AM MSK 2026                ext-dns-twitter.txt  >ext-resolve
 Fri Nov 20 08:28:48 AM MSK 2026                ext-dns-vpnhosts.txt  >ext-resolve-vpnhosts.txt
 Fri Nov 20 08:30:04 AM MSK 2026                ext-dns-xai.txt  >ext-resolve-xai.txt
 Fri Nov 20 08:30:04 AM MSK 2026                ext-dns-youtube.txt  >ext-resolve-youtube.txt
+[master 0bef7e3a] auto-update ipv4
+ 16 files changed, 5511 insertions(+), 5222 deletions(-)
