@@ -51,6 +51,9 @@ acc-mdn.corp.apple.com
 accorda.awuse1.sbz.apple.com
 accorda.awusw2.sbz.apple.com
 accorda.care.apple.com
+accorda-pilot.care.apple.com
+accorda-stage.awuse1.sbz.apple.com
+accorda-stage.awusw2.sbz.apple.com
 account.apple.com
 account.appleconnect.apple.com
 accountdatatransfer.apple.com
@@ -245,6 +248,10 @@ acivr-tng4-primary-pbz-stage.aweuw1.spbz.apple.com
 acivr-tng4-primary-pbz-stage.awuse1.spbz.apple.com
 acivr-tng4-primary-pbz-stage.awusw2.spbz.apple.com
 acivr-tng4-secondary-pbz.corp.apple.com
+acivr-tng4-secondary-pbz-stage.awapne1.spbz.apple.com
+acivr-tng4-secondary-pbz-stage.awapse1.spbz.apple.com
+acivr-tng4-secondary-pbz-stage.aweuc1.spbz.apple.com
+acivr-tng4-secondary-pbz-stage.aweuw1.spbz.apple.com
 acivr-tng4-secondary-pbz-stage.awuse1.spbz.apple.com
 acivr-tng4-secondary-pbz-stage.awusw2.spbz.apple.com
 acivr-ufd1-primary-pbz.corp.apple.com
@@ -364,10 +371,14 @@ afs.ampservices.v.aaplimg.com
 afsnext.apple.com
 afsnext-mdn.apple.com
 afsweb.apple.com
+afsweb-mdn.apple.com
+afsweb-msc.apple.com
+afsweb-prod.apple.com
 agreementsales.apple.com
 agreementsales-pilot.apple.com
 agreements.apple.com
 agreements.apple.com.cn
+agreements-isc-mdn.apple.com
 agreements-isc-pilot1-mdn.apple.com
 agreements-isc-pilot1-rno.apple.com
 agreements-isc-rno.apple.com
@@ -409,10 +420,12 @@ alacfst-int.corp.apple.com
 albert.apple.com
 albert-carry.ist.apple.com
 albert.v.aaplimg.com
+alchemy-workspace.apple.com
 alchemy-workspace-ext.apple.com
 alchemy-workspace-ext-auth.awuse1.sbz.apple.com
 alchemy-workspace-ext-auth.awusw2.sbz.apple.com
 alchemy-workspace-ext-dr-use1.apple.com
+alchemy-workspace-ext-prod-usw2.apple.com
 alio.apple.com
 alpdownloadit.cdn-apple.com
 alpdownloaduat.cdn-apple.com
@@ -520,11 +533,14 @@ amp-api.videos.apple.com
 amp-api.videos.apple.com.edgekey.net
 amp-api.videos.apple.com.edgesuite.net
 amp-api.videos.trbo.apple.com
+ampentitlements-irecon.corp.apple.com
 amp-mt-ingestion-service.itunes.apple.com
 amp-offers.apple.com
 amp-partner-docs.apple.com
 amp-partner-email.cdn-apple.com
+amppayments-irecon.corp.apple.com
 amr-3pl-5c.3pl.ist.apple.com
+ams-spdrcrp-proxy-ha.apple.com
 analytics.itunes.apple.com
 analytics-nk.itunes.apple.com
 analytics-st.itunes.apple.com
@@ -538,6 +554,10 @@ aodp.itunes.apple.com
 aodp-ssl.itunes.apple.com
 aod-ssl.itunes.apple.com
 aod-ssl.itunes-apple.com.akadns.net
+aoschat.apple.com
+aoschat.apple.com.cn
+aoschat-sh-mdn.apple.com
+aoschat-sh-prn.apple.com
 apadmin.corp.apple.com
 apay-cash-wdp-device-prod-pci.apay.apple.com
 apay-cdp-saf-services.apple.com
@@ -728,6 +748,10 @@ api-edge.apps.apple.com.edgesuite.net
 api-edge.apps-lb.itunes-apple.com.akadns.net
 api.edu.apple.com
 api.ent.apple.com
+api.enterprise.developer.apple.com
+api-escher-amp.apple.com
+api-escher-stage-amp.apple.com
+api-escher-uat-amp.apple.com
 api.eval.sbox.trustinsights.services.apple.com
 api.eval.trustinsights.services.apple.com
 api-ext.icloud.apple.com
@@ -793,6 +817,8 @@ api-img-stg.smoot.apple.com
 api-integration.appleschoolcontent.v.aaplimg.com
 api-it.cg.btp.apple.com
 api.itunes.apple.com
+api-live-events.amp.apple.com
+api-live-events-stage.amp.apple.com
 api-lookup-aapne1a.smoot.apple.com
 api-lookup-aapne1c.smoot.apple.com
 api-lookup-aaps1a.smoot.apple.com
@@ -825,10 +851,12 @@ api-manage-broadcast-st.push.apple.com
 api-manage-broadcast-st.sandbox.push.apple.com
 apimcert-cp.sap.apple.com
 apimcert-it-cp.sap.apple.com
+apimcert-qa-cp.sap.apple.com
 apimcert-uat-cp.sap.apple.com
 apim-cp.sap.apple.com
 api.media.apple.com
 apim-it-cp.sap.apple.com
+apim-qa-cp.sap.apple.com
 apim-uat-cp.sap.apple.com
 api.music.apple.com
 api-music-ci.smoot.apple.com
@@ -907,6 +935,7 @@ api-siri-ause2c.smoot.apple.com
 api-siri-ausw2b.smoot.apple.com
 api-siri-ausw2c.smoot.apple.com
 api-siri-carry-aeun1a.smoot.apple.com
+api-siri-carry.apple.com
 api-siri-carry-ause1a.smoot.apple.com
 api-siri-carry-ause1b.smoot.apple.com
 api-siri-carry-ause1c.smoot.apple.com
@@ -1161,6 +1190,7 @@ appleid.cdn-apple.com.akamaized.net
 appleid.cdn-apple.com.edgekey.net
 appleid-cdn-apple-com.v.aaplimg.com
 appleid.idms-apple.com.akadns.net
+appleid-partner.apple.com
 appleid-ut.corp.apple.com
 appleid-ut.corp.trbo.apple.com
 appleintelligencefeedback.care.apple.com
@@ -1179,6 +1209,8 @@ applemanage-admin-pbz-prz.spbz.apple.com
 apple-mapkit.com
 apple-media-transcripts.apple.com
 applemusic.apple.com
+applemusicclassical.awuse1.sbz.apple.com
+applemusicclassical.awusw2.sbz.apple.com
 applemusicnotes.apple.com
 applemusicnotes-dr.apple.com
 apple.news
@@ -1247,12 +1279,16 @@ appleseeddownload.apple.com
 appleseeddownload-stage.apple.com
 appleservices.apple.com
 appleservices.com.cn.v.aaplimg.com
+appleservices.prz.sbz.apple.com
+appleservices.rno.sbz.apple.com
 appleservices.v.aaplimg.com
 apple-shield.apple.com
 appleshop.sales.apple.com
 applesurveysintegrations.apple.com
 applesurveysintegrations-st.apple.com
 appleteacher.apple.com
+appleteacher-corp.apple.com
+appleteacher-origin.apple.com
 appleteacher-origin-nonprod-it.apple.com
 appleteacher-origin-nonprod-qa.apple.com
 appleteacher-origin-nonprod-uat.apple.com
@@ -1268,6 +1304,9 @@ apple-ticketing-prod.apple.com
 apple-ticketing-prod.msc.sbz.apple.com
 apple-ticketing-uat.apple.com
 apple-ticketing-uat-stage.msc.sbz.apple.com
+appletravel-ext.apple.com
+appletravel-ext-mdn.apple.com
+appletravel-ext-prz.apple.com
 apple-tv-plus-press.apple.com
 appleweb.apple.com
 appleweb-origin.apple.com
@@ -1463,6 +1502,8 @@ armorintegration-pub-stage.apple.com
 armorintegration-pub-stage.mdn.sbz.apple.com
 armorintegration-pub-stage.rno.sbz.apple.com
 article-viewer.corp.apple.com
+artifactory.apple.com
+artifacts.apple.com
 artifacts.atlas.apple.com
 artist.apple.com
 artist.itunes.apple.com
@@ -1483,8 +1524,11 @@ asdc.apple.com
 asdc-mdn.apple.com
 asdc-prn.apple.com
 asdc-uat.apple.com
+ase.webhooknotification.apple.com
 asia.apple.com
 as-images.apple.com
+askapple.apple.com
+askapple.apple.com.cn
 askapple-pvt.apple.com
 askapple-pvt.apple.com.cn
 askapple-uat.apple.com
@@ -1526,10 +1570,13 @@ astrax.apple.com
 astrax-auth-prod.awuse1.sbz.apple.com
 astrax-auth-prod.awusw2.sbz.apple.com
 astrax-auth-uat.awuse1.sbz.apple.com
+astrax-em-prod.awuse1.sbz.apple.com
+astrax-em-prod.awusw2.sbz.apple.com
 astrax-prod.awuse1.sbz.apple.com
 astrax-prod.awusw2.sbz.apple.com
 astrax-slc-prod.awuse1.sbz.apple.com
 astrax-slc-prod.awusw2.sbz.apple.com
+astrax-uat-ext-stage.awuse1.sbz.apple.com
 asw.apple.com
 asw-cdn.apple.com
 asw-prz.apple.com
@@ -1544,6 +1591,8 @@ atlaslms-sh-prn.apple.com
 atlassian-endpoint.apple.com
 atlc.apple.com
 atlc.apple.com.edgesuite.net
+atlc-prod.apple.com
+atlc-prod-rno.apple.com
 atp-bgcheck-uat-ext.apple.com
 atp-bgcheck-uat-ext-use1.apple.com
 atp-bgcheck-uat-ext-usw2.apple.com
@@ -1551,6 +1600,7 @@ atp-bgcheck-use2.apple.com
 atp-bgcheck-usw2.apple.com
 atreides.apple.com
 atreides-uat.apple.com
+attache-pxy-amster-01.euro.apple.com
 attester.gateway.fe2.apple-dns.net
 attester.gateway.fe.apple-dns.net
 attester.gateway.icloud.com
@@ -1580,6 +1630,7 @@ ausyd2-corpclient-vpn12.asia.apple.com
 ausyd2-corpclient-vpn.asia.apple.com
 auth.apple.com
 auth.apps.apple.com
+auth-assistant.apple.com
 auth.astra.apple.com
 auth.astrax.apple.com
 auth.books.apple.com
@@ -1606,7 +1657,9 @@ auth.tv.apple.com
 auth.tv.trbo.apple.com
 auth-uat.astrax.apple.com
 auth.v.aaplimg.com
+autodiscover.apple.com
 autodiscover.icloud.com.login-us.me
+autodiscover.pex.exch.apple.com
 autodiscover.tex.exch.apple.com
 auto-enroll.corp.apple.com
 auto-enroll-prod.g.apple.com
@@ -1703,6 +1756,12 @@ bbd-redirect.bswe.apple.com
 b-bizchat-ptr1.awapne1.mmap.apple.com
 b-bizchat-ptr1.awuse1.mmap.apple.com
 b-bizchat-ptr1.awusw2.mmap.apple.com
+b-bizchat-ptr1-pvt.awuse1.mmap.apple.com
+b-bizchat-ptr1-pvt.awusw2.mmap.apple.com
+b-bizchat-ptr2.awuse1.mmap.apple.com
+b-bizchat-ptr2.awusw2.mmap.apple.com
+b-bizchat-ptr2-pvt.awuse1.mmap.apple.com
+b-bizchat-ptr2-pvt.awusw2.mmap.apple.com
 bbs.www.apple.com--os.space
 bc-highlander.awuse2.sbz.apple.com
 bc-highlander.awusw2.sbz.apple.com
@@ -1751,7 +1810,20 @@ bins.msi.ops.apple.com
 bitbucket-test-latest.v.aaplimg.com
 bizchat-ptr1.awuse2.mmap.apple.com
 bizchat-ptr1.awusw2.mmap.apple.com
+bizchat-ptr1-it.awusw2.mmap.apple.com
+bizchat-ptr1-it.mmap.apple.com
 bizchat-ptr1.mmap.apple.com
+bizchat-ptr1-pvt.awuse2.mmap.apple.com
+bizchat-ptr1-pvt.awusw2.mmap.apple.com
+bizchat-ptr1-pvt.mmap.apple.com
+bizchat-ptr2.awuse2.mmap.apple.com
+bizchat-ptr2.awusw2.mmap.apple.com
+bizchat-ptr2-it.awusw2.mmap.apple.com
+bizchat-ptr2-it.mmap.apple.com
+bizchat-ptr2.mmap.apple.com
+bizchat-ptr2-pvt.awuse2.mmap.apple.com
+bizchat-ptr2-pvt.awusw2.mmap.apple.com
+bizchat-ptr2-pvt.mmap.apple.com
 blink.apple.com
 blob.carry.studies.apple.com
 blob.main.teststudies.apple.com
@@ -1822,6 +1894,7 @@ boxinfo.mdn.sbz.apple.com
 boxinfo.msc.sbz.apple.com
 boxinfo.prz.sbz.apple.com
 boxinfo.rno.sbz.apple.com
+box-webhook-poc-stage.awusw2.sbz.apple.com
 bpapi.apple.com
 bpapi.v.aaplimg.com
 bp-mail.g.apple.com
@@ -1844,6 +1917,7 @@ brsao4-corpclient-vpn11.apple.com
 brsao4-corpclient-vpn12.apple.com
 brsao4-corpclient-vpn.apple.com
 brtaxhub.awuse1.sbz.apple.com
+btrack.bswe.apple.com
 bugreport.apple.com
 bugreporter.apple.com
 bugsnag.corp.apple.com
@@ -1925,6 +1999,8 @@ calculushub.apple.com
 calculushub-cmp.apple.com
 calculushub-cmp-calculus-cmp-ext-usw2.apple.com
 calculushub-dev.apple.com
+calculushub-it2.cse.ist.apple.com
+calculushub-it2-ext-stage.awusw2.sbz.apple.com
 calculushub-it.apple.com
 calculushub-it-calculus-test-ext-usw2.apple.com
 calculushub-lt.apple.com
@@ -1958,6 +2034,7 @@ calibrate.corp.apple.com
 canadabenefits.apple.com
 canary.apple.com
 canary.mask.apple-dns.net
+canary.salesinventoryreporting.apple.com
 capexpartner.sci.sap.apple.com
 capexsystems.mdn.spbz.apple.com
 capexsystems.msc.spbz.apple.com
@@ -2046,6 +2123,7 @@ carry-kestrel-aeuw1b.smoot.apple.com
 carry-kestrel-ausw2a.smoot.apple.com
 carry-kestrel-ausw2b.smoot.apple.com
 carry-kestrel.smoot.apple.com
+carry-metamorphosis.siri.apple.com
 carry-or32.siri.apple.com
 carry-owl-aapse1a.smoot.apple.com
 carry-owl-aapse1b.smoot.apple.com
@@ -2082,6 +2160,7 @@ cctech-gdkp-aos-pbz-mdn.apple.com
 cctech-gdkp-aos-pbz-mdn.spbz.apple.com
 cctech-gdkp-aos-pbz-prz.apple.com
 cctech-gdkp-aos-pbz-prz.spbz.apple.com
+cctech-gwsp-amr.corp.apple.com
 cctech-gwsp-hl-amr.corp.apple.com
 cctech-gwsp-hl-mdn.corp.apple.com
 cctech-gwsp-hl-pbz-mdn.apple.com
@@ -2089,6 +2168,13 @@ cctech-gwsp-hl-pbz-mdn.spbz.apple.com
 cctech-gwsp-hl-pbz-prz.apple.com
 cctech-gwsp-hl-pbz-prz.spbz.apple.com
 cctech-gwsp-hl.prz.apple.com
+cctech-gwsp-mdn.corp.apple.com
+cctech-gwsp-pbz-mdn.apple.com
+cctech-gwsp-pbz-mdn.spbz.apple.com
+cctech-gwsp-pbz-prz.apple.com
+cctech-gwsp-pbz-prz.spbz.apple.com
+cctech-gwsp.prz.apple.com
+cctech-isc-gwsp-amr.corp.apple.com
 cctech-isc-gwsp-hl-amr.corp.apple.com
 cdn2.smoot.apple.com
 cdn.apple-cloudkit.com
@@ -2158,6 +2244,7 @@ cds-temp.apple.com.akadns.net
 cds-usw2.apple.com
 ce.apple-dns.net
 centralstation.apple.com
+certificatemanager-dev-profile-signer.apple.com
 certificatemanager-profile-signer.apple.com
 certificatemanager-test-profile-signer.apple.com
 certification-ads.apple.com
@@ -2178,6 +2265,8 @@ cf.iadsdk.apple.com
 cf.iadsdk.apple.com.akadns.net
 cfservices.opsswe.ops.apple.com
 cfservices-stage.opsswe.ops.apple.com
+cg-cpi-cert-prod-ext.awuse1.sbz.apple.com
+cg-cpi-cert-prod-ext.awusw2.sbz.apple.com
 cg-cpi-cert-uat-ext.awuse1.sbz.apple.com
 cg-cpi-cert-uat-ext.awusw2.sbz.apple.com
 cg-cpi-nonmtls-prod-ext.awuse1.sbz.apple.com
@@ -2302,6 +2391,7 @@ cl4-cdn.origin-apple.com.akadns.net
 cl4-cdn-us.origin-apple.com.akadns.net
 cl4-cn.apple.com
 cl4.g.aaplimg.com
+cl4-origin.g.apple.com
 cl4-stg.ls.apple.com
 cl5.apple.com
 cl5.apple.com.edgekey.net
@@ -2489,6 +2579,7 @@ compliance-ext.apple.com
 compressor.apple.com
 concernreports.apple.com
 concernreports-qa.g.apple.com
+conda.apple.com
 config-chr.health.apple.com
 config.me.apple-dns.net
 configuration.apple.com
@@ -2582,6 +2673,7 @@ coreservices-e1456-ms12-kryptonite-k8straefik.ls.apple.com
 coreservices-e1498-ms11-bistunium-k8scontour-ext.ls.apple.com
 coreservices-e1501-ms11-bistunium-k8scontour-ext.ls.apple.com
 coreservices-e1505-ms11-bistunium-k8straefik.ls.apple.com
+coreservices-e1506-ms11-bistunium-k8straefik.ls.apple.com
 coreservices-e1521-ms12-kryptonite-k8straefik.ls.apple.com
 coreservices-e1524-ms12-kryptonite-k8scontour-ext.ls.apple.com
 coreservices-e1524-ms12-kryptonite-k8straefik.ls.apple.com
@@ -2736,6 +2828,7 @@ cvws-h2.icloud-content.com
 cvws.icloud-content.com
 cwp-af-prod.v.aaplimg.com
 cwp-af-stage.v.aaplimg.com
+cwp-angelfood-prod.prz.sbz.apple.com
 cwp-mc-prod.v.aaplimg.com
 cwp-metrics-prod.v.aaplimg.com
 cwp-prom-prod.v.aaplimg.com
@@ -2754,6 +2847,7 @@ daiquiri-ext-sni.itunes.apple.com
 dami-facts-shield.apple.com
 dami-facts-shield-asia.apple.com
 dami-facts-shield-mesa.apple.com
+dana.apple.com
 dana-dev.apple.com
 danaweb-stage.apple.com
 data.appattest.apple.com
@@ -2816,6 +2910,8 @@ delta-stage.hwte.apple.com
 delta-stage.msc.spbz.apple.com
 demo1.isoproxy.apple.com
 demo2.isoproxy.apple.com
+demoloop-api.dcota.apple.com
+demoloop-api-stg.dcota.apple.com
 demounit.apple.com
 demounit-corp.apple.com
 demounit-corp-ext.dcota.apple.com
@@ -2866,6 +2962,7 @@ developerweb-mdn.apple.com
 developerweb-rno.apple.com
 devforums.apple.com
 deviceactivations.apple.com
+device-api.dcota.apple.com
 device-config.pcms.apple.com
 device-config.v.aaplimg.com
 deviceenrollment.apple.com
@@ -2903,6 +3000,7 @@ diagnostics-compat.trade-in-platform.apple.com
 diagnostics-dev.swe.apple.com
 diagnostics-mdn1.apple.com
 diagnostics-reno.apple.com
+diagnostics.trade-in-platform.apple.com
 diagnostics-uat.trade-in-platform.apple.com
 diatryma.apple.com
 digitalappqa.apple.com
@@ -2915,6 +3013,7 @@ digital-legacy-account-pilot.apple.com
 digital-legacy-account-pilot-mdn.apple.com
 digital-legacy-account-pilot-prn.apple.com
 digital-legacy-account-prn.apple.com
+digital-legacy.apple.com
 directorsprogram.prz.sbz.apple.com
 directorsprogram.rno.sbz.apple.com
 discussions.apple.com
@@ -2939,6 +3038,8 @@ dnaweb.apple.com
 d.ns.apple.com
 dns.apple.com
 dns.apple.com.v.aaplimg.com
+docker.apple.com
+docker-upstream.apple.com
 docs-assets.developer.apple.com
 docs.developer.apple.com
 docws-china.icloud.com
@@ -3186,6 +3287,8 @@ edge-009.usmes1.icloud-content.com
 edge-009.usqas5.icloud-content.com
 edge-009.usuqo4.icloud-content.com
 edge-009.usuyk1.icloud-content.com
+edge-010.deber3.ce.apple-dns.net
+edge-010.deber3.icloud-content.com
 edge-010.defra2.icloud-content.com
 edge-010.dkvib11.icloud-content.com
 edge-010.gbslo5.icloud-content.com
@@ -4443,6 +4546,8 @@ edge-133.defra2.icloud-content.com
 edge-133.dkvib11.icloud-content.com
 edge-133.usuyk1.ce.apple-dns.net
 edge-133.usuyk1.icloud-content.com
+edge-134.deber3.ce.apple-dns.net
+edge-134.deber3.icloud-content.com
 edge-134.defra2.icloud-content.com
 edge-134.dkvib11.icloud-content.com
 edge-134.usdal2.ce.apple-dns.net
@@ -4862,6 +4967,7 @@ edge-210.sesto4.icloud-content.com
 edge-210.uschi7.icloud-content.com
 edge-210.usmia1.icloud-content.com
 edge-210.usuyk1.icloud-content.com
+edge-211.sesto4.ce.apple-dns.net
 edge-211.sesto4.icloud-content.com
 edge-211.uschi7.icloud-content.com
 edge-211.usmia1.icloud-content.com
@@ -4918,6 +5024,7 @@ edge-220.uschi7.icloud-content.com
 edge-220.usmia1.icloud-content.com
 edge-220.usuyk1.icloud-content.com
 edge-221.nlhfd1.icloud-content.com
+edge-221.sesto4.ce.apple-dns.net
 edge-221.sesto4.icloud-content.com
 edge-221.uschi7.icloud-content.com
 edge-221.usuyk1.ce.apple-dns.net
@@ -5409,6 +5516,8 @@ edge.itunes.apple.com
 edge-itunes-apple.com.akadns.net
 edge-prod.isoproxy.apple.com
 education.apple.com
+education-corp.apple.com
+education-origin.apple.com
 education-origin-nonprod-it.apple.com
 education-origin-nonprod-qa.apple.com
 education-origin-nonprod-uat.apple.com
@@ -5428,6 +5537,7 @@ eforms-console-msc.msc.sbz.apple.com
 email.euro.apple.com
 email.icloud.com
 email.images.apple.com
+em.astrax.apple.com
 embed.commerce-business.apple.com
 embed.commerce-embed.apple.com
 embed.commerce-school.apple.com
@@ -5445,6 +5555,7 @@ employee-fitness.apple.com
 encounterdinosaurs.apple.com
 enews.apple.com
 engage.apple.com
+engage-cxchat.apple.com
 engage-gwsdigital-iwd.cs.ist.apple.com
 engage-gwsdigital-rcc.cs.ist.apple.com
 engage-gws-internal-amr-us-east-pbz.apple.com
@@ -5633,6 +5744,7 @@ eso-prod.g.apple.com
 ess.apple.com
 ess-apple.com.akadns.net
 ess.apple.com.edgesuite.net
+es-wrike-test.apple.com
 esws2i.apple.com
 euc1-acivr-cds1-primary-pbz-prod.apple.com
 euc1-acivr-cds1-primary-pbz-prod.spbz.apple.com
@@ -5994,6 +6106,7 @@ flagsmith.awuse1.sbz.apple.com
 flagsmith.awusw2.sbz.apple.com
 flagsmith-dev-api-stage.awusw2.sbz.apple.com
 flare.v.aaplimg.com
+flipper.apple.com
 flmgt.ls.apple.com
 floodgate-prod-aws-bz.awuse2.sbz.apple.com
 floodgate-prod-aws-bz.awusw2.sbz.apple.com
@@ -6105,6 +6218,7 @@ gateway.fe.apple-dns.net
 gateway.icloud.com
 gateway-india.icloud.com
 gateway-internal.icloud.com
+gateway.lunchbox.mvp.apple.com
 gateway-oblivious.apple.com
 gateway-oblivious.apple.com.cn
 gateway-oblivious-cn.prod.v.aaplimg.com
@@ -6134,8 +6248,10 @@ gb-ext-facade-ali.apple.com
 gb-ext-facade-denali.apple.com
 gb-ext-facade-denali.awuse2.sbz.apple.com
 gbiaudit-external-prod.apple.com
+gbichannelmd-external.msc.sbz.apple.com
 gbichannelmd-external.prz.sbz.apple.com
 gbichannelmd-external-trng-stage.rno.sbz.apple.com
+gbichannelmd-external-uat-stage.rno.sbz.apple.com
 gbilab-ci.corp.apple.com
 gbilab-ci-mdn.corp.apple.com
 gbilab-ci-pbz-mdn.apple.com
@@ -6177,6 +6293,7 @@ gcprogression.corp.apple.com
 gcrmadmin.corp.apple.com
 gcrmapp-pbz-mdn.apple.com
 gcrmapp-pbz-prz.apple.com
+gcrmcdm-api-uat1-stage.rno.spbz.apple.com
 gcrm.corp.apple.com
 gcrmcsx.corp.apple.com
 gcx-apne-p-s1.ccvoice.apple.com
@@ -6323,6 +6440,7 @@ gott.g.apple.com
 graffiti-origin.apple.com
 graffiti-tags.apple.com
 graffiti-tags.apple.com.edgesuite.net
+gr-api-apps-aape1a.smoot.apple.com
 gr-api-apps-aape1b.smoot.apple.com
 gr-api-apps-aapse1a.smoot.apple.com
 gr-api-apps-aapse2a.smoot.apple.com
@@ -6334,6 +6452,9 @@ gr-api-apps-ausw2a.smoot.apple.com
 gr-api-apps-ausw2b.smoot.apple.com
 gr-api-apps-ci-ausw2a.smoot.apple.com
 gr-api-apps-ci.smoot.apple.com
+gr-api-apps-h-aapne1c.smoot.apple.com
+gr-api-apps-h-aapne2a.smoot.apple.com
+gr-api-apps-h-aapne2b.smoot.apple.com
 gr-api-apps-h-aaps1b.smoot.apple.com
 gr-api-apps-h-aapse1a.smoot.apple.com
 gr-api-apps-h-aapse1b.smoot.apple.com
@@ -6391,6 +6512,7 @@ gr-api-evs-stg-aapne1a.smoot.apple.com
 gr-api-evs-stg-aapne1c.smoot.apple.com
 gr-api-evs-stg-aapne2b.smoot.apple.com
 gr-api-evs-stg-aaps1b.smoot.apple.com
+gr-api-evs-stg-aapse1b.smoot.apple.com
 gr-api-evs-stg-aapse2a.smoot.apple.com
 gr-api-evs-stg-aeun1a.smoot.apple.com
 gr-api-evs-stg-aeus1b.smoot.apple.com
@@ -6401,12 +6523,17 @@ gr-api-evs-stg-ausw2b.smoot.apple.com
 gr-api-evs-stg-ci-ausw2a.smoot.apple.com
 gr-api-evs-stg-ci.smoot.apple.com
 gr-api-evs-stg.smoot.apple.com
+gr-api-music-aape1b.smoot.apple.com
+gr-api-music-aapne1a.smoot.apple.com
 gr-api-music-aapne1c.smoot.apple.com
 gr-api-music-aaps1a.smoot.apple.com
 gr-api-music-aapse1a.smoot.apple.com
 gr-api-music-aapse2b.smoot.apple.com
 gr-api-music-aeun1a.smoot.apple.com
 gr-api-music-aeun1b.smoot.apple.com
+gr-api-music-aeus1c.smoot.apple.com
+gr-api-music-aeuw1b.smoot.apple.com
+gr-api-music-ause1b.smoot.apple.com
 gr-api-music-ause2b.smoot.apple.com
 gr-api-music-ausw2a.smoot.apple.com
 gr-api-music-ausw2b.smoot.apple.com
@@ -6441,9 +6568,12 @@ gr-api-music-r-ci-ausw2a.smoot.apple.com
 gr-api-music-r-ci.smoot.apple.com
 gr-api-music-r.smoot.apple.com
 gr-api-music.smoot.apple.com
+gr-api-sba-aape1b.smoot.apple.com
 gr-api-sba-aapne1c.smoot.apple.com
 gr-api-sba-aaps1a.smoot.apple.com
 gr-api-sba-aapse2a.smoot.apple.com
+gr-api-sba-aeun1a.smoot.apple.com
+gr-api-sba-aeun1b.smoot.apple.com
 gr-api-sba-aeus1c.smoot.apple.com
 gr-api-sba-aeuw1a.smoot.apple.com
 gr-api-sba-aeuw1b.smoot.apple.com
@@ -6457,10 +6587,13 @@ gr-api-sba-ci-ausw2a.smoot.apple.com
 gr-api-sba-ci.smoot.apple.com
 gr-api-sba.smoot.apple.com
 gr-api-siri-aapne1c.smoot.apple.com
+gr-api-siri-aaps1a.smoot.apple.com
 gr-api-siri-aapse1b.smoot.apple.com
 gr-api-siri-aeun1a.smoot.apple.com
+gr-api-siri-aeun1b.smoot.apple.com
 gr-api-siri-aeus1b.smoot.apple.com
 gr-api-siri-aeus1c.smoot.apple.com
+gr-api-siri-aeuw1b.smoot.apple.com
 gr-api-siri-asae1b.smoot.apple.com
 gr-api-siri-ause1b.smoot.apple.com
 gr-api-siri-ause1c.smoot.apple.com
@@ -6534,8 +6667,12 @@ gr-api-sports-ci.smoot.apple.com
 gr-api-sports.smoot.apple.com
 gr-api-video-aape1b.smoot.apple.com
 gr-api-video-aapne1c.smoot.apple.com
+gr-api-video-aapne2a.smoot.apple.com
 gr-api-video-aapne2b.smoot.apple.com
+gr-api-video-aapse2a.smoot.apple.com
 gr-api-video-aapse2b.smoot.apple.com
+gr-api-video-ause1c.smoot.apple.com
+gr-api-video-ause2a.smoot.apple.com
 gr-api-video-ause2b.smoot.apple.com
 gr-api-video-h-aape1a.smoot.apple.com
 gr-api-video-h-aapne1a.smoot.apple.com
@@ -6551,6 +6688,7 @@ gr-api-video-h-aeus1c.smoot.apple.com
 gr-api-video-h-asae1a.smoot.apple.com
 gr-api-video-h-asae1b.smoot.apple.com
 gr-api-video-h-ause1b.smoot.apple.com
+gr-api-video-h-ause2a.smoot.apple.com
 gr-api-video-h-ause2b.smoot.apple.com
 gr-api-video-h-ausw2a.smoot.apple.com
 gr-api-video-h.smoot.apple.com
@@ -6590,11 +6728,13 @@ gr-carry-api-apps-aape1b.smoot.apple.com
 gr-carry-api-apps-aapne1c.smoot.apple.com
 gr-carry-api-apps-aapne2a.smoot.apple.com
 gr-carry-api-apps-aapne2b.smoot.apple.com
+gr-carry-api-apps-aapse1b.smoot.apple.com
 gr-carry-api-apps-aapse2b.smoot.apple.com
 gr-carry-api-apps-aeus1b.smoot.apple.com
 gr-carry-api-apps-aeuw1a.smoot.apple.com
 gr-carry-api-apps-asae1a.smoot.apple.com
 gr-carry-api-apps-ause2b.smoot.apple.com
+gr-carry-api-apps-ausw2a.smoot.apple.com
 gr-carry-api-apps-ci-ausw2a.smoot.apple.com
 gr-carry-api-apps-ci.smoot.apple.com
 gr-carry-api-apps.smoot.apple.com
@@ -6610,6 +6750,7 @@ gr-carry-api-music-aapse2b.smoot.apple.com
 gr-carry-api-music-aeun1a.smoot.apple.com
 gr-carry-api-music-aeuw1a.smoot.apple.com
 gr-carry-api-music-ause1b.smoot.apple.com
+gr-carry-api-music-ause1c.smoot.apple.com
 gr-carry-api-music-ause2b.smoot.apple.com
 gr-carry-api-music-ausw2a.smoot.apple.com
 gr-carry-api-music-ci-ausw2a.smoot.apple.com
@@ -6624,11 +6765,14 @@ gr-carry-api-music-r-aapse2b.smoot.apple.com
 gr-carry-api-music-r-asae1b.smoot.apple.com
 gr-carry-api-music-r-ause1c.smoot.apple.com
 gr-carry-api-music-r-ause2a.smoot.apple.com
+gr-carry-api-music-r-ause2b.smoot.apple.com
 gr-carry-api-music-r-ci-ausw2a.smoot.apple.com
 gr-carry-api-music-r-ci.smoot.apple.com
 gr-carry-api-music-r.smoot.apple.com
 gr-carry-api-music.smoot.apple.com
 gr-carry-api-video-aape1a.smoot.apple.com
+gr-carry-api-video-aape1b.smoot.apple.com
+gr-carry-api-video-aaps1a.smoot.apple.com
 gr-carry-api-video-aapse1a.smoot.apple.com
 gr-carry-api-video-aapse2a.smoot.apple.com
 gr-carry-api-video-aeun1a.smoot.apple.com
@@ -6678,16 +6822,27 @@ griffin.corp.apple.com
 griffin-corp-pbz-mdn.apple.com
 griffin-corp-pbz-prz.apple.com
 gr-loadtest-aape1a.smoot.apple.com
+gr-loadtest-aape1b.smoot.apple.com
+gr-loadtest-aapne1a.smoot.apple.com
+gr-loadtest-aapne1c.smoot.apple.com
 gr-loadtest-aapne2a.smoot.apple.com
+gr-loadtest-aapne2b.smoot.apple.com
+gr-loadtest-aaps1a.smoot.apple.com
 gr-loadtest-aaps1b.smoot.apple.com
 gr-loadtest-aapse1a.smoot.apple.com
+gr-loadtest-aapse1b.smoot.apple.com
 gr-loadtest-aapse2a.smoot.apple.com
 gr-loadtest-aeun1a.smoot.apple.com
 gr-loadtest-aeun1b.smoot.apple.com
+gr-loadtest-aeus1b.smoot.apple.com
 gr-loadtest-aeus1c.smoot.apple.com
 gr-loadtest-aeuw1a.smoot.apple.com
+gr-loadtest-aeuw1b.smoot.apple.com
 gr-loadtest-ause1c.smoot.apple.com
+gr-loadtest-ause2a.smoot.apple.com
+gr-loadtest-ause2b.smoot.apple.com
 gr-loadtest-ausw2a.smoot.apple.com
+gr-loadtest-ausw2b.smoot.apple.com
 gr-loadtest.smoot.apple.com
 group.itunes.apple.com
 gsa.apple.com
@@ -6708,12 +6863,16 @@ gsi4-cn2-ssl.ls.apple.com
 gslb.aaplimg.com
 gslb-jbr-ext.apple.com
 gs-loc.apple.com
+gs-loc-carry.ls.apple.com
 gs-loc-cn.apple.com
 gs-loc-cn-stage.ls.apple.com
 gs-loc.ls-apple.com.akadns.net
 gs-loc-new.ls-apple.com.akadns.net
 gs-loc-offlinetile-carry.ls.apple.com
 gs-loc-offlinetile-stg.ls.apple.com
+gs-loc-qa.ls.apple.com
+gs-loc-secure-staging.g.apple.com
+gs-loc-tile-cnstage.ls.apple.com
 gsp102-e1457.ls.apple.com
 gsp102-e1490.ls.apple.com
 gsp102-e1624.ls.apple.com
@@ -6729,7 +6888,10 @@ gsp102-ssl-e1626.ls.apple.com
 gsp102-ssl-e529.ls.apple.com
 gsp102-ssl-e628.ls.apple.com
 gsp102-ssl-e706.ls.apple.com
+gsp103-cn-eu95-ssl.ls.apple.com
+gsp103-cn-na63-ssl.ls.apple.com
 gsp103-cn-ssl.ls.apple.com
+gsp104-cn-ssl.ls.apple.com
 gsp10.apple-mapkit.com
 gsp10.ls.apple.com
 gsp10-ms12a06.ls.apple.com
@@ -6739,6 +6901,7 @@ gsp10-ssl.ls.apple.com
 gsp10-ssl.ls-apple.com.akadns.net
 gsp10-ssl-ms12a05.ls.apple.com
 gsp10-ssl-ms12a06.ls.apple.com
+gsp10-ssl-pv51a01.ls.apple.com
 gsp10-ssl-pv51a02.ls.apple.com
 gsp10-ssl-st57a01.ls.apple.com
 gsp10-ssl-st57a02.ls.apple.com
@@ -6916,6 +7079,8 @@ gsp41-ssl-e1248.ls.apple.com
 gsp41-ssl-e1512.ls.apple.com
 gsp41-ssl-e1513.ls.apple.com
 gsp41-ssl-e529.ls.apple.com
+gsp42-e177-dlb.ls.apple.com
+gsp42-ssl-e177.ls.apple.com
 gsp45-e1491.ls.apple.com
 gsp45-e1624.ls.apple.com
 gsp45-sl61.ls.apple.com
@@ -6965,6 +7130,7 @@ gsp50-ssl-e529-dlb.ls.apple.com
 gsp50-ssl-e529.ls.apple.com
 gsp50-ssl-e552.ls.apple.com
 gsp50-ssl-e628.ls.apple.com
+gsp51-am11-ssl.ls.apple.com
 gsp51-e1512.ls.apple.com
 gsp51-kr.ls.apple.com
 gsp51-ms12-ssl.ls.apple.com
@@ -7138,6 +7304,9 @@ gsp74-pv41-e693-gs01.ls.apple.com
 gsp76-am31-dlb-1.ls.apple.com
 gsp76-am31.ls.apple.com
 gsp76-am31-ssl.ls.apple.com
+gsp76-cn-dev-ssl.ls.apple.com
+gsp76-cn-ssl.ls.apple.com
+gsp76-cn-stage-ssl.ls.apple.com
 gsp76-e1248.ls.apple.com
 gsp76-e1248-pv50.ls.apple.com
 gsp76-e185.ls.apple.com
@@ -7234,6 +7403,7 @@ gsp9-ssl.apple.com
 gsp9-ssl.ls.apple.com
 gsp9-ssl.ls-apple.com.akadns.net
 gsp9-st14-ssl-dlb.ls.apple.com
+gsp9-st57a01.ls.apple.com
 gspe111-ssl.ls.apple.com
 gspe11-2-cn.ls.apple.com
 gspe11-2-cn-ssl.ls.apple.com
@@ -7421,8 +7591,10 @@ guseu-events.cg.btp.apple.com
 guzzoni-aape1b.smoot.apple.com
 guzzoni-aapne1c.smoot.apple.com
 guzzoni-aapne2a.smoot.apple.com
+guzzoni-aapne2b.smoot.apple.com
 guzzoni-aapse1a.smoot.apple.com
 guzzoni-aapse2b.smoot.apple.com
+guzzoni-aeun1a.smoot.apple.com
 guzzoni-aeus1b.smoot.apple.com
 guzzoni-aeus1c.smoot.apple.com
 guzzoni.apple.com
@@ -7431,6 +7603,7 @@ guzzoni-apple-com-9s2yaqcl6489.v.aaplimg.com
 guzzoni-apple-com-itoabkxddv4.v.aaplimg.com
 guzzoni-apple-com-nne6btvaen1l.v.aaplimg.com
 guzzoni-apple-com.v.aaplimg.com
+guzzoni-ause1c.smoot.apple.com
 guzzoni-ause2a.smoot.apple.com
 guzzoni-ci-ausw2a.smoot.apple.com
 guzzoni-ci.smoot.apple.com
@@ -7473,6 +7646,7 @@ hd-webmail-pbz-prod.apple.com
 hd-webmail-pbz-prod.spbz.apple.com
 health.apple.com
 healthinvestigation.corp.apple.com
+helm.apple.com
 helpapp-chatfacade.apple.com
 help.apple.com
 help-ar.apple.com.edgekey.net
@@ -7553,6 +7727,8 @@ hws-prod-use1.apple.com
 hws-prod-usw2.apple.com
 hws-stage-usw2.apple.com
 hws-validation.apple.com
+hybridpex.apple.com
+hybridpex.g.apple.com
 hybridpex.v.aaplimg.com
 hybridtex.apple.com
 hybris-ext-dr.apple.com
@@ -7582,6 +7758,9 @@ iadsdk-lb.v.aaplimg.com
 iad-ss-static-assets.iad.apple.com
 iadworkbench.apple.com
 iadworkbench-shield.apple.com
+ic1-gcscontentvalidator.g.apple.com
+ic2-gcscontentvalidator.g.apple.com
+ic3-gcscontentvalidator.g.apple.com
 icloud-beta.cdn-apple.com
 icloud-carry.isoproxy.apple.com
 icloud.cdn-apple.com
@@ -7597,6 +7776,7 @@ ic-portal.awusw2.spbz.apple.com
 ic-portal-legacy.awusw2.spbz.apple.com
 ic-portal.opsdna.apple.com
 icq.icloud.com
+id.apple.com
 idcvpn.apple.com
 idcvpn-inbom2.euro.apple.com
 idcvpn-nonmac.apple.com
@@ -7634,6 +7814,7 @@ idms-apple.com.akadns.net
 idmsa-uat.apple.com
 idmsauth.corp.apple.com
 idmsauth-uat.corp.apple.com
+idmsservice.corp.apple.com
 idp-dev.carecloud.health.v.aaplimg.com
 idp-stage.carecloud.health.v.aaplimg.com
 idp-test.carecloud.health.v.aaplimg.com
@@ -7780,6 +7961,7 @@ instapigeon.apple.com
 institutions.healthrecords.apple.com
 instore-channel.apple.com
 instore-channel-cn.apple.com
+int-cert.cg.btp.apple.com
 int-cert-uat.cg.btp.apple.com
 int.cg.btp.apple.com
 intelligent-square-cust-prod.mdn.sbz.apple.com
@@ -7787,8 +7969,12 @@ intelligent-square.ist.apple.com
 interact-arccweb-prod2.awuse1.spbz.apple.com
 interact-arccweb-prod2.awusw2.spbz.apple.com
 interact-arccweb-stage.awuse1.spbz.apple.com
+interact.corp.apple.com
 interactive-support.apple.com
 interactive-support.corp.apple.com
+interact-prod-arccweb.awuse1.spbz.apple.com
+interact-prod-arccweb.awusw2.spbz.apple.com
+interact-prod-arccweb.g.apple.com
 interact-stg.corp.apple.com
 interact-v2.corp.apple.com
 interact-v2.g.apple.com
@@ -7826,6 +8012,7 @@ iphonesubmissions-uat.corp.apple.com
 iphonesubmissions.v.aaplimg.com
 iphonesubmission-uat.corp.apple.com
 iphonesubmission-uat.rno.apple.com
+ipinggu.care.apple.com
 iprocess.ops.apple.com
 iprofiles.apple.com
 ipv6-test-ci77.ls.apple.com
@@ -7897,8 +8084,10 @@ italk-ccx-asr-dev.awusw2.spbz.apple.com
 italk-ccx-tts-dev.awusw2.spbz.apple.com
 itc.mzstatic.com
 itc-mzstatic-origin.itunes.apple.com
+itester-rex.apple.com
 itester-rex-sync.apple.com
 itester-rex-sync-v2.apple.com
+itester-rex-v2.apple.com
 itms11-podcastsconnect.apple.com
 itms11-testflight.apple.com
 itms5-podcastsconnect.apple.com
@@ -8050,6 +8239,8 @@ ixnservices-mcffacade-prod.corp.apple.com
 ixtapa.apple.com
 ixtapa-gtm.apple.com
 jade.aiv.vpg.apple.com
+janus-stage.awuse2.sbz.apple.com
+janus-stage.awusw2.sbz.apple.com
 janus-uat.hw.apple.com
 janus-uat.v.aaplimg.com
 jaybird.apple.com
@@ -8397,6 +8588,8 @@ linear-lu-p-har.tv.apple.com
 linear-lu-p-isp2.tv.apple.com
 linear-lu-p-syn.tv.apple.com
 linear-p-applemp.tv.apple.com
+linear-partner-test11.tv.apple.com
+linear-partner-test7.tv.apple.com
 linear-p-eml.tv.apple.com
 linear-p-enc.tv.apple.com
 linear-p-har2.tv.apple.com
@@ -8422,6 +8615,7 @@ link.apple.com
 linkmaker.itunes.apple.com.edgekey.net
 linkup-aries.apple.com
 linkup-aries-uat.apple.com
+linkupreport-aries.apple.com
 linkupreport-aries-uat.apple.com
 lip-external.gpusw1.sbz.apple.com
 lip-external-uat-stage.gpusw1.sbz.apple.com
@@ -8503,6 +8697,7 @@ ma1-gnv-cdn.apple.com
 ma1-gnv-proxy-cdn.apple.com
 ma1-ihubcarbon-it.apple.com
 ma1-ihubcarbon-ut.apple.com
+ma1-spdrcrp-lweb01.apple.com
 ma4-bomgar-lapp01.apple.com
 ma4-bomgar-lapp02.apple.com
 ma4-bomgar-lapp03.apple.com
@@ -8566,6 +8761,7 @@ maestro-mmt-pbz-prz.apple.com
 maestro-mmt-pbz-prz.spbz.apple.com
 ma-esws2i.apple.com
 ma-expenses-eapproval-gateway.apple.com
+ma-ext-hybridpex.apple.com
 ma.faz.trace.ops.apple.com
 ma.fgl.trace.ops.apple.com
 ma.fgz.trace.ops.apple.com
@@ -8666,6 +8862,7 @@ mantra-uat-stage.awusw2.sbz.apple.com
 manuals.info.apple.com
 manufacturing-api.apple.com
 manufacturing.apple.com
+manufacturing-dr-api.apple.com
 manufacturing-dr-api.insight.apple.com
 manufacturing-dr.apple.com
 manufacturing-preprod.apple.com
@@ -8741,7 +8938,9 @@ massupload-shield.cp.sap.apple.com
 ma-staticips.apple.com
 ma-storebuilder.apple.com
 ma-supplierhealth.apple.com
+ma-swa-golden-gateway.apple.com
 match.gc.apple.com
+matchit.apple.com
 matrices.apple.com
 ma.ubx.trace.ops.apple.com
 ma-webmail-pbz-prod.apple.com
@@ -8778,6 +8977,7 @@ mdn-marcom-attache-gtw.sbz.apple.com
 mdn-mysalescomp-external.apple.com
 mdn-outsideapple-prod.apple.com
 mdn-rvr.apple.com
+mdn-spdrcrp-proxy-ha.apple.com
 mdn-wmem.apple.com
 me.apple-dns.net
 me.com
@@ -8862,6 +9062,8 @@ mfg-serin-data.apple.com
 mfiadmin.apple.com
 mfi.apple.com
 mfiaudits.apple.com
+mficarplaycertificationportal.apple.com
+mficertificationhub.apple.com
 misc-assets.itunes.apple.com
 ml11sa-p01.siri.apple.com
 ml11sa.siri.apple.com
@@ -8882,6 +9084,7 @@ mmap-dev.apple.com.edgekey.net
 mmap-dev.apple.com.edgekey-staging.net
 mmw.apple.com
 mn.apple.com
+mn-staging.apple.com
 mobileapp.apple.com
 mobileapp.apple.com.edgekey.net
 mobileapp.apple.com.edgesuite.net
@@ -8909,6 +9112,9 @@ monsterboardp-pbz.mdn.spbz.apple.com
 monsterboardp-pbz.prz.apple.com
 monsterboardp-pbz.prz.spbz.apple.com
 morpheusvideo-prod.awusw2.sbz.apple.com
+mosaic-external-ingestion-gateway-telemetry.mdn.sbz.apple.com
+mosaic-external-ingestion-gateway-telemetry.msc.sbz.apple.com
+mosaic-external-ingestion-gateway-telemetry.rno.sbz.apple.com
 mosaic-external-ingestion-gateway-telemetry.v.aaplimg.com
 motion.apple.com
 motionartwork.apple.com
@@ -8937,6 +9143,7 @@ msc2-blobvip.apple.com
 msc-api-caracal-prod-dc-msa.apple.com
 msc-api-caracal-stage-dc-msa.apple.com
 msc-applecrm.corp.apple.com
+msc-atlc-prod.apple.com
 msc-b2bhr-mutualauth.apple.com
 msc-box-events.apple.com
 msc-caracal-prod-dc-msa.apple.com
@@ -8951,6 +9158,7 @@ msc-epws2i.apple.com
 msc-esws2i.apple.com
 msc-events-admin-prod.apple.com
 msc-expenses-eapproval-gateway.apple.com
+msc-ext-hybridpex.apple.com
 msc-gbitableauexternal-corp-prod.apple.com
 msc-gbitableauexternal-prod.apple.com
 msc-gsec-eapproval-gateway.apple.com
@@ -9278,6 +9486,7 @@ news.iadsdk.apple.com
 news.iadsdk.apple.com.akadns.net
 news.iadsdk-lb.apple.com.akadns.net
 news.iadsdk.v.aaplimg.com
+newskit-events.apple.com
 newsletter-edge.apple.com
 news-nar-aud.apple.com
 newsopsdata.corp.apple.com
@@ -9356,6 +9565,7 @@ npi-tracker-test.corp.apple.com
 npi-tracker-test.spbz.apple.com
 np.itunes.apple.com
 np.itunes.trbo.apple.com
+npm.apple.com
 np-staging.itunes.trbo.apple.com
 nr.apple.com
 ns2.apple.com--os.space
@@ -15411,7 +15621,9 @@ p193-ckdevice.icloud.com
 p193-ckshare.icloud.com
 p193-contacts.icloud.com
 p193-docws.icloud.com
+p193-exportws.iwork.apple.com
 p193-fmf.icloud.com
+p193-fmfmobile.icloud.com
 p193-iwmb8-china.icloud.com
 p193-keyvalueservice.icloud.com
 p193-maildomainws.icloud.com
@@ -15429,7 +15641,9 @@ p194-ckdevice.icloud.com
 p194-ckshare.icloud.com
 p194-contacts.icloud.com
 p194-docws.icloud.com
+p194-exportws.iwork.apple.com
 p194-fmf.icloud.com
+p194-fmfmobile.icloud.com
 p194-iwmb8-china.icloud.com
 p194-keyvalueservice.icloud.com
 p194-maildomainws.icloud.com
@@ -15447,7 +15661,9 @@ p195-ckdevice.icloud.com
 p195-ckshare.icloud.com
 p195-contacts.icloud.com
 p195-docws.icloud.com
+p195-exportws.iwork.apple.com
 p195-fmf.icloud.com
+p195-fmfmobile.icloud.com
 p195-iwmb8-china.icloud.com
 p195-keyvalueservice.icloud.com
 p195-maildomainws.icloud.com
@@ -15465,7 +15681,9 @@ p196-ckdevice.icloud.com
 p196-ckshare.icloud.com
 p196-contacts.icloud.com
 p196-docws.icloud.com
+p196-exportws.iwork.apple.com
 p196-fmf.icloud.com
+p196-fmfmobile.icloud.com
 p196-iwmb8-china.icloud.com
 p196-keyvalueservice.icloud.com
 p196-maildomainws.icloud.com
@@ -15483,7 +15701,9 @@ p197-ckdevice.icloud.com
 p197-ckshare.icloud.com
 p197-contacts.icloud.com
 p197-docws.icloud.com
+p197-exportws.iwork.apple.com
 p197-fmf.icloud.com
+p197-fmfmobile.icloud.com
 p197-iwmb8-china.icloud.com
 p197-keyvalueservice.icloud.com
 p197-maildomainws.icloud.com
@@ -15501,7 +15721,9 @@ p198-ckdevice.icloud.com
 p198-ckshare.icloud.com
 p198-contacts.icloud.com
 p198-docws.icloud.com
+p198-exportws.iwork.apple.com
 p198-fmf.icloud.com
+p198-fmfmobile.icloud.com
 p198-iwmb8-china.icloud.com
 p198-keyvalueservice.icloud.com
 p198-maildomainws.icloud.com
@@ -18724,7 +18946,9 @@ p401-ckdevice.icloud.com
 p401-ckshare.icloud.com
 p401-contacts.icloud.com
 p401-docws.icloud.com
+p401-exportws.iwork.apple.com
 p401-fmf.icloud.com
+p401-fmfmobile.icloud.com
 p401-iwmb8-china.icloud.com
 p401-keyvalueservice.icloud.com
 p401-maildomainws.icloud.com
@@ -18742,7 +18966,9 @@ p402-ckdevice.icloud.com
 p402-ckshare.icloud.com
 p402-contacts.icloud.com
 p402-docws.icloud.com
+p402-exportws.iwork.apple.com
 p402-fmf.icloud.com
+p402-fmfmobile.icloud.com
 p402-iwmb8-china.icloud.com
 p402-keyvalueservice.icloud.com
 p402-maildomainws.icloud.com
@@ -18760,7 +18986,9 @@ p403-ckdevice.icloud.com
 p403-ckshare.icloud.com
 p403-contacts.icloud.com
 p403-docws.icloud.com
+p403-exportws.iwork.apple.com
 p403-fmf.icloud.com
+p403-fmfmobile.icloud.com
 p403-iwmb8-china.icloud.com
 p403-keyvalueservice.icloud.com
 p403-maildomainws.icloud.com
@@ -18778,7 +19006,9 @@ p404-ckdevice.icloud.com
 p404-ckshare.icloud.com
 p404-contacts.icloud.com
 p404-docws.icloud.com
+p404-exportws.iwork.apple.com
 p404-fmf.icloud.com
+p404-fmfmobile.icloud.com
 p404-iwmb8-china.icloud.com
 p404-keyvalueservice.icloud.com
 p404-maildomainws.icloud.com
@@ -21753,6 +21983,8 @@ p72-ubiquity.icloud.com
 p72-ubiquityws.icloud.com
 p72-uploadimagews.icloud.com
 p73-buy.itunes.apple.com
+p73-exportws.iwork.apple.com
+p74-exportws.iwork.apple.com
 p7-buy.itunes.apple.com
 p8-buy.itunes.apple.com
 p97-archivews.icloud.com
@@ -21990,6 +22222,8 @@ partner-gateway-dc.apple.com
 partner-gateway-dc-cert.apple.com
 partner-gateway-dc-stage.apple.com
 partner-gateway-stage.apple.com
+partnerhub3.apple.com
+partnerhub.apple.com
 partnerhub-nextgen.apple.com
 partnerhub-nextgen-e2e.cs.ist.apple.com
 partnerhub-nextgen-qa.cs.ist.apple.com
@@ -22001,6 +22235,8 @@ partnernetwork.apple.com
 partnernetwork-stg.apple.com
 partner-relay.apple.com
 partner-relay-dr.apple.com
+partner-relay-fasp.apple.com
+partner-relay-faspmdn.apple.com
 partner-relay-live-uat-stage.awusw2.sbz.apple.com
 partner-relay-prod.apple.com
 partner-relay-uat-live.retail.cseng.ist.apple.com
@@ -22237,6 +22473,7 @@ pegasus-quic-test.smoot.apple.com
 people.apple.com
 people.apple.com.edgesuite.net
 peoplechat.apple.com
+peoplechat-aws.apple.com
 peoplechat-mdn.apple.com
 peoplechat-prn.apple.com
 people-origin.apple.com
@@ -22272,6 +22509,7 @@ phantom-svc-pbz-prz.apple.com
 phantom-svc-pbz-prz.spbz.apple.com
 phobos.apple.com
 phobos.apple.com.edgesuite.net
+phoenixes-ext-api.apple.com
 phoenixes-ext.apple.com
 phoenixes-ext.rno.sbz.apple.com
 phoneauth.ess.apple.com
@@ -22381,6 +22619,7 @@ portals.trade-in-platform.apple.com
 portals-uat.trade-in-platform.apple.com
 portal.trade-in-platform.apple.com
 portal-uat.astra.apple.com
+portal-uat.astrax.apple.com
 portal-uat.internal.trade-in-platform.apple.com
 portal-uat.trade-in-platform.apple.com
 posp-gslb-store-payment-service-chn-b-narrative.ext.pos.apple.com
@@ -22393,6 +22632,7 @@ powerbook.apple.com
 powerlink-redirect.mdn.sbz.apple.com
 powerlink-redirect.rno.sbz.apple.com
 pqs2i.apple.com
+pr2-spdrcrp-lweb01.prz.apple.com
 pr3-bomgar-lapp01.prz.apple.com
 pr3-bomgar-lapp02.apple.com
 pr3-bomgar-lapp03.apple.com
@@ -22663,6 +22903,7 @@ providersharing-staging.health.apple.com
 provision.ess.apple.com
 provision.ess-apple.com.akadns.net
 proxy.advp.apple.com
+proxy.re.vpg.apple.com
 proxy.safebrowsing.apple
 proxy-skadnetwork.apple.com
 proxy-skadnetwork.v.aaplimg.com
@@ -22725,6 +22966,7 @@ pr-starling-prod-prod.apple.com
 pr-volumeitunesprogramdownloadtool-prod.apple.com
 prz-marcom-attache-gtw.apple.com
 prz-marcom-attache-gtw.sbz.apple.com
+prz-spdrcrp-proxy-ha.apple.com
 pst.corp.apple.com
 pst-mulesoft.apple.com
 pst-mulesoft-dev2.apple.com
@@ -22762,6 +23004,7 @@ pv-www-apple-cn-shield-stage.apple.com.cn
 pv-www-apple-shield.apple.com
 pv-www-apple-shield-stage.apple.com
 pws2i.apple.com
+pypi.apple.com
 qa-pebble.siri.apple.com
 qa-pebble-swallow.siri.apple.com
 qa.siri.apple.com
@@ -22855,6 +23098,7 @@ rcc-tools-training.rad.retail.apple.com
 rcdc.apple.com
 rcfa.corp.apple.com
 rcs-btb-tool.mdn.spbz.apple.com
+rddt.apple.com
 rdplus-api.awuse1.sbz.apple.com
 rdplus-api.awusw2.sbz.apple.com
 rdplus-api-stage-stage.awuse1.sbz.apple.com
@@ -22999,6 +23243,7 @@ re-perf-edge-hz1.awuse1.sbz.apple.com
 re-perf-edge-hz1.awusw2.sbz.apple.com
 re-perf-gateway.retail.ist.apple.com
 replay.music.apple.com
+reportaproblem.apple.com
 reportingitc2-service.apple.com
 reportingitc2-service-mdn.apple.com
 reportingitc2-service-prz.apple.com
@@ -23026,6 +23271,7 @@ retailcomms.apple.com
 retailcomms-cntlight.apple.com
 retailcomms-mdn.apple.com
 retailcomms-prn.apple.com
+retaildd.apple.com
 retaildemomanager.apple.com
 retaildesignstandards.apple.com
 retaildesignstandards-uat.apple.com
@@ -23042,8 +23288,11 @@ retailpersonalabsence.apple.com
 retailpersonalabsence-dr.apple.com
 retail-platform-bridge-prz.apple.com
 retail-platform-bridge-rno.apple.com
+retail-repair.apple.com
+retail-repair.mdn.apple.com
 retail-repair-mg.cs.ist.apple.com
 retail-repair-mg.v.aaplimg.com
+retail-repair.prz.apple.com
 retailsales.aidp.apple.com
 retailsales.awusw2.sbz.apple.com
 retailsales.awusw2.spbz.apple.com
@@ -23202,6 +23451,7 @@ rn-sq-carrier-stage.apple.com
 rn-sq-device.apple.com
 rn-starling-prod-prod.apple.com
 rn-staticips.apple.com
+rn-swa-golden-gateway.apple.com
 rn-upload-ext-prod.apple.com
 rn-volumeitunesprogramdownloadtool-prod.apple.com
 rn-wdg2-ext.apple.com
@@ -23221,7 +23471,12 @@ roost.rno.spbz.apple.com
 roost-uat.hwte.apple.com
 roost-uat-stage.mdn.spbz.apple.com
 roost-uat-stage.rno.spbz.apple.com
+ropayments-irecon.awuse1.spbz.apple.com
+ropayments-irecon.awusw2.spbz.apple.com
+ropayments-irecon.corp.apple.com
 ropes.apple.com
+ropes-carry.apple.com
+ropes-test.apple.com
 roso.corp.apple.com
 roso-pbz.rno.spbz.apple.com
 roso-prod.awusw2.spbz.apple.com
@@ -23269,6 +23524,7 @@ rtnepu-events.cg.btp.apple.com
 rtneu-events.cg.btp.apple.com
 rto.corp.apple.com
 rtsa.apple.com
+rubygems.apple.com
 rusedp-events.cg.btp.apple.com
 rusedu-events.cg.btp.apple.com
 ruse-events.cg.btp.apple.com
@@ -23297,6 +23553,11 @@ sae1-wwfde-ping.apple.com
 sae1-wwfde-tcp.apple.com
 sae1-wwfde-udp.apple.com
 sae1-wwfde-wave.apple.com
+safaricampaign.apple.com
+safaricampaign.awapse1.sbz.apple.com
+safaricampaign.aweuw1.sbz.apple.com
+safaricampaign.awuse1.sbz.apple.com
+safaricampaign.awusw2.sbz.apple.com
 safaricampaign.v.aaplimg.com
 safari-extensions.apple.com
 sa-fcd-aapse1.apple.com
@@ -23380,6 +23641,8 @@ salesdownload.apple.com
 salesdownload.apple.com.edgesuite.net
 salesdownloaddev.corp.apple.com
 salesinventoryreporting.apple.com
+salesinventoryreporting-canary-dr.mdn.sbz.apple.com
+salesinventoryreporting-canary.msc.sbz.apple.com
 salesinventoryreporting-dr.apple.com
 salesinventoryreporting-msc.apple.com
 saleskit.gpusc1.sbz.apple.com
@@ -23429,6 +23692,7 @@ sbz.apple.com
 sca.mdn.sbz.apple.com
 sca.rno.sbz.apple.com
 schedulingoptions.retail.apple.com
+schedulingoptions-uat-stage.cse.ist.apple.com
 scheduling.trade-in-platform.apple.com
 scheduling-uat.trade-in-platform.apple.com
 scheelite.aaplimg.com
@@ -23465,6 +23729,8 @@ se2.itunes.apple.com.edgesuite.net
 searchads.apple.com
 searchads.apple.com.edgesuite.net
 searchads-irecon.corp.apple.com
+searchads-prv.apple.com
+searchads-reno.apple.com
 searchbot.itunes.apple.com
 search-cdn.itunes-apple.com.akadns.net
 search.developer.apple.com
@@ -23597,6 +23863,7 @@ segment-service-notification-partner.itunes.apple.com
 seguro.promo-apple.com.cdn.gocache.net
 se.itunes.apple.com
 se.itunes.apple.com.edgekey.net
+selfcert.apple.com
 selfsolve.apple.com
 selfsolve.apple.com.edgekey.net
 selfsolve.apple.com.edgesuite.net
@@ -23663,6 +23930,8 @@ sgp-fileaggr-stage.apple.com
 sgp-loansapprover-prod.apple.com
 sgp-rtsa-prod.apple.com
 sgp-security-prod.apple.com
+sgp-spdrcrp-lapp01.asia.apple.com
+sgp-spdrcrp-proxy-ha.apple.com
 sgp-trace.apple.com
 sgp-webmail-pbz-prod.apple.com
 sgp-webmail-pbz-prod.spbz.apple.com
@@ -23709,6 +23978,7 @@ sharedfiles.apple.com
 sharedfiles-prod.apple.com
 sharedlibrary-carry.icloud.com
 sharedlibrary.icloud.com
+sharedlinks.apple.com
 sharedstreams-china.icloud.com
 sharedstreams.fe2.apple-dns.net
 sharedstreams.fe.apple-dns.net
@@ -23722,6 +23992,7 @@ sha-sq-carrier.sbz.apple.com
 sha-sq-carrier-stage.sbz.apple.com
 shazam.apple.com
 shazam-events.cdn-apple.com
+shazam-events.v.aaplimg.com
 shazam-insights.cdn-apple.com
 shazam-insights.g.aaplimg.com
 shazam-insights-lb.apple.com.akadns.net
@@ -23756,6 +24027,19 @@ sh-pod3-smp-device-dr.apple.com
 sh-pod4-smp-device.apple.com
 sh-pod4-smp-device-asset.apple.com
 shps.apple.com
+sidekick-facade-pro.apple.com
+sidekick-facade-pro.cse.ist.apple.com
+sidekick-facade-pro.mdn.sbz.apple.com
+sidekick-facade-pro.rno.sbz.apple.com
+sidekick-facade-pro-secure.mdn.sbz.apple.com
+sidekick-facade-pro-secure.rno.sbz.apple.com
+sidekick-facade-secure-pro.apple.com
+sidekick-notification-service-pro.apple.com
+sidekick-notification-service-pro.mdn.sbz.apple.com
+sidekick-notification-service-pro.rno.sbz.apple.com
+sidekick-notification-service-pro-secure.mdn.sbz.apple.com
+sidekick-notification-service-pro-secure.rno.sbz.apple.com
+sidekick-notification-service-secure-pro.apple.com
 sift.apple.com
 sift-renoedge01.apple.com
 sift-renoedge02.apple.com
@@ -23829,21 +24113,43 @@ smb-rno.apple.com
 smb-stg.apple.com
 sm-cal.apple.com
 sm-calendar-facade-isc-uat-stage.msc.sbz.apple.com
+sm-calendar-facade-pro.apple.com
+sm-calendar-facade-pro.cse.ist.apple.com
 sm-calendar-facade-prod-use1.apple.com
 sm-calendar-facade-prod-usw2.apple.com
+sm-calendar-facade-pro.mdn.sbz.apple.com
+sm-calendar-facade-pro.rno.sbz.apple.com
 sm-calendar-facade-stage.apple.com
 sm-calendar-facade-stage-uat-usw2.apple.com
 sm-facade.apple.com
+sm-facade-aws-stage.cse.ist.apple.com
+sm-facade-pro.apple.com
+sm-facade-pro.cse.ist.apple.com
+sm-facade-pro.mdn.sbz.apple.com
+sm-facade-pro.rno.sbz.apple.com
+sm-facade-secure-pro.apple.com
+sm-facade-secure-pro.cse.ist.apple.com
+sm-facade-secure-pro.mdn.sbz.apple.com
+sm-facade-secure-pro.rno.sbz.apple.com
 sm-facade-stage.apple.com
 sm-facade-wfm-prod-use1.apple.com
 sm-facade-wfm-prod-usw2.apple.com
 sm-facade-wfm-uat-usw2.apple.com
 sm-notification-service.apple.com
+sm-notification-service-aws-stage.cse.ist.apple.com
 sm-notification-service-isc-uat-stage.msc.sbz.apple.com
+sm-notification-service-pro.apple.com
+sm-notification-service-pro.cse.ist.apple.com
+sm-notification-service-pro.mdn.sbz.apple.com
+sm-notification-service-pro.rno.sbz.apple.com
+sm-notification-service-secure-pro.apple.com
+sm-notification-service-secure-pro.cse.ist.apple.com
 sm-notification-service-stage.apple.com
 sm-notification-service-wfm-prod-use1.apple.com
 sm-notification-service-wfm-prod-usw2.apple.com
 sm-notification-service-wfm-uat-usw2.apple.com
+sm-ntfn-service-secure-pro.mdn.sbz.apple.com
+sm-ntfn-service-secure-pro.rno.sbz.apple.com
 smoot-api-lookup-aaps1a.v.aaplimg.com
 smoot-api-lookup-aeun1a.v.aaplimg.com
 smoot-api-lookup-aeun1b.v.aaplimg.com
@@ -23917,6 +24223,7 @@ s.mzstatic.com
 s.mzstatic.itunes-apple.com.akadns.net
 s.mzstatic.trbo.apple.com
 s.mzstatic.v.aaplimg.com
+snackpack.mvp.apple.com
 snapshot.apple.com
 snapshot.apple.com.edgesuite.net
 snapshot-cdn.itunes-apple.com.akadns.net
@@ -23928,7 +24235,9 @@ softwareupdate.isoproxy.apple.com
 so-gw-selfservice.apple.com
 so-gw-selfservice.mdn.sbz.apple.com
 so-gw-selfservice.rno.sbz.apple.com
+so-gw-selfservice-uat-stage.msc.sbz.apple.com
 solara-rcfa.corp.apple.com
+solutionprofessionals.apple.com
 solutionscybersecurity.apple.com
 solve.apple.com
 solve-ext.awuse1.sbz.apple.com
@@ -23942,6 +24251,7 @@ so.retail.apple.com
 soundtracks.icloud.com
 soundtracks.icloud.com.cn
 source.apple.com
+spatialgallery.apple.com
 spbz.apple.com
 sp-cdn.itunes-apple.com.akadns.net
 specialtyideas.corp.apple.com
@@ -23950,6 +24260,7 @@ specter.apple.com
 specter-svc.apple.com
 specter-svc-use1.apple.com
 specter-svc-usw2.apple.com
+speech.apple.com
 speed-test.apple.com
 speedtracer.apple.com
 speedybuy.apps.apple.com
@@ -23999,6 +24310,7 @@ sps-media.aweuw1.sbz.apple.com
 sps-media.v.aaplimg.com
 sq-carrier.apple.com
 sq-carrier-cn.apple.com
+sq-carrier-cn-stage.mdn.sbz.apple.com
 sq-carrier-portal.apple.com
 sq-carrier-portal-stage.apple.com
 sq-carrier-stage.apple.com
@@ -24010,6 +24322,7 @@ sq-clara-stage.mdn.sbz.apple.com
 sq-clara-uat.apple.com
 sq-device.apple.com
 sq-device-cn.apple.com
+sq-device-cn-stage.mdn.sbz.apple.com
 sq-device-proxy.apple.com
 sq-device-proxy-stage.apple.com
 sq-device.shgcn.sbz.apple.com
@@ -24067,12 +24380,17 @@ st1-dcvpnclient-vpn8.apple.com
 stackoverflow.apple.com
 staging-admin.awusw2.sbz.apple.com
 staging.api.videoapps.creatorstudio.apple.com
+staging-auth-assistant.g.apple.com
+staging-flipper.g.apple.com
 staging-gateway.awusw2.sbz.apple.com
+staging-mficertificationhub.g.apple.com
 staging-remote-data-sources.apple.com
 staging-remote-data-sources.apple.com.edgekey.net
+staging-selfcert.g.apple.com
 staging-stocks-data-service.apple.com
 staging-stocks-data-service.infoapps.apple.com
 staging-stocks-data-service-origin.apple.com
+staging-toolsupdater.g.apple.com
 staging-tvplus.awusw2.sbz.apple.com
 staging-weather-data.apple.com
 staging-weather-data.apple.com.edgesuite.net
@@ -24261,12 +24579,15 @@ stratos-flow-runtime.awuse1.sbz.apple.com
 stratos-flow-runtime.awusw2.sbz.apple.com
 stratos-flow-runtime.mdn.sbz.apple.com
 stratos-flow-runtime.rno.sbz.apple.com
+stratos-flow-runtime-stage.awuse1.sbz.apple.com
+stratos-flow-runtime-stage.awusw2.sbz.apple.com
 stratos-flow-runtime-stage.ist.apple.com
 stratos-flow-runtime-stage.mdn.sbz.apple.com
 stratos-flow-runtime-stage.rno.sbz.apple.com
 stratost-flow-runtime-ascent.ist.apple.com
 stratost-flow-runtime-ascent-stage.awuse1.sbz.apple.com
 stratost-flow-runtime-ascent-stage.awusw2.sbz.apple.com
+stratost-flow-runtime.aws.ist.apple.com
 streamingaudio.g.aaplimg.com
 streamingaudio.itunes.apple.com
 streamingaudio.itunes.apple.com.edgesuite.net
@@ -24296,6 +24617,7 @@ sundew-sl61.ls.apple.com
 sundew-st14.ls.apple.com
 sunflower.ls.apple.com
 superhub-tools.rno.spbz.apple.com
+superscalar.amp.apple.com
 supplierassessment.apple.com
 suppliercare.apple.com
 suppliercare-mdn.apple.com
@@ -24358,6 +24680,7 @@ surveyfeedback-mdn.apple.com
 surveyfeedback-prz.apple.com
 survey.mdn.sbz.apple.com
 survey.prz.sbz.apple.com
+surveys-temp.apple.com
 svc-partner-portal-dev.g.apple.com
 svc-partner-portal-dev-impersonation.g.apple.com
 svc-partner-portal-qa.g.apple.com
@@ -24384,6 +24707,7 @@ svs-facade-sh-pilot.prz.apple.com
 svs-facade-sh-pilot.prz.spbz.apple.com
 svs-facade-sh.prz.apple.com
 svs-facade-sh.prz.spbz.apple.com
+swa.apple.com
 swallow.apple.com
 swallow-apple-com.v.aaplimg.com
 swcatalog.apple.com
@@ -24444,6 +24768,14 @@ tdsrcs.ls.apple.com
 tdsrcs-ms12-hc.ls.apple.com
 tdsrcs-qs-hc.ls.apple.com
 tdsrcs-qs.ls.apple.com
+team-facade.apple.com
+team-facade.awuse1.sbz.apple.com
+team-facade.awusw2.sbz.apple.com
+team-facade-ut-stage.awusw2.sbz.apple.com
+team-notification-service.apple.com
+team-notification-service.awuse1.sbz.apple.com
+team-notification-service.awusw2.sbz.apple.com
+team-notification-service-ut-stage.awusw2.sbz.apple.com
 teams.appleservices.apple.com
 technicalpartners.apple.com
 tempo-api-auto.bswe.apple.com
@@ -24542,6 +24874,7 @@ toolboxslm-ivr-trng2-pbz-stage.gpusw1.spbz.apple.com
 toolbox-trng.apple.com
 toolbox-trng.corp.apple.com
 toolbox-trng.sbz.apple.com
+toolsupdater.apple.com
 tpma-stg-ext.v.aaplimg.com
 tpmax.v.aaplimg.com
 tpms-ssw.btp.apple.com
@@ -24561,6 +24894,11 @@ trailers.apple.com.edgekey.net
 trail.msi.ops.apple.com
 trail-prod-external.awusw2.sbz.apple.com
 train.apple.com
+training.apple.com
+trainingcms.apple.com
+trainingcms-dr.apple.com
+trainingcms-dr.sbz.apple.com
+trainingcms.sbz.apple.com
 translator.apple.com
 transporter.amp.apple.com
 transporter.apple.com
@@ -24603,6 +24941,7 @@ ty11sa-x03.siri.apple.com
 uat-gsmbcm-aws.awuse1.sbz.apple.com
 uat-gsproxy-api.prz.sbz.apple.com
 uat-platform-dmchat-retail.apple.com
+uat-superscalar.amp.apple.com
 ubiquity-china.icloud.com
 ubiquity.icloud.com
 ubiquityws.icloud.com
@@ -24634,6 +24973,7 @@ ucp7-as-images.apple.com
 ucp7-epp.apple.com
 ucp7-store.apple.com
 ucp7-storeint.apple.com
+uk.apple.com
 ukg.apple.com
 ukg.mdn.sbz.apple.com
 ukg.rno.sbz.apple.com
@@ -24783,6 +25123,8 @@ use1-acivr-ufd4-secondary-pbz-stage.spbz.apple.com
 use1-acp-developer-api-prod-ws-ext.apple.com
 use1-ahflex-isc.apple.com
 use1-ahflex-isc.sbz.apple.com
+use1-ampentitlements-irecon-pbz.awuse1.spbz.apple.com
+use1-amppayments-irecon-pbz.awuse1.spbz.apple.com
 use1-applepay-irecon-pbz-prod.awuse1.spbz.apple.com
 use1-apply-api.apple.com
 use1-apply.apple.com
@@ -24873,6 +25215,7 @@ use1.meridian.apple.com
 use1-newcapplan-isc.mdn.spbz.apple.com
 use1-ondevice-agreements.apple.com
 use1-osvcomm-ui-dr.apple.com
+use1-peoplechat.apple.com
 use1-plano-prod.apple.com
 use1-platform-dmchat-ace-prod.apple.com
 use1-platform-dmchat-avengers-prod.apple.com
@@ -25108,6 +25451,8 @@ usw2-acp-developer-api-prod-ws-ext.apple.com
 usw2-ais-panopticon-api-prod.apple.com
 usw2a.mobileapp.apple.com
 usw2a-mobilecmd.apple.com
+usw2-ampentitlements-irecon-pbz.awusw2.spbz.apple.com
+usw2-amppayments-irecon-pbz.awusw2.spbz.apple.com
 usw2-applepay-irecon-pbz-prod.awusw2.spbz.apple.com
 usw2-apply-api.apple.com
 usw2-apply.apple.com
@@ -25166,6 +25511,7 @@ usw2-core-aws-facade2-pbz-prod.awusw2.spbz.apple.com
 usw2-core-aws-facade-pbz-prod.awusw2.spbz.apple.com
 usw2-cvp-webex-bridge-prod.apple.com
 usw2-cvp-webex-bridge-uat.apple.com
+usw2-danaweb-prod-prod.apple.com
 usw2-danaweb-stage-stage.apple.com
 usw2-data-appattest-aws-prod.apple.com
 usw2-data-development-appattest-prod.apple.com
@@ -25231,6 +25577,7 @@ usw2-iphone-irecon-pbz.awusw2.spbz.apple.com
 usw2-isol-retail-pbz.apple.com
 usw2-isol-retail-pbz.spbz.apple.com
 usw2-itester-rex-sync-v2-prod.apple.com
+usw2-itester-rex-v2-prod.apple.com
 usw2-main-pbz-test.spbz.apple.com
 usw2.meridian.apple.com
 usw2-mlc-br-pbz-prod.apple.com
@@ -25238,6 +25585,7 @@ usw2-mqasmartaudit-prod.apple.com
 usw2-myportal-aws-prod.apple.com
 usw2-ondevice-agreements.apple.com
 usw2-osvcomm-ui-prod.apple.com
+usw2-peoplechat.apple.com
 usw2-plano-prod.apple.com
 usw2-platform-dmchat-ace-prod.apple.com
 usw2-platform-dmchat-avengers-prod.apple.com
@@ -25479,6 +25827,7 @@ watson-pbz-prz.apple.com
 watson-pbz-prz.spbz.apple.com
 wayland.apple.com
 waylandvip.prz.sbz.apple.com
+wdb.apple.com
 wdg03-partner.apple.com
 wdg03-uat.apple.com
 wdg2-alt.apple.com
@@ -25486,6 +25835,7 @@ wdg2-alt-ext.apple.com
 wdg2.apple.com
 wdg3-alt.apple.com
 wdg3.apple.com
+wdirect.apple.com
 weather-analytics-events.apple.com
 weather.apple.com
 weather-data.apple.com
@@ -25542,6 +25892,7 @@ web-mmap-xe03.apple.com
 web-mmap-xe04.apple.com
 web-mmap-xe05.apple.com
 web-mmap-xe06.apple.com
+webobjects.apple.com
 webpay-sh-mdn.apple.com
 webpay-sh-pilot.apple.com
 webpay-sh-prn.apple.com
@@ -25586,6 +25937,10 @@ wmem.apple.com
 wms.ls.apple.com
 wolfram.aaplimg.com
 woolyjumper.sd.apple.com
+workday-apple8-stage.apple.com
+workday.apple.com
+workday-use1.apple.com
+workday-usw2.apple.com
 world-gen.g.aaplimg.com
 wpc-ae-ingestion-external-stage.apple.com
 wpc-content.apple.com
@@ -25611,6 +25966,7 @@ ws.school.apple.com
 wu.apple.com.akadns.net
 wu-calculator.apple.com
 wu-mdn.apple.com.akadns.net
+wwdc.apple.com
 wwdrkit.apple.com
 wwdrstreaming-cdn.apple.com
 wwfde-wave.apple.com
@@ -25630,7 +25986,6 @@ www.apple.com.edgekey.net.globalredir.akadns.net
 www.apple.com-livemaps.info
 www.apple.com--os.space
 www-apple-com.v.aaplimg.com
-www.appleiphonecell.com
 www.applejava.apple.com
 www.applemusic.apple.com
 www.apple-order1.apple.com
@@ -25683,8 +26038,12 @@ www.seminars.apple.com
 www.servers.apple.com
 www.shake.apple.com
 www.software.apple.com
+www.solutionprofessionals.apple.com
+www.speech.apple.com
 www.support.apple.com
 www.thinkdifferent.us
+www.wdb.apple.com
+www.wdirect.apple.com
 xcard-k-sb-dc1-mdn.apple.com
 xcard-k-sb-dc1-rno.apple.com
 xcard-k-sb-dc2-mdn.apple.com
