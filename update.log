@@ -133515,3 +133515,92 @@ s
 ===xai
 
 == Save names archive
+[master 447fc300] auto-update names
+ 19 files changed, 2334 insertions(+), 1975 deletions(-)
+  azure.com: fetch failed, retry 2/4 in 20s
+  azure.com: fetch failed, retry 3/4 in 30s
+  azure.com: fetch failed, retry 4/4 in 40s
+  azure.com: fetch failed
+  visualstudio.com: fetch failed, retry 1/4 in 10s
+  visualstudio.com: ok
+  twitter.com: ok
+  x.com: ok
+  twimg.com: ok
+  pscp.tv: ok
+  ozon.ru: ok
+  ozonusercontent.com: ok
+  github.com: ok
+  githubusercontent.com: ok
+  githubassets.com: ok
+  githubcopilot.com: fetch failed, retry 1/4 in 10s
+  githubcopilot.com: ok
+  github.io: ok
+  ghcr.io: ok
+  apple.com: ok
+  icloud.com: ok
+  icloud-content.com: ok
+  mzstatic.com: fetch failed, retry 1/4 in 10s
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  aaplimg.com: ok
+  apple-dns.net: ok
+  apple.news: ok
+  adobe.com: ok
+  adobe.io: ok
+  adobelogin.com: ok
+  adobedc.net: fetch failed, retry 1/4 in 10s
+  adobedc.net: fetch failed, retry 2/4 in 20s
+  adobedc.net: ok
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: ok
+  demdex.net: ok
+  omtrdc.net: ok
+  pornhub.com: fetch failed, retry 1/4 in 10s
+  pornhub.com: ok
+  phncdn.com: fetch failed, retry 1/4 in 10s
+  phncdn.com: fetch failed, retry 2/4 in 20s
+  phncdn.com: fetch failed, retry 3/4 in 30s
+  phncdn.com: ok
+  backblaze.com: ok
+  backblazeb2.com: ok
+  huggingface.co: fetch failed, retry 1/4 in 10s
+  huggingface.co: fetch failed, retry 2/4 in 20s
+  huggingface.co: fetch failed, retry 3/4 in 30s
+  huggingface.co: ok
+  hf.co: ok
+  hf.space: ok
+  anthropic.com: fetch failed, retry 1/4 in 10s
+  anthropic.com: fetch failed, retry 2/4 in 20s
+  anthropic.com: ok
+  claude.ai: ok
+  claude.com: ok
+  claudeusercontent.com: ok
+  clau.de: ok
+  x.ai: ok
+  grok.com: ok
+  total CT names: 33705
+
+==Probing YouTube cache servers: skipped, list is less than a week old
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===microsoft
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+===xai
+
+== Save names archive

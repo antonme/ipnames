@@ -4001,7 +4001,9 @@ aem-quality-tracking.stage.corp.adobe.com
 aem-retail-w2-d1-ut.cp.sap.apple.com
 aem-retail-w2-d2-ut.cp.sap.apple.com
 aem-retail-w2-ut.cp.sap.apple.com
+aemrollingstones.gf.corp.adobe.com
 aemshowcase.adobe.com
+aemsizing.adobe.com
 aem-workforce.corp.adobe.com
 aen0a.prd.authapi.cnc.nxs.mde.securitycenter.windows.com
 aen0a.prd.cyberdataapi.dtc.mde.securitycenter.windows.com
@@ -4019,6 +4021,7 @@ aep-customer-alerts-temporal-prod.corp.adobe.com
 aep-customer-alerts-temporal-stage.corp.adobe.com
 aep-destinations.aep-mtls.adobe.com
 aep-destinations-stage.aep-mtls.adobe.com
+aep-mtls-service-3.aep-mtls.adobe.com
 aep-provisioning-temporal-prod.corp.adobe.com
 aep-provisioning-temporal-stg.corp.adobe.com
 aep-waf.adobe.io
@@ -4304,6 +4307,7 @@ ahgk.apps.fbsbx.com
 ahsk.githubusercontent.com
 ai.adobe.com
 aialp.aia.test.ajo.adobe.com
+ai-assist.corp.adobe.com
 aibocaitianshangrenjianyule.googleapis.com
 aibw.googleapis.com
 aic.adobe.com
@@ -4343,6 +4347,8 @@ aigames-autopush.corp.googleusercontent.com
 aigames-dev.corp.googleusercontent.com
 aigames-staging.corp.googleusercontent.com
 aihdownload.adobe.com
+ai-lab.corp.adobe.com
+ailab.corp.adobe.com
 ai.lazerpenguin.com
 aimc.aisvc.visualstudio.com
 aimc-ppe.aisvc.visualstudio.com
@@ -4364,6 +4370,7 @@ aiplatform-training.byoid.googleusercontent.com
 aiplatform-training.cloud.google.com
 aiplatform-training.googleusercontent.com
 aiplatform.us.rep.googleapis.com
+ai-powered.corp.adobe.com
 aip-prod-3p.integrity.apple.com
 ai-radar.corp.adobe.com
 airadar-test.corp.adobe.com
@@ -4373,6 +4380,8 @@ airdownload-stg.corp.adobe.com
 airdownload-stg.wgstg.corp.adobe.com
 airflow-dev.adobe.com
 airflow.dev.cloud-automation.corp.adobe.com
+airflow-prd.adobe.com
+airflow-stg.adobe.com
 airinstall.adobe.com
 ais.adobe.io
 ai-stage2.corp.adobe.com
@@ -4399,6 +4408,8 @@ ajax.microsoft.com
 ajo.corp.adobe.com
 ajo-e2e.corp.adobe.com
 ajo-edge.corp.adobe.com
+ajo-inbound.aep-mtls.adobe.com
+ajo-inbound-stage.aep-mtls.adobe.com
 ajo-journeys.aep-mtls.adobe.com
 ajo-journeys-stage.aep-mtls.adobe.com
 ajo-loyalty.aep-mtls.adobe.com
@@ -4815,6 +4826,7 @@ ams.dev3.nonprod.ml.cdn.office.net
 ams.dogfood.prod.ml.cdn.office.net
 a-msedge.net
 AMS-efz.ms-acdc.office.com
+ams-esa-allocation.corp.adobe.com
 ams.hmetssalu.nonprod.ml.cdn.office.net
 ams.imalkevich.nonprod.ml.cdn.office.net
 ams.kristjanjogi.nonprod.ml.cdn.office.net
@@ -4829,6 +4841,7 @@ am-testing.account.adobe.com
 amtv.github.io
 amxdf2dmws-496ff2e9c6d22116-0-colab.googleusercontent.com
 anablandiana.cm-verify.adobe.com
+an.adobe.com
 analysis.insights.viva.office.com
 analytics16-normal-alisg.tiktok.com
 analytics.adobe.com
@@ -6122,6 +6135,7 @@ apphub.southamerica-west1.rep.mtls.googleapis.com
 apphub.us-east1.rep.googleapis.com
 apphub.us-east1.rep.mtls.googleapis.com
 apphub.us-east5.rep.googleapis.com
+apphub.us-east5.rep.mtls.googleapis.com
 apphub.us-west2.p.rep.googleapis.com
 apphub.us-west2.rep.googleapis.com
 apphub.us-west2.rep.mtls.googleapis.com
@@ -7005,6 +7019,7 @@ atlantis.c.anthropic.com
 atlantis.ops.frame.io
 atlantis-sandbox.c.anthropic.com
 atlantis-staging.c.anthropic.com
+atlasai.corp.adobe.com
 atlas.anthropic.com
 atlas-artifacts.awusw2.sbz.apple.com
 atlaslearning-cdn-ads.apple.com
@@ -7070,6 +7085,7 @@ a-tr-teamsc-swcn-10.swedencentral.cloudapp.azure.com
 a-tr-teamsc-swcn-11.swedencentral.cloudapp.azure.com
 a-tr-teamsc-swcn-14.swedencentral.cloudapp.azure.com
 ats.adobe.com
+ats-bmaas.corp.adobe.com
 atscloudapi.corp.adobe.com
 atscloudapi-stg.corp.adobe.com
 atscloud.corp.adobe.com
@@ -7082,6 +7098,7 @@ atscpe-stg.corp.adobe.com
 atscse-k8s-orjenkins.corp.adobe.com
 atscse-k8s-orjenkins-dashboard.corp.adobe.com
 atscse-k8s-orprod-apiserver.corp.adobe.com
+ats-cxlabs.adobe.com
 ats-cxlabs-dev.adobe.com
 atse-status.adobe.com
 atsk8s-jenkins-admin.corp.adobe.com
@@ -7489,7 +7506,10 @@ auto-ingest.corp.adobe.com
 auto-ingest-stage.corp.adobe.com
 autolinkmaker.itunes.apple.com
 autom8dev.corp.adobe.com
+auto-mate.corp.adobe.com
+automate.corp.adobe.com
 automate-prod.storage.googleapis.com
+automate-us.corp.adobe.com
 automationorchestrator.office.com
 automations.corp.adobe.com
 automations.kusto.aea.securitycenter.windows.com
@@ -10070,6 +10090,7 @@ BABBAF94-0163-4EBD-8EAD-A933BEBAD4F6-netseer-ipaddr-assoc.xy.fbcdn.net
 BABBAF94-0163-4EBD-8EAD-A933BEBAD4F6-netseer-ipaddr-assoc.xz.fbcdn.net
 babe30ce-99e7-48ea-9f49-b38e715f29a3-netseer-ipaddr-assoc.xy.fbcdn.net
 babe30ce-99e7-48ea-9f49-b38e715f29a3-netseer-ipaddr-assoc.xz.fbcdn.net
+babqa.corp.adobe.com
 BAC13352-512E-4346-9EC5-185468B357D0-netseer-ipaddr-assoc.xy.fbcdn.net
 BAC13352-512E-4346-9EC5-185468B357D0-netseer-ipaddr-assoc.xz.fbcdn.net
 bac2166e-2bf3-4344-ae31-997f1de36157-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -16809,6 +16830,7 @@ c.doc-0-0-sj.sj.googleusercontent.com
 c.docs.google.com
 cdpdataapi.manage.office.com
 cdpdiscovery.manage.office.com
+cdpi-monitoring.corp.adobe.com
 cdpingestion.manage.office.com
 cdpi-ops.corp.adobe.com
 cdpi-ops-dev.corp.adobe.com
@@ -17346,6 +17368,10 @@ championevents.openai.com
 championnetwork.openai.com
 champions.openai.com
 changemanagement.corp.apple.com
+changes-manager.identity.adobe.com
+changes-manager.identity-stage.adobe.com
+changes-manager-int.identity.adobe.com
+changes-manager-int.identity-stage.adobe.com
 changes-manager-ui.identity.adobe.com
 channel-in-store-anz.apple.com
 channel-in-store.apple.com
@@ -21384,6 +21410,7 @@ content-datamigration.us-west4.rep.googleapis.com
 content-datamigration.us-west4.rep.mtls.googleapis.com
 content-datamigration.us-west8.p.rep.googleapis.com
 content-datamigration.us-west8.rep.googleapis.com
+content-dataplex.africa-south1.rep.mtls.googleapis.com
 content-dataplex.asia-east1.rep.googleapis.com
 content-dataplex.asia-east1.rep.mtls.googleapis.com
 content-dataplex.asia-east2.rep.mtls.googleapis.com
@@ -22760,7 +22787,9 @@ content-managedkafka.europe-west10.p.rep.googleapis.com
 content-managedkafka.europe-west10.rep.googleapis.com
 content-managedkafka.europe-west12.p.rep.googleapis.com
 content-managedkafka.europe-west1.rep.googleapis.com
+content-managedkafka.europe-west2.p.rep.googleapis.com
 content-managedkafka.europe-west3.p.rep.googleapis.com
+content-managedkafka.europe-west4.rep.mtls.googleapis.com
 content-managedkafka.europe-west6.p.rep.googleapis.com
 content-managedkafka.europe-west6.rep.googleapis.com
 content-managedkafka.europe-west9.rep.googleapis.com
@@ -22777,6 +22806,7 @@ content-managedkafka.us-east1.rep.googleapis.com
 content-managedkafka.us-east4.p.rep.googleapis.com
 content-managedkafka.us-east4.rep.googleapis.com
 content-managedkafka.us-east7.rep.mtls.googleapis.com
+content-managedkafka.us-south1.rep.googleapis.com
 content-managedkafka.us-west2.rep.mtls.googleapis.com
 content-managedkafka.us-west3.p.rep.googleapis.com
 content-managedkafka.us-west3.rep.googleapis.com
@@ -25176,6 +25206,7 @@ c.s-microsoft.com
 c.s-microsoft.com-c.edgekey.net
 cso-partner-assessment.corp.apple.com
 cso-partner-assessment-uat.corp.apple.com
+csopm-ticket-analyser.corp.adobe.com
 cs.phncdn.com
 csp.itunes.apple.com
 csp.microsoft.com
@@ -27863,6 +27894,7 @@ datafusion.us-west1.p.rep.googleapis.com
 datafusion.us-west1.rep.googleapis.com
 datafusion.us-west1.rep.mtls.googleapis.com
 datafusion.us-west2.rep.mtls.googleapis.com
+data.gm.test.ajo.adobe.com
 data-governance.adobe.com
 data-governance-api-stg.adobe.com
 data-governance-dev.adobe.com
@@ -30250,6 +30282,8 @@ di-imaging.ff.adobe.io
 d.imalkevich.main.ml.mdn.skype.net
 dimbar.is.withgoogle.com
 di-me.ff.adobe.io
+dimension.adobe.com
+dimension-stage.adobe.com
 dimg-pa.googleapis.com
 dinosaur.frame.io
 dinosaur.staging.frame.io
@@ -30560,6 +30594,7 @@ documentai.northamerica-northeast1.rep.mtls.googleapis.com
 documentai.us.rep.googleapis.com
 documentcloud.adobe.com
 documentcloud.adobe.com.i.edgekey.net
+documentexperience.corp.adobe.com
 documentprocessingassistant.outlook.com
 document-review.pornhub.com
 documents.adobe.com
@@ -36759,6 +36794,7 @@ e-gtv-078.github.io
 egypt-ca-version-2.expressnetw.com
 eh11.withgoogle.com
 ehd.corp.adobe.com
+ehd-dev.corp.adobe.com
 ehd-meta.corp.adobe.com
 ehd-stage.corp.adobe.com
 eh.lazerpenguin.com
@@ -37970,6 +38006,7 @@ eventarcpublishing.europe-north1.rep.mtls.googleapis.com
 eventarcpublishing.europe-west3.rep.mtls.googleapis.com
 eventarcpublishing.northamerica-northeast2.rep.googleapis.com
 eventarcpublishing.us-central1.rep.googleapis.com
+eventarcpublishing.us-central1.rep.mtls.googleapis.com
 eventarc.southamerica-west1.p.rep.googleapis.com
 eventarc.southamerica-west1.rep.googleapis.com
 eventarc.us-central1.rep.googleapis.com
@@ -45606,6 +45643,7 @@ feature-measurement.corp.adobe.com
 featureupdate.msn.com
 feau1-1.fna.fbcdn.net
 feau1-1.fna.whatsapp.net
+feb20.corp.adobe.com
 feb25128-391c-4af8-bdbd-2b2ac65a6d80-netseer-ipaddr-assoc.xy.fbcdn.net
 feb25128-391c-4af8-bdbd-2b2ac65a6d80-netseer-ipaddr-assoc.xz.fbcdn.net
 feb7fa42-c129-4564-95f2-d273aeb64e2d-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -45750,6 +45788,7 @@ fedo1-1.fna.fbcdn.net
 fedo1-1.fna.whatsapp.net
 fedramp.claude.com
 fedspart-dev.adobe.com
+fedspart-prd.adobe.com
 fedspart-prod.adobe.com
 fedspart-stg.adobe.com
 FEE2CB13-B5A4-4D51-9B1D-0C9058A9C8F9-netseer-ipaddr-assoc.xy.fbcdn.net
@@ -52658,6 +52697,7 @@ frameio-mist-prod-us-west.corp.adobe.com
 frameio-mist-stage-us-east.corp.adobe.com
 frameio-mist-stage-us-west.corp.adobe.com
 frame-io.outreach.adobe.com
+frameio-temporal-prod.corp.adobe.com
 frameio.us-east-1.edge.arcade.dev.frame.io
 frameio.us-east-1.edge.arcade.frame.io
 frameio.us-east-1.edge.arcade.staging.frame.io
@@ -62986,6 +63026,7 @@ loki.cloud.adobe.io
 loki-dashboard.corp.adobe.com
 loki.delve.office.com
 lon28prdapp01-canary-opaph.netmon.azure.com
+lon.an.adobe.com
 lon.appsvc.an.adobe.com
 lon.axle.an.adobe.com
 loncmpub.corp.adobe.com
@@ -67374,6 +67415,7 @@ mtls.sandbox.googleapis.com
 mtls.sandbox.google.com
 mtls-service.aep-mtls.adobe.com
 mtls-service-customer-mirror.aep-mtls.adobe.com
+mtls-service-stage.aep-mtls.adobe.com
 mtls-test-client-cert.aep-mtls.adobe.com
 mt-mla.prod.surfshark.com
 m-tracker.facebook.com---------------returnnow-info.drivethruvideos.com
@@ -68379,6 +68421,7 @@ no1010042069213.corp.adobe.com
 no1010042070240.corp.adobe.com
 no1010042071114.corp.adobe.com
 no1010042072153.corp.adobe.com
+no1010042073066.corp.adobe.com
 no1010042075151.corp.adobe.com
 no1010042077143.corp.adobe.com
 no1010042129211.corp.adobe.com
@@ -68431,6 +68474,7 @@ no1010042234163.corp.adobe.com
 no1010042234169.corp.adobe.com
 no1010042234176.corp.adobe.com
 no1010042234178.corp.adobe.com
+no1010042234248.corp.adobe.com
 no1010042234253.corp.adobe.com
 no1010042236012.corp.adobe.com
 no1010042236013.corp.adobe.com
@@ -69314,13 +69358,18 @@ omextemplates.content.office.net
 om.lazerpenguin.com
 omni-perforce-saml.corp.apple.com
 omnivore.acc.dgov.an.adobe.com
+omnivore.acc.dgov-stage.an.adobe.com
 omnivore.aec.dgov.an.adobe.com
+omnivore.aec.dgov-stage.an.adobe.com
 omnivore.aus.dgov.an.adobe.com
 omnivore.can.dgov.an.adobe.com
 omnivore.che.dgov.an.adobe.com
 omnivore.dgov.an.adobe.com
+omnivore.dgov-stage.an.adobe.com
 omnivore.gbr.dgov.an.adobe.com
 omnivore.ind.dgov.an.adobe.com
+omnivore-int.acc.dgov-stage.an.adobe.com
+omnivore-int.aec.dgov-stage.an.adobe.com
 omnivore.nld.dgov.an.adobe.com
 o.money-dev.x.com
 o.money-staging.x.com
@@ -84648,6 +84697,9 @@ pes.corp.adobe.com
 peso.ci.corp.adobe.com
 peso.corp.adobe.com
 pes-ops.corp.adobe.com
+pestools.corp.adobe.com
+pes-utils.corp.adobe.com
+pesutils.corp.adobe.com
 petropluvialis.apple.com
 petuniap.apple.com
 peu2-collabhubrtc.officeapps.live.com
@@ -85050,6 +85102,7 @@ pnpserver.corp.adobe.com
 pnpserver.net.adobe.com
 pnvbier0.ovslegodl.sched.ovscdns.com
 pnv.skype.com
+pnw.an.adobe.com
 pnw.appsvc.an.adobe.com
 pnw.axle.an.adobe.com
 pnw.intsvcs.an.adobe.com
@@ -86392,6 +86445,7 @@ ppe.lighthouse.office.net
 ppe.mds.office.com
 ppe.nonprod.complianceposturemanagement.office.com
 ppe.nonprod.complianceposturemanagement.office.net
+ppe.oloobe.officeapps.live.com
 ppe.online.core.vsengsaas.visualstudio.com
 ppe.rps.msa.api.diagnostics.office.com
 ppe.scd.azure.com
@@ -90219,6 +90273,7 @@ rhodium-kr.corp.adobe.com
 ri3q.githubusercontent.com
 rich-text-to-image.github.io
 riding-habit.github.io
+rigor.corp.adobe.com
 rikiyat.github.io
 ringmaster.teams.internal.office.com
 rioapp.btp.sap.apple.com
@@ -90402,6 +90457,7 @@ rogit.qus1.twitter.com
 rogit.smf1.twitter.com
 rokx.apps.fbsbx.com
 ro.lazerpenguin.com
+rollingstones.gf.corp.adobe.com
 romania-ca-version-2.expressnetw.com
 rondele.github.io
 roompulse.corp.adobe.com
@@ -97375,6 +97431,7 @@ senseauth1-prd.securitycenter.windows.com
 senseauth2-ca.securitycenter.windows.com
 senseauth2-prd.securitycenter.windows.com
 senseiprdkv.office.net
+sentience.corp.adobe.com
 sentinel.corp.adobe.com
 sentinel-dev.corp.adobe.com
 sentinel.openai.com
@@ -98272,6 +98329,7 @@ simple-workflow-stage.licenses.adobe.com
 sims.corp.adobe.com
 sin3-ib.msn.com
 sin501-nahtlshared01.htl.fb.com
+sin.an.adobe.com
 sin.appsvc.an.adobe.com
 sin.axle.an.adobe.com
 singapore-1-ext.vpn.adobe.com
@@ -98654,6 +98712,7 @@ smartscreen.microsoft.com
 smartspend.corp.adobe.com
 smartspend-qa.corp.adobe.com
 smartspend-stg.corp.adobe.com
+smart-tools.corp.adobe.com
 smaug.skype.com
 smb.apple.com
 smba.skype.com
@@ -100521,6 +100580,7 @@ staging-datalineage.europe-west15.rep.sandbox.googleapis.com
 staging-datalineage.us-east4.p.rep.sandbox.googleapis.com
 staging-datalineage.us-east4.rep.mtls.sandbox.googleapis.com
 staging-datamigration.asia-east1.p.rep.sandbox.googleapis.com
+staging-datamigration.asia-east1.rep.mtls.sandbox.googleapis.com
 staging-datamigration.asia-east1.rep.sandbox.googleapis.com
 staging-datamigration.europe-west1.p.rep.sandbox.googleapis.com
 staging-datamigration.europe-west1.rep.mtls.sandbox.googleapis.com
@@ -101415,6 +101475,7 @@ sts.us-central1.rep.mtls.googleapis.com
 sts.us-central2.p.rep.googleapis.com
 sts.us-central2.rep.googleapis.com
 sts.us-central2.rep.mtls.googleapis.com
+sts.us-east1.p.rep.googleapis.com
 sts.us-east1.rep.googleapis.com
 sts.us-east1.rep.mtls.googleapis.com
 sts.us-east4.p.rep.googleapis.com
@@ -102274,6 +102335,7 @@ t82g.withgoogle.com
 t9-f.githubusercontent.com
 t9hc.adobeaemcloud.com
 ta8m.googleapis.com
+taas.projectoxford.adobe.com
 tableau.aam.adobe.com
 table.edproxy.aed01.ediscovery.outlook.com
 table.edproxy.aed02.ediscovery.outlook.com
@@ -102576,6 +102638,8 @@ telephonyspamprotect-pa.googleapis.com
 teleport-role-dev.corp.adobe.com
 teleport-secondary.sharedservices.frame.io
 teleport.sharedservices.frame.io
+tellius.corp.adobe.com
+tellius-poc.corp.adobe.com
 telus.voice.google.com
 telus-voice-staging.sandbox.google.com
 templatesmetadata.office.net
@@ -105341,6 +105405,7 @@ vantage-service-osv.awusw2.spbz.apple.com
 vantraderuk-my.sharepoint.com
 vapor.frame.io
 vapor-storybook.frame.io
+vappstore-dev-xd7-noida.corp.adobe.com
 vaprocessor-canary.teams.internal.office.com
 vaprocessor.gcc.teams.internal.office.com
 vas-alisg16.tiktokv.com
