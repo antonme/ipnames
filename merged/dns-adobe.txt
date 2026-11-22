@@ -4342,6 +4342,7 @@ data.adobedc.net
 data.adobedemoamericas305.test.ajo.adobe.com
 data.aem-showcase-internal.adobe.com
 data.aem-sites-internal.adobe.com
+data.aepcomms.cjm.adobe.com
 data.aia.test.ajo.adobe.com
 data.ajo-campaigns-e2e-ind2-ultimate.test.ajo.adobe.com
 data.americanexpress.test.ajo.adobe.com
@@ -4807,6 +4808,7 @@ dev.experimentation.adobe.com
 dev.external-site.corp.adobe.com
 dev.ff.adobe.io
 dev-ffc-files.corp.adobe.com
+dev.ffos.corp.adobe.com
 dev.filetransfer.adobe.com
 dev.frame.io
 dev.fusion.adobe.com
@@ -6137,6 +6139,7 @@ ffda-test-machine.qa.campaign.adobe.com
 ff-dev.corp.adobe.com
 ffhome-dev.corp.adobe.com
 ffhome-stage.corp.adobe.com
+ffos.corp.adobe.com
 ff-platform-stage.corp.adobe.com
 ff-roadmap-app.adobe.com
 ff-stage.corp.adobe.com
@@ -6531,6 +6534,9 @@ getter.experiencecloud.adobe.com
 getter.hostmaster.experiencecloud.adobe.com
 getter-outlook.documents.adobe.com
 getvoice.adobe.com
+gf.corp.adobe.com
+gf-dev.corp.adobe.com
+gf-stg.corp.adobe.com
 gg7kgkhk8h.data.adobedc.net
 ghah.documents.adobe.com
 gh.connect.brand.us.sem.adobe.com
@@ -9783,6 +9789,7 @@ morgainefordworkman.myportfolio.com
 mo-ri.myportfolio.com
 morosophem.myportfolio.com
 mosaic.corp.adobe.com
+mosaic.corp.ethos506-prod-or2.prod.ethos.corp.adobe.com
 mosaick.corp.adobe.com
 mosaic-next.corp.adobe.com
 mosaic-next-stage.corp.adobe.com
@@ -9881,6 +9888,7 @@ mta-sts.experiencecloud.adobe.com
 mtestterrakube.corp.adobe.com
 m.t.hersheys.com.cname.campaign.adobe.com
 m.t.home.saxo.cname.campaign.adobe.com
+mtls-check.aep-mtls.adobe.com
 mtls-servce-stage.aep-mtls.adobe.com
 mtls-service.aep-mtls.adobe.com
 mtls-service-customer-mirror.aep-mtls.adobe.com
@@ -9939,6 +9947,7 @@ myds-hb.corp.adobe.com
 myds-or1-vip.corp.adobe.com
 mydsstg.corp.adobe.com
 my-first-domain.cm-verify.adobe.com
+myguest.corp.adobe.com
 myguests.corp.adobe.com
 mymoneybank-mid-prod1-1.campaign.adobe.com
 myoccu-mkt-prod0-t.na2.documents.adobe.com
@@ -12128,7 +12137,9 @@ or2.mongodb.documents.adobe.com
 or2.stage.canary.adobe.com
 or-apm1-int-mgt.corp.adobe.com
 or-apricot-prd-27043-ssl.corp.adobe.com
+or-asm1-prd.corp.adobe.com
 or-asm1-stg.corp.adobe.com
+or-asm2-prd.corp.adobe.com
 or-asm2-stg.corp.adobe.com
 or-banana-stg-27043-ssl.corp.adobe.com
 or-banana-stg-27043-ssl.corp.c00.adobe.com
@@ -12675,6 +12686,7 @@ portal.cloudemea1-region.brand-portal.adobe.com
 portaldata.marketing.adobe.com
 portal.frontpage.marketing.adobe.com
 portal-inet.marketing.adobe.com
+portal.ise.corp.adobe.com
 portal.ks.experiencecloud.adobe.com
 portal.life.experiencecloud.adobe.com
 portal.marketing.adobe.com
@@ -15516,6 +15528,7 @@ snj2-sw01-inet-1-transport.net.adobe.com
 snj3-dn01.corp.adobe.com
 snj3-infw01.corp.adobe.com
 snj3-vw02-inet-1-transport.net.adobe.com
+snj-asm1-prd.corp.adobe.com
 snj-asm2-prd.corp.adobe.com
 snjs-bpnfw01.corp.adobe.com
 snjs-bpnfw02.corp.adobe.com
@@ -15875,6 +15888,7 @@ staging.author.sv.adobe.com
 staging.cbs.sv.adobe.com
 staging.cms.sv.adobe.com
 staging.dxa.corp.adobe.com
+staging.ffos.corp.adobe.com
 staging.frame.io
 staginggit.marketing.adobe.com
 staging.growth.corp.adobe.com
@@ -17673,6 +17687,8 @@ vendors-node.experiencecloud.adobe.com
 vercel.dev.frame.io
 verify.adobe.com
 veritastaxsolutions.na4.documents.adobe.com
+verity-ai.corp.adobe.com
+verity-ai-qa.corp.adobe.com
 versa-cp.corp.adobe.com
 vestiairecollective-mkt-prod1-res.campaign.adobe.com
 vetz.adobeaemcloud.com
