@@ -1430,6 +1430,7 @@ bigqueryreservation.us-west8.p.rep.googleapis.com
 bigqueryreservation.us-west8.rep.googleapis.com
 bigquery.southamerica-east1.googleapis.com
 bigquerystorage.asia-south1.p.rep.googleapis.com
+bigquerystorage.asia-south1.rep.googleapis.com
 bigquerystorage.asia-south2.p.rep.googleapis.com
 bigquerystorage.asia-south2.rep.googleapis.com
 bigquerystorage.asia-south2.rep.mtls.googleapis.com
@@ -2936,6 +2937,7 @@ content-apphub.us-east4.rep.googleapis.com
 content-apphub.us-east4.rep.mtls.googleapis.com
 content-apphub.us-east5.p.rep.googleapis.com
 content-apphub.us-east5.rep.googleapis.com
+content-apphub.us-east5.rep.mtls.googleapis.com
 content-apphub.us-west3.p.rep.googleapis.com
 content-apphub.us-west3.rep.mtls.googleapis.com
 content-apphub.us-west4.rep.googleapis.com
@@ -3466,6 +3468,7 @@ content-batch-firestore.asia-south1.rep.googleapis.com
 content-batch-firestore.asia-south1.rep.mtls.googleapis.com
 content-batch-firestore.asia-south2.p.rep.googleapis.com
 content-batch-firestore.asia-south2.rep.googleapis.com
+content-batch-firestore.asia-south2.rep.mtls.googleapis.com
 content-batch-firestore.asia-southeast1.p.rep.googleapis.com
 content-batch-firestore.asia-southeast1.rep.googleapis.com
 content-batch-firestore.asia-southeast2.p.rep.googleapis.com
@@ -5641,6 +5644,7 @@ content-firestorekeyvisualizer.europe-west4.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west4.rep.mtls.googleapis.com
 content-firestorekeyvisualizer.europe-west6.p.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west6.rep.googleapis.com
+content-firestorekeyvisualizer.europe-west6.rep.mtls.googleapis.com
 content-firestorekeyvisualizer.europe-west8.p.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west8.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west8.rep.mtls.googleapis.com
@@ -6996,6 +7000,7 @@ content-parametermanager.us.rep.googleapis.com
 content-parametermanager.us-south1.p.rep.googleapis.com
 content-parametermanager.us-south1.rep.googleapis.com
 content-parametermanager.us-south1.rep.mtls.googleapis.com
+content-parametermanager.us-west1.rep.googleapis.com
 content-parametermanager.us-west2.rep.googleapis.com
 content-parametermanager.us-west2.rep.mtls.googleapis.com
 content-parametermanager.us-west3.rep.googleapis.com
@@ -7176,6 +7181,7 @@ content-redis.me-central2.rep.googleapis.com
 content-redis.me-central2.rep.mtls.googleapis.com
 content-redis.me-west1.p.rep.googleapis.com
 content-redis.me-west1.rep.googleapis.com
+content-redis.me-west1.rep.mtls.googleapis.com
 content-redis.northamerica-northeast1.rep.googleapis.com
 content-redis.northamerica-northeast1.rep.mtls.googleapis.com
 content-redis.northamerica-northeast2.rep.googleapis.com
@@ -7222,6 +7228,7 @@ content-run.asia-northeast1.rep.googleapis.com
 content-run.asia-northeast1.rep.mtls.googleapis.com
 content-run.asia-northeast2.p.rep.googleapis.com
 content-run.asia-northeast2.rep.googleapis.com
+content-run.asia-northeast3.rep.googleapis.com
 content-run.asia-northeast3.rep.mtls.googleapis.com
 content-run.asia-south1.p.rep.googleapis.com
 content-run.asia-south1.rep.googleapis.com
@@ -8124,11 +8131,13 @@ content-trafficdirector.me-west1.p.rep.googleapis.com
 content-trafficdirector.me-west1.rep.googleapis.com
 content-trafficdirector.northamerica-northeast1.p.rep.googleapis.com
 content-trafficdirector.northamerica-south1.rep.googleapis.com
+content-trafficdirector.us-central1.p.rep.googleapis.com
 content-trafficdirector.us-central1.rep.googleapis.com
 content-trafficdirector.us-central2.rep.googleapis.com
 content-trafficdirector.us-central2.rep.mtls.googleapis.com
 content-trafficdirector.us-east1.rep.googleapis.com
 content-trafficdirector.us-east4.rep.googleapis.com
+content-trafficdirector.us-east5.p.rep.googleapis.com
 content-trafficdirector.us-east5.rep.googleapis.com
 content-trafficdirector.us-east7.p.rep.googleapis.com
 content-trafficdirector.us-east7.rep.googleapis.com
@@ -8558,6 +8567,7 @@ dataflow.europe-southwest1.p.rep.googleapis.com
 dataflow.europe-southwest1.rep.googleapis.com
 dataflow.europe-west10.p.rep.googleapis.com
 dataflow.europe-west10.rep.googleapis.com
+dataflow.europe-west12.p.rep.googleapis.com
 dataflow.europe-west12.rep.mtls.googleapis.com
 dataflow.europe-west1.p.rep.googleapis.com
 dataflow.europe-west1.rep.googleapis.com
@@ -13639,6 +13649,7 @@ storage.africa-south1.rep.mtls.googleapis.com
 storage.asia-east1.p.rep.googleapis.com
 storage.asia-east1.rep.mtls.googleapis.com
 storage.asia-east2.rep.googleapis.com
+storage.asia-east2.rep.mtls.googleapis.com
 storage.asia-northeast1.p.rep.googleapis.com
 storage.asia-northeast1.rep.mtls.googleapis.com
 storage.asia-northeast3.p.rep.googleapis.com
@@ -13795,6 +13806,7 @@ sts.europe-west1.p.rep.googleapis.com
 sts.europe-west1.rep.googleapis.com
 sts.europe-west1.rep.mtls.googleapis.com
 sts.europe-west2.p.rep.googleapis.com
+sts.europe-west2.rep.googleapis.com
 sts.europe-west2.rep.mtls.googleapis.com
 sts.europe-west3.p.rep.googleapis.com
 sts.europe-west3.rep.googleapis.com
