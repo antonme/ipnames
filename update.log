@@ -135037,3 +135037,105 @@ s
 ===xai
 
 == Save names archive
+[master b7795313] auto-update names
+ 14 files changed, 1472 insertions(+), 28 deletions(-)
+  demdex.net: fetch failed
+  omtrdc.net: fetch failed, retry 1/4 in 10s
+  omtrdc.net: fetch failed, retry 2/4 in 20s
+  omtrdc.net: fetch failed, retry 3/4 in 30s
+  omtrdc.net: fetch failed, retry 4/4 in 40s
+  omtrdc.net: fetch failed
+  pornhub.com: fetch failed, retry 1/4 in 10s
+  pornhub.com: fetch failed, retry 2/4 in 20s
+  pornhub.com: fetch failed, retry 3/4 in 30s
+  pornhub.com: fetch failed, retry 4/4 in 40s
+  pornhub.com: fetch failed
+  phncdn.com: fetch failed, retry 1/4 in 10s
+  phncdn.com: fetch failed, retry 2/4 in 20s
+  phncdn.com: fetch failed, retry 3/4 in 30s
+  phncdn.com: fetch failed, retry 4/4 in 40s
+  phncdn.com: fetch failed
+  backblaze.com: fetch failed, retry 1/4 in 10s
+  backblaze.com: fetch failed, retry 2/4 in 20s
+  backblaze.com: fetch failed, retry 3/4 in 30s
+  backblaze.com: fetch failed, retry 4/4 in 40s
+  backblaze.com: fetch failed
+  backblazeb2.com: fetch failed, retry 1/4 in 10s
+  backblazeb2.com: fetch failed, retry 2/4 in 20s
+  backblazeb2.com: fetch failed, retry 3/4 in 30s
+  backblazeb2.com: fetch failed, retry 4/4 in 40s
+  backblazeb2.com: fetch failed
+  huggingface.co: fetch failed, retry 1/4 in 10s
+  huggingface.co: fetch failed, retry 2/4 in 20s
+  huggingface.co: fetch failed, retry 3/4 in 30s
+  huggingface.co: fetch failed, retry 4/4 in 40s
+  huggingface.co: fetch failed
+  hf.co: fetch failed, retry 1/4 in 10s
+  hf.co: fetch failed, retry 2/4 in 20s
+  hf.co: fetch failed, retry 3/4 in 30s
+  hf.co: fetch failed, retry 4/4 in 40s
+  hf.co: fetch failed
+  hf.space: fetch failed, retry 1/4 in 10s
+  hf.space: fetch failed, retry 2/4 in 20s
+  hf.space: fetch failed, retry 3/4 in 30s
+  hf.space: fetch failed, retry 4/4 in 40s
+  hf.space: fetch failed
+  anthropic.com: fetch failed, retry 1/4 in 10s
+  anthropic.com: fetch failed, retry 2/4 in 20s
+  anthropic.com: fetch failed, retry 3/4 in 30s
+  anthropic.com: fetch failed, retry 4/4 in 40s
+  anthropic.com: fetch failed
+  claude.ai: fetch failed, retry 1/4 in 10s
+  claude.ai: fetch failed, retry 2/4 in 20s
+  claude.ai: fetch failed, retry 3/4 in 30s
+  claude.ai: fetch failed, retry 4/4 in 40s
+  claude.ai: fetch failed
+  claude.com: fetch failed, retry 1/4 in 10s
+  claude.com: fetch failed, retry 2/4 in 20s
+  claude.com: fetch failed, retry 3/4 in 30s
+  claude.com: fetch failed, retry 4/4 in 40s
+  claude.com: fetch failed
+  claudeusercontent.com: fetch failed, retry 1/4 in 10s
+  claudeusercontent.com: fetch failed, retry 2/4 in 20s
+  claudeusercontent.com: fetch failed, retry 3/4 in 30s
+  claudeusercontent.com: fetch failed, retry 4/4 in 40s
+  claudeusercontent.com: fetch failed
+  clau.de: fetch failed, retry 1/4 in 10s
+  clau.de: fetch failed, retry 2/4 in 20s
+  clau.de: fetch failed, retry 3/4 in 30s
+  clau.de: fetch failed, retry 4/4 in 40s
+  clau.de: fetch failed
+  x.ai: fetch failed, retry 1/4 in 10s
+  x.ai: fetch failed, retry 2/4 in 20s
+  x.ai: fetch failed, retry 3/4 in 30s
+  x.ai: fetch failed, retry 4/4 in 40s
+  x.ai: fetch failed
+  grok.com: fetch failed, retry 1/4 in 10s
+  grok.com: fetch failed, retry 2/4 in 20s
+  grok.com: fetch failed, retry 3/4 in 30s
+  grok.com: fetch failed, retry 4/4 in 40s
+  grok.com: fetch failed
+  crt.sh produced nothing; keeping previous cache-ct.txt
+
+==Probing YouTube cache servers: skipped, list is less than a week old
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===microsoft
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+===xai
+
+== Save names archive
