@@ -255,6 +255,7 @@ admin.commerce.adobe.com
 adminconsole.adobe.com
 admin-edge1.mftstg.corp.adobe.com
 admin-edge2.mftstg.corp.adobe.com
+admin.mft.corp.adobe.com
 admin.mftstg.corp.adobe.com
 admin-services-worker.adobe.io
 admin-services-worker.corp.adobe.com
@@ -266,6 +267,7 @@ adobe-aware-stage.corp.adobe.com
 adobe-aware-stg.corp.adobe.com
 adobeb2b.adobe.com
 adobeb2b-dev.adobe.com
+adobeb2b-stg.adobe.com
 adobebriefing.adobe.com
 adobebriefing-stage.adobe.com
 adobecampaign-augs.adobe.com
@@ -770,6 +772,7 @@ appcat-eth-stg.corp.adobe.com
 appcat-prd.corp.adobe.com
 appcat-stg.corp.adobe.com
 app.cci-ghec.ci.adobe.com
+app.cci-stage.ci.adobe.com
 app-cdn.stage2.adobe.com
 app.circle.ci.adobe.com
 app.circle-stg.ci.adobe.com
@@ -1264,6 +1267,7 @@ bps-il.adobe.io
 br.ac.travelocity.com.cname.campaign.adobe.com
 brand-extractor.corp.adobe.com
 brand.frame.io
+brand-intelligence.stage.adobe.com
 brand-portal.adobe.com
 brand-portal-stage.adobe.com
 brenard.adobeaemcloud.com
@@ -1476,6 +1480,8 @@ cbcca.demdex.net
 cbcca.hb.omtrdc.net
 cbc.corp.adobe.com
 cbconnection.adobe.com
+cbconnection-dev.adobe.com
+cbconnection-dev.corp.adobe.com
 cbconnection-stage.adobe.com
 cbctest.corp.adobe.com
 cbs.adobe.com
@@ -1634,6 +1640,7 @@ ccibu-c95.perf.cm-verify.adobe.com
 ccibu-c98.perf.cm-verify.adobe.com
 ccibu-c99.perf.cm-verify.adobe.com
 cci-ghec.ci.adobe.com
+cci-stage.ci.adobe.com
 cclibraries-defaults-cdn.adobe.com
 cclibraries-defaults-cdn.adobe.com.edgekey.net
 ccm.corp.adobe.com
@@ -2381,6 +2388,7 @@ dashanalytics.corp.adobe.com
 dashapi-prod-vip-or1.corp.adobe.com
 dashboard.dcai-noida.corp.adobe.com
 dashboard.kodiak.corp.adobe.com
+dashboard.mft.corp.adobe.com
 dashboard.mftstg.corp.adobe.com
 dashboard.or.k8s.ipaas.corp.adobe.com
 dashboard.renovate.corp.adobe.com
@@ -3050,6 +3058,7 @@ edge-dev3-graph.adobe.io
 edge-dev4-graph.adobe.io
 edge-graph.adobe.io
 edge-int.adobedc.net
+edge.mft.corp.adobe.com
 edge.mftstg.corp.adobe.com
 edgeproxy-irl1.cloud.adobe.io
 edgeproxy-va6.cloud.adobe.io
@@ -3742,6 +3751,7 @@ grt42est.corp.adobe.com
 grt4est.corp.adobe.com
 grteqst.corp.adobe.com
 grtes1t1.corp.adobe.com
+grtest1.corp.adobe.com
 gsdtriage-usp.corp.adobe.com
 gslb-2.demdex.net
 gspy.adobeaemcloud.net
@@ -6924,6 +6934,7 @@ prismai.adobe.com
 private.adobe.io
 prlicensing2.stage.adobe.com
 prlicensing.stage.adobe.com
+prnewswireassociationllc.demdex.net
 process-mining.corp.adobe.com
 procure.corp.adobe.com
 procure-stg.corp.adobe.com
@@ -7115,6 +7126,7 @@ qe5.appsvc-stage.an.adobe.com
 qe5.ut1.an.adobe.com
 qe.campaign.adobe.com
 qe-ci1.target.adobe.net
+qeclassroom.learningmanager.adobe.com
 qe-ffc-files.corp.adobe.com
 qe-ffc-static-cdn.oobesaas.adobe.com
 qe.ngc.adobe.io
@@ -8330,9 +8342,12 @@ sstatstest.adobe.com
 stage01.projectoxford.adobe.com
 stage02.digitalpublishing.adobe.io
 stage02.publish.adobe.io
+stage1classroom.learningmanager.adobe.com
 stage2.a4u-gateway.corp.adobe.com
+stage2classroom.learningmanager.adobe.com
 stage2.corp.adobe.com
 stage.3dshare.substance3d.adobe.com
+stage4classroom.learningmanager.adobe.com
 stage.a4u-gateway.corp.adobe.com
 stage.account.adobe.com
 stage.acrobat.adobe.com
@@ -8583,6 +8598,7 @@ sydney-1-ext.vpn.adobe.com
 sydney-1.vpn.adobe.com
 sydney-inet-cp.corp.adobe.com
 sydn-inetfw01.corp.adobe.com
+sydn-inetfw02.corp.adobe.com
 syncedview.corp.adobe.com
 szs0.adobeaemcloud.com
 t19d.adobeaemcloud.com
