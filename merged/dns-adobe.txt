@@ -2418,6 +2418,7 @@ bs6node03.corp.adobe.com
 bsinghalget.marketing.adobe.com
 bsinghal-unknown.marketing.adobe.com
 bskyb-rt-prod1-cus.campaign.adobe.com
+bsm-tracker.corp.adobe.com
 btadmin-stage.corp.adobe.com
 btdemos.adobe.com
 bucasit-build.corp.adobe.com
@@ -3980,6 +3981,7 @@ cpe.corp.adobe.com
 cpe-inventory-api.corp.adobe.com
 cpe-inventory.corp.adobe.com
 cpe-inventory-test.corp.adobe.com
+cpe-mailer.corp.adobe.com
 cpe-monitoring.corp.adobe.com
 cpe-oseol.corp.adobe.com
 cpe-security-dashboard.corp.adobe.com
@@ -5235,8 +5237,10 @@ dx-dc-author-prod.acrobat.adobe.com
 dxd.corp.adobe.com
 dxe-cicd-bot-wildcard-test.dev.cloud.adobe.io
 dxenablementhub.adobe.com
+dxinternals.corp.adobe.com
 dx-loc-tools.corp.adobe.com
 dxm3.adobeaemcloud.com
+dxorbit2.corp.adobe.com
 dxorbit-api.corp.adobe.com
 dxorbit.corp.adobe.com
 dxorbit-manual.corp.adobe.com
@@ -8164,6 +8168,8 @@ knowledgebase-stage.adobe.io
 knowledgebase-stage.private.adobe.io
 knowledge-builder.corp.adobe.com
 knowledge-builder-dev.corp.adobe.com
+knowledge-builder.mct.adobe.com
+knowledge-builder-mct.corp.adobe.com
 knowledge-builder-stg.corp.adobe.com
 knowledgegraph.corp.adobe.com
 knowledgemanagementctl.experiencecloud.adobe.com
@@ -8299,6 +8305,7 @@ lancelot.adobeconnect.com
 landing.adobe.com
 landing.adobe.com.edgekey.net
 landingpage.emaillpb.adobe.com
+landingpages.fedex.dev.ajo.adobe.com
 landing.santandertesting.test.ajo.adobe.com
 landing.ultimate-success-emea.test.ajo.adobe.com
 langgan.adobeaemcloud.com
@@ -10716,6 +10723,7 @@ odinpreview.corp.adobe.com
 odintransformer.corp.adobe.com
 odin-wam-service-deploy-ethos503-prod-va6-k8s-he-fe280d.cloud.adobe.io
 odis-prod.corp.adobe.com
+odis-stg.corp.adobe.com
 odixyteznzctndc1ys00y2q5lwi3mgitnjaxmty1odg1nmi5.frl-offline.adobe.com
 odniosh.adobeconnect.com
 odnq.adobeaemcloud.com
@@ -11912,6 +11920,7 @@ or1010051245083.corp.adobe.com
 or1010051245114.corp.adobe.com
 or1010051245248.corp.adobe.com
 or1010051246095.corp.adobe.com
+or1010051246110.corp.adobe.com
 or1010051246111.corp.adobe.com
 or1010051246120.corp.adobe.com
 or1010051246122.corp.adobe.com
@@ -12402,6 +12411,7 @@ paywall.www1.marketing.adobe.com
 pbaas-briefing.corp.adobe.com
 pbaas-briefing.storage.adobe.com
 pbaas-cb-cs-use1a.corp.adobe.com
+pbaas-cb-cs-use1a.storage.adobe.com
 pbaas-cs-use1a.corp.adobe.com
 pbaas-overview.corp.adobe.com
 pbis.corp.adobe.com
@@ -12666,6 +12676,8 @@ podcast.stage.adobe.com
 pointsoflight.adobeconnect.com
 pokedstudio.prosite.com
 policies.corp.adobe.com
+policy-ui.adobe.com
+policy-ui-stage.adobe.com
 politico.com.ssl.d2.sc.omtrdc.net
 polka.typekit.com
 polk-schools.businesscatalyst.com
@@ -14737,6 +14749,7 @@ sentience.corp.adobe.com
 sentinel.corp.adobe.com
 sentinel-dev.corp.adobe.com
 sentinel-stage.corp.adobe.com
+sentry.corp.adobe.com
 sentry.na3.documents.adobe.com
 sephora.demdex.net
 sephorafr-mid-prod1-t.campaign.adobe.com
@@ -17852,6 +17865,7 @@ vl-videos.corp.adobe.com
 vlwx.adobeaemcloud.com
 vmmigrate-sj1lab.corp.adobe.com
 VMmNeKnXOfgR.adobelogin.com
+vmopsutility.corp.adobe.com
 VoaLRXMScfPW.adobe.com
 vocalincnsw.au1akamai.documents.adobe.com
 vocento.experiencecloud.adobe.com
@@ -18362,6 +18376,7 @@ www.runtime.adobe.io
 www.ryuvision.adobe.com
 www-sandbox.internal.console.primetime.adobe.com
 www.secure.na2.documents.adobe.com
+www.sentry.corp.adobe.com
 www.sherlock-be.corp.adobe.com
 www.sherlock-be-stage.corp.adobe.com
 www.sherlock-kb.corp.adobe.com
