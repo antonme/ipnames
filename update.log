@@ -136343,3 +136343,69 @@ s
 ===xai
 
 == Save names archive
+[master 237f4272] auto-update names
+ 18 files changed, 103051 insertions(+), 101564 deletions(-)
+  apple-dns.net: ok
+  apple.news: ok
+  adobe.com: ok
+  adobe.io: ok
+  adobelogin.com: ok
+  adobedc.net: fetch failed, retry 1/4 in 10s
+  adobedc.net: fetch failed, retry 2/4 in 20s
+  adobedc.net: ok
+  behance.net: ok
+  photoshop.com: fetch failed, retry 1/4 in 10s
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: fetch failed, retry 1/4 in 10s
+  frame.io: fetch failed, retry 2/4 in 20s
+  frame.io: ok
+  demdex.net: ok
+  omtrdc.net: ok
+  pornhub.com: ok
+  phncdn.com: fetch failed, retry 1/4 in 10s
+  phncdn.com: ok
+  backblaze.com: ok
+  backblazeb2.com: ok
+  huggingface.co: ok
+  hf.co: fetch failed, retry 1/4 in 10s
+  hf.co: fetch failed, retry 2/4 in 20s
+  hf.co: ok
+  hf.space: ok
+  anthropic.com: ok
+  claude.ai: fetch failed, retry 1/4 in 10s
+  claude.ai: fetch failed, retry 2/4 in 20s
+  claude.ai: fetch failed, retry 3/4 in 30s
+  claude.ai: ok
+  claude.com: ok
+  claudeusercontent.com: ok
+  clau.de: ok
+  x.ai: fetch failed, retry 1/4 in 10s
+  x.ai: ok
+  grok.com: fetch failed, retry 1/4 in 10s
+  grok.com: fetch failed, retry 2/4 in 20s
+  grok.com: ok
+  total CT names: 33753
+
+==Probing YouTube cache servers: skipped, list is less than a week old
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===microsoft
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+===xai
+
+== Save names archive
