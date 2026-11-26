@@ -182,6 +182,8 @@ acrobatjs.corp.adobe.com
 acrobatjstestresults.corp.adobe.com
 acrobatplus.adobe.com
 acrobatservices.adobe.com
+acrobat-web-free-vs-paid.growth.adobe.com
+acrobat-web-free-vs-paid.growth-preprod.adobe.com
 acrodash.corp.adobe.com
 acrodash-qa.corp.adobe.com
 acrodash-stg.corp.adobe.com
@@ -1267,6 +1269,7 @@ bps-il.adobe.io
 br.ac.travelocity.com.cname.campaign.adobe.com
 brand-extractor.corp.adobe.com
 brand.frame.io
+brand-intelligence.adobe.com
 brand-intelligence.stage.adobe.com
 brand-portal.adobe.com
 brand-portal-stage.adobe.com
@@ -1728,11 +1731,13 @@ cdn.behance.net
 cdn.bloomingdales.test.ajo.adobe.com
 cdn.brandc.test.ajo.adobe.com
 cdn.bugathon.prod.test.ajo.adobe.com
+cdn.bugbash.test.ajo.adobe.com
 cdn-ca-dev.schedule.adobe.com
 cdn.candidatesexp.adobe.com
 cdn.carnival-uk-dev.test.ajo.adobe.com
 cdn.certificate.test.ajo.adobe.com
 cdn.cip.test.ajo.adobe.com
+cdn.cjmmanagedservices.test.ajo.adobe.com
 cdn.coecomms.dev.ajo.adobe.com
 cdn.cp.adobe.io
 cdn-creativesdk.adobe.io
@@ -2445,6 +2450,7 @@ datacare-uat.corp.adobe.com
 data.carnival-uk-dev.test.ajo.adobe.com
 data.certificate.test.ajo.adobe.com
 data.cip.test.ajo.adobe.com
+data.cjmmanagedservices.test.ajo.adobe.com
 data.coecomms.dev.ajo.adobe.com
 data.customer-success-apac.adobe.com
 data.dg.test.ajo.adobe.com
@@ -2495,6 +2501,7 @@ data.ocagent.test.ajo.adobe.com
 data.petbarn.test.ajo.adobe.com
 data-platform.corp.adobe.com
 data.premierleague.test.ajo.adobe.com
+datapulse.corp.adobe.com
 data.qr.test.ajo.adobe.com
 data.rahu.test.ajo.adobe.com
 data-registry-api.touchstone.corp.adobe.com
@@ -3062,6 +3069,7 @@ edge-dev3-graph.adobe.io
 edge-dev4-graph.adobe.io
 edge-graph.adobe.io
 edge-int.adobedc.net
+edge-irl1.demdex.net
 edge.mft.corp.adobe.com
 edge.mftstg.corp.adobe.com
 edgeproxy-irl1.cloud.adobe.io
@@ -3475,6 +3483,7 @@ firefly-ps.adobe.io
 firefly-qe-dashboard-db.corp.adobe.com
 firefly-sla.corp.adobe.com
 firefly-soft-paywall.growth.adobe.com
+firefly-soft-paywall.growth-preprod.adobe.com
 firefly-stage.corp.adobe.com
 firefly-stage-pr.corp.adobe.com
 firewatch.corp.adobe.com
@@ -3695,6 +3704,7 @@ goc-bot-stg.corp.adobe.com
 goc-edaops-argo-prd-01.corp.adobe.com
 goc-knowledge.corp.adobe.com
 go.com.ssl.d1.sc.omtrdc.net
+go.dg.test.ajo.adobe.com
 godzilla-api.corp.adobe.com
 gojira.corp.adobe.com
 go-lambda-at-edge.sandbox.frame.io
@@ -5578,6 +5588,7 @@ oac-alpha2.adobe.com
 oac-dev.adobe.com
 oac-qe2.adobe.com
 oac-stage2.adobe.com
+oakrs.corp.adobe.com
 oasis.supportinsights.adobe.com
 oberon.acc.axle-stage.an.adobe.com
 oberon.aec.axle-stage.an.adobe.com
@@ -7086,6 +7097,7 @@ pv218qmzox6.prod.cloud.adobe.io
 pv24v41zibm.prod.cloud.adobe.io
 pv2fcqvzl1r.prod.cloud.adobe.io
 pv2l4573ukh.prod.cloud.adobe.io
+pvhnorthamerica.demdex.net
 pwc.com.data.adobedc.net
 px0n.adobeaemcloud.net
 pxgrid.ise.corp.adobe.com
