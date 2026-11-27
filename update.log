@@ -136737,3 +136737,130 @@ s
 ===xai
 
 == Save names archive
+[master cb2566c6] auto-update names
+ 16 files changed, 1126 insertions(+), 60 deletions(-)
+  oaistatsig.com: ok
+  sora.com: ok
+  chat.com: ok
+  bing.com: fetch failed, retry 1/4 in 10s
+  bing.com: fetch failed, retry 2/4 in 20s
+  bing.com: ok
+  microsoft.com: fetch failed, retry 1/4 in 10s
+  microsoft.com: fetch failed, retry 2/4 in 20s
+  microsoft.com: fetch failed, retry 3/4 in 30s
+  microsoft.com: fetch failed, retry 4/4 in 40s
+  microsoft.com: fetch failed
+  microsoftonline.com: fetch failed, retry 1/4 in 10s
+  microsoftonline.com: ok
+  live.com: ok
+  outlook.com: fetch failed, retry 1/4 in 10s
+  outlook.com: fetch failed, retry 2/4 in 20s
+  outlook.com: ok
+  office.com: fetch failed, retry 1/4 in 10s
+  office.com: ok
+  office.net: fetch failed, retry 1/4 in 10s
+  office.net: fetch failed, retry 2/4 in 20s
+  office.net: fetch failed, retry 3/4 in 30s
+  office.net: ok
+  windows.com: ok
+  msn.com: ok
+  skype.com: fetch failed, retry 1/4 in 10s
+  skype.com: fetch failed, retry 2/4 in 20s
+  skype.com: ok
+  xbox.com: fetch failed, retry 1/4 in 10s
+  xbox.com: ok
+  sharepoint.com: ok
+  azure.com: fetch failed, retry 1/4 in 10s
+  azure.com: fetch failed, retry 2/4 in 20s
+  azure.com: fetch failed, retry 3/4 in 30s
+  azure.com: fetch failed, retry 4/4 in 40s
+  azure.com: fetch failed
+  visualstudio.com: ok
+  twitter.com: fetch failed, retry 1/4 in 10s
+  twitter.com: fetch failed, retry 2/4 in 20s
+  twitter.com: fetch failed, retry 3/4 in 30s
+  twitter.com: ok
+  x.com: ok
+  twimg.com: ok
+  pscp.tv: ok
+  ozon.ru: ok
+  ozonusercontent.com: ok
+  github.com: ok
+  githubusercontent.com: ok
+  githubassets.com: fetch failed, retry 1/4 in 10s
+  githubassets.com: ok
+  githubcopilot.com: fetch failed, retry 1/4 in 10s
+  githubcopilot.com: fetch failed, retry 2/4 in 20s
+  githubcopilot.com: ok
+  github.io: fetch failed, retry 1/4 in 10s
+  github.io: ok
+  ghcr.io: fetch failed, retry 1/4 in 10s
+  ghcr.io: ok
+  apple.com: ok
+  icloud.com: ok
+  icloud-content.com: ok
+  mzstatic.com: fetch failed, retry 1/4 in 10s
+  mzstatic.com: ok
+  cdn-apple.com: ok
+  aaplimg.com: ok
+  apple-dns.net: fetch failed, retry 1/4 in 10s
+  apple-dns.net: ok
+  apple.news: ok
+  adobe.com: ok
+  adobe.io: fetch failed, retry 1/4 in 10s
+  adobe.io: ok
+  adobelogin.com: ok
+  adobedc.net: ok
+  behance.net: fetch failed, retry 1/4 in 10s
+  behance.net: fetch failed, retry 2/4 in 20s
+  behance.net: ok
+  photoshop.com: ok
+  typekit.net: ok
+  frame.io: fetch failed, retry 1/4 in 10s
+  frame.io: ok
+  demdex.net: ok
+  omtrdc.net: ok
+  pornhub.com: fetch failed, retry 1/4 in 10s
+  pornhub.com: fetch failed, retry 2/4 in 20s
+  pornhub.com: ok
+  phncdn.com: ok
+  backblaze.com: ok
+  backblazeb2.com: fetch failed, retry 1/4 in 10s
+  backblazeb2.com: fetch failed, retry 2/4 in 20s
+  backblazeb2.com: ok
+  huggingface.co: ok
+  hf.co: ok
+  hf.space: ok
+  anthropic.com: ok
+  claude.ai: ok
+  claude.com: ok
+  claudeusercontent.com: fetch failed, retry 1/4 in 10s
+  claudeusercontent.com: fetch failed, retry 2/4 in 20s
+  claudeusercontent.com: ok
+  clau.de: ok
+  x.ai: ok
+  grok.com: ok
+  total CT names: 33472
+
+==Probing YouTube cache servers: skipped, list is less than a week old
+
+==Extracting names
+===google
+===youtube
+===facebook
+===tiktok
+===openai
+===bing
+===microsoft
+===twitter
+===ozon
+===github
+===apple
+===adobe
+===pornhub
+===backblaze
+===huggingface
+===anthropic
+===xai
+
+== Save names archive
