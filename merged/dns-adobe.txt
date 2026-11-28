@@ -708,6 +708,7 @@ adx-uat-test-stg.corp.adobe.com
 aec.adobe.com
 aec.appsvc.an.adobe.com
 aec.appsvc-stage.an.adobe.com
+aec-architecture.sites.corp.adobe.com
 aec.axle.an.adobe.com
 aec.intsvcs.an.adobe.com
 aec.intsvcs-stage.an.adobe.com
@@ -752,6 +753,7 @@ aep-customer-alerts-temporal-prod.corp.adobe.com
 aep-customer-alerts-temporal-stage.corp.adobe.com
 aep-destinations.aep-mtls.adobe.com
 aep-destinations-stage.aep-mtls.adobe.com
+aep-insights.corp.adobe.com
 aep-mtls-service-3.aep-mtls.adobe.com
 aep-provisioning-temporal-prod.corp.adobe.com
 aep-provisioning-temporal-stg.corp.adobe.com
@@ -911,7 +913,9 @@ akeerd.myportfolio.com
 akhoond.adobeaemcloud.com
 akno.adobeaemcloud.net
 akr.corp.adobe.com
+akr-dev.corp.adobe.com
 akreyblue.myportfolio.com
+akr-stg.corp.adobe.com
 akt4vzu68l.data.adobedc.net
 ala.adobeconnect.com
 aladdin.adobe.com
@@ -1018,6 +1022,7 @@ amc.experiencecloud.adobe.com
 amcglobal.sc.omtrdc.net
 amcpricelist.corp.adobe.com
 amcprovisioning.corp.adobe.com
+amedash.corp.adobe.com
 ameliapprsilva.myportfolio.com
 amergenttechs.na2.documents.adobe.com
 americanairlines.na1.documents.adobe.com
@@ -1590,6 +1595,7 @@ assistant.adobe.io
 assure.stg.corp.adobe.com
 ast1-infw01.corp.adobe.com
 astaamasna.cm-verify.adobe.com
+asta.corp.adobe.com
 asterix-fe.commerce-hub.adobe.com
 astockcdn.net
 astrazenecauk-mkt-dev1-1.campaign.adobe.com
@@ -1738,9 +1744,13 @@ auth-ip.marketing.adobe.com
 auth-i.services.adobe.com
 auth.kaufland.documents.adobe.com
 auth-light.identity.adobe.com
+auth-light.identity-preprod.adobe.com
+auth-light.identity-prestage.adobe.com
 auth-light.identity-stage.adobe.com
 auth-light-popup.identity-stage.adobe.com
 auth-light-sample.identity.adobe.com
+auth-light-sample.identity-preprod.adobe.com
+auth-light-sample.identity-prestage.adobe.com
 auth-light-sample.identity-stage.adobe.com
 auth-light-tessera.identity-stage.adobe.com
 auth-or2-internal-control.services.adobe.com
@@ -3154,6 +3164,7 @@ cdn-invitations-stage.adobecc.map.fastly.net
 cdn.latinamerica.coca-cola.com.cname.cjm.adobe.com
 cdn-libraries.adobecc.map.fastly.net
 cdn-libraries-stage.adobecc.map.fastly.net
+cdn.m15.cf.test.ajo.adobe.com
 cdn.madhu.cf.domain.test.ajo.adobe.com
 cdn.madhu.testing.cf.test.ajo.adobe.com
 cdn.madhuv2.test.ajo.adobe.com
@@ -3217,11 +3228,13 @@ cdn.titancert1.test.ajo.adobe.com
 cdn.titancert.test.ajo.adobe.com
 cdn.tsbuat.test.ajo.adobe.com
 cdn.tt.omtrdc.net
+cdn.uat.bugathon.test.ajo.adobe.com
 cdn.ubs.test.ajo.adobe.com
 cdn.ultimate-success-emea.test.ajo.adobe.com
 cdn.ups.test.ajo.adobe.com
 cdn-v1.marketing.adobe.com
 cdn.visitqatar-dev.test.ajo.adobe.com
+cdn.visitqatar-stage.test.ajo.adobe.com
 cdn.wunderman-email.cjm.adobe.com
 cdpi-monitoring.corp.adobe.com
 cdpi-ops.corp.adobe.com
@@ -4166,6 +4179,7 @@ csr-test.identity.adobe.com
 css.corp.adobe.com
 css-dev.corp.adobe.com
 cssdk.host.adobe.com
+css-portal.adobe.com
 css-prod.corp.adobe.com
 css-stage.corp.adobe.com
 csstagingtraffic-eu1.share.adobe.com
@@ -4442,6 +4456,21 @@ data.nordstrom.test.ajo.adobe.com
 data.notifications.campaign.adobe.com
 data.oc.agent.test.ajo.adobe.com
 data.ocagent.test.ajo.adobe.com
+dataops-agent.corp.adobe.com
+dataops-agent.int.adobe.com
+dataops-agent.pub.adobe.com
+dataops-agent-stg.corp.adobe.com
+dataops-agent-stg.int.adobe.com
+dataops-app.corp.adobe.com
+dataops-app.int.adobe.com
+dataops-app.pub.adobe.com
+dataops-app-stg.corp.adobe.com
+dataops-app-stg.int.adobe.com
+dataops-collector.corp.adobe.com
+dataops-collector.int.adobe.com
+dataops-collector.pub.adobe.com
+dataops-collector-stg.corp.adobe.com
+dataops-collector-stg.int.adobe.com
 data.petbarn.test.ajo.adobe.com
 data-platform.corp.adobe.com
 data.premierleague.test.ajo.adobe.com
@@ -4493,6 +4522,7 @@ data.ultimate-success-emea.test.ajo.adobe.com
 dataupload.na3.documents.adobe.com
 data.ups.test.ajo.adobe.com
 data.visitqatar-dev.test.ajo.adobe.com
+data.visitqatar-stage.test.ajo.adobe.com
 dataweb-eu2.documentsawspreview.adobe.com
 data.wunderman-email.cjm.adobe.com
 dates-a.corp.adobe.com
@@ -4962,6 +4992,7 @@ discovery-guidance-stage-ew1.adobe.io
 discovery-hub.corp.adobe.com
 discovery-mkt-prod3-1.campaign.adobe.com
 disney.demdex.net
+disneyplus.com.ssl.sc.omtrdc.net
 Dispatcher.adobeaemcloud.net
 distribute.adobe.com
 distribute-ext-vip-da1.adobe.com
@@ -5218,6 +5249,7 @@ duplessismornay.adobeaemcloud.com
 duvyphotography.myportfolio.com
 dva-coverage.corp.adobe.com
 dva-coverage-stage.corp.adobe.com
+dvadash.corp.adobe.com
 dvadsaprd2.corp.adobe.com
 dvadsastg1.corp.adobe.com
 dvadsastg2.corp.adobe.com
@@ -6217,6 +6249,8 @@ firefly-client-service-prod-va6.adobe.io
 firefly-clio-imaging.adobe.io
 firefly-cliov2.adobe.io
 firefly.corp.adobe.com
+firefly-credits.growth.adobe.com
+firefly-credits.growth-preprod.adobe.com
 firefly-data-catalog.corp.adobe.com
 firefly-dev-asml.corp.adobe.com
 firefly-dev-colligo.corp.adobe.com
@@ -6268,6 +6302,8 @@ florianlasgi001.myportfolio.com
 florina-leela.myportfolio.com
 floscular.adobeaemcloud.net
 flow.corp.adobe.com
+flow-forensic.identity-stage.adobe.com
+flow-forensic-va6.identity-stage.adobe.com
 fluffyjaws.adobe.com
 fluid.or.k8s.ipaas.corp.adobe.com
 flymogi.lightroom.adobe.com
@@ -7427,6 +7463,9 @@ ims-automation-testing.services.adobe.com
 ims.cloudmanager.adobe.com
 imscm-prod-sgp5-internal.adobelogin.com
 ims-core.identity-stage.adobe.com
+ims-core-or2-test.identity-stage.adobe.com
+ims-core-va6c2-test.identity-stage.adobe.com
+ims-core-va6-test.identity-stage.adobe.com
 ims-csc-flex.identity.adobe.com
 ims-csc.identity.adobe.com
 ims-glb-aus3.adobelogin.com
@@ -7866,6 +7905,7 @@ isearchstg.corp.adobe.com
 ise.corp.adobe.com
 isfireworksbetterthanphotoshop.com
 ishajoachim.myportfolio.com
+isherlock.corp.adobe.com
 i-skyline.experiencecloud.adobe.com
 isntthatwrite.myportfolio.com
 isopescu.myportfolio.com
@@ -8316,6 +8356,7 @@ lams.corp.adobe.com
 lancelot.adobeconnect.com
 landing.adobe.com
 landing.adobe.com.edgekey.net
+landing.manulife-sg.test.ajo.adobe.com
 landingpage.emaillpb.adobe.com
 landingpages.fedex.dev.ajo.adobe.com
 landing.santandertesting.test.ajo.adobe.com
@@ -8365,6 +8406,7 @@ lax1-infw02.corp.adobe.com
 layoutscout.myportfolio.com
 la-z-boy.com.data.adobedc.net
 lb1.lax.supplyframe.io
+lbaas.atscloud-prd.corp.adobe.com
 lbaastest11.corp.adobe.com
 lbaastest1.corp.adobe.com
 lbaastest1-stg.corp.adobe.com
@@ -10865,6 +10907,11 @@ open.dev.frame.io
 openforbusinessmagazine01.businesscatalyst.com
 open.frame.io
 openframe.io
+openmetadata.corp.adobe.com
+openmetadata.int.adobe.com
+openmetadata.pub.adobe.com
+openmetadata-stg.corp.adobe.com
+openmetadata-stg.int.adobe.com
 openrefine.experienceleague.corp.adobe.com
 opensource.adobe.com
 open.staging.frame.io
@@ -12321,6 +12368,7 @@ pages.dxprt.adobe.com
 pages-nonprod.smb.adobe.com
 pages.smb.adobe.com
 pages.visitqatar-dev.test.ajo.adobe.com
+pages.visitqatar-stage.test.ajo.adobe.com
 palai.corp.adobe.com
 palamida.stg.corp.adobe.com
 palmier-b.corp.adobe.com
@@ -12630,6 +12678,7 @@ platinum-gc.corp.adobe.com
 platinum-ir.corp.adobe.com
 platinum-jr.corp.adobe.com
 platinum-kr.corp.adobe.com
+plato.corp.adobe.com
 playback.frame.io
 playground.ai-platform.corp.adobe.com
 playground.ai-platform-stage.corp.adobe.com
@@ -13388,6 +13437,7 @@ rangchua.adobeaemcloud.com
 rangcuan.adobeaemcloud.net
 range86-176.adobeaemcloud.net
 ranh.demdex.net
+rank-eval.fonts.adobe.com
 rank-mid-prod1-1.campaign.adobe.com
 rank-mid-prod1-res.campaign.adobe.com
 rank-mid-prod1-t.campaign.adobe.com
@@ -14052,6 +14102,7 @@ rongxiang.myportfolio.com
 roninyetinexus.myportfolio.com
 ronyagarden.myportfolio.com
 roompulse.corp.adobe.com
+roompulse-dev.corp.adobe.com
 root-apac.experiencecloud.adobe.com
 root-ca.experiencecloud.adobe.com
 root.container.experiencecloud.adobe.com
@@ -14279,6 +14330,7 @@ san2.cm-verify.adobe.com
 san3.cm-verify.adobe.com
 san5.cm-verify.adobe.com
 san6.cm-verify.adobe.com
+sandbox.adobe.com
 sandbox.cloud.adobe.io
 sandbox.community-gs.adobe.com
 sandbox.dcai-noida.corp.adobe.com
@@ -14608,6 +14660,7 @@ scms.cloud.adobe.io
 scms-stage.cloud.adobe.io
 scm.www2.experiencecloud.adobe.com
 sc.omtrdc.net
+scout-admin.dev.corp.adobe.com
 scout-admin.dev.missionctrl.cloud.adobe.io
 scout-admin-v1.stage.dev.missionctrl.cloud.adobe.io
 scout.corp.adobe.com
@@ -14747,6 +14800,8 @@ self-ignite.adobeaemcloud.com
 selfnewnormal.myportfolio.com
 s.email-fordpassrewards.com.cname.campaign.adobe.com
 s.email-mobiledx.cjm.adobe.com
+semaphore-dev.corp.adobe.com
+semaphore-stg.corp.adobe.com
 seminars.adobeconnect.com
 sem-ml.experiencecloud.adobe.com
 semshop.experiencecloud.adobe.com
@@ -14850,6 +14905,7 @@ sg-sfqa1.corp.adobe.com
 sg-sfqa.corp.adobe.com
 sg-sfstage2026.corp.adobe.com
 sg-sfstage.corp.adobe.com
+sg-uatstage2026.corp.adobe.com
 sg-uatstage.corp.adobe.com
 s.gxv.test.ajo.adobe.com
 shadow-dom-css.adobe.com
@@ -15069,6 +15125,7 @@ sj1010010100106.corp.adobe.com
 sj1010010100140.corp.adobe.com
 sj1010010100144.corp.adobe.com
 sj1010010100218.corp.adobe.com
+sj1010010101016.corp.adobe.com
 sj1010010101044.corp.adobe.com
 sj1010010104006.corp.adobe.com
 sj1010010104007.corp.adobe.com
@@ -16593,6 +16650,7 @@ t.e.hersheys.com.cname.campaign.adobe.com
 t.e.informesnaranja.com.ar.cname.campaign.adobe.com
 tejalprajapati.myportfolio.com
 telegraf.3di.corp.adobe.com
+teleport-role.corp.adobe.com
 teleport-role-dev.corp.adobe.com
 teleport-secondary.sharedservices.frame.io
 teleport.sharedservices.frame.io
@@ -17675,6 +17733,7 @@ van-search2-west.corp.adobe.com
 vantage.campaign.adobe.com
 vantage.corp.adobe.com
 vantage-dev.corp.adobe.com
+vantage-prod.corp.adobe.com
 vapor.frame.io
 vapor-storybook.frame.io
 vappstore-dev-xd7-noida.corp.adobe.com
@@ -17781,6 +17840,7 @@ vhpdfwd5wd01.rise.corp.adobe.com
 vibe-deployer.corp.adobe.com
 vibe-deployer-dev.corp.adobe.com
 vibe-deployer-stg.corp.adobe.com
+vibe-sample-app.sites.corp.adobe.com
 vibe-sample-cloudspend.sites.corp.adobe.com
 vibe-smoke3.sites.corp.adobe.com
 vibe-smoke4.sites.corp.adobe.com
