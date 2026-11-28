@@ -444,6 +444,7 @@ apphub.europe-west1.rep.mtls.googleapis.com
 apphub.europe-west2.p.rep.googleapis.com
 apphub.europe-west2.rep.googleapis.com
 apphub.europe-west3.rep.googleapis.com
+apphub.europe-west3.rep.mtls.googleapis.com
 apphub.europe-west4.p.rep.googleapis.com
 apphub.europe-west4.rep.googleapis.com
 apphub.europe-west4.rep.mtls.googleapis.com
@@ -560,6 +561,7 @@ artifactregistry.northamerica-south1.p.rep.googleapis.com
 artifactregistry.northamerica-south1.rep.mtls.googleapis.com
 artifactregistry.southamerica-east1.rep.mtls.googleapis.com
 artifactregistry.southamerica-west1.rep.googleapis.com
+artifactregistry.southamerica-west1.rep.mtls.googleapis.com
 artifactregistry.us-east1.p.rep.googleapis.com
 artifactregistry.us-east1.rep.mtls.googleapis.com
 artifactregistry.us-east4.rep.mtls.googleapis.com
@@ -1708,6 +1710,7 @@ bigtable.us-central2.rep.googleapis.com
 bigtable.us-central2.rep.mtls.googleapis.com
 bigtable.us-east1.p.rep.googleapis.com
 bigtable.us-east1.rep.googleapis.com
+bigtable.us-east1.rep.mtls.googleapis.com
 bigtable.us-east4.rep.googleapis.com
 bigtable.us-east4.rep.mtls.googleapis.com
 bigtable.us-east5.p.rep.googleapis.com
@@ -2603,7 +2606,9 @@ composer.us-west2.rep.googleapis.com
 composer.us-west2.rep.mtls.googleapis.com
 composer.us-west3.p.rep.googleapis.com
 composer.us-west3.rep.googleapis.com
+composer.us-west3.rep.mtls.googleapis.com
 composer.us-west4.p.rep.googleapis.com
+composer.us-west4.rep.googleapis.com
 composer.us-west8.p.rep.googleapis.com
 composer.us-west8.rep.mtls.googleapis.com
 compute.africa-south1.p.rep.googleapis.com
@@ -2846,6 +2851,7 @@ connectorexecution.europe-west1.p.rep.googleapis.com
 connectorexecution.europe-west1.rep.googleapis.com
 connectorexecution.europe-west2.rep.googleapis.com
 connectorexecution.europe-west3.rep.googleapis.com
+connectorexecution.europe-west3.rep.mtls.googleapis.com
 connectorexecution.europe-west4.p.rep.googleapis.com
 connectorexecution.europe-west6.p.rep.googleapis.com
 connectorexecution.europe-west6.rep.googleapis.com
@@ -4334,6 +4340,7 @@ content-boqcodelabwanyif-pa.us-south1.rep.mtls.googleapis.com
 content-boqcodelabwanyif-pa.us-west1.p.rep.googleapis.com
 content-boqcodelabwanyif-pa.us-west2.p.rep.googleapis.com
 content-boqcodelabwanyif-pa.us-west2.rep.googleapis.com
+content-boqcodelabwanyif-pa.us-west2.rep.mtls.googleapis.com
 content-boqcodelabwanyif-pa.us-west3.p.rep.googleapis.com
 content-boqcodelabwanyif-pa.us-west3.rep.googleapis.com
 content-boqcodelabwanyif-pa.us-west4.p.rep.googleapis.com
@@ -6418,6 +6425,7 @@ content-firestorekeyvisualizer.europe-west12.p.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west12.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west15.p.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west15.rep.googleapis.com
+content-firestorekeyvisualizer.europe-west15.rep.mtls.googleapis.com
 content-firestorekeyvisualizer.europe-west1.p.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west1.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west1.rep.mtls.googleapis.com
@@ -7126,6 +7134,7 @@ content-lookeroauthredirector.europe-north1.rep.pa.googleapis.com
 content-lookeroauthredirector.europe-north2.rep.pa.googleapis.com
 content-lookeroauthredirector.europe-southwest1.rep.mtls.pa.googleapis.com
 content-lookeroauthredirector.europe-southwest1.rep.pa.googleapis.com
+content-lookeroauthredirector.europe-west10.rep.mtls.pa.googleapis.com
 content-lookeroauthredirector.europe-west10.rep.pa.googleapis.com
 content-lookeroauthredirector.europe-west12.rep.mtls.pa.googleapis.com
 content-lookeroauthredirector.europe-west12.rep.pa.googleapis.com
@@ -8272,6 +8281,7 @@ content-run.us-west3.p.rep.googleapis.com
 content-run.us-west3.rep.googleapis.com
 content-run.us-west3.rep.mtls.googleapis.com
 content-run.us-west4.p.rep.googleapis.com
+content-run.us-west4.rep.googleapis.com
 content-run.us-west4.rep.mtls.googleapis.com
 content-run.us-west8.p.rep.googleapis.com
 content-run.us-west8.rep.googleapis.com
@@ -10024,6 +10034,7 @@ datalineage.us-east7.p.rep.googleapis.com
 datalineage.us-east7.rep.googleapis.com
 datalineage.us.rep.googleapis.com
 datalineage.us-south1.p.rep.googleapis.com
+datalineage.us-south1.rep.mtls.googleapis.com
 datalineage.us-west1.p.rep.googleapis.com
 datalineage.us-west1.rep.googleapis.com
 datalineage.us-west2.rep.googleapis.com
@@ -15083,6 +15094,7 @@ staging-cloudbuild.europe-north1.rep.mtls.sandbox.googleapis.com
 staging-cloudbuild.us-east4.p.rep.sandbox.googleapis.com
 staging-cloudbuild.us-east4.rep.mtls.sandbox.googleapis.com
 staging-cloudbuild.us-east4.rep.sandbox.googleapis.com
+staging-cloudbuild.us-west1.p.rep.sandbox.googleapis.com
 staging-cloudconsole-pa.europe-west3.rep.sandbox.googleapis.com
 staging-cloudconsole-pa.europe-west9.rep.sandbox.googleapis.com
 staging-cloudconsole-pa.us-central1.p.rep.sandbox.googleapis.com

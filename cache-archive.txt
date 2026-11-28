@@ -16398,6 +16398,7 @@ api-pns-sg.tiktok.com.edgekey.net
 api-podcast-ci.smoot.apple.com
 api-podcast-stg.smoot.apple.com
 api-podcast.smoot.apple.com
+api-ppe-westus3.monitoringparity.cloudpath.office.net
 api-ppe.diagnostics.office.com
 api-preprod.auth.adobe.com
 api-prequal.auth.adobe.com
@@ -16876,6 +16877,7 @@ apim-it-cp.sap.apple.com
 apim-qa-cp.sap.apple.com
 apim-uat-cp.sap.apple.com
 apim365opscenterint.westus2.cloudapp.azure.com
+apim365opscenterppe.westus2.cloudapp.azure.com
 apimcert-cp.sap.apple.com
 apimcert-it-cp.sap.apple.com
 apimcert-qa-cp.sap.apple.com
@@ -17179,6 +17181,7 @@ apphub.europe-west10.rep.googleapis.com
 apphub.europe-west2.p.rep.googleapis.com
 apphub.europe-west2.rep.googleapis.com
 apphub.europe-west3.rep.googleapis.com
+apphub.europe-west3.rep.mtls.googleapis.com
 apphub.europe-west4.p.rep.googleapis.com
 apphub.europe-west4.rep.googleapis.com
 apphub.europe-west4.rep.mtls.googleapis.com
@@ -17843,6 +17846,7 @@ artifactregistry.northamerica-south1.p.rep.googleapis.com
 artifactregistry.northamerica-south1.rep.mtls.googleapis.com
 artifactregistry.southamerica-east1.rep.mtls.googleapis.com
 artifactregistry.southamerica-west1.rep.googleapis.com
+artifactregistry.southamerica-west1.rep.mtls.googleapis.com
 artifactregistry.us-east1.p.rep.googleapis.com
 artifactregistry.us-east1.rep.mtls.googleapis.com
 artifactregistry.us-east4.rep.mtls.googleapis.com
@@ -21200,6 +21204,7 @@ bigtable.us-central2.rep.googleapis.com
 bigtable.us-central2.rep.mtls.googleapis.com
 bigtable.us-east1.p.rep.googleapis.com
 bigtable.us-east1.rep.googleapis.com
+bigtable.us-east1.rep.mtls.googleapis.com
 bigtable.us-east4.rep.googleapis.com
 bigtable.us-east4.rep.mtls.googleapis.com
 bigtable.us-east5.p.rep.googleapis.com
@@ -25714,7 +25719,9 @@ composer.us-west2.rep.googleapis.com
 composer.us-west2.rep.mtls.googleapis.com
 composer.us-west3.p.rep.googleapis.com
 composer.us-west3.rep.googleapis.com
+composer.us-west3.rep.mtls.googleapis.com
 composer.us-west4.p.rep.googleapis.com
+composer.us-west4.rep.googleapis.com
 composer.us-west8.p.rep.googleapis.com
 composer.us-west8.rep.mtls.googleapis.com
 compressor.apple.com
@@ -26218,6 +26225,7 @@ connectorexecution.europe-west12.p.rep.googleapis.com
 connectorexecution.europe-west12.rep.googleapis.com
 connectorexecution.europe-west2.rep.googleapis.com
 connectorexecution.europe-west3.rep.googleapis.com
+connectorexecution.europe-west3.rep.mtls.googleapis.com
 connectorexecution.europe-west4.p.rep.googleapis.com
 connectorexecution.europe-west6.p.rep.googleapis.com
 connectorexecution.europe-west6.rep.googleapis.com
@@ -27747,6 +27755,7 @@ content-boqcodelabwanyif-pa.us-south1.rep.mtls.googleapis.com
 content-boqcodelabwanyif-pa.us-west1.p.rep.googleapis.com
 content-boqcodelabwanyif-pa.us-west2.p.rep.googleapis.com
 content-boqcodelabwanyif-pa.us-west2.rep.googleapis.com
+content-boqcodelabwanyif-pa.us-west2.rep.mtls.googleapis.com
 content-boqcodelabwanyif-pa.us-west3.p.rep.googleapis.com
 content-boqcodelabwanyif-pa.us-west3.rep.googleapis.com
 content-boqcodelabwanyif-pa.us-west4.p.rep.googleapis.com
@@ -29884,6 +29893,7 @@ content-firestorekeyvisualizer.europe-west12.p.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west12.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west15.p.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west15.rep.googleapis.com
+content-firestorekeyvisualizer.europe-west15.rep.mtls.googleapis.com
 content-firestorekeyvisualizer.europe-west2.p.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west2.rep.googleapis.com
 content-firestorekeyvisualizer.europe-west2.rep.mtls.googleapis.com
@@ -30545,6 +30555,7 @@ content-lookeroauthredirector.europe-north2.rep.pa.googleapis.com
 content-lookeroauthredirector.europe-southwest1.rep.mtls.pa.googleapis.com
 content-lookeroauthredirector.europe-southwest1.rep.pa.googleapis.com
 content-lookeroauthredirector.europe-west1.rep.pa.googleapis.com
+content-lookeroauthredirector.europe-west10.rep.mtls.pa.googleapis.com
 content-lookeroauthredirector.europe-west10.rep.pa.googleapis.com
 content-lookeroauthredirector.europe-west12.rep.mtls.pa.googleapis.com
 content-lookeroauthredirector.europe-west12.rep.pa.googleapis.com
@@ -31689,6 +31700,7 @@ content-run.us-west3.p.rep.googleapis.com
 content-run.us-west3.rep.googleapis.com
 content-run.us-west3.rep.mtls.googleapis.com
 content-run.us-west4.p.rep.googleapis.com
+content-run.us-west4.rep.googleapis.com
 content-run.us-west4.rep.mtls.googleapis.com
 content-run.us-west8.p.rep.googleapis.com
 content-run.us-west8.rep.googleapis.com
@@ -35000,6 +35012,7 @@ datalineage.us-east5.rep.mtls.googleapis.com
 datalineage.us-east7.p.rep.googleapis.com
 datalineage.us-east7.rep.googleapis.com
 datalineage.us-south1.p.rep.googleapis.com
+datalineage.us-south1.rep.mtls.googleapis.com
 datalineage.us-west1.p.rep.googleapis.com
 datalineage.us-west1.rep.googleapis.com
 datalineage.us-west2.rep.googleapis.com
@@ -63353,16 +63366,22 @@ ic3-audioconference-dialinpage-backend-service.msit-eus.ic3-audioconference-dial
 ic3-audioconference-dialinpage-backend-service.msit-wus.ic3-audioconference-dialinpage.westus-msit.cosmic.office.net
 ic3-audioconference-dialinpage-backend-service.prod-asea.ic3-audioconference-dialinpage.eastasia-prod.cosmic.office.net
 ic3-audioconference-dialinpage-backend-service.prod-asse.ic3-audioconference-dialinpage.southeastasia-prod.cosmic.office.net
+ic3-audioconference-dialinpage-backend-service.prod-auea.ic3-audioconference-dialinpage.australiaeast-prod.cosmic.office.net
 ic3-audioconference-dialinpage-backend-service.prod-cus.ic3-audioconference-dialinpage.centralus-prod.cosmic.office.net
 ic3-audioconference-dialinpage-backend-service.prod-neu.ic3-audioconference-dialinpage.norwaywest-prod.cosmic.office.net
+ic3-audioconference-dialinpage-backend-service.prod-polc.ic3-audioconference-dialinpage.polandcentral-prod.cosmic.office.net
+ic3-audioconference-dialinpage-backend-service.prod-spac.ic3-audioconference-dialinpage.spaincentral-prod.cosmic.office.net
 ic3-audioconference-dialinpage-backend-service.prod-weu.ic3-audioconference-dialinpage.francesouth-prod.cosmic.office.net
 ic3-audioconference-dialinpage-backend-service.prod-wus.ic3-audioconference-dialinpage.westus-prod.cosmic.office.net
 ic3-audioconference-dialinpage-bootstrap-service.msit-eus.ic3-audioconference-dialinpage.eastus-msit.cosmic.office.net
 ic3-audioconference-dialinpage-bootstrap-service.msit-wus.ic3-audioconference-dialinpage.westus-msit.cosmic.office.net
 ic3-audioconference-dialinpage-bootstrap-service.prod-asea.ic3-audioconference-dialinpage.eastasia-prod.cosmic.office.net
 ic3-audioconference-dialinpage-bootstrap-service.prod-asse.ic3-audioconference-dialinpage.southeastasia-prod.cosmic.office.net
+ic3-audioconference-dialinpage-bootstrap-service.prod-auea.ic3-audioconference-dialinpage.australiaeast-prod.cosmic.office.net
 ic3-audioconference-dialinpage-bootstrap-service.prod-cus.ic3-audioconference-dialinpage.centralus-prod.cosmic.office.net
 ic3-audioconference-dialinpage-bootstrap-service.prod-neu.ic3-audioconference-dialinpage.norwaywest-prod.cosmic.office.net
+ic3-audioconference-dialinpage-bootstrap-service.prod-polc.ic3-audioconference-dialinpage.polandcentral-prod.cosmic.office.net
+ic3-audioconference-dialinpage-bootstrap-service.prod-spac.ic3-audioconference-dialinpage.spaincentral-prod.cosmic.office.net
 ic3-audioconference-dialinpage-bootstrap-service.prod-weu.ic3-audioconference-dialinpage.francesouth-prod.cosmic.office.net
 ic3-audioconference-dialinpage-bootstrap-service.prod-wus.ic3-audioconference-dialinpage.westus-prod.cosmic.office.net
 ic3-brb-authservice.northeurope-prod.cosmic.office.net
@@ -104932,6 +104951,7 @@ staging-cloudbuild.europe-north1.rep.mtls.sandbox.googleapis.com
 staging-cloudbuild.us-east4.p.rep.sandbox.googleapis.com
 staging-cloudbuild.us-east4.rep.mtls.sandbox.googleapis.com
 staging-cloudbuild.us-east4.rep.sandbox.googleapis.com
+staging-cloudbuild.us-west1.p.rep.sandbox.googleapis.com
 staging-cloudconsole-pa.europe-west3.rep.sandbox.googleapis.com
 staging-cloudconsole-pa.europe-west9.rep.sandbox.googleapis.com
 staging-cloudconsole-pa.us-central1.p.rep.sandbox.googleapis.com
@@ -108894,6 +108914,7 @@ us-lax.prod.surfshark.com
 us-ltm.prod.surfshark.com
 us-mia.prod.surfshark.com
 us-ne-courier-4.push-apple.com.akadns.net
+us-ne-courier-vs.push-apple.com.akadns.net
 us-new-york-2-ca-version-2.expressnetw.com
 us-nyc.prod.surfshark.com
 us-oma.prod.surfshark.com
@@ -109002,6 +109023,7 @@ uscanadae0789100.office-task-mars.canadaeast-prod.cosmic.office.net
 uscanadae6285539.office-task-mars.canadaeast-sdf.cosmic-ppe.office.net
 usce.prod.templates.taco.teams.internal.office.com
 uscentral4751598.office-task-mars.centralus-prod.cosmic.office.net
+uschi7.ce.apple-dns.net
 uschi7.icloud-content.com
 usdal2-corpclient-vpn.apple.com
 usdal2-corpclient-vpn11.apple.com
@@ -109298,15 +109320,21 @@ userstatus.store.office.com
 userstorage.aueprod1.m365-copilot-userstorage.australiaeast-prod.cosmic.office.net
 userstorage.brsprod1.m365-copilot-userstorage.brazilsouth-prod.cosmic.office.net
 userstorage.cinprod1.m365-copilot-userstorage.centralindia-prod.cosmic.office.net
+userstorage.cinprod2.m365-copilot-userstorage.centralindia-prod.cosmic.office.net
+userstorage.cinprod3.m365-copilot-userstorage.centralindia-prod.cosmic.office.net
 userstorage.cintest1.m365-copilot-userstorage.centralindia-test.cosmic-int.office.net
 userstorage.eus2prod1.m365-copilot-userstorage.eastus2-prod.cosmic.office.net
+userstorage.eus2prod2.m365-copilot-userstorage.eastus2-prod.cosmic.office.net
+userstorage.eus2prod3.m365-copilot-userstorage.eastus2-prod.cosmic.office.net
 userstorage.eusprod1.m365-copilot-userstorage.eastus-prod.cosmic.office.net
 userstorage.frcmsit1.m365-copilot-userstorage.francecentral-msit.cosmic.office.net
 userstorage.frcprod1.m365-copilot-userstorage.francecentral-prod.cosmic.office.net
 userstorage.frcsdf1.m365-copilot-userstorage.francecentral-sdf.cosmic-ppe.office.net
 userstorage.jpeprod1.m365-copilot-userstorage.japaneast-prod.cosmic.office.net
+userstorage.jpeprod2.m365-copilot-userstorage.japaneast-prod.cosmic.office.net
 userstorage.jpwmsit1.m365-copilot-userstorage.japanwest-msit.cosmic.office.net
 userstorage.jpwprod1.m365-copilot-userstorage.japanwest-prod.cosmic.office.net
+userstorage.jpwprod2.m365-copilot-userstorage.japanwest-prod.cosmic.office.net
 userstorage.jpwsdf1.m365-copilot-userstorage.japanwest-sdf.cosmic-ppe.office.net
 userstorage.krcmsit1.m365-copilot-userstorage.koreacentral-msit.cosmic.office.net
 userstorage.krcprod1.m365-copilot-userstorage.koreacentral-prod.cosmic.office.net
@@ -109346,6 +109374,8 @@ userstorage.m365-copilot-userstorage.westus2-test.cosmic-int.office.net
 userstorage.m365-copilot-userstorage.westus3-msit.cosmic.office.net
 userstorage.m365-copilot-userstorage.westus3-prod.cosmic.office.net
 userstorage.ncusprod1.m365-copilot-userstorage.northcentralus-prod.cosmic.office.net
+userstorage.ncusprod2.m365-copilot-userstorage.northcentralus-prod.cosmic.office.net
+userstorage.ncusprod3.m365-copilot-userstorage.northcentralus-prod.cosmic.office.net
 userstorage.ncussdf1.m365-copilot-userstorage.northcentralus-sdf.cosmic-ppe.office.net
 userstorage.ncustest1.m365-copilot-userstorage.northcentralus-test.cosmic-int.office.net
 userstorage.neuprod1.m365-copilot-userstorage.northeurope-prod.cosmic.office.net
@@ -109359,6 +109389,7 @@ userstorage.wcusprod1.m365-copilot-userstorage.westcentralus-prod.cosmic.office.
 userstorage.weuprod1.m365-copilot-userstorage.westeurope-prod.cosmic.office.net
 userstorage.wus2msit1.m365-copilot-userstorage.westus2-msit.cosmic.office.net
 userstorage.wus2prod1.m365-copilot-userstorage.westus2-prod.cosmic.office.net
+userstorage.wus2prod2.m365-copilot-userstorage.westus2-prod.cosmic.office.net
 userstorage.wus2sdf1.m365-copilot-userstorage.westus2-sdf.cosmic-ppe.office.net
 userstorage.wus2test1.m365-copilot-userstorage.westus2-test.cosmic-int.office.net
 userstorage.wus3msit1.m365-copilot-userstorage.westus3-msit.cosmic.office.net
